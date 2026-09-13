@@ -308,12 +308,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Le jeu de l'hiver 2026/2027
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : pluviomètre noir : incidence sur la température ?
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : pluviomètre noir : incidence sur la température ?
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Bugs sur Infoclimat #2
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 13/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -321,23 +321,16 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 13 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique exceptionnellement durable, temps sec et chaud pour la saison, entrecoupé d'un bref rafraîchissement en milieu de semaine 1..
+Résumé général précédent : Période du 14 au 27 septembre 2026 dominée par un temps sec et anticyclonique. Une chaleur modérée est possible en milieu puis en toute fin de période, sans signal caniculaire net..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur lundi-mardi, quelques averses possibles jeudi-vendredi, soleil le week-end. (max 120 caractères).
+Températures attendues précédemment : Temps sec et ensoleillé, quelques averses locales possibles, coup de chaud passager dans le sud..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
-Auteur: Turquoise_ExNico41
-Message:
-Il y a 2 heures, Victor hurricane tempête a dit :
-	Je n'arrive pas à voir ton illustration. Je ne vois pas de message
-
-=======================
-
 Auteur: bernardt60
 Message:
 Et puis tant qu'il ne passe rien de côté là pour donner un coup de pouce à de l'agitation sur  l'Atlantique:
-								2
+								3
 
 =======================
 
@@ -352,7 +345,7 @@ Message:
 On est loin d'avoir un défilé de perturbation en effet, à perte de vue 🥲..
 	On n'est pas si loin en revanche d'avoir de temps à autre une petite perturbation, bien humide...
 	On a vraiment une bataille entre HG et cyclogenès au sud du groenland. Une cyclogenèse un peu plus forte et vaste, et on peut toucher le jackpot. Sur les ensemblistes, ces scénarios restent minoritaires mais ils sont tout de même pas loin (entre 1/4 et 1/3 des scénarios). Une maigre consolation.. si tant est qu'elle advienne.
-								6
+								7
 								1
 
 =======================
@@ -361,7 +354,7 @@ Auteur: Virgile
 Message:
 Hors topic mais les modèles convergent avec des signaux importants d'un nouvel épisode de chaleur en fin de mois (On ne parlerait pas de canicule vu la saison).
 								3
-								8
+								9
 								2
 
 =======================
@@ -421,7 +414,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	Modifié hier à 17:42 par giec 2100
 								3
 								1
-								4
+								5
 								1
 
 =======================
@@ -434,6 +427,7 @@ Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce s
 	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
 	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
 	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud. 
+								2
 								1
 
 =======================
@@ -455,7 +449,7 @@ Il y a 18 heures, giec 2100 a dit :
 			comme le naufragé on se raccroche à ce qu'on trouve...
 	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
 	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
-								2
+								3
 								2
 
 =======================
@@ -466,7 +460,7 @@ il y a une heure, babe a dit :
 			« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
 			chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
 	Par contre, on peut souffrir de la chaleur qu'on soit en Septembre ou Juillet s'il fait 35°C comme c'est prévu dans le SO lundi/mardi, notamment quand on travaille en extérieur ou dans des pièces surchauffées... Même si les matinées et nuits sont plus fraîches. 
-								5
+								6
 								1
 
 =======================
@@ -476,7 +470,7 @@ Message:
 Bonjour.
 	Je suis d'accord sur le faite : qu'il fasse 35 degrés début Août où mi Septembre, la valeur est la même, avec la même sensation de très chaud quand les 35 degrés sont atteint mais, je pense, que la grande différence est la durée des 35°c durant la journée. Je m'explique : début Août, cette température peut durer plusieurs heures ( de 16h à 20h30 par exemple ) alors qu'en Septembre cette même température serait atteint plus tard et se terminerait plus tôt du à un temps de soleil moins important.
 	En tout cas, ce qui reste pour moi tout aussi préoccupant voir plus, c'est le manque de précipitations.
-								2
+								3
 
 =======================
 
@@ -484,7 +478,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 5 heures par giec 2100
+	Modifié il y a 7 heures par giec 2100
 
 =======================
 
@@ -513,6 +507,16 @@ Il y a 2 heures, giec 2100 a dit :
 	Un flux de sud, en automne ne devrait pas pouvoir être si sec, en prévision comme en observation.
 								1
 
+=======================
+
+Auteur: giec 2100
+Message:
+@tao si ça te convient je te répondrais pour la fin d'échéance, dimanche 20 septembre, avec la carte de l'eau précipitable et celle des centres d'action ;
+	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
+	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
+	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
+	Modifié il y a 2 heures par giec 2100
+
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
 Auteur: tao
 Message:
@@ -523,7 +527,7 @@ Bonsoir,
 	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
 	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
 	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
-	Modifié il y a 48 minutes par tao
-								2
-								4
-								2
+	Modifié il y a 2 heures par tao
+								7
+								6
+								3
