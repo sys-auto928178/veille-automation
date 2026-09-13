@@ -15,44 +15,44 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL PARIS ET PETITE COURONNE (DEPT75) ===
-Emis le : 13/09/2026 09:30
+Emis le : 13/09/2026 12:30
 
 Vigilance :
 Aujourd'hui et demain, Paris et sa petite couronne sont en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Paris-Montsouris : température de 19 degrés, vent de secteur Ouest soufflant jusqu'à 20 km/h, pression niveau mer 1025 hPa.
-Au Jardin du Luxembourg : température de 19 degrés.
+Aujourd'hui on observait à 12h :
+A Paris-Montsouris : température de 21 degrés, vent de secteur Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1025 hPa.
+Au Jardin du Luxembourg : température de 21 degrés.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui dimanche 13 :
-La matinée est partagée entre passages nuageux et éclaircies, mais peu à peu ces dernières s'élargissent, et l'après-midi bénéficie d'un soleil généreux.
-L'après-midi jusqu'en début de soirée, établissement d'un vent d'Ouest à Nord-Ouest, souvent modéré.
-Températures maximales : entre 26 et 28 degrés.
+• Pour cet après-midi :
+Le soleil fait de belles apparitions tout au long de l'après-midi.
+Vent de Nord-Ouest modéré, à l'extérieur de Paris.
+Températures maximales : comprises entre 25 et 28 degrés.
 
 • Pour la nuit prochaine :
-La nuit commence sous un franc ciel étoilé, puis peu à peu, les nuages deviennent plus présents. Seules quelques éclaircies résistent en seconde partie de nuit.
+En soirée et début de nuit, le ciel est bien dégagé, mais après minuit les étoiles sont temporairement contestées par de nombreux nuages.
 Vent faible, variable.
-Températures minimales : 17 degrés.
+Températures minimales : entre 16 et 17 degrés.
 
 • Pour demain lundi 14 en journée et la nuit suivante :
-Au lever du jour, le ciel est très nuageux. Les nuages se désagrègent en cours de matinée pour laisser place à un temps très largement ensoleillé l'après-midi. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+Si les nuages sont prédominants en début de matinée, ils s'effacent progressivement devant un soleil de plus en plus généreux. Pour la nuit : Le ciel est clair toute la nuit.
 Vent variable, faible.
 Températures maximales pour le jour : entre 26 et 27 degrés.
-Températures minimales pour la nuit suivante : de 15 à 18 degrés.
+Températures minimales pour la nuit suivante : de 16 à 17 degrés.
 
 • Pour la journée de mardi 15 et la nuit suivante :
-Le soleil règne presque en maître du matin au soir, seuls quelques passages nuageux le contrarient un peu en fin de journée. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
-En fin d'après-midi et la nuit suivante, établissement d'un vent d'Ouest à Nord-Ouest, modéré.
-Températures maximales pour le jour : de 29 à 31 degrés. Ces températures sont au-dessus des valeurs de saison, localement bien au-dessus.
+Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+L'après-midi et une grande partie de la nuit suivante, vent s'établissant au secteur Ouest, modéré ; puis atténuation.
+Températures maximales pour le jour : de 31 à 32 degrés. Ces températures se situent bien au-dessus des valeurs de saison.
 Températures minimales pour la nuit suivante : 14 degrés.
 
 • Pour la journée de mercredi 16 :
-Le soleil est généreux tout au long de la journée.
-Vent modéré, d'Ouest à Nord-Ouest.
-Températures maximales : comprises entre 22 et 24 degrés.
+Le temps est ensoleillé du matin au soir.
+Vent d'Ouest à Nord-Ouest, modéré.
+Températures maximales : comprises entre 22 et 23 degrés.
 
 • Pour jeudi 17 et vendredi 18 :
 Ciel nuageux s'éclaircissant par moments ; risque de pluie ou d'averses de jeudi matin jusqu'au milieu de nuit suivante et de vendredi matin jusqu'à la mi-journée.
@@ -73,44 +73,44 @@ Températures minimales : identiques à la veille.
 Températures maximales : en hausse.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 13/09/2026 09:30
+Emis le : 13/09/2026 12:30
 
 Vigilance :
 Aujourd'hui et demain, le département des Bouches-du-Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Marignane : température de 18 degrés, vent de secteur Sud-Est soufflant jusqu'à 10 km/h, pression niveau mer 1022 hPa.
-A Aix-en-Provence : température de 18 degrés, vent variable faible.
+Aujourd'hui on observait à 12h :
+A Marignane : température de 24 degrés, vent de secteur Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1023 hPa.
+A Aix-en-Provence : température de 28 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui dimanche 13 :
-L'ensoleillement est excellent et le soleil règne sans partage.
-Petit vent d'Ouest à Sud-Ouest généralement faible.
-Températures maximales : comprises entre 30 et 31 degrés, et comprises entre 26 et 27 degrés sur la Camargue et les Calanques.
+• Pour cet après-midi :
+L'après-midi est ensoleillée, avec tout au plus quelques nuages très discrets.
+Petit vent de Sud-Ouest généralement faible.
+Températures maximales : comprises entre 28 et 31 degrés, et 25 degrés à Marseille et dans les Calanques.
 
 • Pour la nuit prochaine :
-Le temps est calme et propice à l'observation des étoiles.
-Vent faible dans l'ensemble.
-Températures minimales : du Rhône à l'étang de Berre et autour de Marseille entre 16 et 19 degrés. De 11 à 13 degrés entre Peyrolles Aix et Aubagne.
+Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+Vent de Nord assez faible.
+Températures minimales : du Rhône à l'étang de Berre et jusqu'aux Calanques 17 degrés. Entre 12 et 13 degrés entre Aix Aubagne et Jouques.
 
 • Pour demain lundi 14 en journée et la nuit suivante :
-Le soleil règne en maître du matin au soir. Pour la nuit : Le ciel est bien étoilé.
-En début d'après-midi, vent s'établissant au Nord assez fort, de Châteaurenard à Salon ; puis atténuation.
-Températures maximales pour le jour : entre 29 et 32 degrés.
-Températures minimales pour la nuit suivante : de 14 à 17 degrés, et de 18 à 19 degrés sur la Camargue et les Calanques.
+Le temps est ensoleillé du matin au soir. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+Vent généralement faible.
+Températures maximales pour le jour : entre 29 et 32 degrés, et 27 degrés de Marseille à La Ciotat.
+Températures minimales pour la nuit suivante : du Rhône à Aix et à Marseille de 16 à 19 degrés. 14 degrés sur le val de Durance et la Sainte Baume.
 
 • Pour la journée de mardi 15 et la nuit suivante :
-La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : La nuit est étoilée. Notons cependant que des brumes se forment après minuit, des Alpilles au golfe de Fos.
-Vent de Sud-Ouest assez faible.
-Températures maximales pour le jour : de 28 à 31 degrés.
-Températures minimales pour la nuit suivante : du Rhône à Aix et à Marseille comprises entre 16 et 19 degrés. 14 degrés sur le val de Durance et la Sainte Baume.
+Le soleil règne en maître du matin au soir. Pour la nuit : La nuit est étoilée. Notons cependant que des brumes se forment après minuit, des Alpilles au golfe de Fos.
+Vent faible d'Ouest à Sud-Ouest.
+Températures maximales pour le jour : entre 29 et 32 degrés, et 28 degrés sur la Camargue et les Calanques.
+Températures minimales pour la nuit suivante : du Rhône à Aix et à Marseille de 16 à 19 degrés. 14 degrés sur le val de Durance et la Sainte Baume.
 
 • Pour la journée de mercredi 16 :
-Le soleil brille sans discontinuer du matin jusqu'au soir.
-En fin d'après-midi, vent s'établissant au secteur Nord-Ouest assez fort, d'Arles au Golfe de Fos. Avec des rafales atteignant 55 km/h.
-Températures maximales : entre 29 et 31 degrés.
+Le soleil est généreux tout au long de la journée.
+En cours d'après-midi, vent s'orientant Ouest à Nord-Ouest assez fort, d'Arles au Golfe de Fos ; atténuation ensuite. Rafales atteignant 55 km/h.
+Températures maximales : de 28 à 31 degrés.
 
 • Pour jeudi 17 et vendredi 18 :
 Le soleil brille sans partage.
@@ -131,45 +131,45 @@ Températures minimales : en hausse de la Sainte Victoire au val de Durance.
 Températures maximales : stationnaires.
 
 === BULLETIN DÉPARTEMENTAL GIRONDE (DEPT33) ===
-Emis le : 13/09/2026 09:30
+Emis le : 13/09/2026 12:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Gironde est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Bordeaux : température de 18 degrés, vent de secteur Nord-Est soufflant jusqu'à 5 km/h, pression niveau mer 1025 hPa.
-Au Cap-Ferret : température de 21 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 15 km/h.
-A Libourne : température de 15 degrés, vent variable faible.
+Aujourd'hui on observait à 12h :
+A Bordeaux : température de 27 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 15 km/h, pression niveau mer 1026 hPa.
+Au Cap-Ferret : température de 26 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 10 km/h.
+A Libourne : température de 27 degrés, vent de secteur Sud-Est soufflant jusqu'à 10 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui dimanche 13 :
-Le soleil règne presque en maître du matin au soir, seuls quelques passages nuageux le contrarient un peu en fin de journée.
-L'après-midi jusqu'en début de soirée, établissement d'un vent de Nord à Nord-Ouest, modéré par endroits.
+• Pour cet après-midi :
+Le soleil est quasi-omniprésent. Par contre, des nuages élevés apparaissent en cours d'après-midi, sur le Libournais ainsi que sur l'Ouest du département.
+Vent de Nord à Nord-Ouest modéré, sur le bord de mer.
 Températures maximales : comprises entre 28 et 31 degrés.
 
 • Pour la nuit prochaine :
 Le ciel est bien étoilé, après la disparition des quelques nuages présents en soirée.
-En début de nuit, vent de Nord modéré, sur le littoral ; atténuation ensuite.
-Températures minimales : entre 12 et 15 degrés, et 16 degrés sur l'agglomération bordelaise.
+En début de nuit, vent de Nord, localement modéré ; ensuite atténuation.
+Températures minimales : voisines de 11 à 14 degrés, et 16 degrés sur l'agglomération bordelaise.
 
 • Pour demain lundi 14 en journée et la nuit suivante :
-La journée est belle, le soleil est largement présent. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
-L'après-midi et en début de nuit, vent s'établissant au Nord à Nord-Ouest modéré, sur le bord de mer ; puis atténuation.
-Températures maximales pour le jour : comprises entre 31 et 34 degrés. Ces températures sont au-dessus des valeurs normalement observées, par endroits bien au-dessus.
-Températures minimales pour la nuit suivante : de 13 à 16 degrés, et 17 degrés sur l'agglomération bordelaise.
+Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+L'après-midi jusqu'en début de soirée, vent s'établissant au Nord à Nord-Ouest modéré, sur le bord de mer ; puis atténuation.
+Températures maximales pour le jour : de 31 à 34 degrés. Ces températures se situent au-dessus des valeurs de saison, par endroits bien au-dessus.
+Températures minimales pour la nuit suivante : de 14 à 17 degrés, et 12 degrés sur les Landes girondines.
 
 • Pour la journée de mardi 15 et la nuit suivante :
-Le soleil domine largement du matin au soir. Pour la nuit : Le ciel est bien étoilé.
-Une grande partie de la nuit, vent s'orientant Ouest à Nord-Ouest assez fort, sur le bord de mer ; atténuation ensuite.
-Températures maximales pour le jour : entre 32 et 35 degrés, et voisines de 25 à 28 degrés sur le bord de mer.
-Températures minimales pour la nuit suivante : comprises entre 15 et 18 degrés.
+La journée est belle, le soleil est largement présent. Pour la nuit : Le ciel est clair toute la nuit.
+Etablissement, une grande partie de la nuit, d'un vent d'Ouest à Nord-Ouest assez fort, sur le bord de mer ; atténuation ensuite.
+Températures maximales pour le jour : entre 32 et 35 degrés, et autour de 24 à 27 degrés sur le bord de mer.
+Températures minimales pour la nuit suivante : comprises entre 14 et 16 degrés, et 18 degrés sur le littoral.
 
 • Pour la journée de mercredi 16 :
 La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
 Vent de Nord-Ouest, modéré.
-Températures maximales : de 22 à 25 degrés, et 19 degrés sur le littoral.
+Températures maximales : comprises entre 23 et 25 degrés, et 20 degrés sur le littoral.
 
 • Pour jeudi 17 et vendredi 18 :
 Risque de pluie ou d'averses jusqu'à vendredi à la mi-journée.
@@ -190,44 +190,45 @@ Températures minimales : similaires à la veille.
 Températures maximales : en hausse sur le Sud-Est du département.
 
 === BULLETIN DÉPARTEMENTAL RHÔNE (DEPT69) ===
-Emis le : 13/09/2026 09:30
+Emis le : 13/09/2026 12:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-Aux Sauvages : température de 19 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 20 km/h.
-A Brindas : température de 17 degrés.
+Aujourd'hui on observait à 12h :
+A Lyon : température de 24 degrés, vent de secteur Nord soufflant jusqu'à 10 km/h, pression niveau mer 1025 hPa.
+Aux Sauvages : température de 23 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 30 km/h.
+A Brindas : température de 25 degrés.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui dimanche 13 :
-L'ensoleillement est globalement excellent. Seuls quelques rares nuages apparaissent temporairement, sauf en région lyonnaise.
-Etablissement, en cours d'après-midi, d'un vent de Nord modéré, en région lyonnaise ; atténuation ensuite.
+• Pour cet après-midi :
+Les nuages présents à la mi-journée se font de plus en plus discrets au fil du temps.
+En cours d'après-midi, vent de Nord modéré, sur l'Est-Lyonnais ; atténuation ensuite.
 Températures maximales : comprises entre 26 et 29 degrés.
 
 • Pour la nuit prochaine :
-Le ciel est bien étoilé.
+La nuit est belle, le plus souvent très étoilée. Quelques nuages circulent ça et là en fin de nuit.
 Vent faible, variable.
-Températures minimales : voisines de 13 à 16 degrés, et 11 degrés dans les monts du Lyonnais.
+Températures minimales : voisines de 12 à 15 degrés, et 16 degrés dans le Beaujolais.
 
 • Pour demain lundi 14 en journée et la nuit suivante :
-Le soleil règne en maître du matin au soir. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
-En journée, vent de Nord à Nord-Est généralement, modéré ; puis faiblissant.
-Températures maximales pour le jour : comprises entre 27 et 30 degrés.
-Températures minimales pour la nuit suivante : entre 12 et 15 degrés.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : Le ciel est clair toute la nuit.
+Vent de Nord à Nord-Est, généralement modéré, en journée ; puis atténuation.
+Températures maximales pour le jour : entre 28 et 31 degrés. Ces températures se situent au-dessus des valeurs de saison.
+Températures minimales pour la nuit suivante : entre 12 et 15 degrés, et 16 degrés en agglomération lyonnaise.
 
 • Pour la journée de mardi 15 et la nuit suivante :
-Le soleil est généreux tout au long de la journée. Pour la nuit : Le ciel est clair toute la nuit.
+Le soleil est généreux tout au long de la journée. Pour la nuit : Le ciel est bien étoilé.
 En début de nuit, vent de Sud, modéré en agglomération lyonnaise ; en fin de nuit, reprise du vent par endroits, avec orientation à l'Ouest à Nord-Ouest.
-Températures maximales pour le jour : entre 29 et 32 degrés, et 28 degrés dans le Beaujolais. Ces températures sont au-dessus des valeurs de saison, localement bien au-dessus.
-Températures minimales pour la nuit suivante : de 15 à 18 degrés, et 14 degrés dans les monts du Lyonnais.
+Températures maximales pour le jour : de 29 à 31 degrés. Ces températures se situent localement très au-dessus des valeurs de saison.
+Températures minimales pour la nuit suivante : comprises entre 15 et 18 degrés, et 14 degrés dans les monts du Lyonnais.
 
 • Pour la journée de mercredi 16 :
-La journée est très ensoleillée, mis à part en fin de matinée, quand quelques nuages se forment, des monts du Lyonnais à Givors ainsi qu'en région lyonnaise. Ils se dissipent heureusement rapidement.
+Le soleil brille généreusement toute la journée. Des nuages sont toutefois présents en matinée au confluent Brévenne Turdine Azergues, sur le relief ainsi qu'en zone de plaine.
 Vent de Nord-Ouest, modéré.
-Températures maximales : de 21 à 24 degrés, et 20 degrés dans les monts du Lyonnais.
+Températures maximales : comprises entre 21 et 24 degrés, et 20 degrés dans les monts du Lyonnais.
 
 • Pour jeudi 17 et vendredi 18 :
 Dans le Beaujolais, sur les coteaux du Lyonnais ainsi qu'en Val de Saône, temps pluvieux de vendredi matin jusqu'à la mi-journée. Sur les autres régions, soleil prédominant.
@@ -248,46 +249,46 @@ Températures minimales : en hausse sauf en agglomération lyonnaise.
 Températures maximales : en hausse en Val de Saône, en agglomération lyonnaise, au confluent Brévenne Turdine Azergues ainsi que des monts du Lyonnais à Givors.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 13/09/2026 09:30
+Emis le : 13/09/2026 12:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Toulouse-Blagnac : température de 15 degrés, vent de secteur Sud-Est soufflant jusqu'à 5 km/h, pression niveau mer 1025 hPa.
-A Luchon : température de 9 degrés, vent de secteur Nord soufflant jusqu'à 5 km/h.
-A Saint-Félix-Lauragais : température de 18 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 10 km/h.
+Aujourd'hui on observait à 12h :
+A Toulouse-Blagnac : température de 25 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1024 hPa.
+A Luchon : température de 23 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 10 km/h.
+A Saint-Félix-Lauragais : température de 24 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui dimanche 13 :
-Le temps est ensoleillé du matin au soir.
+• Pour cet après-midi :
+Le soleil règne en maître tout l'après-midi.
 Vent faible, variable.
-Températures maximales : entre 28 et 31 degrés.
+Températures maximales : sur la plaine et le piémont de 30 à 31 degrés. 27 degrés sur le Cagire et le Luchonnais.
 
 • Pour la nuit prochaine :
-Le temps est calme et propice à l'observation des étoiles.
+Les rares nuages présents n'empêchent nullement l'observation des étoiles.
 Vent variable, faible.
-Températures minimales : sur la plaine et le piémont entre 11 et 14 degrés. 8 degrés sur le Cagire et le Luchonnais.
+Températures minimales : sur le Midi Toulousain de 12 à 15 degrés. Comprises entre 8 et 11 degrés sur le piémont et la montagne.
 
 • Pour demain lundi 14 en journée et la nuit suivante :
-Le soleil brille sans interruption. Pour la nuit : Quelques nuages en soirée, puis la nuit est claire.
-En milieu d'après-midi, vent s'établissant au Nord-Nord-Ouest modéré, sur le Lauragais ; puis atténuation.
-Températures maximales pour le jour : de 30 à 33 degrés. Ces températures sont par endroits bien au-dessus des valeurs de saison.
-Températures minimales pour la nuit suivante : sur le Midi Toulousain de 14 à 17 degrés. Comprises entre 10 et 13 degrés sur le piémont et la montagne.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : Le ciel est clair toute la nuit.
+Vent variable, faible.
+Températures maximales pour le jour : entre 31 et 34 degrés. Ces températures se situent localement très au-dessus des valeurs de saison.
+Températures minimales pour la nuit suivante : sur la plaine et le piémont de 14 à 17 degrés. 11 degrés sur le Cagire et le Luchonnais.
 
 • Pour la journée de mardi 15 et la nuit suivante :
-Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : En soirée, la nuit est claire. Progressivement, les nuages arrivent. Des pluies sont possibles sur le Cagire et le Luchonnais en fin de nuit.
-Vent modéré sur la plaine et le piémont, de Sud-Est, en fin de matinée ; et d'Ouest à Nord-Ouest, en fin d'après-midi et la nuit suivante.
-Températures maximales pour le jour : comprises entre 31 et 34 degrés.
-Températures minimales pour la nuit suivante : sur la plaine et le piémont entre 16 et 18 degrés. 13 degrés sur le Cagire et le Luchonnais.
+Le temps est ensoleillé du matin au soir. Pour la nuit : En soirée, la nuit est claire. Progressivement, les nuages arrivent. Des pluies sont possibles sur le Cagire et le Luchonnais en fin de nuit.
+Vent de Sud-Est, faible à modéré, en fin de matinée, sur la plaine et le piémont ; après une atténuation, reprise du vent, en fin d'après-midi et la nuit suivante, avec orientation à l'Ouest à Nord-Ouest.
+Températures maximales pour le jour : comprises entre 32 et 35 degrés.
+Températures minimales pour la nuit suivante : sur la plaine et le piémont comprises entre 15 et 18 degrés. 13 degrés sur le Cagire et le Luchonnais.
 
 • Pour la journée de mercredi 16 :
-De nombreux nuages encombrent le ciel en matinée et peuvent même donner quelques gouttes dans le Volvestre ainsi que sur le piémont et la montagne. L'après-midi, le temps devient plus changeant, éclaircies et passages nuageux se disputent le ciel. Les nuages sont inoffensifs.
-Le maximum de pluie attendu est de l'ordre de 5 millimètres sur le Cagire et le Luchonnais.
+Le ciel est bien nuageux tout au long de la journée. De plus, au lever du jour, des pluies éparses sont attendues dans le Volvestre ainsi que sur le piémont et la montagne. Si on note une accalmie en cours de matinée au niveau des précipitations, en début d'après-midi il faut alors composer avec quelques averses. La limite pluie-neige s'abaisse, et de la neige apparaît au-dessus de 3100 mètres en début d'après-midi.
+Les plus forts cumuls de pluie peuvent avoisiner 5 millimètres sur le Cagire et le Luchonnais.
 Vent d'Ouest à Nord-Ouest modéré, sur la plaine et le piémont.
-Températures maximales : sur le Midi Toulousain comprises entre 23 et 25 degrés. Entre 18 et 21 degrés sur le piémont et la montagne.
+Températures maximales : sur la plaine et le piémont entre 22 et 25 degrés. 17 degrés sur le Cagire et le Luchonnais. Ces températures sont par endroits très au-dessous des valeurs de saison.
 
 • Pour jeudi 17 et vendredi 18 :
 Dans l'Agglomération toulousaine, sur le Cagire et le Luchonnais ainsi qu'au sud-ouest du département, temps plutôt ensoleillé, en dépit de quelques passages nuageux. Risque de brume localement jusqu'au petit matin de jeudi, risque de pluie de vendredi matin jusqu'en début de nuit. Sur les autres régions, temps largement ensoleillé.
@@ -315,13 +316,12 @@ FQCT40 LFML 130950 Origine Météo-France . Bulletin côtier pour la bande des 2
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (J+2 et J+3) :
-J+2 et J+3 ﻿Pas de phénomène météorologique dangereux prévu pour 
-ces deux jours.
+J+2 et J+3 ﻿Pas de risque de vigilance orange sur ces deux jours, malgré 
+quelques orages isolés possibles sur le nord-est dans la nuit 
+de mardi à mercredi.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (De J+4 à J+7) :
-De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu de 
-mercredi à samedi, malgré quelques orages mercredi sur la 
-façade est du pays.
+De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 
 === RISQUE D'ORAGES & INDICES CONVECTIFS (KERAUNOS, BLITZORTUNG, METEOTEL XML) ===
 • Blitzortung / Keraunos : Détection des impacts de foudre en temps réel (Token 0). Indice de convection CAPE/LI sous surveillance.
@@ -333,12 +333,12 @@ façade est du pays.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Du 14 septembre au 20 septembre 2026 prévisions météo semaine 38
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : &#xC9;volution de l'AMOC
 • Infoclimat Direct : recherche d'un pluviomètre orgon pour ma station wmr 200
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 13/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -346,34 +346,14 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 13 Septembre 2026.
-Résumé général précédent : Anticyclone dominant, temps sec et souvent chaud avec une brève parenthèse fraîche du 16 au 18, puis nouvelle pulsion chaude à partir du 21. Précipitations très faibles à nulles sur la majeure partie du pays..
+Résumé général précédent : Anticyclone dominant, temps sec et souvent chaud sur la France du 14 au 27 septembre. Brève parenthèse plus fraîche du 16 au 18, puis nouvelle pulsion chaude probable à partir du 21. Précipitations très faibles à nulles sur la majeure partie du pays..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : "Chaleux en début, fraîchir mi-semaine, retour de la chaleur en fin de semaine.".
+Températures attendues précédemment : Soleil durable, coup de chaud lundi-mardi, fraîchissement mercredi-jeudi, hausse des températures samedi-dimanche..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
 Auteur: Banleve7519
 Message:
-Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
-	J’ai trouvé une bonne analogie avec ce qu’on est en train de vivre, septembre 1997:
-	Moyenne de l’ensemble européen pour le 16 septembre:
-								3
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a 11 minutes, Banleve7519 a dit :
-			Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
-			J’ai trouvé une bonne analogie avec ce qu’on est en train de vivre, septembre 1997:
-			Moyenne de l’ensemble européen pour le 16 septembre:
-	Oui mais il y avait une différence de taille : on sortait d'un mois d'août à plus de 100 mm sur Paris par exemple. Là ce qui est ennuyeux, c'est la durée de l'épisode de sécheresse et le fait qu'on ne voit pas de porte de sortie. Et même s'il se remettait à pleuvoir demain, il faudrait déjà que les sols se réhumidifient (quelques semaines selon les sols, que la végétation - enfin celle qui est encore vivante - prenne ce dont elle a besoin avant que ça n'arrive aux nappes largement vidangées. Cette année est un véritable enfer et j'espère qu'on va en sortir.
-								5
-
-=======================
-
-Auteur: Banleve7519
-Message:
 il y a 30 minutes, nickdu77 a dit :
 			Oui mais il y avait une différence de taille : on sortait d'un mois d'août à plus de 100 mm sur Paris par exemple. Là ce qui est ennuyeux, c'est la durée de l'épisode de sécheresse et le fait qu'on ne voit pas de porte de sortie. Et même s'il se remettait à pleuvoir demain, il faudrait déjà que les sols se réhumidifient (quelques semaines selon les sols, que la végétation - enfin celle qui est encore vivante - prenne ce dont elle a besoin avant que ça n'arrive aux nappes largement vidangées. Cette année est un véritable enfer et j'espère qu'on va en sortir.
 	Bien sûr, l’année 1997 avait globalement rien à voir et la végétation se portait certainement plutôt bien en septembre 1997, malgré un mois d’août chaud (les mois précédents étaient frais et humides). Mais je voulais souligner la similitude au niveau synoptique avec ce qu’on vit actuellement, un rail dépressionnaire qui circule bien trop au nord et cette impression d’avoir une succession de patates depuis l’Atlantique sur la France. 
@@ -530,7 +510,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								1
 								4
@@ -546,30 +526,30 @@ Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce s
 	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
 	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
 	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
+
+=======================
+
+Auteur: Plancher
+Message:
+Pic de chaleur lundi/mardi puis baisse des températures. Ça semble assez calé.
+	Quid du prochain topic ? Les modèles ne semblent pas d'accord. Hâte de lire l'avis des spécialistes sur le sujet.
+
+=======================
+
+Auteur: babe
+Message:
+Il y a 18 heures, giec 2100 a dit :
+			sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante dorsale anticyclonique recouvrant le pays en fin d'échéance, dimanche 20 septembre 2026...
+			le flux de S à SE associé aux très hauts géopotentiels nous installerait dans une énième pulsion chaude...
+			il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
+			l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
+			comme le naufragé on se raccroche à ce qu'on trouve...
+	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
+	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
 Auteur: Banleve7519
 Message:
-Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
-	J’ai trouvé une bonne analogie avec ce qu’on est en train de vivre, septembre 1997:
-	Moyenne de l’ensemble européen pour le 16 septembre:
-								3
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a 11 minutes, Banleve7519 a dit :
-			Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
-			J’ai trouvé une bonne analogie avec ce qu’on est en train de vivre, septembre 1997:
-			Moyenne de l’ensemble européen pour le 16 septembre:
-	Oui mais il y avait une différence de taille : on sortait d'un mois d'août à plus de 100 mm sur Paris par exemple. Là ce qui est ennuyeux, c'est la durée de l'épisode de sécheresse et le fait qu'on ne voit pas de porte de sortie. Et même s'il se remettait à pleuvoir demain, il faudrait déjà que les sols se réhumidifient (quelques semaines selon les sols, que la végétation - enfin celle qui est encore vivante - prenne ce dont elle a besoin avant que ça n'arrive aux nappes largement vidangées. Cette année est un véritable enfer et j'espère qu'on va en sortir.
-								5
-
-=======================
-
-Auteur: Banleve7519
-Message:
 il y a 30 minutes, nickdu77 a dit :
 			Oui mais il y avait une différence de taille : on sortait d'un mois d'août à plus de 100 mm sur Paris par exemple. Là ce qui est ennuyeux, c'est la durée de l'épisode de sécheresse et le fait qu'on ne voit pas de porte de sortie. Et même s'il se remettait à pleuvoir demain, il faudrait déjà que les sols se réhumidifient (quelques semaines selon les sols, que la végétation - enfin celle qui est encore vivante - prenne ce dont elle a besoin avant que ça n'arrive aux nappes largement vidangées. Cette année est un véritable enfer et j'espère qu'on va en sortir.
 	Bien sûr, l’année 1997 avait globalement rien à voir et la végétation se portait certainement plutôt bien en septembre 1997, malgré un mois d’août chaud (les mois précédents étaient frais et humides). Mais je voulais souligner la similitude au niveau synoptique avec ce qu’on vit actuellement, un rail dépressionnaire qui circule bien trop au nord et cette impression d’avoir une succession de patates depuis l’Atlantique sur la France. 
@@ -726,7 +706,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								1
 								4
@@ -742,3 +722,23 @@ Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce s
 	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
 	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
 	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
+
+=======================
+
+Auteur: Plancher
+Message:
+Pic de chaleur lundi/mardi puis baisse des températures. Ça semble assez calé.
+	Quid du prochain topic ? Les modèles ne semblent pas d'accord. Hâte de lire l'avis des spécialistes sur le sujet.
+
+=======================
+
+Auteur: babe
+Message:
+Il y a 18 heures, giec 2100 a dit :
+			sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante dorsale anticyclonique recouvrant le pays en fin d'échéance, dimanche 20 septembre 2026...
+			le flux de S à SE associé aux très hauts géopotentiels nous installerait dans une énième pulsion chaude...
+			il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
+			l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
+			comme le naufragé on se raccroche à ce qu'on trouve...
+	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
+	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point.
