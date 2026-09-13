@@ -327,12 +327,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Sport en vrac...
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : &#xC9;volution de l'AMOC
-• Infoclimat Direct : recherche d'un pluviomètre orgon pour ma station wmr 200
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 13/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,21 +340,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 13 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France restent dominés par des hautes pressions, avec un temps sec, ensoleillé et plus chaud que la normale. Un rafraîchissement temporaire est possible en milieu de semaine 1, mais il ne devrait pas apporter de pluies significatives. La sécheresse se poursuit et s'accentue..
+Résumé général HDF précédent : Sur les 15 prochains jours (14-27 septembre), les Hauts-de-France restent sous l'influence dominante d'un puissant anticyclone, avec un temps sec, ensoleillé et plus chaud que la normale. Un rafraîchissement temporaire est attendu en milieu de semaine 1 (mercredi-vendredi), mais il ne devrait pas apporter de pluies significatives. En semaine 2, la tendance est à une nouvelle pulsion chaude, avec des températures qui pourraient dépasser 25°C, voire 28°C localement. La sécheresse s'accentue, et aucun épisode pluvieux majeur n'est en vue pour la région..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et très doux lundi-mardi, puis plus frais et instable de mercredi à vendredi, avant un retour du beau temps..
+Températures attendues précédemment : Temps sec et assez chaud lundi-mardi, puis plus frais et instable mercredi-vendredi avec averses possibles..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
-Auteur: Banleve7519
-Message:
-il y a 30 minutes, nickdu77 a dit :
-			Oui mais il y avait une différence de taille : on sortait d'un mois d'août à plus de 100 mm sur Paris par exemple. Là ce qui est ennuyeux, c'est la durée de l'épisode de sécheresse et le fait qu'on ne voit pas de porte de sortie. Et même s'il se remettait à pleuvoir demain, il faudrait déjà que les sols se réhumidifient (quelques semaines selon les sols, que la végétation - enfin celle qui est encore vivante - prenne ce dont elle a besoin avant que ça n'arrive aux nappes largement vidangées. Cette année est un véritable enfer et j'espère qu'on va en sortir.
-	Bien sûr, l’année 1997 avait globalement rien à voir et la végétation se portait certainement plutôt bien en septembre 1997, malgré un mois d’août chaud (les mois précédents étaient frais et humides). Mais je voulais souligner la similitude au niveau synoptique avec ce qu’on vit actuellement, un rail dépressionnaire qui circule bien trop au nord et cette impression d’avoir une succession de patates depuis l’Atlantique sur la France. 
-								3
-
-=======================
-
 Auteur: nickdu77
 Message:
 il y a 6 minutes, Banleve7519 a dit :
@@ -504,8 +495,8 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 18 heures par giec 2100
-								1
+	Modifié il y a 20 heures par giec 2100
+								2
 								1
 								4
 								1
@@ -519,7 +510,8 @@ Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce s
 	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
 	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
 	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
-	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
+	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud. 
+								1
 
 =======================
 
@@ -539,18 +531,21 @@ Il y a 18 heures, giec 2100 a dit :
 			l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 			comme le naufragé on se raccroche à ce qu'on trouve...
 	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
-	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point.
+	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
+								1
+
+=======================
+
+Auteur: seb93100
+Message:
+il y a une heure, babe a dit :
+			« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
+			chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
+	Par contre, on peut souffrir de la chaleur qu'on soit en Septembre ou Juillet s'il fait 35°C comme c'est prévu dans le SO lundi/mardi, notamment quand on travaille en extérieur ou dans des pièces surchauffées... Même si les matinées et nuits sont plus fraîches. 
+								2
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Banleve7519
-Message:
-il y a 30 minutes, nickdu77 a dit :
-			Oui mais il y avait une différence de taille : on sortait d'un mois d'août à plus de 100 mm sur Paris par exemple. Là ce qui est ennuyeux, c'est la durée de l'épisode de sécheresse et le fait qu'on ne voit pas de porte de sortie. Et même s'il se remettait à pleuvoir demain, il faudrait déjà que les sols se réhumidifient (quelques semaines selon les sols, que la végétation - enfin celle qui est encore vivante - prenne ce dont elle a besoin avant que ça n'arrive aux nappes largement vidangées. Cette année est un véritable enfer et j'espère qu'on va en sortir.
-	Bien sûr, l’année 1997 avait globalement rien à voir et la végétation se portait certainement plutôt bien en septembre 1997, malgré un mois d’août chaud (les mois précédents étaient frais et humides). Mais je voulais souligner la similitude au niveau synoptique avec ce qu’on vit actuellement, un rail dépressionnaire qui circule bien trop au nord et cette impression d’avoir une succession de patates depuis l’Atlantique sur la France. 
-								3
-
-=======================
-
 Auteur: nickdu77
 Message:
 il y a 6 minutes, Banleve7519 a dit :
@@ -700,8 +695,8 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 18 heures par giec 2100
-								1
+	Modifié il y a 20 heures par giec 2100
+								2
 								1
 								4
 								1
@@ -715,7 +710,8 @@ Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce s
 	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
 	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
 	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
-	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
+	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud. 
+								1
 
 =======================
 
@@ -735,4 +731,16 @@ Il y a 18 heures, giec 2100 a dit :
 			l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 			comme le naufragé on se raccroche à ce qu'on trouve...
 	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
-	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point.
+	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
+								1
+
+=======================
+
+Auteur: seb93100
+Message:
+il y a une heure, babe a dit :
+			« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
+			chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
+	Par contre, on peut souffrir de la chaleur qu'on soit en Septembre ou Juillet s'il fait 35°C comme c'est prévu dans le SO lundi/mardi, notamment quand on travaille en extérieur ou dans des pièces surchauffées... Même si les matinées et nuits sont plus fraîches. 
+								2
+								1
