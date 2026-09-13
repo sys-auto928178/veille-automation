@@ -1,133 +1,131 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Dimanche 13 Septembre 2026
 **Période :** Semaine 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) & Semaine 2 (Du Lundi 21 au Dimanche 27 Septembre 2026
-
-⚠️ Le sujet spécifique de la Semaine 39 (du 21 au 27 septembre 2026) n'est pas encore ouvert par les membres sur le forum Infoclimat. L'analyse ci-dessous s'appuie sur les projections à long terme extraites du sujet Semaine 38 (ECMWF 15j, GFS 384h, ensembles). Aucune discussion fictive n'a été ajoutée.)
+⚠️ TRANSPARENCE : Le sujet spécifique de la Semaine 39 n'est pas encore ouvert sur le forum Infoclimat. Les analyses ci-dessous s'appuient sur les projections à long terme issues du sujet Semaine 38, avec des incertitudes fortes.)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré. — *Convergence sur le temps sec et la chaleur de fin de mois, mais divergence sur le timing et l'intensité des pluies.*
-- **Fiabilité du scénario majoritaire :** Sec et chaud prédominant. — *Le rail dépressionnaire reste trop nord, la France est protégée par un dôme anticyclonique en surface, avec un pic de chaleur possible en fin de mois.*
+- **Consensus des modèles :** Élevé — *Accord important sur la persistance du temps sec et chaud.*
+- **Fiabilité du scénario majoritaire :** Blocage anticyclonique — *Scénario dominant pour les 15 prochains jours.*
 - **Stabilité des cartes/scénarios :** 6 / 112 — *6 cartes sur 112 analysées*
-- **Niveau d'incertitude global :** Forte sur la bascule du 21-22. — *Le sujet Semaine 39 n'est pas encore ouvert, et les scénarios d'amélioration pluvieuse restent minoritaires dans les ensembles.*
+- **Niveau d'incertitude global :** Modérée — *Incertitudes sur les détails, notamment les précipitations possibles.*
 
 ## 🗓️ SEMAINE 1 : Du Lundi 14 au Dimanche 20 Septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Sécheresse persistante — Cumuls très faibles attendus, avec seulement 3,3 mm possibles à Paris jusqu'au 27/09.
-2. Rail dépressionnaire trop nord — Les perturbations circulent trop au nord, la France reste en marge du flux océanique.
-3. Chaleur de fin de mois — Les modèles évoquent un signal chaud en dernière décade, sans atteindre le stade caniculaire.
-4. Transition incertaine — Une dégradation pluvieuse est envisagée autour du 21-22 septembre, mais elle reste minoritaire.
-5. Sécheresse des sols — Le risque de sécheresse superficielle est évalué à 80% dans la matrice des risques physiques.
+1. Sécheresse persistante : Aucune précipitation significative en vue, les diagrammes restent secs jusqu'à la fin de semaine.
+2. Blocage anticyclonique : Les hautes pressions dominent durablement, empêchant toute dégradation pluvieuse.
+3. Fraîcheur relative : Un léger rafraîchissement possible en milieu de semaine, mais sans pluie associée.
+4. Chaleur en fin de mois : Les modèles convergent vers une nouvelle pulsion chaude à partir du 20 septembre.
+5. Analogies historiques : Situation comparable à septembre 1997, mais avec une sécheresse des sols plus marquée.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Convergence vers un temps sec et anticyclonique au moins jusqu'au 20 septembre.
-- Convergence sur un signal de chaleur en toute fin de mois, sans critère caniculaire.
-- Convergence sur un rail dépressionnaire trop nord, les perturbations concernant surtout le nord du pays.
+1. Persistance d'un temps sec et anticyclonique sur l'ensemble de la semaine.
+2. Températures souvent au-dessus des normales, avec un pic de chaleur en début de semaine puis un léger rafraîchissement en milieu de semaine.
+3. Absence de précipitations significatives, maintenant la sécheresse des sols.
 **Points de divergence :**
-- Divergence sur la possibilité d'une dégradation pluvieuse autour du 21-22 septembre.
-- Divergence sur l'intensité de la chaleur de fin de mois (matrice des risques : vague de chaleur forte à 70%).
-- Divergence sur la persistance de la sécheresse au-delà de septembre.
+1. Intensité du rafraîchissement en milieu de semaine (CEP plus prononcé que GFS).
+2. Possibilité d'une petite perturbation vers le 21-22, présente dans certains scénarios mais minoritaire.
+3. Degré de chaleur en fin de semaine : certains modèles voient une remontée plus marquée que d'autres.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS** (Documenté) | Maintien d'un temps sec et anticyclonique, rail dépressionnaire trop nord, précipitations très faibles (3,3 mm à Paris d'ici le 27/09 sur le run du 11/09 06Z). | Temps sec, ensoleillé, chaleur modérée, quelques gouttes possibles uniquement sur le nord du pays. | Ensemble du pays, notamment nord et centre. | Modérée (65%) | Cumul de 3,3 mm à Montsouris sur la projection GFS. Scénario très sec, mais quelques membres suggèrent une évolution à partir du 21-22. |
-| **Ensembles (modèles ensemblistes non spécifiés)** (Partiel) | Scénarios d'amélioration pluvieuse autour du 21-22 présents mais minoritaires (environ 1/4 à 1/3 des membres), pas de porte de sortie franche à court terme. | Temps sec le plus probable, légère chance de pluie en fin de période, principalement sur le nord. | Nord du pays principalement. | Modérée (65%) | Les membres se répartissent entre maintien sec et dégradation faible. Le scénario d'amélioration n'est pas dominant mais suffisamment présent pour être surveillé. |
+| **GFS (Global Forecast System)** (Documenté) | Maintien d'un blocage anticyclonique avec des températures élevées, notamment en fin de semaine. Précipitations quasi nulles sur la majeure partie du pays. | Temps sec et chaud, absence de pluie significative, risque de fortes chaleurs localement. | Toutes les zones, plus particulièrement le sud et l'est. | Élevée (85%) | GFS indique une persistance de l'anticyclone et des températures au-dessus des normales, avec un signal de chaleur renforcée en fin de mois. Les précipitations cumulées sur Paris seraient très faibles (3,3 mm jusqu'au 27 septembre selon le run du 11/09 06Z). |
+| **CEP (ECMWF - Centre Européen)** (Documenté) | Signal plus frais par le nord-ouest vers le 15 septembre, mais sans précipitations notables. Retour d'une dorsale anticyclonique en fin d'échéance. | Temps sec, températures en baisse temporaire, puis remontée en fin de semaine. | Nord-ouest, puis extension possible à tout le pays. | Modérée (70%) | CEP AI montre une écrasante majorité de scénarios avec une dorsale anticyclonique couvrant le pays le 20 septembre. Flux de sud à sud-est associé, entraînant une nouvelle pulsion chaude. |
+| **Ensembles (GFS et CEP)** (Documenté) | Scénarios majoritairement secs, mais quelques membres évoquent une petite perturbation vers le 21-22 septembre, restant minoritaires (1/4 à 1/3 des scénarios). | Possibilité de pluies faibles sur le nord, mais très incertain. | Nord du pays principalement. | Modérée (65%) | Les ensembles montrent une bataille entre les hautes pressions et les cyclogenèses au sud du Groenland. Une cyclogenèse plus forte pourrait amener de l'humidité, mais ces scénarios restent minoritaires. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec, alternance d'éclaircies et de nuages élevés, vent d'ouest modéré. | Proches des normales, minimales 12-14°C, maximales 20-23°C. | moderee | GFS, Ensembles | Porte de sortie pluvieuse incertaine en fin de semaine. |
-| **Nord** | Temps sec et lumineux, quelques passages nuageux, aucune pluie significative. | Températures proches des valeurs de saison, maximales 20-24°C. | moderee | GFS, Ensembles | Risque de gouttes plus marqué en fin de semaine. |
-| **Nord-Est** | Ensoleillé et sec, probablement plus chaud que dans le nord-ouest. | Chaleur modérée l'après-midi, maximales 25-27°C possibles. | faible | GFS | Peu de détails spécifiques dans les discussions. |
-| **Ouest et Façade Atlantique** | Sec, vent de nord-ouest modéré, ciel souvent clair. | Maximales autour de 22-25°C, minimales 14-16°C. | moderee | GFS, Ensembles | Incertitude sur l'arrivée d'une perturbation atténuée en toute fin de semaine. |
-| **Centre** | Sec et ensoleillé, parfois voilé. | Chaleur modérée, maximales 25-28°C, proches de l'indicateur thermique national. | moderee | GFS, Ensembles | Évolution en fin de semaine selon le positionnement du rail dépressionnaire. |
-| **Sud-Ouest** | Sec, plutôt chaud, avec un flux d'ouest modéré. | Très au-dessus des valeurs de saison, maximales 28-30°C. | moderee | GFS | Renforcement du vent possible en fin de semaine. |
-| **Sud-Est et Vallée du Rhône** | Très ensoleillé, sec et chaud, quelques entrées maritimes possibles. | Maximales 30-31°C, 26-27°C sur la Camargue et les Calanques. | moderee | GFS | Évolution du flux de sud et remontée de chaleur en dernière décade. |
-| **Méditerranée et Corse** | Ciel clair, vent d'ouest modéré à assez fort, aucune précipitation. | Chaud, maximales 28-30°C, plus frais sur le littoral exposé au vent. | moderee | GFS, Ensembles | Force du vent d'ouest et évolution des températures marines. |
+| **Nord-Ouest** | Temps sec et souvent ensoleillé, quelques passages nuageux possibles | Maximales entre 22 et 28°C, en baisse en milieu de semaine | elevee | GFS, CEP | Possibilité d'une perturbation faible vers le 21-22 |
+| **Nord** | Ensoleillé, sec, chaleur modérée en début puis rafraîchissement | Maximales 26-31°C lundi, puis 22-25°C en milieu de semaine | elevee | GFS, CEP, Ensembles | Possible dégradation orageuse très isolée |
+| **Nord-Est** | Temps sec, ensoleillé, chaleur en début de semaine | Maximales 28-30°C, puis 23-25°C | moderee | GFS, CEP | Manque de détails spécifiques sur la région |
+| **Ouest et Façade Atlantique** | Soleil généreux, quelques nuages sur le littoral, chaleur marquée | Maximales 31-34°C, plus frais sur le bord de mer (27°C) | elevee | GFS, CEP, Météo-France | Rafraîchissement en fin de semaine avec possible pluie |
+| **Centre** | Ensoleillé, sec, chaleur modérée | Maximales 27-31°C, puis baisse en milieu de semaine | moderee | GFS, CEP | Manque de détails spécifiques |
+| **Sud-Ouest** | Soleil dominant, chaleur marquée, quelques passages nuageux | Maximales 31-34°C lundi et mardi, puis 21-24°C mercredi/jeudi | elevee | GFS, CEP, Météo-France | Évolution des orages en fin de semaine |
+| **Sud-Est et Vallée du Rhône** | Ensoleillé, chaleur importante, vent de nord assez fort lundi | Maximales 28-32°C, puis 27-30°C | elevee | GFS, CEP, Météo-France | Intensité du mistral et des orages isolés |
+| **Méditerranée et Corse** | Soleil dominant, chaleur modérée à forte, quelques nuages | Maximales 26-31°C, plus frais sur le littoral | elevee | GFS, CEP, Météo-France | Possibilité d'orage de chaleur en Méditerranée |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 14 et mardi 15 septembre** : Temps sec et ensoleillé, vent faible à modéré, températures de saison ou légèrement supérieures.
-- **Mercredi 16 septembre** : Flux d'ouest modéré à assez fort, ciel voilé, aucune précipitation, indice de confiance 4/5.
-- **Jeudi 17 et vendredi 18 septembre** : Vent d'ouest modéré à assez fort de la frontière espagnole à Saint-Raphaël et en Corse, temps sec.
-- **Samedi 19 et dimanche 20 septembre** : Maintien du flux d'ouest, quelques perturbations atténuées possibles sur le nord, toujours sec ailleurs.
+- **Lundi 14 et Mardi 15 Septembre** : Période la plus chaude, avec un soleil généreux et des températures dépassant les normales de 3 à 5°C.
+- **Mercredi 16 et Jeudi 17 Septembre** : Léger rafraîchissement, notamment par le nord-ouest, mais sans pluie significative.
+- **Vendredi 18 et Samedi 19 Septembre** : Retour d'un temps calme et ensoleillé, températures proches des normales.
+- **Dimanche 20 Septembre** : Nouvelle hausse des températures, annonçant une possible pulsion chaude pour la semaine suivante.
 
 **Points solides :**
-- Sécheresse généralisée sur la quasi-totalité du pays.
-- Rail dépressionnaire trop nord, flux océanique décalé.
-- Signal de chaleur convergent pour la fin septembre.
+1. Temps sec et ensoleillé sur la quasi-totalité du pays pour la semaine.
+2. Températures souvent au-dessus des normales, avec un pic en début de semaine.
+3. Aucune pluie significative, maintenant la sécheresse des sols.
 
 **Points fragiles :**
-- Amélioration pluvieuse autour du 21-22 septembre.
-- Intensité de la chaleur en dernière décade.
-- Cumuls éventuels, même en cas de dégradation.
+1. Possibilité d'une dégradation pluvieuse très localisée en fin de semaine (21-22).
+2. Intensité du rafraîchissement en milieu de semaine, variable selon les modèles.
+3. Risque d'orages isolés sur le relief, difficile à prévoir.
 
 **À surveiller (prochains runs) :**
-- Prochains runs GFS et ECMWF à partir du 14 septembre.
-- Évolution des ensembles pour l'échéance du 21-22.
-- Suivi de l'indicateur thermique national et de la sécheresse de surface.
+Surveiller les prochains runs CEP et GFS pour confirmer ou infirmer la dégradation possible du 21-22, ainsi que l'intensité de la remontée chaude en fin de semaine.
 
 
 ## 🗓️ SEMAINE 2 : Du Lundi 21 au Dimanche 27 Septembre 2026
-
-⚠️ Le sujet spécifique de la Semaine 39 (du 21 au 27 septembre 2026) n'est pas encore ouvert par les membres sur le forum Infoclimat. L'analyse ci-dessous s'appuie sur les projections à long terme extraites du sujet Semaine 38 (ECMWF 15j, GFS 384h, ensembles). Aucune discussion fictive n'a été ajoutée.
+⚠️ TRANSPARENCE : Le sujet spécifique de la Semaine 39 n'est pas encore ouvert sur le forum Infoclimat. Les analyses ci-dessous s'appuient sur les projections à long terme issues du sujet Semaine 38, avec des incertitudes fortes.
 ### 💡 Points clés de la semaine 2
-1. Sujet S39 non ouvert — L'analyse repose uniquement sur les projections long terme du sujet Semaine 38.
-2. Bascule du 21-22 — Une possible dégradation pluvieuse est évoquée, mais elle reste minoritaire et incertaine.
-3. Chaleur de fin de mois — Les modèles long terme convergent vers un épisode chaud en dernière décade, sans parler de canicule.
-4. Cumuls limités — Même en cas de passage pluvieux, les quantités resteraient faibles sur la plupart des régions.
-5. Sécheresse toujours préoccupante — La sécheresse superficielle reste un risque majeur pour la fin septembre.
+1. Chaleur en renfort : Les modèles convergent vers une nouvelle pulsion chaude, particulièrement en fin de mois.
+2. Sécheresse accrue : Aucune pluie significative en vue, la sécheresse des sols risque de s'aggraver.
+3. Incursion possible : Une petite perturbation pourrait toucher le nord vers le 21-22, mais scénario minoritaire.
+4. Analogie 1997 : Le blocage anticyclonique rappelle septembre 1997, mais avec un contexte de sécheresse plus marquée.
+5. Fiabilité limitée : Les prévisions à cette échéance restent très incertaines, à confirmer avec les prochains runs.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Convergence sur un temps encore sec en début de semaine 2.
-- Convergence sur un signal de chaleur en toute fin de mois.
-- Convergence sur des précipitations faibles, même en cas de changement de régime.
+1. Persistance d'un temps sec et anticyclonique, avec des températures au-dessus des normales.
+2. Absence de précipitations significatives, maintenant la sécheresse.
+3. Signal d'une nouvelle pulsion chaude en fin de semaine, notamment sur le sud.
 **Points de divergence :**
-- Divergence sur le timing exact de la bascule (autour du 21-22 ou plus tard).
-- Divergence sur l'ampleur de la chaleur (simple hausse thermique ou pic plus intense).
-- Divergence sur la répartition géographique des pluies, si dégradation il y a.
+1. Intensité de la chaleur : certains modèles voient un pic plus marqué que d'autres.
+2. Possibilité d'une petite pluie sur le nord vers le 21-22, présente mais minoritaire.
+3. Évolution de la dorsale anticyclonique : son positionnement exact reste incertain.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Projections long terme (ECMWF 15j, GFS 384h, ensembles)** (Partiel (source indirecte)) | Signal sec dominant en début de semaine, possible évolution vers un temps plus chaud en fin de mois, avec une incertitude marquée sur une dégradation pluvieuse. | Temps sec probable, chaleur en fin de semaine, pluies faibles et localisées possibles. | Ensemble du pays, avec un risque de chaleur plus marqué au sud-est. | Faible (45%) | Les projections long terme du sujet Semaine 38 indiquent que les scénarios d'amélioration pluvieuse restent minoritaires (1/4 à 1/3 des membres). Le signal de chaleur en fin de mois est présent, mais sans validation par des discussions détaillées. |
+| **GFS (projections long terme)** (Documenté (basé sur les projections du sujet Semaine 38)) | Maintien d'un anticyclone puissant, températures au-dessus des normales, précipitations quasi nulles sur l'ensemble du pays. | Temps sec, chaud, ensoleillé, avec un risque de sécheresse renforcée. | Toutes les zones, en particulier le sud et l'est. | Modérée (65%) | GFS indique une nouvelle remontée chaude avec des températures très au-dessus des normales, potentiellement un épisode de chaleur marquée, mais sans atteindre le seuil de canicule. |
+| **CEP (projections long terme)** (Documenté (via CEP AI mentionné)) | Écrasante majorité de scénarios avec une dorsale anticyclonique recouvrant la France, flux de sud à sud-est, chaleur en fin d'échéance. | Temps sec et chaud, températures en hausse. | Quasi toutes les zones, surtout le sud-est et le centre. | Modérée (60%) | CEP AI montre une forte probabilité d'une pulsion chaude avec des températures élevées, mais sans certitude sur l'intensité. |
+| **Ensembles (GFS et CEP)** (Documenté (car basé sur les projections du sujet Semaine 38)) | Scénarios majoritairement secs, mais quelques membres évoquent une petite perturbation vers le 21-22, restant minoritaires (1/4 à 1/3 des scénarios). | Possibilité de pluies faibles sur le nord, mais très incertain. | Nord du pays principalement. | Modérée (65%) | Les ensembles montrent une bataille entre les hautes pressions et les cyclogenèses. Une cyclogenèse plus forte pourrait amener de l'humidité, mais ces scénarios restent minoritaires. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Incertitude forte, temps sec probable en début de semaine, possible dégradation faible ensuite. | Températures proches des normales, puis en hausse en fin de semaine. | faible | ECMWF, GFS | Aucun sujet forum dédié, scénario basé sur les projections long terme. |
-| **Nord** | Temps sec et doux, quelques passages nuageux, risque de pluies faibles en cours de semaine. | Maximales autour de 22-25°C, en hausse possible en fin de semaine. | faible | ECMWF, GFS | Position exacte du rail dépressionnaire. |
-| **Nord-Est** | Pas de scénario fiable, sec probable, chaleur possible en fin de semaine. | En hausse possible en dernière décade. | non_estimable | ECMWF, GFS | Absence de discussion dédiée. |
-| **Ouest et Façade Atlantique** | Temps sec probable en début de semaine, incertitude sur une dégradation ensuite. | Températures proches des normales, possible hausse en fin de mois. | faible | ECMWF | Manque de détails sur le flux d'ouest. |
-| **Centre** | Sec et chaud probable, surtout en seconde partie de semaine. | Chaleur modérée à assez forte, maximales possibles de 27 à 30°C. | faible | ECMWF, GFS | Intensité du signal de chaleur. |
-| **Sud-Ouest** | Temps sec et chaud probable, avec un risque de chaleur plus marqué en fin de mois. | Maximales 28-32°C possibles, au-dessus des normales. | faible | ECMWF | Manque de validation par les membres. |
-| **Sud-Est et Vallée du Rhône** | Chaleur possible, temps sec, avec un signal plus net qu'ailleurs. | Maximales élevées, possibles 30-33°C en fin de semaine. | moderee | ECMWF, GFS, Ensembles | Évolution du flux de sud et remontée de chaleur. |
-| **Méditerranée et Corse** | Temps sec et ensoleillé, chaleur possible, vent d'ouest modéré. | Maximales 28-31°C possibles. | faible | GFS | Pas de discussion spécifique sur la Corse. |
+| **Nord-Ouest** | Temps sec et ensoleillé, possible fraîcheur relative en début de semaine | Maximales entre 20 et 25°C, en hausse en fin de semaine | faible | Ensembles, GFS | Possibilité d'une perturbation très faible, incertitude forte |
+| **Nord** | Temps sec, ensoleillé, chaleur modérée | Maximales 25-30°C en fin de semaine | moderee | GFS, Ensembles | Possibilité d'une dégradation très isolée vers le 21-22 |
+| **Nord-Est** | Temps sec, ensoleillé, chaleur en hausse | Maximales 27-32°C | faible | GFS | Manque de détails spécifiques |
+| **Ouest et Façade Atlantique** | Temps sec, ensoleillé, chaleur modérée à forte | Maximales 28-33°C, plus frais sur le littoral | moderee | GFS, CEP | Possibilité d'un orage isolé en fin de semaine |
+| **Centre** | Temps sec, ensoleillé, chaleur | Maximales 27-31°C | faible | GFS | Manque de détails spécifiques |
+| **Sud-Ouest** | Temps sec, ensoleillé, chaleur marquée | Maximales 29-34°C | moderee | GFS, CEP | Risque d'orages isolés en montagne |
+| **Sud-Est et Vallée du Rhône** | Temps sec, ensoleillé, chaleur importante | Maximales 30-34°C | moderee | GFS, CEP | Intensité de la chaleur et du vent |
+| **Méditerranée et Corse** | Temps sec, ensoleillé, chaleur modérée à forte | Maximales 27-32°C | moderee | GFS, CEP | Possibilité d'un orage de chaleur |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 21 et mardi 22 septembre** : Poursuite probable d'un temps sec, avec une possibilité de bascule pluvieuse non confirmée.
-- **Mercredi 23 et jeudi 24 septembre** : Régime encore incertain, les scénarios secs restent dominants dans les projections.
-- **Vendredi 25 et samedi 26 septembre** : Tendance à une hausse des températures, avec un pic de chaleur possible mais non garanti.
-- **Dimanche 27 septembre** : Clôture de la semaine probablement sèche, avec des températures encore élevées par endroits.
+- **Lundi 21 et Mardi 22 Septembre** : Possibilité d'une petite dégradation sur le nord, mais très incertaine ; ailleurs temps sec.
+- **Mercredi 23 et Jeudi 24 Septembre** : Retour d'un temps sec et ensoleillé, températures en hausse.
+- **Vendredi 25 et Samedi 26 Septembre** : Chaleur de plus en plus marquée, surtout au sud.
+- **Dimanche 27 Septembre** : Poursuite de la chaleur, possiblement encore plus intense.
 
 **Points solides :**
-- Aucun scénario de pluie généralisée n'est fiable à cette échéance.
-- Le signal de chaleur en fin de septembre est récurrent dans les projections.
-- La sécheresse reste le fil conducteur des deux semaines.
+(basé sur les projections)
+1. Temps sec et anticyclonique très probable sur l'ensemble de la semaine.
+2. Températures au-dessus des normales, avec une tendance à la hausse.
+3. Absence de précipitations significatives, maintenant la sécheresse.
 
 **Points fragiles :**
-- La date du 21-22 septembre, évoquée comme charnière, n'est pas confirmée.
-- L'intensité de la chaleur de fin de mois est très incertaine.
-- L'absence de sujet forum S39 limite fortement la robustesse de l'analyse.
+1. Possibilité d'une petite perturbation vers le 21-22, très incertaine.
+2. Intensité de la chaleur en fin de semaine, variable selon les modèles.
+3. Position exacte de la dorsale anticyclonique.
 
 **À surveiller (prochains runs) :**
-- Ouverture du sujet Semaine 39 sur le forum.
-- Runs déterministes GFS et ECMWF du 14 au 18 septembre.
-- Évolution des ensembles pour l'échéance du 21-27 septembre.
+Surveiller les prochains runs CEP et GFS pour confirmer l'ampleur de la chaleur et la possibilité d'une dégradation, ainsi que les sorties ensemblistes.
 
 
 ========================================
@@ -135,9 +133,40 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Temps sec et souvent chaud sur les 15 prochains jours, avec une sécheresse qui se renforce. La seule incertitude majeure concerne une éventuelle dégradation pluvieuse autour du 21-22 septembre, encore minoritaire dans les modèles.
+Sur les 15 prochains jours, la France restera sous l'influence d'un puissant anticyclone, avec un temps sec, ensoleillé et des températures souvent au-dessus des normales. Une légère dégradation pourrait toucher le nord vers le 21-22 septembre, mais reste très incertaine. La sécheresse des sols va s'accentuer, avec un risque accru de stress hydrique.
 
 ### Période la plus fiable
-Semaine 1 (du 14 au 20 septembre) : sujet forum dédié avec observations et discussions détaillées.
+Semaine 1 (14-20 septembre) : les prévisions sont plus fiables, avec une synoptique bien établie.
+
+### Phénomènes récurrents
+Blocage anticyclonique persistant, sécheresse des sols, chaleur diurne élevée, gelées possibles en montagne en fin de nuit.
+
+### Principales incertitudes
+1. Possibilité d'une faible dégradation pluvieuse vers le 21-22.
+2. Intensité de la remontée chaude en fin de semaine 2.
+3. Évolution à plus long terme, au-delà de la période.
 
 ### 🚨 Analyse des doutes et lacunes
+- **Timing/Chronologie :** Doutes sur le timing exact de la remontée chaude en fin de semaine 2, ainsi que sur l'arrivée éventuelle d'une perturbation vers le 21-22.
+- **Localisation :** Incertitudes sur les zones exactes qui pourraient être concernées par une éventuelle dégradation, notamment le nord.
+- **Intensité :** Incertitudes sur l'intensité de la chaleur en fin de mois : pourrait-elle atteindre des valeurs très élevées ou simplement rester modérée ?
+- **Informations manquantes :** Peu d'informations sur le vent, les nuages bas et les phénomènes orageux localisés. Suivi de la sécheresse des sols à affiner.
+- **Modèles sous-documentés :** Le modèle ARPEGE n'est pas mentionné dans les discussions, tout comme les sorties détaillées de CEP à plus long terme.
+- **Incertitudes images :** Les images et cartes mentionnées sur le forum ne sont pas disponibles, ce qui limite la vérification visuelle des prévisions.
+
+
+========================================
+
+## 📝 PROPOSITION DE POST LINKEDIN
+🌞🔵 **Synoptique de blocage : la France sous le sceau de l'anticyclone**
+
+Les 15 prochains jours s'annoncent secs, ensoleillés et souvent chauds, avec une sécheresse qui s'accentue. Les modèles s'accordent sur la persistance d'un puissant anticyclone, malgré quelques scénarios minoritaires d'une faible dégradation vers le 21-22 septembre.
+
+📊 **Points clés :**
+- Températures souvent au-dessus des normales
+- Aucune pluie significative attendue
+- Risque de stress hydrique renforcé
+
+⚠️ **Incertitudes :** l'intensité de la chaleur en fin de mois et la possibilité d'une petite perturbation.
+
+Restez prudents, la situation reste à surveiller de près. #Météo #Prévisions #Sécheresse

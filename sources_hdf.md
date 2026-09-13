@@ -308,18 +308,18 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 • Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 13/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Samedi 12 Septembre 2026.
-Résumé général HDF précédent : Sur ces 15 jours, les Hauts-de-France vont connaître une alternance entre un temps sec et chaud (14-15 et 21-27) et un bref rafraîchissement instable (16-19), mais aucune pluie significative : la sécheresse se poursuit..
+Dernier bulletin HDF généré le Dimanche 13 Septembre 2026.
+Résumé général HDF précédent : Succession de temps sec et anticyclonique, avec un bref rafraîchissement du 16 au 18 septembre, suivi d'une nouvelle remontée des températures dès le 20, atteignant des niveaux estivaux en fin de période. Aucune pluie significative n'est en vue..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Rafraîchissement modéré et sec. Pas de dégradation pluvieuse significative..
+Températures attendues précédemment : Rafraîchissement modéré et sec sur l'ensemble des Hauts-de-France, avec un risque d'averses faiblardes..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -513,9 +513,10 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 								3
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
 Auteur: bernardt60
@@ -708,6 +709,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 								3
+								1
