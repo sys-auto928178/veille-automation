@@ -308,10 +308,10 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Rencontre Sud-Ouest - Automne 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
@@ -321,22 +321,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 13 Septembre 2026.
-Résumé général précédent : Du 14 au 27 septembre, blocage anticyclonique dominant, temps sec, chaleur en début et en fin de période, rafraîchissement temporaire en milieu de semaine 1..
+Résumé général précédent : Blocage anticyclonique dominant sur 15 jours, temps sec et chaud pour la saison, avec un rafraîchissement temporaire en milieu de semaine 1..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et chaud, précipitations quasi nulles, quelques averses localisées possibles au nord-est..
+Températures attendues précédemment : Temps sec et ensoleillé, chaleur en début et fin de semaine, fraîcheur relative en milieu..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
-Auteur: Victor hurricane tempête
-Message:
-En attente de suppression.
-	Modifié vendredi à 19:21 par Victor hurricane tempête
-Oups je viens de voir que quelqu&#039;un a réagit à un post que je n&#039;avais pas le souvenir d&#039;avoir écrit... Et d&#039;ailleurs &quot;écrit&quot; pas vraiment... Il n&#039;y a rien... À supprimer.
-								1
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 @Victor hurricane tempête un point d'exclamation en réaction au message vide !
@@ -440,7 +430,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 17:42 par giec 2100
 								3
 								1
 								4
@@ -477,7 +467,7 @@ Il y a 18 heures, giec 2100 a dit :
 			comme le naufragé on se raccroche à ce qu'on trouve...
 	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
 	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
-								1
+								2
 								2
 
 =======================
@@ -488,7 +478,7 @@ il y a une heure, babe a dit :
 			« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
 			chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
 	Par contre, on peut souffrir de la chaleur qu'on soit en Septembre ou Juillet s'il fait 35°C comme c'est prévu dans le SO lundi/mardi, notamment quand on travaille en extérieur ou dans des pièces surchauffées... Même si les matinées et nuits sont plus fraîches. 
-								4
+								5
 								1
 
 =======================
@@ -498,7 +488,7 @@ Message:
 Bonjour.
 	Je suis d'accord sur le faite : qu'il fasse 35 degrés début Août où mi Septembre, la valeur est la même, avec la même sensation de très chaud quand les 35 degrés sont atteint mais, je pense, que la grande différence est la durée des 35°c durant la journée. Je m'explique : début Août, cette température peut durer plusieurs heures ( de 16h à 20h30 par exemple ) alors qu'en Septembre cette même température serait atteint plus tard et se terminerait plus tôt du à un temps de soleil moins important.
 	En tout cas, ce qui reste pour moi tout aussi préoccupant voir plus, c'est le manque de précipitations.
-								1
+								2
 
 =======================
 
@@ -506,7 +496,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 1 heure par giec 2100
+	Modifié il y a 3 heures par giec 2100
 
 =======================
 
@@ -514,18 +504,16 @@ Auteur: Krholam
 Message:
 Et ça va pas en s’améliorant quand je vois que l’Anticyclone a decidé de transformer la France en résidence secondaire sur les autres echeances
 								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+on donnera raison aux commentateurs qui trouvaient sans doute lyrique mon appréciation de la "chaleur" pour la fin de l'échéance, où la métaphore volcanique renvoyait sans doute à mon métamorphisme intérieur (!), directement issu de la psychologie - et la physiologie... - déglinguée par la succession des dernières canicules...
+	la livraison la plus fraîche (!) du CEP version IA pour la température à 850hPa en toute fin d'échéance donne un quart de scénarios où la zone à plus de 20°C concerne le pays, le plus souvent le SW et les régions méditerranéennes ; pour la mitan du prochain topic ça tendrait vers la moitié...
+	donc chaud pour le début et la fin de la période du topic, avec un beau dégradé N S, sans approcher les excès caniculaires connus il y a quelques semaines...
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Victor hurricane tempête
-Message:
-En attente de suppression.
-	Modifié vendredi à 19:21 par Victor hurricane tempête
-Oups je viens de voir que quelqu&#039;un a réagit à un post que je n&#039;avais pas le souvenir d&#039;avoir écrit... Et d&#039;ailleurs &quot;écrit&quot; pas vraiment... Il n&#039;y a rien... À supprimer.
-								1
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 @Victor hurricane tempête un point d'exclamation en réaction au message vide !
@@ -629,7 +617,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 17:42 par giec 2100
 								3
 								1
 								4
@@ -666,7 +654,7 @@ Il y a 18 heures, giec 2100 a dit :
 			comme le naufragé on se raccroche à ce qu'on trouve...
 	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
 	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
-								1
+								2
 								2
 
 =======================
@@ -677,7 +665,7 @@ il y a une heure, babe a dit :
 			« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
 			chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
 	Par contre, on peut souffrir de la chaleur qu'on soit en Septembre ou Juillet s'il fait 35°C comme c'est prévu dans le SO lundi/mardi, notamment quand on travaille en extérieur ou dans des pièces surchauffées... Même si les matinées et nuits sont plus fraîches. 
-								4
+								5
 								1
 
 =======================
@@ -687,7 +675,7 @@ Message:
 Bonjour.
 	Je suis d'accord sur le faite : qu'il fasse 35 degrés début Août où mi Septembre, la valeur est la même, avec la même sensation de très chaud quand les 35 degrés sont atteint mais, je pense, que la grande différence est la durée des 35°c durant la journée. Je m'explique : début Août, cette température peut durer plusieurs heures ( de 16h à 20h30 par exemple ) alors qu'en Septembre cette même température serait atteint plus tard et se terminerait plus tôt du à un temps de soleil moins important.
 	En tout cas, ce qui reste pour moi tout aussi préoccupant voir plus, c'est le manque de précipitations.
-								1
+								2
 
 =======================
 
@@ -695,7 +683,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 1 heure par giec 2100
+	Modifié il y a 3 heures par giec 2100
 
 =======================
 
@@ -703,3 +691,11 @@ Auteur: Krholam
 Message:
 Et ça va pas en s’améliorant quand je vois que l’Anticyclone a decidé de transformer la France en résidence secondaire sur les autres echeances
 								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+on donnera raison aux commentateurs qui trouvaient sans doute lyrique mon appréciation de la "chaleur" pour la fin de l'échéance, où la métaphore volcanique renvoyait sans doute à mon métamorphisme intérieur (!), directement issu de la psychologie - et la physiologie... - déglinguée par la succession des dernières canicules...
+	la livraison la plus fraîche (!) du CEP version IA pour la température à 850hPa en toute fin d'échéance donne un quart de scénarios où la zone à plus de 20°C concerne le pays, le plus souvent le SW et les régions méditerranéennes ; pour la mitan du prochain topic ça tendrait vers la moitié...
+	donc chaud pour le début et la fin de la période du topic, avec un beau dégradé N S, sans approcher les excès caniculaires connus il y a quelques semaines...
