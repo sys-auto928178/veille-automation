@@ -9,7 +9,7 @@ PÉRIODES EXACTES À RESPECTER IMPÉRATIVEMENT :
 
 TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 - Sujet 1 exploité : Du 14 Septembre Au 20 Septembre 2026 Prévisions Météo Semaine 38
-- Sujet 2 exploité : Du 14 Septembre Au 20 Septembre 2026 Prévisions Météo Semaine 38  (⚠️ Le sujet spécifique de la Semaine 39 (du Du Lundi 21 au Dimanche 27 Septembre 2026) n'est pas encore ouvert par les membres sur le forum Infoclimat. L'analyse ci-dessous s'appuie sur les projections à long terme extraites du sujet Semaine 38).
+- Sujet 2 exploité : Du 21 Septembre Au 27 Septembre 2026 Prévisions Météo Semaine 39 
 
 === SOURCES COMPLÉMENTAIRES (MÉTÉO-FRANCE XML 22SPC + SÉCHET + ITN 14J) ===
 
@@ -308,11 +308,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : pluviomètre noir : incidence sur la température ?
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Rencontre Sud-Ouest - Automne 2026
+• Infoclimat Direct : pluviomètre noir : incidence sur la température ?
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -321,24 +321,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 13 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique dominant sur 15 jours, temps sec et chaud pour la saison, avec un rafraîchissement temporaire en milieu de semaine 1..
+Résumé général précédent : Blocage anticyclonique exceptionnellement durable, temps sec et chaud pour la saison, entrecoupé d'un bref rafraîchissement en milieu de semaine 1..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et ensoleillé, chaleur en début et fin de semaine, fraîcheur relative en milieu..
+Températures attendues précédemment : Chaleur lundi-mardi, quelques averses possibles jeudi-vendredi, soleil le week-end. (max 120 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
-Auteur: giec 2100
-Message:
-@Victor hurricane tempête un point d'exclamation en réaction au message vide !
-	mais c'est peut-être intentionnel ce blanc ?
-	ben oui, comme cette synoptique perpétuelle de blocages anticycloniques nous donne toujours les même perspectives je pensais que ce message de vacuité était un hommage aux prévisionnistes météo, désormais inutiles... !
-	comme quoi il y aussi les anticyclones comme tueurs des professions intellectuelles, avec ici l'IA qui n'y est pour rien...
-	bon, plus sérieusement, toujours avec cette maudite IA je me demande si l'on pourrait essayer, toujours dans la démarche historique, de récupérer tous les derniers quadrimestres depuis le début du XXe s. pour voir s'il a pu exister une série terrible de quatre mois sans pluie, ou approchant, et voir quel type de synoptique accompagne ce genre de phénomène...
-								2
-								1
-
-=======================
-
 Auteur: Turquoise_ExNico41
 Message:
 Il y a 2 heures, Victor hurricane tempête a dit :
@@ -408,7 +396,7 @@ Message:
 il y a 30 minutes, Nicolas L a dit :
 			La semaine du 15 au 22 pourrait quand même être un début de sortie de crise pour la moitié nord. C’est la suite qui reste incertaine et volatile avec peu de fiabilité à cette échéance. Évidemment, ça reste extrêmement fragile pour la moitié sud. 
 	Loin d'être convaincu qu'on soit réellement  en début de sortie de crise même si une pause s'opère en milieu de semaine, sûrement pas en tout cas côté sécheresse, diagrammes de Paris:
-								1
+								2
 								3
 
 =======================
@@ -496,7 +484,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
 
 =======================
 
@@ -512,190 +500,30 @@ Message:
 on donnera raison aux commentateurs qui trouvaient sans doute lyrique mon appréciation de la "chaleur" pour la fin de l'échéance, où la métaphore volcanique renvoyait sans doute à mon métamorphisme intérieur (!), directement issu de la psychologie - et la physiologie... - déglinguée par la succession des dernières canicules...
 	la livraison la plus fraîche (!) du CEP version IA pour la température à 850hPa en toute fin d'échéance donne un quart de scénarios où la zone à plus de 20°C concerne le pays, le plus souvent le SW et les régions méditerranéennes ; pour la mitan du prochain topic ça tendrait vers la moitié...
 	donc chaud pour le début et la fin de la période du topic, avec un beau dégradé N S, sans approcher les excès caniculaires connus il y a quelques semaines...
+								1
+
+=======================
+
+Auteur: tao
+Message:
+Il y a 2 heures, giec 2100 a dit :
+			on donnera raison aux commentateurs qui trouvaient sans doute lyrique mon appréciation de la "chaleur" pour la fin de l'échéance, où la métaphore volcanique renvoyait sans doute à mon métamorphisme intérieur (!), directement issu de la psychologie - et la physiologie... - déglinguée par la succession des dernières canicules...
+	Bonsoir,
+	par contre, ce sera ton flux de sud qu'il faudra apprécier à sa juste valeur!
+	Un flux de sud, en automne ne devrait pas pouvoir être si sec, en prévision comme en observation.
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: giec 2100
+Auteur: tao
 Message:
-@Victor hurricane tempête un point d'exclamation en réaction au message vide !
-	mais c'est peut-être intentionnel ce blanc ?
-	ben oui, comme cette synoptique perpétuelle de blocages anticycloniques nous donne toujours les même perspectives je pensais que ce message de vacuité était un hommage aux prévisionnistes météo, désormais inutiles... !
-	comme quoi il y aussi les anticyclones comme tueurs des professions intellectuelles, avec ici l'IA qui n'y est pour rien...
-	bon, plus sérieusement, toujours avec cette maudite IA je me demande si l'on pourrait essayer, toujours dans la démarche historique, de récupérer tous les derniers quadrimestres depuis le début du XXe s. pour voir s'il a pu exister une série terrible de quatre mois sans pluie, ou approchant, et voir quel type de synoptique accompagne ce genre de phénomène...
+Bonsoir,
+	ce n'est pas avec enthousiasme que j'ouvre cette semaine. L'été est long, les chaleurs persistent et les pluies d'automne se font désirer.
+	Il est tout à fait envisageable, qu'au minimum le début de semaine soit marqué par le sceau du couple NAO+/BL- sur la face occidentale de notre continent. Concrètement ce serait une prolongation d'une influence océanique très dégradée en France. Le courant océanique étant détourné vers l'Europe du nord pourrait maintenir des conditions très sèches et plutôt chaudes en France, le jet circulant plus vers des latitudes élevées:
+	Je rappelle au passage que depuis quelques semaines nous sommes sortis des régimes de blocage sans que cela soit perceptible au niveau météorologique à nos latitudes.
+	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
+	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
+	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
+	Modifié il y a 48 minutes par tao
 								2
-								1
-
-=======================
-
-Auteur: Turquoise_ExNico41
-Message:
-Il y a 2 heures, Victor hurricane tempête a dit :
-	Je n'arrive pas à voir ton illustration. Je ne vois pas de message
-
-=======================
-
-Auteur: bernardt60
-Message:
-Et puis tant qu'il ne passe rien de côté là pour donner un coup de pouce à de l'agitation sur  l'Atlantique:
-								2
-
-=======================
-
-Auteur: superbolt
-Message:
-C'est déjà arrivé une saison blanche? Sans aucun ouragan sur l'atlantique?
-
-=======================
-
-Auteur: Jojobarbar
-Message:
-On est loin d'avoir un défilé de perturbation en effet, à perte de vue 🥲..
-	On n'est pas si loin en revanche d'avoir de temps à autre une petite perturbation, bien humide...
-	On a vraiment une bataille entre HG et cyclogenès au sud du groenland. Une cyclogenèse un peu plus forte et vaste, et on peut toucher le jackpot. Sur les ensemblistes, ces scénarios restent minoritaires mais ils sont tout de même pas loin (entre 1/4 et 1/3 des scénarios). Une maigre consolation.. si tant est qu'elle advienne.
-								6
-								1
-
-=======================
-
-Auteur: Virgile
-Message:
-Hors topic mais les modèles convergent avec des signaux importants d'un nouvel épisode de chaleur en fin de mois (On ne parlerait pas de canicule vu la saison).
-								3
-								8
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-il y a 32 minutes, Virgile a dit :
-			Hors topic mais les modèles convergent avec des signaux importants d'un nouvel épisode de chaleur en fin de mois (On ne parlerait pas de canicule vu la saison).
-	Je suis d'accord. Ça semble se confirmer malheureusement. A quand un véritable changement de synoptique ?
-
-=======================
-
-Auteur: giec 2100
-Message:
-@Virgile oui c'est ce que j'en ai conclu en jetant un coup d'œil ce matin sur l'américain en simple t2m : 
-	il va falloir savourer notre rafraichissement de la semaine prochaine, après la remontada actuelle du cagnard...
-	always no future 
-								1
-
-=======================
-
-Auteur: Nicolas L
-Message:
-il y a 32 minutes, Plancher a dit :
-			Je suis d'accord. Ça semble se confirmer malheureusement. A quand un véritable changement de synoptique ?
-	La semaine du 15 au 22 pourrait quand même être un début de sortie de crise pour la moitié nord. C’est la suite qui reste incertaine et volatile avec peu de fiabilité à cette échéance. Évidemment, ça reste extrêmement fragile pour la moitié sud.
-
-=======================
-
-Auteur: bernardt60
-Message:
-il y a 30 minutes, Nicolas L a dit :
-			La semaine du 15 au 22 pourrait quand même être un début de sortie de crise pour la moitié nord. C’est la suite qui reste incertaine et volatile avec peu de fiabilité à cette échéance. Évidemment, ça reste extrêmement fragile pour la moitié sud. 
-	Loin d'être convaincu qu'on soit réellement  en début de sortie de crise même si une pause s'opère en milieu de semaine, sûrement pas en tout cas côté sécheresse, diagrammes de Paris:
-								1
-								3
-
-=======================
-
-Auteur: giec 2100
-Message:
-@bernardt60 oui, la "sortie de crise" me semble encore bien loin, ça ressemblerait plutôt à un engluement perpétuel dans l'influence anticyclonique...
-	à se demander si l'impensable ne va pas finir par se réaliser : dépasser en gravité l'année 1921*, où en termes de niveau de température c'est déjà fait, réchauffement climatique aidant : 
-	en tout cas la semaine 14-20 septembre 2026 ne dépare en rien la ribambelle de celles où l'enfoncement des 1015 hPa n'apparaît plus sur les diagrammes...
-	*https://forums.infoclimat.fr/f/topic/61375-la-sécheresse-exceptionnelle-de-1921-en-europe/#comment-4138855
-								3
-
-=======================
-
-Auteur: giec 2100
-Message:
-sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante dorsale anticyclonique recouvrant le pays en fin d'échéance, dimanche 20 septembre 2026...
-	le flux de S à SE associé aux très hauts géopotentiels nous installerait dans une énième pulsion chaude...
-	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
-	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
-	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié hier à 17:42 par giec 2100
-								3
-								1
 								4
-								1
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce sont elles qui dictent notre temps sensible.
-	En début de topic l'anticyclone  présent à l'ouest de la France va se renforcer et en milieu de semaine, après un énième coup de chaud dans le sud (peu durable heureusement), les températures vont baisser pour retrouver des températures proches des valeurs de saison, parfois  un peu au dessous, parfois un peu au dessus.
-	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
-	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
-	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
-	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud. 
-								1
-
-=======================
-
-Auteur: Plancher
-Message:
-Pic de chaleur lundi/mardi puis baisse des températures. Ça semble assez calé.
-	Quid du prochain topic ? Les modèles ne semblent pas d'accord. Hâte de lire l'avis des spécialistes sur le sujet.
-
-=======================
-
-Auteur: babe
-Message:
-Il y a 18 heures, giec 2100 a dit :
-			sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante dorsale anticyclonique recouvrant le pays en fin d'échéance, dimanche 20 septembre 2026...
-			le flux de S à SE associé aux très hauts géopotentiels nous installerait dans une énième pulsion chaude...
-			il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
-			l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
-			comme le naufragé on se raccroche à ce qu'on trouve...
-	« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
-	chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
 								2
-								2
-
-=======================
-
-Auteur: seb93100
-Message:
-il y a une heure, babe a dit :
-			« coulée de lave » « météorologie féroce ». Je pense que ce vocabulaire dessert tes propos. On ne souffre plus de la
-			chaleur en 3e décade de septembre comme en JJA. Il fera chaud pour la saison mais en alternance avec des périodes normales, point. 
-	Par contre, on peut souffrir de la chaleur qu'on soit en Septembre ou Juillet s'il fait 35°C comme c'est prévu dans le SO lundi/mardi, notamment quand on travaille en extérieur ou dans des pièces surchauffées... Même si les matinées et nuits sont plus fraîches. 
-								5
-								1
-
-=======================
-
-Auteur: vda77
-Message:
-Bonjour.
-	Je suis d'accord sur le faite : qu'il fasse 35 degrés début Août où mi Septembre, la valeur est la même, avec la même sensation de très chaud quand les 35 degrés sont atteint mais, je pense, que la grande différence est la durée des 35°c durant la journée. Je m'explique : début Août, cette température peut durer plusieurs heures ( de 16h à 20h30 par exemple ) alors qu'en Septembre cette même température serait atteint plus tard et se terminerait plus tôt du à un temps de soleil moins important.
-	En tout cas, ce qui reste pour moi tout aussi préoccupant voir plus, c'est le manque de précipitations.
-								2
-
-=======================
-
-Auteur: giec 2100
-Message:
-un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
-	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 3 heures par giec 2100
-
-=======================
-
-Auteur: Krholam
-Message:
-Et ça va pas en s’améliorant quand je vois que l’Anticyclone a decidé de transformer la France en résidence secondaire sur les autres echeances
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-on donnera raison aux commentateurs qui trouvaient sans doute lyrique mon appréciation de la "chaleur" pour la fin de l'échéance, où la métaphore volcanique renvoyait sans doute à mon métamorphisme intérieur (!), directement issu de la psychologie - et la physiologie... - déglinguée par la succession des dernières canicules...
-	la livraison la plus fraîche (!) du CEP version IA pour la température à 850hPa en toute fin d'échéance donne un quart de scénarios où la zone à plus de 20°C concerne le pays, le plus souvent le SW et les régions méditerranéennes ; pour la mitan du prochain topic ça tendrait vers la moitié...
-	donc chaud pour le début et la fin de la période du topic, avec un beau dégradé N S, sans approcher les excès caniculaires connus il y a quelques semaines...
