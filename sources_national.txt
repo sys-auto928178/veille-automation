@@ -322,9 +322,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 13 Septembre 2026.
-Résumé général précédent : Temps sec et souvent chaud sur les 15 prochains jours, avec une sécheresse qui se renforce. La seule incertitude majeure concerne une éventuelle dégradation pluvieuse autour du 21-22 septembre, encore minoritaire dans les modèles..
+Résumé général précédent : Sur les 15 prochains jours, la France restera sous l'influence d'un puissant anticyclone, avec un temps sec, ensoleillé et des températures souvent au-dessus des normales. Une légère dégradation pourrait toucher le nord vers le 21-22 septembre, mais reste très incertaine. La sécheresse des sols va s'accentuer, avec un risque accru de stress hydrique..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé, chaleur modérée, quelques gouttes possibles uniquement sur le nord du pays..
+Températures attendues précédemment : Temps sec et chaud, absence de pluie significative, risque de fortes chaleurs localement..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -518,7 +518,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								3
 								1
@@ -714,7 +714,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								3
 								1

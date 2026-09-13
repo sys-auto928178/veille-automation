@@ -317,9 +317,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 13 Septembre 2026.
-Résumé général HDF précédent : Succession de temps sec et anticyclonique, avec un bref rafraîchissement du 16 au 18 septembre, suivi d'une nouvelle remontée des températures dès le 20, atteignant des niveaux estivaux en fin de période. Aucune pluie significative n'est en vue..
+Résumé général HDF précédent : Sur 15 jours, les Hauts-de-France restent sous un blocage anticyclonique durable. Un court rafraîchissement est attendu du 16 au 18 septembre, suivi d’une hausse marquée des températures à partir du 20-22 septembre. L’ensemble reste très sec, avec des cumuls de pluie très faibles jusqu’au 27 septembre. Un épisode de chaleur tardive est possible en fin de période, sans parler de canicule..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Rafraîchissement modéré et sec sur l'ensemble des Hauts-de-France, avec un risque d'averses faiblardes..
+Températures attendues précédemment : Vent d’ouest à sud-ouest, rafales sur le littoral ; averses temporaires possibles sur l’ouest..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -513,7 +513,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								3
 								1
@@ -709,7 +709,7 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								3
 								1
