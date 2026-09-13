@@ -309,7 +309,7 @@ Températures minimales : en hausse dans l'Agglomération toulousaine, dans le V
 Températures maximales : en hausse dans l'Agglomération toulousaine, du Lauragais au muretain ainsi que sur le piémont et la montagne.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 130425 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 13 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 13 septembre 2026 à 00H00 UTC, et évolution Pression vers 1020 hPa sur le bassin. 3 - Prévisions pour la journée du dimanche 13 septembre VENT : - à l'ouest de Cap Croisette : Nord à Nord-Ouest 3 à 4, parfois 5 en début de matinée, revenant Ouest à Sud-Ouest l'après-midi. - à l'est de Cap Croisette : Variable 2 à 4, s'orientant Ouest à Sud-Ouest 2 à 3 l'après-midi. MER : belle, localement peu agitée au large de la Camargue le matin. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du dimanche 13 septembre au lundi 14 septembre VENT : secteur Ouest 2 à 4, virant Ouest à Nord-Ouest en seconde partie de nuit, localement Variable 2 à 4 à l'est de Sicié. MER : belle, devenant belle à peu agitée en seconde partie de nuit. HOULE : non significative. TEMPS : clair à peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du lundi 14 septembre VENT : - à l'ouest de Cap Croisette : Ouest à Nord-Ouest 2 à 4, passagèrement 5 le matin, devenant Variable l'après-midi. - à l'est de Cap Croisette : Variable 2 à 4, s'orientant Est à Nord-Est 2 à 3 dominant l'après-midi. MER : belle, localement belle à peu agitée à l'ouest de Porquerolles. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 14 au 15 et la journée du mardi 15 septembre VENT : De Port Camargue à Fos Nord à Nord-Est 4 mollissant 2 à 3 en début de nuit. De Fos à St Raphaël secteur Est 2 à 4, mollissant en milieu de nuit en virant Est à Sud-Est puis devenant variable faible. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Mercredi 16 septembre Secteur Ouest modéré à assez fort. Indice de confiance : 4 sur 5 Jeudi 17 septembre Secteur Ouest modéré à assez fort de la frontière espagnole à Saint-Raphaël et en Corse. Secteur Est faible à modéré de Saint-Raphaël à Menton. Indice de confiance : 4 sur 5 Vendredi 18 septembre Secteur Ouest modéré à assez fort de la frontière espagnole à Saint-Raphaël et en Corse. Secteur Est faible à modéré de Saint-Raphaël à Menton Indice de confiance : 4 sur 5 Samedi 19 septembre Variable faible à modéré. Indice de confiance : 3 sur 5 8 - Observations le dimanche 13 septembre 2026 à 03H00 UTC Cap Camarat : vent Nord-Nord-Ouest 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est 8 noeuds. Le Levant : vent Nord 2 noeuds, 1021 hPa en baisse. Porquerolles : vent Ouest-Sud-Ouest 2 noeuds. Cap Couronne : vent Nord-Nord-Ouest 8 noeuds, mer belle, visibilité 8 milles. Prochain bulletin le dimanche 13 septembre 2026, vers 13H00 légales
+FQCT40 LFML 130950 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 13 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 13 septembre 2026 à 06H00 UTC, et évolution Faible gradient de pression proche de 1020 hPa sur le bassin. Dépression relative 1017 hPa en fin de nuit à l'est de Sicié, se comblant rapidement lundi en se décalant vers le sud. 3 - Prévisions pour l'après-midi du dimanche 13 septembre VENT : Ouest à Sud-Ouest 2 à 4. MER : belle. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du dimanche 13 septembre au lundi 14 septembre VENT : secteur Ouest 2 à 4, virant Nord-Ouest en seconde partie de nuit à l'ouest de Sicié, mais devenant Variable dépressionnaire 2 à 4 à l'est de Sicié. MER : belle, localement peu agitée en seconde partie de nuit. HOULE : non significative. TEMPS : clair à peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du lundi 14 septembre VENT : - à l'ouest de Cap Croisette : Nord-Ouest 3 à 4, passagèrement 5 le matin, devenant Variable l'après-midi. - à l'est de Cap Croisette : s'orientant Est à Nord-Est 2 à 4. MER : belle, localement peu agitée à l'ouest de Porquerolles le matin. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 14 au 15 et la journée du mardi 15 septembre VENT : Variable 1 à 3, Est dominant la nuit et le matin, Sud dominant l'après-midi. MER : belle. HOULE : non significative. TEMPS : parfois voilé la nuit, ensoleillé en journée. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 15 au 16 et la journée du mercredi 16 septembre VENT : De Port Camargue à Porquerolles Ouest à Nord-Ouest 2 à 3, fraîchissant 6 à 7 en milieu d'après-midi. Rafales. De Porquerolles à St Raphaël Ouest à Sud-Ouest 2 à 4, fraîchissant rapidement 6 en milieu d'après-midi. Rafales. MER : belle devenant agitée, localement forte du Levant à St Raphaël. HOULE non significative s'établissant localement à l'Ouest à Sud-Ouest 1 à 1,5 m. 8 - Tendance pour les jours suivants Jeudi 17 septembre secteur Nord-Ouest modéré dans le golfe du Lion, secteur Sud-Ouest modéré entre Corse et continent. Indice de confiance : 4 sur 5 Vendredi 18 septembre secteur Nord-Ouest modéré dans le golfe du Lion, secteur Sud-Ouest modéré entre Corse et continent. Indice de confiance : 4 sur 5 Samedi 19 septembre secteur Nord-Ouest faible à modéré dans le golfe du Lion, secteur Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 4 sur 5 Dimanche 20 septembre secteur variable faible dans le golfe du Lion, secteur Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 9 - Observations le dimanche 13 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord-Nord-Est 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 6 noeuds. Le Levant : vent Est 8 noeuds, 1022 hPa en hausse. Porquerolles : vent Est-Sud-Est 8 noeuds. Cap Couronne : vent Ouest-Nord-Ouest 4 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le dimanche 13 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -333,12 +333,12 @@ façade est du pays.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Statistiques et anomalies climatiques globales
+• Infoclimat Direct : Du 14 septembre au 20 septembre 2026 prévisions météo semaine 38
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : recherche d'un pluviomètre orgon pour ma station wmr 200
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 13/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -346,24 +346,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 13 Septembre 2026.
-Résumé général précédent : Du 14 au 27 septembre, un puissant anticyclone devrait maintenir un temps sec, souvent ensoleillé et anormalement chaud. Une parenthèse plus fraîche est prévue autour du 16-17, puis une nouvelle pulsion chaude pourrait se produire à partir du 21..
+Résumé général précédent : Anticyclone dominant, temps sec et souvent chaud avec une brève parenthèse fraîche du 16 au 18, puis nouvelle pulsion chaude à partir du 21. Précipitations très faibles à nulles sur la majeure partie du pays..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, chaud, fraîcheur brève en milieu de semaine, pluies très faibles..
+Températures attendues précédemment : "Chaleux en début, fraîchir mi-semaine, retour de la chaleur en fin de semaine.".
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
-Auteur: bernardt60
-Message:
-C'est à se demander si comme on avait fait en hiver une année recherche de signaux de VDF à TLT tant l'attente était devenue insupportable ; il ne faudrait pas le faire aussi pour la recherche de signaux de précipitations significatives à TLT 😊
-	Car si je prends les diagrammes de ma localité ( je fais du régionalisme mais je ne pense pas  qu'à l'échelle nationale il y ait beaucoup de différences) ce n'est pas gagné d'espérer voir une "amélioration" significative même à TLT :
-	Donc je ne suis pas prêt de revoir l’eau couler à nouveau dans le Ninian( oui en Bretagne !) :
-								1
-								2
-								7
-								9
-
-=======================
-
 Auteur: Banleve7519
 Message:
 Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
@@ -542,25 +530,24 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 14 heures par giec 2100
+	Modifié il y a 16 heures par giec 2100
 								1
 								1
 								4
 								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce sont elles qui dictent notre temps sensible.
+	En début de topic l'anticyclone  présent à l'ouest de la France va se renforcer et en milieu de semaine, après un énième coup de chaud dans le sud (peu durable heureusement), les températures vont baisser pour retrouver des températures proches des valeurs de saison, parfois  un peu au dessous, parfois un peu au dessus.
+	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
+	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
+	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
+	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: bernardt60
-Message:
-C'est à se demander si comme on avait fait en hiver une année recherche de signaux de VDF à TLT tant l'attente était devenue insupportable ; il ne faudrait pas le faire aussi pour la recherche de signaux de précipitations significatives à TLT 😊
-	Car si je prends les diagrammes de ma localité ( je fais du régionalisme mais je ne pense pas  qu'à l'échelle nationale il y ait beaucoup de différences) ce n'est pas gagné d'espérer voir une "amélioration" significative même à TLT :
-	Donc je ne suis pas prêt de revoir l’eau couler à nouveau dans le Ninian( oui en Bretagne !) :
-								1
-								2
-								7
-								9
-
-=======================
-
 Auteur: Banleve7519
 Message:
 Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
@@ -739,8 +726,19 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 14 heures par giec 2100
+	Modifié il y a 16 heures par giec 2100
 								1
 								1
 								4
 								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce sont elles qui dictent notre temps sensible.
+	En début de topic l'anticyclone  présent à l'ouest de la France va se renforcer et en milieu de semaine, après un énième coup de chaud dans le sud (peu durable heureusement), les températures vont baisser pour retrouver des températures proches des valeurs de saison, parfois  un peu au dessous, parfois un peu au dessus.
+	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
+	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
+	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
+	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.

@@ -308,7 +308,7 @@ Températures minimales : stables.
 Températures maximales : en hausse sur le Soissonnais ainsi que sur le Valois.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 130405 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 13 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 13 septembre 2026 à 00H00 UTC, et évolution Thalweg en Mer du Nord, s'évacuant vers l'est, dimanche matin. Anticyclone 1026 hPa sur le Golfe de Gascogne, gagnant le nord de la France. Dépression relative à 1021 hPa se creusant en fond de Golfe de Gascogne lundi après-midi. 3 - Prévisions pour la journée du dimanche 13 septembre VENT : Ouest à Sud-Ouest 4 à 5, mollissant 3 à 4 l'après-midi, et devenant localement Variable 2 à 4, près de le frontière Belge. MER : peu agitée, parfois agitée en Manche. HOULE : s'amplifiant Ouest à Sud-Ouest 0.5 à 1 m cet après-midi. TEMPS : couvert, quelques pluies. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du dimanche 13 septembre au lundi 14 septembre VENT : Ouest à Sud-Ouest mollissant 2 à 3, fraîchissant 3 à 4 en fin de nuit. MER : peu agitée, devenant belle à peu agitée en Mer du Nord, la nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, s'amortissant progressivement par le nord. TEMPS : très nuageux à couvert, rares pluies. VISIBILITE : bonne, moyenne sous pluies. 5 - Prévisions pour la journée du lundi 14 septembre VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant Sud-Ouest 3 à 4, le matin, et mollissant 2 à 3 au sud de Boulogne l'après-midi. MER : belle à peu agitée. HOULE : Ouest proche de 0.5 m en Manche. TEMPS : très nuageux à couvert, rares pluies. VISIBILITE : bonne, moyenne sous pluies. 6 - Prévisions pour la nuit du 14 au 15 et la journée du mardi 15 septembre VENT : Secteur Sud-Ouest 3 à 4, fraîchissant 5 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante d'Ouest à Sud-Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Mercredi 16 septembre Secteur Nord-Ouest modéré. Indice de confiance : 4 sur 5 Jeudi 17 septembre Secteur Sud-Ouest modéré à assez fort. Indice de confiance : 4 sur 5 Vendredi 18 septembre Secteur Ouest modéré à assez fort. Indice de confiance : 4 sur 5 Samedi 19 septembre Secteur Ouest modéré à assez fort. Indice de confiance : 3 sur 5 8 - Observations le dimanche 13 septembre 2026 à 03H00 UTC Dunkerque : vent Sud-Ouest 8 noeuds, 1022 hPa en baisse. Cap Gris Nez : vent Ouest-Sud-Ouest 19 noeuds. Boulogne : vent Ouest-Sud-Ouest 12 noeuds, 1022 hPa en baisse, très nuageux à couvert, visibilité 8 milles. Bouée Sandettie : vent Ouest-Sud-Ouest 16 noeuds, creux 0,6 mètre, 1021 hPa en baisse, visibilité 5 milles. Prochain bulletin le dimanche 13 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 130930 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 13 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 13 septembre 2026 à 06H00 UTC, et évolution Thalweg en Mer du Nord, s'évacuant vers l'est, dimanche matin. Anticyclone 1026 hPa sur le Golfe de Gascogne, gagnant le nord de la France. Dépression relative à 1021 hPa se creusant en fond de Golfe de Gascogne lundi après-midi. 3 - Prévisions pour l'après-midi du dimanche 13 septembre VENT : Ouest à Sud-Ouest 4 à 5, mollissant 3 à 4 le soir. MER : peu agitée, localement agitée en Manche. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : couvert, pluie. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du dimanche 13 septembre au lundi 14 septembre VENT : Ouest à Sud-Ouest 3 à 4. MER : peu agitée, devenant belle à peu agitée en Mer du Nord en seconde partie de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, devenant non significative en Mer du Nord en seconde partie de nuit. TEMPS : très nuageux à couvert, rares pluies. VISIBILITE : bonne, moyenne sous pluie. 5 - Prévisions pour la journée du lundi 14 septembre VENT : Sud-Ouest 3 à 4. MER : belle à peu agitée, devenant peu agitée à la mi-journée. HOULE : Ouest proche de 0.5 m en Manche. TEMPS : très nuageux à couvert, rares pluies. VISIBILITE : bonne, moyenne sous pluie. 6 - Prévisions pour la nuit du 14 au 15 et la journée du mardi 15 septembre VENT : Sud-Ouest 3 à 4, localement secteur Sud 2 à 4 en Manche, fraîchissant Ouest 4 à 5 l'après-midi. MER : belle à peu agitée. HOULE : non significative, s'établissant Sud-Ouest 0.5 à 1 m en Mer du Nord l'après-midi. TEMPS : très nuageux à couvert, banc de brume la nuit. VISIBILITE : bonne, localement moyenne à mauvaise par brume. 7 - Prévisions pour la nuit du 15 au 16 et la journée du mercredi 16 septembre VENT : Ouest à Nord-Ouest 4 à 5. MER : peu agitée, temporairement agitée en Manche. HOULE d'Ouest à Sud-Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Jeudi 17 septembre secteur Sud-Ouest modéré a assez fort à l'est du domaine, secteur Ouest modéré à l'ouest du domaine. Indice de confiance : 4 sur 5 Vendredi 18 septembre secteur Ouest faible à modéré. Indice de confiance : 4 sur 5 Samedi 19 septembre secteur Ouest faible à modéré. Indice de confiance : 4 sur 5 Dimanche 20 septembre secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 9 - Observations le dimanche 13 septembre 2026 à 09H00 UTC Dunkerque : vent Ouest 14 noeuds, mer peu agitée, 1022 hPa en hausse, brouillard, visibilité 2 milles. Cap Gris Nez : vent Ouest-Sud-Ouest 21 noeuds. Boulogne : vent Ouest-Sud-Ouest 12 noeuds, 1023 hPa en hausse. Prochain bulletin le dimanche 13 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -332,12 +332,12 @@ façade est du pays.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions Centre-Ouest - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Statistiques et anomalies climatiques globales
+• Infoclimat Direct : Du 14 septembre au 20 septembre 2026 prévisions météo semaine 38
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : recherche d'un pluviomètre orgon pour ma station wmr 200
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 13/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -345,24 +345,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 13 Septembre 2026.
-Résumé général HDF précédent : Sur l’ensemble des deux semaines, les Hauts-de-France restent sous influence anticyclonique. Temps sec dominant, pic de chaleur mardi 15, rafraîchissement jeudi-vendredi, puis probable regain de douceur voire de chaleur en fin de semaine 39. Précipitations très faibles, sécheresse toujours préoccupante..
+Résumé général HDF précédent : Sur l'ensemble des deux semaines, les Hauts-de-France restent sous influence anticyclonique. Temps sec dominant, pic de chaleur mardi 15, rafraîchissement jeudi-vendredi, puis probable regain de douceur voire de chaleur en fin de semaine 39. Précipitations très faibles, sécheresse toujours préoccupante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies faibles localisées en Flandre et sur le littoral, averses possibles jeudi-vendredi, pas d’orages significatifs..
+Températures attendues précédemment : Rafraîchissement temporaire en milieu de semaine, puis temps sec et doux..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
-Auteur: bernardt60
-Message:
-C'est à se demander si comme on avait fait en hiver une année recherche de signaux de VDF à TLT tant l'attente était devenue insupportable ; il ne faudrait pas le faire aussi pour la recherche de signaux de précipitations significatives à TLT 😊
-	Car si je prends les diagrammes de ma localité ( je fais du régionalisme mais je ne pense pas  qu'à l'échelle nationale il y ait beaucoup de différences) ce n'est pas gagné d'espérer voir une "amélioration" significative même à TLT :
-	Donc je ne suis pas prêt de revoir l’eau couler à nouveau dans le Ninian( oui en Bretagne !) :
-								1
-								2
-								7
-								9
-
-=======================
-
 Auteur: Banleve7519
 Message:
 Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
@@ -541,25 +529,24 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 14 heures par giec 2100
+	Modifié il y a 16 heures par giec 2100
 								1
 								1
 								4
 								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce sont elles qui dictent notre temps sensible.
+	En début de topic l'anticyclone  présent à l'ouest de la France va se renforcer et en milieu de semaine, après un énième coup de chaud dans le sud (peu durable heureusement), les températures vont baisser pour retrouver des températures proches des valeurs de saison, parfois  un peu au dessous, parfois un peu au dessus.
+	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
+	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
+	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
+	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: bernardt60
-Message:
-C'est à se demander si comme on avait fait en hiver une année recherche de signaux de VDF à TLT tant l'attente était devenue insupportable ; il ne faudrait pas le faire aussi pour la recherche de signaux de précipitations significatives à TLT 😊
-	Car si je prends les diagrammes de ma localité ( je fais du régionalisme mais je ne pense pas  qu'à l'échelle nationale il y ait beaucoup de différences) ce n'est pas gagné d'espérer voir une "amélioration" significative même à TLT :
-	Donc je ne suis pas prêt de revoir l’eau couler à nouveau dans le Ninian( oui en Bretagne !) :
-								1
-								2
-								7
-								9
-
-=======================
-
 Auteur: Banleve7519
 Message:
 Les tendances sont désespérément sèches et il n’y a pour l’instant pas de porte de sortie visible sur les ensembles hormis quelques perturbations atténuées dans la nord du pays.
@@ -738,8 +725,19 @@ sur CEP AI, dernière mouture, écrasante majorité de scénarios à puissante d
 	il faudra vraiment savourer la "fraîcheur" de milieu de semaine prochaine pour se requinquer avant la nouvelle coulée de lave...
 	l'astronomie nous protégera un peu de la météorologie féroce, avec 20 minutes de nuit en plus par semaine près de l'équinoxe...
 	comme le naufragé on se raccroche à ce qu'on trouve...
-	Modifié il y a 14 heures par giec 2100
+	Modifié il y a 16 heures par giec 2100
 								1
 								1
 								4
 								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Les hautes pressions restent omniprésentes de l'atlantique à la France,  ce sont elles qui dictent notre temps sensible.
+	En début de topic l'anticyclone  présent à l'ouest de la France va se renforcer et en milieu de semaine, après un énième coup de chaud dans le sud (peu durable heureusement), les températures vont baisser pour retrouver des températures proches des valeurs de saison, parfois  un peu au dessous, parfois un peu au dessus.
+	En fin de topic l'anticyclone pourrait avoir tendance à se rapprocher de la France tout en s'élevant un peu vers le nord :
+	La position des hautes pressions en fin de topic est à affiner, mais il est possible que dans le nord-est voire le nord, une faiblesse de celles-ci permettent à quelques précipitations de tomber, le reste du pays n'aurait sans doute rien ou pas grand-chose :
+	Rien d'extraordinaire donc a attendre pour ce topic au vu des dernières modélisations mais cela peut encore évoluer un peu car les modèles différent mais l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute.
+	Le prochain topic reste lui ouvert avec des signaux d'élévation plus franche des hautes pressions vers le nord ( surtout  CEP et AIFS mais aussi dans une moindre mesure GFS et GEM) sans qu'on sache, si cela va se concrétiser. Si les pressions baissent suffisamment sur la France cela pourrait ouvrir des perspectives de précipitations  plus conséquentes notamment dans le sud.
