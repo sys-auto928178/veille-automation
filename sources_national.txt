@@ -306,12 +306,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans les Régions Centrales | Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Climatologie 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 14/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -319,9 +319,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 14 Septembre 2026.
-Résumé général précédent : .
+Résumé général précédent : Anticyclone dominant, chaleur pour la saison, déficit pluviométrique; pic de chaleur lundi-mardi, répit mercredi-jeudi, nouvelle hausse probable en semaine 2..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, souvent ensoleillé, chaleur modérée pour la saison..
+Températures attendues précédemment : Temps sec, chaleur marquée, baisse nette en milieu de semaine, pluies très limitées..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -507,7 +507,7 @@ Message:
 	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
 	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
 	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 19:36 par giec 2100
 								1
 
 =======================
@@ -518,26 +518,16 @@ Bonjour @giec 2100,
 	je pense que nous ne parlons pas de la même chose. La dorsale guide le flux vers l'Europe de l'ouest. Nous serions dans une synoptique entre NAO+ et Pont atlantique avant que les hauts géopotentiels ne s'installent vraiment sur le le flanc ouest du continent.
 	Pour illustré, j'ai modélisé le parcours d'une particule durant la semaine:
 	Cette synoptique serait plus favorable à un faible mistral, ce qui n'est pas opposé à une énième installation de la chaleur par le sud avec le gonflement des hauts géopotentiels. Cependant j'ai toujours du mal avec ce prétendu flux de sud:
-	Modifié il y a 10 heures par tao
+	Modifié il y a 12 heures par tao
 								2
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Tornado75
-Message:
-Bon et bien ce matin on sait à quelle sauce on va être mange pour cette semaine. Un beau dôme de chaleur à nouveau. De nouveaux records battus pour une troisième décade. Et toujours pas une goutte d'eau.
-	C'est encore loin mais le scénario du pire a l'air d'arriver à nouveau. 
-	Virgile avait vu juste 
-								5
-								2
-
-=======================
-
 Auteur: Kyrion
 Message:
 Oui, assez incroyable cette récurrence sèche. On va tranquillement ajouter 1 mois de plus à notre besace de sécheresse (je trouve d'habitude hors de propos de mettre ces cartes hors échéance, mais la similarité des zones sèches et humides est remarquable) GFS // CEP à J+ ... :
 	Il y a pu avoir quelques sorties qui laissaient entrevoir une humidification par le sud. Ils ont disparu manu militari.
-	Modifié il y a 12 heures par Kyrion
+	Modifié il y a 14 heures par Kyrion
 								5
 								6
 
@@ -581,7 +571,7 @@ Il y a 4 heures, Tornado75 a dit :
 	Cette sècheresse est très préoccupante !
 	Début de topic (CEP) :
 	Fin de topic ( CEP) :
-	Modifié il y a 8 heures par petit âge glaciaire 11
+	Modifié il y a 10 heures par petit âge glaciaire 11
 								1
 								1
 								2
@@ -597,8 +587,8 @@ Hello
 	Sans déconner cartes vraiment immonde ce jour, en hiver on aurait pu éventuellement attendre du stratus, mais là.
 	A voir si on ira sur la vague de chaleur ; j'espère que ça sera minoré... mais en tous cas aucun signal pluvieux. Autant cette semaine on hésitait avec les légères ondulations, mais alors pour la prochaine et le patator sur nous...
 	Manu
-	Modifié il y a 7 heures par edd
-								2
+	Modifié il y a 9 heures par edd
+								3
 								1
 								2
 								1
@@ -649,7 +639,7 @@ un dome de chaleur en vue encore 1 pour la semaine à venir avec des températur
 Auteur: clem11
 Message:
 C’est juste dramatique quoi ! Et moi les seuls trucs que j’entends autour de moi c’est « enfin il fait frais » « du soleil chouette ». Alors c’est vrai même moi je me suis surpris à me dire qu’il faisait enfin bon parce qu’on dort. Mais c’est dingue comment on a déjà oublié l’ancien climat. 
-								1
+								4
 
 =======================
 
@@ -669,7 +659,7 @@ Auteur: fas78
 Message:
 Faut avouer que c'est impressionnant ces HP qui ont élu domicile sur l'europe de l'ouest depuis mai. 
 	Quand on voit cette carte, j'ai du mal à trouver la porte de sortie vu qu'on est cerné de partout. 
-								1
+								2
 
 =======================
 
@@ -685,7 +675,7 @@ je ne suis pas sûr que le ciblage NAO plus ou moins et les blocages à l'avenan
 	nous disposons d'instruments d'interprétation et de guidage qu'il faut peut-être garder sous le coude hors des périodes loufoques comme celles-ci ; même en fin d'échéance les signaux sont peu encourageants quant à la sortie du verrouillage ; regarder l'historique récent (encore une histoire...) des runs, par exemple ceux de CEP version IA pour la synoptique hémisphérique de la fin du topic interroge :
 	c'est une méthode pragmatique qui en vaut bien d'autres, qui a le mérite de mettre en évidence sur 4 jours ce qui est prévu de bouger et ce qui imperturbablement (!) reste figé ; au bilan sur le cas d'espèce les minimums ont droit à un siège amovible, en vrais parquetiers pour dire le droit sous l'influence de la chancellerie polaire, tandis que les juges anticycloniques et leur siège quasi inamovible dicte le verdict sans appel,  avec du blocage pour la France...
 	pour continuer à filer la métaphore on notera que si les parquetiers bénéficiaient d'une assise, avec la réforme offerte par la chancellerie, elle n'aurait pas grande profondeur : on est loin des profondes dépressions à 960 hPa ou moins qui s'enhardissent en face de l'Irlande à l'entrée de l'automne comme certaines années...
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
 								1
 								1
 
@@ -695,7 +685,7 @@ Auteur: TornadeScintillante
 Message:
 Résumé probable de cette semaine : y'en a marre. 
 								1
-								3
+								4
 
 =======================
 
@@ -714,7 +704,7 @@ Auteur: Blacksun
 Message:
 Bill Murray revivait sans fin le jour de la marmotte nous c'est le jour de la patate 😁😐
 								2
-								1
+								2
 
 =======================
 
@@ -731,10 +721,21 @@ il y a une heure, giec 2100 a dit :
 
 =======================
 
-Auteur: Nicolas L
+Auteur: giec 2100
 Message:
-D’ailleurs, au 0Z de CEP ce matin, on a un joli coup de balai sur la dorsale vers le 25-26. C’est loin, mais chaque signal est bon à prendre.
-	L’avancée dans la saison et le contraste thermique entre le pôle nord et l'équateur va bien finir par relancer la dynamique d'ouest. 
-								2
-								2
+Il y a 2 heures, petit âge glaciaire 11 a dit :
+			Personnellement je ne vois pas trop l'intérêt d'analyser des runs à si long terme d' AIFS.
+			Il faudrait plutôt comparer des moyennes ou alors des runs à plus courte échéance. 
+			Des runs à long terme peuvent changer radicalement sans qu'on puisse en tirer une analyse ou une conclusion. AIFS est je pense encore plus sujet à changer à long terme que le père CEP..
+	du reste ça change beaucoup pour la position des minimums polaires sur ces trois runs... l'exercice se veut plutôt didactique, au reste on voit au moins quelque chose qui ne bouge pas fondamentalement du côté des hautes pressions...
+	bon on peut aussi s'amuser à attendre encore 48H, voir si cette caractéristique se maintient, et même voir si le signal de @Nicolas L nous ouvre l'espoir ou relève du énième mirage...
+	particulièrement inquiétante c'est l'animation des températures à 850hPa, ici avec GFS 12h, en se centrant sur l'Afrique et non plus sur le pôle : ça s'arrête à jeudi 24 septembre ; ici avec une image fixe, sinon on voit la masse d'air saharo-sahélienne repousser l'air polaire sans répit ; sans doute le même mécanisme qui nous suit depuis des mois et des mois...
+	Modifié il y a 1 heure par giec 2100
+								1
+
+=======================
+
+Auteur: Lodu17
+Message:
+L'emploi du conditionnel serait le bienvenu.
 								1
