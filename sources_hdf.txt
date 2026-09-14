@@ -280,7 +280,7 @@ Températures minimales : en hausse sur la Thiérache.
 Températures maximales : stables.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 140945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 14 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 14 septembre 2026 à 06H00 UTC, et évolution Dorsale atlantique sur le Golfe de Gascogne, s'affaiblissant. Dépression 994 hPa sur l'Islande, se décalant lentement vers le nord-est. Thalweg associé sur le Golfe de Gascogne mardi matin. 3 - Prévisions pour l'après-midi du lundi 14 septembre VENT : Sud-Ouest 3 à 4, parfois 5 en Mer du Nord. MER : belle à peu agitée. HOULE : devenant non significative. TEMPS : très nuageux à couvert. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 14 septembre au mardi 15 septembre VENT : Sud à Sud-Ouest 2 à 4. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux à très nuageux, localement bancs de brume. VISIBILITE : bonne, localement mauvaise par bancs de brume. 5 - Prévisions pour la journée du mardi 15 septembre VENT : Sud-Ouest 2 à 4, fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi, puis virant Ouest à Nord-Ouest à la fin. MER : belle à peu agitée, devenant peu agitée l'après-midi. HOULE : non significative. TEMPS : très nuageux, parfois bancs de brume le matin, puis averses l'après-midi. VISIBILITE : mauvaise par bancs de brume, puis moyenne sous averses l'après-midi. 6 - Prévisions pour la nuit du 15 au 16 et la journée du mercredi 16 septembre VENT : Nord-Ouest 3 à 4, parfois 5 la nuit. MER : peu agitée. HOULE : s'établissant Sud-Ouest 0.5 à 1 m. TEMPS : peu nuageux à nuageux, parfois averses la nuit. VISIBILITE : bonne, parfois moyenne sous averses la nuit. 7 - Prévisions pour la nuit du 16 au 17 et la journée du jeudi 17 septembre VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 6 en cours de matinée. Fortes rafales. MER : peu agitée devenant agitée en seconde partie de nuit. HOULE non significative s'établissant localement à l'Ouest à Sud-Ouest 1 à 1,5 m. 8 - Tendance pour les jours suivants Vendredi 18 septembre Ouest à Nord-Ouest modéré a assez fort, basculant progressivement Sud-Ouest à Ouest modéré à assez fort Indice de confiance : 4 sur 5 Samedi 19 septembre Secteur Sud-Ouest modéré à assez fort, devenant secteur Ouest faible à modéré Indice de confiance : 4 sur 5 Dimanche 20 septembre Variable faible à modéré Indice de confiance : 4 sur 5 Lundi 21 septembre Variable faible à modéré Indice de confiance : 4 sur 5 9 - Observations le lundi 14 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Ouest 8 noeuds, 1024 hPa en hausse. Cap Gris Nez : vent Sud-Ouest 12 noeuds. Boulogne : vent Sud-Sud-Ouest 8 noeuds, 1024 hPa en hausse. Prochain bulletin le lundi 14 septembre 2026, vers 18H00 légales
+FQCT40 LFQQ 141620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 14 septembre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 14 septembre 2026 à 12H00 UTC, et évolution Dorsale atlantique sur le Golfe de Gascogne. Dépression complexe 997 hPa sur l'Islande, se décalant lentement vers le nord-est. Thalweg associé balayant la Manche mardi matin. 3 - Prévisions pour la nuit du lundi 14 septembre au mardi 15 septembre VENT : secteur Sud-Ouest 2 à 4. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux à très nuageux, localement bancs de brume. VISIBILITE : bonne, localement mauvaise par bancs de brume. 4 - Prévisions pour la journée du mardi 15 septembre VENT : secteur Sud-Ouest 2 à 4, fraîchissant 4 à 5 l'après-midi, puis virant Ouest à Nord-Ouest à la fin. MER : belle à peu agitée, devenant peu agitée l'après-midi. HOULE : non significative. TEMPS : très nuageux, parfois bancs de brume le matin, puis averses l'après-midi. VISIBILITE : mauvaise par bancs de brume, puis moyenne sous averses l'après-midi. 5 - Tendance pour la nuit du 15 au 16, et la journée du mercredi 16 septembre VENT : Nord-Ouest 3 à 4, parfois 5 la nuit, revenant Ouest à Nord-Ouest l'après-midi. MER : peu agitée. HOULE : s'établissant Sud-Ouest 0.5 à 1 m. TEMPS : peu nuageux à nuageux, parfois averses la nuit. VISIBILITE : bonne, parfois moyenne sous averses la nuit. 6 - Prévisions pour la nuit du 16 au 17 et la journée du jeudi 17 septembre VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 6 en cours de matinée. Fortes rafales. MER : peu agitée devenant agitée en seconde partie de nuit. HOULE non significative s'établissant localement à l'Ouest à Sud-Ouest 1 à 1,5 m. 7 - Tendance pour les jours suivants Vendredi 18 septembre Ouest à Nord-Ouest modéré a assez fort, basculant progressivement Sud-Ouest à Ouest modéré à assez fort Indice de confiance : 4 sur 5 Samedi 19 septembre Secteur Sud-Ouest modéré à assez fort, devenant secteur Ouest faible à modéré Indice de confiance : 4 sur 5 Dimanche 20 septembre Variable faible à modéré Indice de confiance : 4 sur 5 Lundi 21 septembre Variable faible à modéré Indice de confiance : 4 sur 5 8 - Observations le lundi 14 septembre 2026 à 15H00 UTC Dunkerque : vent Sud-Sud-Ouest 8 noeuds, mer belle, 1023 hPa en baisse, très nuageux à couvert, visibilité 6 milles. Cap Gris Nez : vent Sud-Ouest 12 noeuds. Boulogne : vent Sud-Sud-Ouest 8 noeuds, 1023 hPa en baisse. Bouée Sandettie : vent Sud-Sud-Ouest 17 noeuds, creux 0,3 mètre, 1022 hPa en baisse, visibilité 10 milles. Prochain bulletin le mardi 15 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -301,12 +301,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Prévisions Nord - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : &#x2600;&#xFE0F;&#x1F393;&#x1F3EB; &#x1D40B;'&#x1D400;&#x1D426;&#x1D429;&#x1D421;&#x1D422; &#x1D40C;e&#x1D42D;e&#x1D428; &#x1F3EB;&#x1F393;&#x2600;&#xFE0F; : prédis la météo, deviens... Major de Promo !
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 14/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,9 +314,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 14 Septembre 2026.
-Résumé général HDF précédent : Conditions anticycloniques durables sur l'ensemble de la période, avec des températures supérieures aux normales de saison. Pic de chaleur en début de semaine 1 (28-32°C), rafraîchissement temporaire en milieu de semaine 1 (18-22°C), puis remontée progressive avec réinstallation de conditions chaudes en semaine 2 (25-30°C potentiels). Précipitations très rares et localisées, sécheresse préoccupante..
+Résumé général HDF précédent : Anticyclone omniprésent, temps sec et chaud pour la saison. Pic de chaleur en début de période, puis rafraîchissement temporaire, et retour d'une chaleur marquée en semaine 2. Précipitations très rares..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et ensoleillé, températures en hausse en fin de période, notamment dimanche 20..
+Températures attendues précédemment : Temps sec, ensoleillé, chaud pour la saison, notamment en fin de période..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -502,7 +502,7 @@ Message:
 	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
 	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
 	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -513,27 +513,11 @@ Bonjour @giec 2100,
 	je pense que nous ne parlons pas de la même chose. La dorsale guide le flux vers l'Europe de l'ouest. Nous serions dans une synoptique entre NAO+ et Pont atlantique avant que les hauts géopotentiels ne s'installent vraiment sur le le flanc ouest du continent.
 	Pour illustré, j'ai modélisé le parcours d'une particule durant la semaine:
 	Cette synoptique serait plus favorable à un faible mistral, ce qui n'est pas opposé à une énième installation de la chaleur par le sud avec le gonflement des hauts géopotentiels. Cependant j'ai toujours du mal avec ce prétendu flux de sud:
-	Modifié il y a 8 heures par tao
+	Modifié il y a 10 heures par tao
 								2
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: tao
-Message:
-Bonsoir,
-	ce n'est pas avec enthousiasme que j'ouvre cette semaine. L'été est long, les chaleurs persistent et les pluies d'automne se font désirer.
-	Il est tout à fait envisageable, qu'au minimum le début de semaine soit marqué par le sceau du couple NAO+/BL- sur la face occidentale de notre continent. Concrètement ce serait une prolongation d'une influence océanique très dégradée en France. Le courant océanique étant détourné vers l'Europe du nord pourrait maintenir des conditions très sèches et plutôt chaudes en France, le jet circulant plus vers des latitudes élevées:
-	Je rappelle au passage que depuis quelques semaines nous sommes sortis des régimes de blocage sans que cela soit perceptible au niveau météorologique à nos latitudes.
-	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
-	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
-	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
-	Modifié il y a 20 heures par tao
-								9
-								10
-								4
-
-=======================
-
 Auteur: Tornado75
 Message:
 Bon et bien ce matin on sait à quelle sauce on va être mange pour cette semaine. Un beau dôme de chaleur à nouveau. De nouveaux records battus pour une troisième décade. Et toujours pas une goutte d'eau.
@@ -548,7 +532,7 @@ Auteur: Kyrion
 Message:
 Oui, assez incroyable cette récurrence sèche. On va tranquillement ajouter 1 mois de plus à notre besace de sécheresse (je trouve d'habitude hors de propos de mettre ces cartes hors échéance, mais la similarité des zones sèches et humides est remarquable) GFS // CEP à J+ ... :
 	Il y a pu avoir quelques sorties qui laissaient entrevoir une humidification par le sud. Ils ont disparu manu militari.
-	Modifié il y a 10 heures par Kyrion
+	Modifié il y a 12 heures par Kyrion
 								5
 								6
 
@@ -566,7 +550,7 @@ Oui à part quelques "pyrocumulus de beau temps" rien à se mettre sous la dent.
 Auteur: Krholam
 Message:
 La relation de l’hexagone en ce moment avec L’anticyclone
-								6
+								7
 								1
 								1
 
@@ -592,7 +576,7 @@ Il y a 4 heures, Tornado75 a dit :
 	Cette sècheresse est très préoccupante !
 	Début de topic (CEP) :
 	Fin de topic ( CEP) :
-	Modifié il y a 6 heures par petit âge glaciaire 11
+	Modifié il y a 8 heures par petit âge glaciaire 11
 								1
 								1
 								2
@@ -608,7 +592,7 @@ Hello
 	Sans déconner cartes vraiment immonde ce jour, en hiver on aurait pu éventuellement attendre du stratus, mais là.
 	A voir si on ira sur la vague de chaleur ; j'espère que ça sera minoré... mais en tous cas aucun signal pluvieux. Autant cette semaine on hésitait avec les légères ondulations, mais alors pour la prochaine et le patator sur nous...
 	Manu
-	Modifié il y a 5 heures par edd
+	Modifié il y a 7 heures par edd
 								2
 								1
 								2
@@ -643,6 +627,7 @@ Message:
 On a d'ailleurs pas beaucoup de référence de fort blocage fin septembre sur ces dernières années.
 	Le dernier digne de ce nom doit remonter à 1985, à une époque où le climat était sensiblement plus frais. 
 								1
+								1
 								3
 
 =======================
@@ -651,14 +636,15 @@ Auteur: Virgile
 Message:
 un dome de chaleur en vue encore 1 pour la semaine à venir avec des températures incroyablement chaudes pour la saison (records? ). Les 30 pourraient etre approchés voir dépassés sur la moitié nord.  les 35 approchés dans le sud ouest. Juin, juillet, aout, septembre, on enchaine des mois exceptionnels.  Avant l'excédent c'était de 1 à 2 degrés, maintenant c’est 3-4 degrés, normal quoi! Et tout ceci sans PP.
 								2
-								6
+								7
 								1
 
 =======================
 
 Auteur: clem11
 Message:
-C’est juste dramatique quoi ! Et moi les seuls trucs que j’entends autour de moi c’est « enfin il fait frais » « du soleil chouette ». Alors c’est vrai même moi je me suis surpris à me dire qu’il faisait enfin bon parce qu’on dort. Mais c’est dingue comment on a déjà oublié l’ancien climat.
+C’est juste dramatique quoi ! Et moi les seuls trucs que j’entends autour de moi c’est « enfin il fait frais » « du soleil chouette ». Alors c’est vrai même moi je me suis surpris à me dire qu’il faisait enfin bon parce qu’on dort. Mais c’est dingue comment on a déjà oublié l’ancien climat. 
+								1
 
 =======================
 
@@ -670,6 +656,7 @@ Il n'y a pour le moment que deux points auxquels je me raccroche désespérémen
 	Pour Toulouse, on est plutôt sur 16-17°C:
 	Comme sur Marseille:
 	Pour les PP, toujours rien ou presque. Je vais finir par ne plus l'écrire.
+								1
 
 =======================
 
@@ -693,7 +680,8 @@ je ne suis pas sûr que le ciblage NAO plus ou moins et les blocages à l'avenan
 	nous disposons d'instruments d'interprétation et de guidage qu'il faut peut-être garder sous le coude hors des périodes loufoques comme celles-ci ; même en fin d'échéance les signaux sont peu encourageants quant à la sortie du verrouillage ; regarder l'historique récent (encore une histoire...) des runs, par exemple ceux de CEP version IA pour la synoptique hémisphérique de la fin du topic interroge :
 	c'est une méthode pragmatique qui en vaut bien d'autres, qui a le mérite de mettre en évidence sur 4 jours ce qui est prévu de bouger et ce qui imperturbablement (!) reste figé ; au bilan sur le cas d'espèce les minimums ont droit à un siège amovible, en vrais parquetiers pour dire le droit sous l'influence de la chancellerie polaire, tandis que les juges anticycloniques et leur siège quasi inamovible dicte le verdict sans appel,  avec du blocage pour la France...
 	pour continuer à filer la métaphore on notera que si les parquetiers bénéficiaient d'une assise, avec la réforme offerte par la chancellerie, elle n'aurait pas grande profondeur : on est loin des profondes dépressions à 960 hPa ou moins qui s'enhardissent en face de l'Irlande à l'entrée de l'automne comme certaines années...
-	Modifié il y a 41 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
 								1
 
 =======================
@@ -701,4 +689,47 @@ je ne suis pas sûr que le ciblage NAO plus ou moins et les blocages à l'avenan
 Auteur: TornadeScintillante
 Message:
 Résumé probable de cette semaine : y'en a marre. 
+								1
+								3
+
+=======================
+
+Auteur: serge26
+Message:
+Il y a 3 heures, Charly-C a dit :
+			On a d'ailleurs pas beaucoup de référence de fort blocage fin septembre sur ces dernières années.
+			Le dernier digne de ce nom doit remonter à 1985, à une époque où le climat était sensiblement plus frais. 
+	Oui et j'ai encore quelques records journaliers qui trainent de cette epoque à ma station. Je crois qu'il va etre tant qu'on les mette à jour......
+								1
+								1
+
+=======================
+
+Auteur: Blacksun
+Message:
+Bill Murray revivait sans fin le jour de la marmotte nous c'est le jour de la patate 😁😐
 								2
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+il y a une heure, giec 2100 a dit :
+			je ne suis pas sûr que le ciblage NAO plus ou moins et les blocages à l'avenant ait beaucoup de sens dans cette configuration que l'on traîne depuis la sortie de l'hiver, avec ce décalage vers le pôle des centres d'action et le verrouillage anticyclonique pour le pays... 
+			nous disposons d'instruments d'interprétation et de guidage qu'il faut peut-être garder sous le coude hors des périodes loufoques comme celles-ci ; même en fin d'échéance les signaux sont peu encourageants quant à la sortie du verrouillage ; regarder l'historique récent (encore une histoire...) des runs, par exemple ceux de CEP version IA pour la synoptique hémisphérique de la fin du topic interroge :
+			c'est une méthode pragmatique qui en vaut bien d'autres, qui a le mérite de mettre en évidence sur 4 jours ce qui est prévu de bouger et ce qui imperturbablement (!) reste figé ; au bilan sur le cas d'espèce les minimums ont droit à un siège amovible, en vrais parquetiers pour dire le droit sous l'influence de la chancellerie polaire, tandis que les juges anticycloniques et leur siège quasi inamovible dicte le verdict sans appel,  avec du blocage pour la France...
+			pour continuer à filer la métaphore on notera que si les parquetiers bénéficiaient d'une assise, avec la réforme offerte par la chancellerie, elle n'aurait pas grande profondeur : on est loin des profondes dépressions à 960 hPa ou moins qui s'enhardissent en face de l'Irlande à l'entrée de l'automne comme certaines années...
+	Personnellement je ne vois pas trop l'intérêt d'analyser des runs à si long terme d' AIFS.
+	Il faudrait plutôt comparer des moyennes ou alors des runs à plus courte échéance. 
+	Des runs à long terme peuvent changer radicalement sans qu'on puisse en tirer une analyse ou une conclusion. AIFS est je pense encore plus sujet à changer à long terme que le père CEP..
+
+=======================
+
+Auteur: Nicolas L
+Message:
+D’ailleurs, au 0Z de CEP ce matin, on a un joli coup de balai sur la dorsale vers le 25-26. C’est loin, mais chaque signal est bon à prendre.
+	L’avancée dans la saison et le contraste thermique entre le pôle nord et l'équateur va bien finir par relancer la dynamique d'ouest. 
+								2
+								2
+								1
