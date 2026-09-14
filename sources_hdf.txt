@@ -314,10 +314,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Dimanche 13 Septembre 2026.
-Résumé général HDF précédent : Blocage anticyclonique persistant sur 15 jours : chaleur de saison, parfois marquée, précipitations rares, sécheresse de surface accentuée..
+Dernier bulletin HDF généré le Lundi 14 Septembre 2026.
+Résumé général HDF précédent : Blocage anticyclonique persistant sur l'Atlantique et la France, temps sec et chaud pour la saison, avec un pic de chaleur mardi 15, un rafraîchissement temporaire en milieu de semaine, puis une nouvelle pulsion chaude en semaine 2. Précipitations rares, sécheresse de surface accentuée..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps généralement sec, chaleur marquée mardi puis en fin de semaine..
+Températures attendues précédemment : Temps sec et chaud, géopotentiels très élevés, absence de précipitations significatives. (97 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -472,7 +472,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 9 heures par giec 2100
+	Modifié il y a 11 heures par giec 2100
 
 =======================
 
@@ -509,7 +509,7 @@ Message:
 	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
 	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
 	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
 Auteur: tao
@@ -521,7 +521,7 @@ Bonsoir,
 	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
 	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
 	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
-	Modifié il y a 4 heures par tao
+	Modifié il y a 6 heures par tao
 								7
-								6
+								7
 								3
