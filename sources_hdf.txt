@@ -15,294 +15,269 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL NORD (DEPT59) ===
-Emis le : 14/09/2026 12:30
+Emis le : 14/09/2026 16:45
 
 Vigilance :
 Aujourd'hui et demain, le département du Nord est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 12h :
-A Lille-Lesquin : température de 20 degrés, vent de secteur Sud soufflant jusqu'à 20 km/h, pression niveau mer 1024 hPa.
-A Dunkerque : température de 20 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 25 km/h.
+Aujourd'hui on observait à 16h :
+A Lille-Lesquin : température de 24 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1023 hPa.
+A Dunkerque : température de 21 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 25 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cet après-midi :
-Si les nuages sont prédominants à la mi-journée, ils s'effacent progressivement devant un soleil de plus en plus généreux.
-Vent de Sud-Ouest modéré, en Flandres.
-Températures maximales : de 22 à 24 degrés.
-
-• Pour la nuit prochaine :
+• Pour cette nuit :
 Un brouillard léger, mais persistant, s'installe en début de nuit, en Flandre intérieure ainsi que sur la région lilloise et le Douaisis. Le ciel est le plus souvent couvert.
 Vent variable, faible.
 Températures minimales : comprises entre 13 et 16 degrés.
 
 • Pour demain mardi 15 en journée et la nuit suivante :
 Le soleil s'impose partout le matin. Au cours de l'après-midi, les nuages deviennent plus nombreux et cachent par moments le soleil. Pour la nuit : Les nuages sont bien présents. En fin de nuit, ils apportent de faibles pluies en Flandre maritime.
-Vent modéré, de Sud à Sud-Ouest virant Ouest-Nord-Ouest.
-Températures maximales pour le jour : de la métropole lilloise à l'Avesnois entre 28 et 30 degrés. Comprises entre 23 et 26 degrés en Flandres. Ces températures se situent au-dessus des valeurs normalement observées, par endroits bien au-dessus.
-Températures minimales pour la nuit suivante : comprises entre 13 et 16 degrés.
+Vent modéré, de Sud à Sud-Ouest tournant Ouest-Nord-Ouest.
+Températures maximales pour le jour : de la métropole lilloise à l'Avesnois de 28 à 30 degrés. Entre 23 et 26 degrés en Flandres. Ces températures sont au-dessus des valeurs normalement observées, par endroits très au-dessus.
+Températures minimales pour la nuit suivante : entre 13 et 16 degrés.
 
 • Pour la journée de mercredi 16 et la nuit suivante :
 Le matin, les nuages donnent de faibles averses en Flandre maritime. Ils s'effacent assez vite en cours de matinée au profit de belles apparitions du soleil. Rapidement le soleil domine, le ciel est souvent bleu, même si par places, quelques nuages sont encore présents. Pour la nuit : La soirée est bien étoilée. En seconde partie de nuit, les nuages sont plus nombreux.
 Vent de Nord-Ouest, modéré, jusqu'en milieu d'après-midi, après une atténuation, reprise du vent, en fin de nuit, avec orientation au Sud-Ouest.
-Températures maximales pour le jour : entre 20 et 22 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur entre 11 et 13 degrés. 15 degrés en Flandre maritime.
+Températures maximales pour le jour : de 20 à 22 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur de 11 à 13 degrés. 15 degrés en Flandre maritime.
 
 • Pour la journée de jeudi 17 :
 Les nuages sont nombreux toute la journée. En fin de journée, le soleil se montre un peu plus, mais quelques averses sont toutefois possibles, en Flandre intérieure ainsi que sur la région lilloise et le Douaisis.
-Vent de Sud-Ouest, modéré. Avec, en Flandre maritime, des rafales atteignant 55 km/h, en cours d'après-midi.
-Températures maximales : de 19 à 20 degrés.
+Vent modéré, de Sud-Ouest. Avec des rafales atteignant, en Flandre maritime, 55 km/h, en milieu d'après-midi.
+Températures maximales : entre 19 et 20 degrés.
 
 • Pour vendredi 18 et samedi 19 :
-En Flandres ainsi que sur l'Avesnois, le Valenciennois et le Cambrésis, éclaircies prédominantes, risque de pluie ou d'averses temporaire. Sur les autres régions, temps généralement ensoleillé.
-Vent modéré, d'Ouest à Sud-Ouest. Avec risque de fortes rafales.
+Éclaircies prédominantes, risque de pluie ou d'averses temporaire.
+Vent d'Ouest à Sud-Ouest, modéré. Avec risque de fortes rafales.
 Températures minimales : comprises entre 11 et 14 degrés.
-Températures maximales : voisines de 21 degrés.
+Températures maximales : entre 20 et 22 degrés.
 
 • Pour dimanche 20 et lundi 21 :
-Sur l'Avesnois, le Valenciennois et le Cambrésis, risque de pluie jusqu'à la mi-journée de dimanche. Ailleurs, le soleil brille sans partage.
-Vent d'Ouest temporairement modéré.
-Températures minimales : dans l'intérieur de 10 à 12 degrés. 14 degrés en Flandre maritime.
-Températures maximales : entre 21 et 23 degrés.
+En Flandre maritime, risque de pluie de dimanche matin jusqu'à la mi-journée. Ailleurs, beau temps sec et ensoleillé.
+Vent d'Ouest temporairement modéré, en Flandres.
+Températures minimales : dans l'intérieur comprises entre 11 et 13 degrés. 15 degrés en Flandre maritime.
+Températures maximales : de 21 à 23 degrés.
 
 • Pour mardi 22 et mercredi 23 :
-Soleil et ciel bleu prédominent.
-Vent soufflant modérément par endroits, d'Ouest, jusqu'à la mi-journée de mardi ; et de Nord-Est, de la matinée de mercredi jusqu'en fin de journée.
-Températures minimales : en hausse en Flandre intérieure ainsi que sur le Valenciennois et le Cambrésis.
-Températures maximales : en hausse en Flandre intérieure ainsi que sur l'Avesnois, le Valenciennois et le Cambrésis.
+Temps généralement ensoleillé.
+Vent modéré en Flandres, d'Ouest en fin de nuit et jusqu'à la mi-journée mardi ; et de Nord-Est, de la matinée de mercredi jusqu'en fin de journée.
+Températures minimales : identiques à la veille.
+Températures maximales : stables.
 
 === BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
-Emis le : 14/09/2026 12:30
+Emis le : 14/09/2026 16:45
 
 Vigilance :
 Aujourd'hui et demain, le département du Pas-de-Calais est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 12h :
-A Arras : température de 19 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 20 km/h.
-A Boulogne-Sémaphore : température de 18 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 25 km/h.
+Aujourd'hui on observait à 16h :
+A Arras : température de 24 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 20 km/h.
+A Boulogne-Sémaphore : température de 18 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 30 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cet après-midi :
-En début d'après-midi, les nuages sont nombreux. En cours d'après-midi, ils disparaissent progressivement et le ciel devient de plus en plus lumineux.
-Vent d'Ouest à Sud-Ouest, généralement modéré.
-Températures maximales : comprises entre 21 et 24 degrés.
-
-• Pour la nuit prochaine :
+• Pour cette nuit :
 La nuit commence sous les étoiles. Progressivement des brumes ou nuages apparaissent sur les trois quarts Ouest du département.
 Vent faible, variable.
-Températures minimales : comprises entre 14 et 16 degrés.
+Températures minimales : de 14 à 16 degrés.
 
 • Pour demain mardi 15 en journée et la nuit suivante :
 Le matin, le soleil règne sans partage. L'après-midi, le ciel se couvre progressivement. Des pluies sont possibles sur les côtes de la Manche en fin de journée. Pour la nuit : La nuit est souvent claire. Il faut toutefois attendre près de la Mer du Nord ainsi que de l'Arrageois au bassin minier, que les nombreux nuages présents en soirée se dissipent.
-Vent de Sud-Ouest puis Nord-Ouest, modéré.
-Températures maximales pour le jour : sur la moitié Est du département de 26 à 29 degrés. Entre 22 et 23 degrés du Haut Artois au littoral. Ces températures sont localement très au-dessus des valeurs normalement observées.
+Vent de Sud-Ouest tournant Nord-Ouest, modéré.
+Températures maximales pour le jour : sur la moitié Est du département entre 26 et 29 degrés. Entre 22 et 23 degrés du Haut Artois au littoral. Ces températures sont localement bien au-dessus des valeurs normalement observées.
 Températures minimales pour la nuit suivante : de 11 à 14 degrés.
 
 • Pour la journée de mercredi 16 et la nuit suivante :
-La journée est ensoleillée. En fin d'après-midi, quelques gouttes peuvent tomber sur les côtes de la Manche. Pour la nuit : La soirée est bien dégagée. En cours de nuit, des nuages arrivent et se font de plus en plus nombreux. Ils ne laissent que peu de place aux éclaircies en fin de nuit.
-Vent modéré, de secteur Ouest.
+Le soleil est partout présent. Seul bémol, des nuages en fin d'après-midi sur les côtes de la Manche qui peuvent donner quelques gouttes. Pour la nuit : La soirée est bien dégagée. En cours de nuit, des nuages arrivent et se font de plus en plus nombreux. Ils ne laissent que peu de place aux éclaircies en fin de nuit.
+Vent de secteur Ouest, modéré.
 Températures maximales pour le jour : comprises entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur, mais aussi dans le Calaisis de 11 à 14 degrés. 15 degrés sur les côtes de la Manche.
+Températures minimales pour la nuit suivante : dans l'intérieur, mais aussi dans le Calaisis entre 11 et 14 degrés. 15 degrés sur les côtes de la Manche.
 
 • Pour la journée de jeudi 17 :
 Le soleil fait bien quelques apparitions par moments, mais elles restent timides. Ce sont les nuages qui dominent, en général. À noter que nous ne sommes pas à l'abri d'averses isolées. En revanche, les éclaircies ont tendance à s'élargir, en fin d'après-midi.
-Les plus forts cumuls de pluie attendus sont de 10 millimètres sur les côtes de la Manche.
-L'après-midi jusqu'en début de soirée, vent de Sud-Ouest assez fort, sur le littoral. Avec des rafales atteignant 55 km/h.
-Températures maximales : entre 17 et 20 degrés.
+Les plus forts cumuls de pluie peuvent avoisiner 10 millimètres sur les côtes de la Manche.
+L'après-midi jusqu'en début de soirée, vent s'établissant au Sud-Ouest assez fort, sur le littoral. Avec des rafales atteignant 55 km/h.
+Températures maximales : de 17 à 20 degrés.
 
 • Pour vendredi 18 et samedi 19 :
-Temps plutôt ensoleillé, en dépit de quelques passages nuageux, risque de pluie ou d'averses temporaire.
-En fin de nuit et jusqu'à la mi-journée samedi, vent de Sud-Ouest assez fort, sur le littoral.
-Températures minimales : entre 10 et 13 degrés.
+Risque de pluie ou d'averses jusqu'à samedi en fin de journée.
+De vendredi après-midi jusqu'au lendemain en fin de journée, vent de Sud-Ouest assez fort, sur le littoral. Avec risque de fortes rafales.
+Températures minimales : comprises entre 10 et 13 degrés.
 Températures maximales : entre 19 et 21 degrés.
 
 • Pour dimanche 20 et lundi 21 :
-Sur les côtes de la Manche, temps pluvieux jusqu'au petit matin de dimanche. Sur les autres régions, beau temps ensoleillé.
-Vent d'Ouest à Sud-Ouest temporairement modéré.
-Températures minimales : de 10 à 13 degrés.
-Températures maximales : de 20 à 23 degrés.
+Sur les côtes de la Manche, risque de pluie jusqu'à la mi-journée de dimanche. Ailleurs, temps largement ensoleillé.
+Vent modéré, d'Ouest à Sud-Ouest.
+Températures minimales : comprises entre 12 et 14 degrés.
+Températures maximales : entre 20 et 23 degrés.
 
 • Pour mardi 22 et mercredi 23 :
-Temps largement ensoleillé.
-Vent localement modéré, faiblissant temporairement.
-Températures minimales : en hausse sur la moitié Est du département.
-Températures maximales : en hausse sur les côtes de la Manche, de l'Audomarois au Béthunois ainsi que sur les reliefs de l'Artois.
+Beau temps sec et ensoleillé.
+Vent localement modéré, jusqu'en fin de journée de mardi ; puis de la matinée de mercredi jusqu'en début de nuit suivante, sur le littoral.
+Températures minimales : sans changement significatif.
+Températures maximales : en hausse sur les côtes de la Manche ainsi que de l'Audomarois au Béthunois.
 
 === BULLETIN DÉPARTEMENTAL SOMME (DEPT80) ===
-Emis le : 14/09/2026 12:30
+Emis le : 14/09/2026 16:45
 
 Vigilance :
 Aujourd'hui et demain, le département de la Somme est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 12h :
-A Amiens-Glisy : température de 18 degrés, vent de secteur Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1025 hPa.
-A Cayeux-sur-Mer : température de 20 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 20 km/h.
+Aujourd'hui on observait à 16h :
+A Amiens-Glisy : température de 25 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1023 hPa.
+A Cayeux-sur-Mer : température de 20 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 20 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cet après-midi :
-Les éclaircies, déjà belles à la mi-journée, se font de plus en plus larges, et la fin d'après-midi est très ensoleillée.
-Vent faible, variable.
-Températures maximales : de 21 à 24 degrés.
-
-• Pour la nuit prochaine :
+• Pour cette nuit :
 Dès la soirée, la visibilité commence parfois à diminuer. Des bancs de brouillards se développent en cours de nuit sur le littoral picard ainsi que sur la moyenne et basse vallée de la Somme. Dans les zones épargnées par les brouillards, les étoiles sont visibles.
-Tôt le matin, vent de Sud-Sud-Est modéré, sur le Doullennais.
-Températures minimales : entre 13 et 14 degrés.
+Au lever du jour, vent de Sud-Sud-Est modéré, sur le Doullennais.
+Températures minimales : comprises entre 13 et 14 degrés.
 
 • Pour demain mardi 15 en journée et la nuit suivante :
 La journée, qui débute sous un franc soleil, voit peu à peu quelques nuages élevés circuler sur l'Amiénois et le Doullennais. L'après-midi voit passer un peu plus de nuages, mais les éclaircies restent belles. Pour la nuit : Quelques nuages en soirée, puis la nuit est claire.
 Vent de Sud-Sud-Ouest tournant Nord-Ouest, modéré.
-Températures maximales pour le jour : dans les terres de 27 à 30 degrés. 23 degrés sur le littoral picard. Ces températures sont au-dessus des valeurs normalement observées, par endroits bien au-dessus.
-Températures minimales pour la nuit suivante : entre 11 et 14 degrés.
+Températures maximales pour le jour : dans les terres de 27 à 30 degrés. 23 degrés sur le littoral picard. Ces températures sont au-dessus des valeurs normalement observées, par endroits très au-dessus.
+Températures minimales pour la nuit suivante : de 11 à 14 degrés.
 
 • Pour la journée de mercredi 16 et la nuit suivante :
-La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : Le ciel est parfaitement dégagé en première partie de nuit, plus partagé ensuite. En fin de nuit, quelques averses sont possibles, sur le littoral picard.
-Vent de secteur Ouest, modéré.
+Le soleil domine largement du matin au soir. Pour la nuit : Le ciel est clair en soirée. Des nuages commencent à se former après minuit, mais les éclaircies restent belles. Des averses peuvent se déclencher avant l'aurore, sur le littoral picard.
+Vent modéré, de secteur Ouest.
 Températures maximales pour le jour : comprises entre 18 et 20 degrés.
 Températures minimales pour la nuit suivante : dans les terres entre 10 et 13 degrés. 15 degrés sur le littoral picard.
 
 • Pour la journée de jeudi 17 :
 Le soleil fait bien quelques apparitions par moments, mais elles restent timides. Ce sont les nuages qui dominent, en général. À noter que nous ne sommes pas à l'abri d'averses isolées, sur les deux tiers ouest du département. En revanche, les éclaircies ont tendance à s'élargir, en fin d'après-midi.
 Vent de Sud-Ouest assez fort, sur le littoral picard. Rafales atteignant 55 km/h, en fin d'après-midi.
-Températures maximales : de 18 à 20 degrés.
+Températures maximales : comprises entre 18 et 20 degrés.
 
 • Pour vendredi 18 et samedi 19 :
-Ciel nuageux se dégageant temporairement, risque de pluie ou d'averses temporaire.
-Samedi en matinée jusqu'à la mi-journée, vent d'Ouest-Sud-Ouest assez fort, sur le littoral picard.
-Températures minimales : dans les terres proches de 10 degrés. 14 degrés sur le littoral picard.
-Températures maximales : proches de 20 degrés.
+Risque de pluie ou d'averses jusqu'à samedi en fin de journée.
+Vent assez fort sur le littoral picard, d'Ouest-Nord-Ouest en milieu de nuit de jeudi à vendredi ; et d'Ouest à Sud-Ouest, de la matinée de vendredi jusqu'au lendemain en fin de journée.
+Températures minimales : dans les terres voisines de 10 degrés. 15 degrés sur le littoral picard.
+Températures maximales : de 19 à 21 degrés.
 
 • Pour dimanche 20 et lundi 21 :
-Sur les deux tiers ouest du département, risque de pluie jusqu'à la mi-journée de dimanche. Sur les autres régions, le soleil brille généreusement.
-Vent d'Ouest à Sud-Ouest, modéré, jusqu'en fin de journée de dimanche, puis de lundi tôt le matin jusqu'en début de nuit par endroits.
-Températures minimales : entre 10 et 12 degrés.
-Températures maximales : voisines de 21 degrés.
+Sur le Santerre ainsi que sur les deux tiers ouest du département, risque de pluie ou d'averses jusqu'à la mi-journée de dimanche. Sur les autres régions, temps généralement ensoleillé.
+Vent modéré, d'Ouest.
+Températures minimales : de 11 à 13 degrés.
+Températures maximales : comprises entre 21 et 23 degrés.
 
 • Pour mardi 22 et mercredi 23 :
-Beau temps sec et bien ensoleillé.
-Vent localement modéré, faiblissant temporairement.
-Températures minimales : en hausse sur le Doullennais ainsi que sur le Vermandois.
-Températures maximales : en hausse sur la Picardie maritime ainsi que sur l'Amiénois et l'Est du département.
+Le soleil brille sans partage.
+Mardi en matinée et jusqu'en fin de journée, vent de Nord à Nord-Ouest localement modéré ; s'orientant Est à Nord-Est, de la matinée de mercredi jusqu'en fin de journée, au nord et à l'ouest d'Amiens.
+Températures minimales : similaires à la veille.
+Températures maximales : en hausse sur le littoral picard.
 
 === BULLETIN DÉPARTEMENTAL OISE (DEPT60) ===
-Emis le : 14/09/2026 12:30
+Emis le : 14/09/2026 16:45
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Oise est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 12h :
-A Beauvais-Tillé : température de 19 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1025 hPa.
+Aujourd'hui on observait à 16h :
+A Beauvais-Tillé : température de 26 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1023 hPa.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cet après-midi :
-Le soleil règne en maître tout l'après-midi.
-Vent variable, faible.
-Températures maximales : de 24 à 26 degrés.
-
-• Pour la nuit prochaine :
+• Pour cette nuit :
 Le ciel est souvent clair, ce n'est qu'avant l'aube que quelques nuages viennent prendre un peu de place.
 Vent faible, variable.
 Températures minimales : comprises entre 13 et 15 degrés.
 
 • Pour demain mardi 15 en journée et la nuit suivante :
-Le soleil, très présent le matin, est moins éclatant l'après-midi, souvent voilé par des passages de nuages élevés. Pour la nuit : Les nuages se font de plus en plus discrets en cours de nuit.
-Vent de Sud-Sud-Ouest tournant Ouest-Nord-Ouest modéré, en journée et une grande partie de la nuit suivante ; puis s'atténuant.
-Températures maximales pour le jour : sur la moitié Nord du département, ainsi que le Valois Multien comprises entre 28 et 31 degrés. 32 degrés sur le Vexin français et le pays de Thelle. Ces températures sont bien au-dessus des valeurs de saison.
-Températures minimales pour la nuit suivante : de 11 à 12 degrés.
+Le soleil, très présent le matin, est moins éclatant l'après-midi, souvent voilé par des passages de nuages élevés. Pour la nuit : Quelques nuages sont présents en soirée, du Valois Multien au Noyonnais. La seconde partie de nuit est étoilée pour tous.
+En journée et une grande partie de la nuit suivante, vent de Sud-Sud-Ouest puis Ouest-Nord-Ouest, modéré ; puis faiblissant.
+Températures maximales pour le jour : sur la moitié Nord du département, ainsi que le Valois Multien de 28 à 31 degrés. 32 degrés sur le Vexin français et le pays de Thelle. Ces températures se situent bien au-dessus des valeurs normalement observées.
+Températures minimales pour la nuit suivante : entre 11 et 12 degrés.
 
 • Pour la journée de mercredi 16 et la nuit suivante :
 L'ensoleillement est globalement excellent. Seuls quelques rares nuages apparaissent temporairement, sur le Vexin français et le pays de Thelle ainsi que sur le Compiégnois et le Noyonnais. Pour la nuit : Le temps est calme, avec une première partie de nuit bien étoilée.
-Vent modéré sur un grand quart Nord-Ouest, de Nord-Ouest, en journée ; et de Sud-Ouest, en fin de nuit.
-Températures maximales pour le jour : entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : de 9 à 11 degrés.
+Vent de Nord-Ouest, modéré, en journée, sur un grand quart Nord-Ouest ; après une atténuation, reprise du vent, en fin de nuit, avec orientation au Sud-Ouest.
+Températures maximales pour le jour : de 19 à 21 degrés.
+Températures minimales pour la nuit suivante : entre 9 et 11 degrés.
 
 • Pour la journée de jeudi 17 :
 Nuages et éclaircies se partagent le ciel. De rares averses sont possibles en fin de journée, sur le pays de Bray et la Picardie verte.
 Vent de Sud-Ouest, modéré.
-Températures maximales : entre 18 et 21 degrés.
+Températures maximales : comprises entre 18 et 21 degrés.
 
 • Pour vendredi 18 et samedi 19 :
-Risque de pluie ou d'averses de vendredi matin jusqu'en fin de journée.
-Vent d'Ouest temporairement modéré.
-Températures minimales : proches de 10 degrés.
-Températures maximales : entre 20 et 22 degrés.
+Soleil entrecoupé de quelques passages nuageux, risque de pluie ou d'averses temporaire.
+Vent d'Ouest à Sud-Ouest, modéré.
+Températures minimales : voisines de 10 degrés.
+Températures maximales : de 20 à 22 degrés.
 
 • Pour dimanche 20 et lundi 21 :
-Sur le pays de Bray et la Picardie verte ainsi que sur le Valois Multien, risque de pluie de dimanche matin jusqu'à la mi-journée. Ailleurs, le soleil brille sans partage.
-Vent de Nord-Ouest, modéré, dimanche en matinée et jusqu'à la mi-journée, puis lundi en matinée jusqu'à la mi-journée par endroits.
+Sur un grand quart Nord-Ouest, risque de pluie ou d'averses de dimanche matin jusqu'à la mi-journée. Sur les autres régions, temps généralement ensoleillé.
+Vent d'Ouest-Nord-Ouest, localement modéré, dimanche en matinée et jusqu'à la mi-journée ; puis lundi en matinée jusqu'à la mi-journée, sur le pays de Bray et la Picardie verte.
 Températures minimales : voisines de 10 degrés.
-Températures maximales : de 21 à 23 degrés.
+Températures maximales : proches de 22 degrés.
 
 • Pour mardi 22 et mercredi 23 :
-Soleil et ciel bleu prédominent.
-Mardi en matinée et jusqu'en fin de journée, vent de Nord, modéré sur le pays de Bray et la Picardie verte. De la matinée de mercredi jusqu'en fin de journée le vent se renforce à nouveau par endroits et s' oriente au Nord-Est.
+Beau temps sec et bien ensoleillé.
+Mercredi en matinée jusqu'à la mi-journée, vent d'Est, localement modéré.
 Températures minimales : similaires à la veille.
-Températures maximales : en hausse sur le pays de Bray et la Picardie verte ainsi que sur la moitié Est du département.
+Températures maximales : stationnaires.
 
 === BULLETIN DÉPARTEMENTAL AISNE (DEPT02) ===
-Emis le : 14/09/2026 12:30
+Emis le : 14/09/2026 16:45
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Aisne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 12h :
-A Aulnoy-sous-Laon : température de 19 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 10 km/h.
-A Saint-Quentin : température de 19 degrés.
+Aujourd'hui on observait à 16h :
+A Aulnoy-sous-Laon : température de 26 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 20 km/h.
+A Saint-Quentin : température de 24 degrés.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cet après-midi :
-Le ciel est dégagé. Quelques nuages sont présents à la mi-journée, sur le Vermandois et la Thiérache. Ils se dissipent au cours de l'après-midi.
-Vent faible, variable.
-Températures maximales : comprises entre 24 et 27 degrés.
-
-• Pour la nuit prochaine :
+• Pour cette nuit :
 La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit sur le Laonnois ainsi que sur la Champagne crayeuse.
-Vent variable, faible.
-Températures minimales : comprises entre 13 et 15 degrés.
+Vent faible, variable.
+Températures minimales : entre 13 et 15 degrés.
 
 • Pour demain mardi 15 en journée et la nuit suivante :
-C'est un temps très largement ensoleillé qui domine avec des passages nuageux plus nombreux en début et en fin de journée. Pour la nuit : Après quelques passages nuageux, la deuxième partie de nuit devient bien étoilée.
+C'est un temps très largement ensoleillé qui domine avec des passages nuageux plus nombreux en début et en fin de journée. Pour la nuit : La soirée est partagée entre passages nuageux et périodes étoilées, mais peu à peu ces dernières s'allongent, et après minuit, la voûte céleste est bien dégagée.
 Vent de Sud tournant Ouest, modéré.
-Températures maximales pour le jour : entre 29 et 32 degrés. Ces températures sont bien au-dessus des valeurs normalement observées.
-Températures minimales pour la nuit suivante : de 12 à 13 degrés.
+Températures maximales pour le jour : de 29 à 32 degrés. Ces températures se situent très au-dessus des valeurs de saison.
+Températures minimales pour la nuit suivante : entre 12 et 13 degrés.
 
 • Pour la journée de mercredi 16 et la nuit suivante :
-L'ensoleillement est excellent et le soleil règne sans partage. Pour la nuit : Un voile nuageux envahit peu à peu le ciel en seconde partie de nuit.
-Vent de Nord-Ouest, modéré, en journée ; puis atténuation.
+Le soleil est généreux tout au long de la journée. Pour la nuit : Un voile nuageux envahit peu à peu le ciel en seconde partie de nuit.
+Vent de Nord-Ouest modéré, en journée ; puis s'atténuant.
 Températures maximales pour le jour : de 20 à 22 degrés.
 Températures minimales pour la nuit suivante : comprises entre 9 et 11 degrés.
 
 • Pour la journée de jeudi 17 :
 En début de matinée, le ciel se partage entre éclaircies et nuages, puis ces derniers prennent l'avantage, le ciel se couvrant même complètement avant la fin de journée.
-Vent modéré, d'Ouest à Sud-Ouest.
-Températures maximales : entre 19 et 22 degrés.
+Vent d'Ouest à Sud-Ouest, modéré.
+Températures maximales : de 19 à 22 degrés.
 
 • Pour vendredi 18 et samedi 19 :
-Risque de pluie ou d'averses jusqu'à la mi-journée de vendredi.
-Vent modéré, d'Ouest vendredi en matinée et jusqu'à la mi-journée ; et de Sud-Ouest, samedi en matinée jusqu'à la mi-journée.
-Températures minimales : comprises entre 9 et 11 degrés.
-Températures maximales : comprises entre 20 et 23 degrés.
+Temps plutôt ensoleillé, en dépit de quelques passages nuageux, risque de pluie ou d'averses temporaire.
+Vent modéré, d'Ouest vendredi en matinée et jusqu'à la mi-journée ; et de Sud-Ouest, en fin de nuit et jusqu'à la mi-journée samedi.
+Températures minimales : entre 10 et 12 degrés.
+Températures maximales : comprises entre 21 et 23 degrés.
 
 • Pour dimanche 20 et lundi 21 :
-Sur le Laonnois ainsi que sur le Tardenois, temps pluvieux de dimanche matin jusqu'à la mi-journée. Ailleurs, temps largement ensoleillé.
-Dimanche en matinée et jusqu'à la mi-journée, vent d'Ouest, modéré.
-Températures minimales : de 9 à 11 degrés.
-Températures maximales : entre 22 et 24 degrés.
+Sur le Laonnois, risque de pluie de dimanche matin jusqu'à la mi-journée. Ailleurs, temps généralement ensoleillé.
+Dimanche en matinée et jusqu'à la mi-journée, vent d'Ouest-Nord-Ouest modéré, sur les trois quarts Nord du département.
+Températures minimales : entre 9 et 11 degrés.
+Températures maximales : de 23 à 25 degrés.
 
 • Pour mardi 22 et mercredi 23 :
-Le soleil brille généreusement.
-Vent modéré sur la Thiérache, de Nord-Nord-Ouest mardi en matinée et jusqu'à la mi-journée ; et de Nord-Est, de la matinée de mercredi jusqu'en fin de journée.
-Températures minimales : sans changement significatif.
-Températures maximales : en hausse sur le Tardenois ainsi que sur le Nord-Est du département.
+Soleil généreux.
+De la matinée de mercredi jusqu'en début de nuit suivante, vent d'Est à Nord-Est, localement modéré.
+Températures minimales : en hausse sur la Thiérache.
+Températures maximales : stables.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
 FQCT40 LFQQ 140945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 14 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 14 septembre 2026 à 06H00 UTC, et évolution Dorsale atlantique sur le Golfe de Gascogne, s'affaiblissant. Dépression 994 hPa sur l'Islande, se décalant lentement vers le nord-est. Thalweg associé sur le Golfe de Gascogne mardi matin. 3 - Prévisions pour l'après-midi du lundi 14 septembre VENT : Sud-Ouest 3 à 4, parfois 5 en Mer du Nord. MER : belle à peu agitée. HOULE : devenant non significative. TEMPS : très nuageux à couvert. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 14 septembre au mardi 15 septembre VENT : Sud à Sud-Ouest 2 à 4. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux à très nuageux, localement bancs de brume. VISIBILITE : bonne, localement mauvaise par bancs de brume. 5 - Prévisions pour la journée du mardi 15 septembre VENT : Sud-Ouest 2 à 4, fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi, puis virant Ouest à Nord-Ouest à la fin. MER : belle à peu agitée, devenant peu agitée l'après-midi. HOULE : non significative. TEMPS : très nuageux, parfois bancs de brume le matin, puis averses l'après-midi. VISIBILITE : mauvaise par bancs de brume, puis moyenne sous averses l'après-midi. 6 - Prévisions pour la nuit du 15 au 16 et la journée du mercredi 16 septembre VENT : Nord-Ouest 3 à 4, parfois 5 la nuit. MER : peu agitée. HOULE : s'établissant Sud-Ouest 0.5 à 1 m. TEMPS : peu nuageux à nuageux, parfois averses la nuit. VISIBILITE : bonne, parfois moyenne sous averses la nuit. 7 - Prévisions pour la nuit du 16 au 17 et la journée du jeudi 17 septembre VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 6 en cours de matinée. Fortes rafales. MER : peu agitée devenant agitée en seconde partie de nuit. HOULE non significative s'établissant localement à l'Ouest à Sud-Ouest 1 à 1,5 m. 8 - Tendance pour les jours suivants Vendredi 18 septembre Ouest à Nord-Ouest modéré a assez fort, basculant progressivement Sud-Ouest à Ouest modéré à assez fort Indice de confiance : 4 sur 5 Samedi 19 septembre Secteur Sud-Ouest modéré à assez fort, devenant secteur Ouest faible à modéré Indice de confiance : 4 sur 5 Dimanche 20 septembre Variable faible à modéré Indice de confiance : 4 sur 5 Lundi 21 septembre Variable faible à modéré Indice de confiance : 4 sur 5 9 - Observations le lundi 14 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Ouest 8 noeuds, 1024 hPa en hausse. Cap Gris Nez : vent Sud-Ouest 12 noeuds. Boulogne : vent Sud-Sud-Ouest 8 noeuds, 1024 hPa en hausse. Prochain bulletin le lundi 14 septembre 2026, vers 18H00 légales
@@ -326,12 +301,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : =30°C consécutives]]>
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps &#xE0; Montréal
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 14/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -339,9 +314,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 14 Septembre 2026.
-Résumé général HDF précédent : **Tendance générale sur 15 jours** : Conditions anticycloniques durables avec températures supérieures aux normales de saison. Pic de chaleur en début de semaine 1 (28-32°C), rafraîchissement temporaire en milieu de semaine 1 (18-22°C), puis remontée progressive avec réinstallation de conditions chaudes en semaine 2. Précipitations rares et localisées, sécheresse préoccupante..
+Résumé général HDF précédent : Conditions anticycloniques durables sur l'ensemble de la période, avec des températures supérieures aux normales de saison. Pic de chaleur en début de semaine 1 (28-32°C), rafraîchissement temporaire en milieu de semaine 1 (18-22°C), puis remontée progressive avec réinstallation de conditions chaudes en semaine 2 (25-30°C potentiels). Précipitations très rares et localisées, sécheresse préoccupante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et ensoleillé, chaleur de plus en plus marquée, risque d'orages très limité..
+Températures attendues précédemment : Temps sec et ensoleillé, températures en hausse en fin de période, notamment dimanche 20..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -490,7 +465,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 14:42 par giec 2100
 
 =======================
 
@@ -527,7 +502,7 @@ Message:
 	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
 	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
 	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								1
 
 =======================
@@ -538,7 +513,7 @@ Bonjour @giec 2100,
 	je pense que nous ne parlons pas de la même chose. La dorsale guide le flux vers l'Europe de l'ouest. Nous serions dans une synoptique entre NAO+ et Pont atlantique avant que les hauts géopotentiels ne s'installent vraiment sur le le flanc ouest du continent.
 	Pour illustré, j'ai modélisé le parcours d'une particule durant la semaine:
 	Cette synoptique serait plus favorable à un faible mistral, ce qui n'est pas opposé à une énième installation de la chaleur par le sud avec le gonflement des hauts géopotentiels. Cependant j'ai toujours du mal avec ce prétendu flux de sud:
-	Modifié il y a 6 heures par tao
+	Modifié il y a 8 heures par tao
 								2
 								1
 
@@ -552,7 +527,7 @@ Bonsoir,
 	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
 	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
 	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
-	Modifié il y a 18 heures par tao
+	Modifié il y a 20 heures par tao
 								9
 								10
 								4
@@ -573,8 +548,8 @@ Auteur: Kyrion
 Message:
 Oui, assez incroyable cette récurrence sèche. On va tranquillement ajouter 1 mois de plus à notre besace de sécheresse (je trouve d'habitude hors de propos de mettre ces cartes hors échéance, mais la similarité des zones sèches et humides est remarquable) GFS // CEP à J+ ... :
 	Il y a pu avoir quelques sorties qui laissaient entrevoir une humidification par le sud. Ils ont disparu manu militari.
-	Modifié il y a 8 heures par Kyrion
-								4
+	Modifié il y a 10 heures par Kyrion
+								5
 								6
 
 =======================
@@ -617,7 +592,7 @@ Il y a 4 heures, Tornado75 a dit :
 	Cette sècheresse est très préoccupante !
 	Début de topic (CEP) :
 	Fin de topic ( CEP) :
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 								1
 								1
 								2
@@ -633,10 +608,10 @@ Hello
 	Sans déconner cartes vraiment immonde ce jour, en hiver on aurait pu éventuellement attendre du stratus, mais là.
 	A voir si on ira sur la vague de chaleur ; j'espère que ça sera minoré... mais en tous cas aucun signal pluvieux. Autant cette semaine on hésitait avec les légères ondulations, mais alors pour la prochaine et le patator sur nous...
 	Manu
-	Modifié il y a 3 heures par edd
+	Modifié il y a 5 heures par edd
 								2
 								1
-								1
+								2
 								1
 
 =======================
@@ -659,6 +634,7 @@ Le froid de basses couches sera peut-être notre dernier froid...
 	Je ne fais que résumer ce que certains ont déjà évoqué sur ce forum 
 								1
 								1
+								1
 
 =======================
 
@@ -666,6 +642,7 @@ Auteur: Charly-C
 Message:
 On a d'ailleurs pas beaucoup de référence de fort blocage fin septembre sur ces dernières années.
 	Le dernier digne de ce nom doit remonter à 1985, à une époque où le climat était sensiblement plus frais. 
+								1
 								3
 
 =======================
@@ -673,6 +650,55 @@ On a d'ailleurs pas beaucoup de référence de fort blocage fin septembre sur ce
 Auteur: Virgile
 Message:
 un dome de chaleur en vue encore 1 pour la semaine à venir avec des températures incroyablement chaudes pour la saison (records? ). Les 30 pourraient etre approchés voir dépassés sur la moitié nord.  les 35 approchés dans le sud ouest. Juin, juillet, aout, septembre, on enchaine des mois exceptionnels.  Avant l'excédent c'était de 1 à 2 degrés, maintenant c’est 3-4 degrés, normal quoi! Et tout ceci sans PP.
+								2
+								6
 								1
-								3
+
+=======================
+
+Auteur: clem11
+Message:
+C’est juste dramatique quoi ! Et moi les seuls trucs que j’entends autour de moi c’est « enfin il fait frais » « du soleil chouette ». Alors c’est vrai même moi je me suis surpris à me dire qu’il faisait enfin bon parce qu’on dort. Mais c’est dingue comment on a déjà oublié l’ancien climat.
+
+=======================
+
+Auteur: nickdu77
+Message:
+Il n'y a pour le moment que deux points auxquels je me raccroche désespérément pour ne pas craquer : la diminution de l'ensoleillement quotidien et les cartes du C3S pour septembre et octobre concernant les PP (pour ce topic et à mon avis le suivant c'est foutu, je n'ose plus regarder). Pour septembre on à ça :
+	Et pour octobre, ça serait plus humide (c'est pas difficile) mais pas énormément :
+	Je me remonte le moral comme je peux. C'est vrai qu'on a tendance à oublier l'ancien climat (j'espère qu'il est juste parti un moment et qu'il va revenir) mais je crois que c'est tellement invraisemblable qu'on en est tous un peu passé en mode survie et content quand ça reste en-dessous de 32 en journée et de 20 le matin même si ça reste totalement hors norme pour la saison : même en plein été, ça serait chaud. D'ailleurs après la baisse, on remonte vers 12-13°C à 850 hPa sur Paris : 
+	Pour Toulouse, on est plutôt sur 16-17°C:
+	Comme sur Marseille:
+	Pour les PP, toujours rien ou presque. Je vais finir par ne plus l'écrire.
+
+=======================
+
+Auteur: fas78
+Message:
+Faut avouer que c'est impressionnant ces HP qui ont élu domicile sur l'europe de l'ouest depuis mai. 
+	Quand on voit cette carte, j'ai du mal à trouver la porte de sortie vu qu'on est cerné de partout. 
 								1
+
+=======================
+
+Auteur: cirrus007
+Message:
+Ne serait-ce pas le moment opportun pour ouvrir el famoso Topic TLT "A la recherche des signaux hivernaux", si chère à la saison froide... à mon avis y'a de quoi décliner en "A la recherche de la pluie, pitié".
+
+=======================
+
+Auteur: giec 2100
+Message:
+je ne suis pas sûr que le ciblage NAO plus ou moins et les blocages à l'avenant ait beaucoup de sens dans cette configuration que l'on traîne depuis la sortie de l'hiver, avec ce décalage vers le pôle des centres d'action et le verrouillage anticyclonique pour le pays... 
+	nous disposons d'instruments d'interprétation et de guidage qu'il faut peut-être garder sous le coude hors des périodes loufoques comme celles-ci ; même en fin d'échéance les signaux sont peu encourageants quant à la sortie du verrouillage ; regarder l'historique récent (encore une histoire...) des runs, par exemple ceux de CEP version IA pour la synoptique hémisphérique de la fin du topic interroge :
+	c'est une méthode pragmatique qui en vaut bien d'autres, qui a le mérite de mettre en évidence sur 4 jours ce qui est prévu de bouger et ce qui imperturbablement (!) reste figé ; au bilan sur le cas d'espèce les minimums ont droit à un siège amovible, en vrais parquetiers pour dire le droit sous l'influence de la chancellerie polaire, tandis que les juges anticycloniques et leur siège quasi inamovible dicte le verdict sans appel,  avec du blocage pour la France...
+	pour continuer à filer la métaphore on notera que si les parquetiers bénéficiaient d'une assise, avec la réforme offerte par la chancellerie, elle n'aurait pas grande profondeur : on est loin des profondes dépressions à 960 hPa ou moins qui s'enhardissent en face de l'Irlande à l'entrée de l'automne comme certaines années...
+	Modifié il y a 41 minutes par giec 2100
+								1
+
+=======================
+
+Auteur: TornadeScintillante
+Message:
+Résumé probable de cette semaine : y'en a marre. 
+								2
