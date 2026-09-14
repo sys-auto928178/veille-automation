@@ -305,7 +305,7 @@ Températures minimales : sans changement significatif.
 Températures maximales : en hausse sur le Tardenois ainsi que sur le Nord-Est du département.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 140405 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 14 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 14 septembre 2026 à 00H00 UTC, et évolution Dorsale atlantique sur le Golfe de Gascogne, faiblissant. Dépression au nord des îles britanniques et thalweg associé sur le Golfe de Gascogne demain matin. 3 - Prévisions pour la journée du lundi 14 septembre VENT : Sud-Ouest 3 à 4, parfois 5 en mer du Nord l'après-midi. MER : belle à peu agitée. HOULE : devenant non significative. TEMPS : très nuageux à couvert, rares pluies. VISIBILITE : bonne, localement moyenne sous pluie. 4 - Prévisions pour la nuit du lundi 14 septembre au mardi 15 septembre VENT : Sud à Sud-Ouest 2 à 4 du sud au nord. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux, localement très nuageux avec bancs de brume. VISIBILITE : bonne, localement mauvaise par brume. 5 - Prévisions pour la journée du mardi 15 septembre VENT : Sud-Ouest 2 à 4 du sud au nord, fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi, puis virant Ouest à Nord-Ouest en fin de journée. MER : belle à peu agitée, devenant peu agitée l'après-midi. HOULE : non significative. TEMPS : nuageux à très nuageux, bancs de brume temporaires le matin, puis quelques averses l'après-midi. VISIBILITE : mauvaise par brume, puis moyenne sous précipitations. 6 - Prévisions pour la nuit du 15 au 16 et la journée du mercredi 16 septembre VENT : Ouest à Nord-Ouest 4 à 5. MER : peu agitée, devenant temporairement agitée en milieu de nuit en Manche. HOULE d'Ouest à Sud-Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Jeudi 17 septembre secteur Sud-Ouest modéré a assez fort à l'est du domaine, secteur Ouest modéré à l'ouest du domaine. Indice de confiance : 4 sur 5 Vendredi 18 septembre secteur Ouest faible à modéré. Indice de confiance : 4 sur 5 Samedi 19 septembre secteur Ouest faible à modéré. Indice de confiance : 4 sur 5 Dimanche 20 septembre secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 8 - Observations le lundi 14 septembre 2026 à 03H00 UTC Dunkerque : vent Sud-Sud-Ouest 6 noeuds, mer peu agitée, 1023 hPa en baisse, très nuageux à couvert, visibilité 3 milles. Cap Gris Nez : vent Ouest-Sud-Ouest 12 noeuds. Boulogne : vent Sud-Ouest 8 noeuds, 1023 hPa en baisse, brouillard, visibilité 2 milles. Bouée Sandettie : vent Sud-Ouest 12 noeuds, creux 0,4 mètre, 1022 hPa en baisse, visibilité 5 milles. Prochain bulletin le lundi 14 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 140945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 14 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 14 septembre 2026 à 06H00 UTC, et évolution Dorsale atlantique sur le Golfe de Gascogne, s'affaiblissant. Dépression 994 hPa sur l'Islande, se décalant lentement vers le nord-est. Thalweg associé sur le Golfe de Gascogne mardi matin. 3 - Prévisions pour l'après-midi du lundi 14 septembre VENT : Sud-Ouest 3 à 4, parfois 5 en Mer du Nord. MER : belle à peu agitée. HOULE : devenant non significative. TEMPS : très nuageux à couvert. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 14 septembre au mardi 15 septembre VENT : Sud à Sud-Ouest 2 à 4. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux à très nuageux, localement bancs de brume. VISIBILITE : bonne, localement mauvaise par bancs de brume. 5 - Prévisions pour la journée du mardi 15 septembre VENT : Sud-Ouest 2 à 4, fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi, puis virant Ouest à Nord-Ouest à la fin. MER : belle à peu agitée, devenant peu agitée l'après-midi. HOULE : non significative. TEMPS : très nuageux, parfois bancs de brume le matin, puis averses l'après-midi. VISIBILITE : mauvaise par bancs de brume, puis moyenne sous averses l'après-midi. 6 - Prévisions pour la nuit du 15 au 16 et la journée du mercredi 16 septembre VENT : Nord-Ouest 3 à 4, parfois 5 la nuit. MER : peu agitée. HOULE : s'établissant Sud-Ouest 0.5 à 1 m. TEMPS : peu nuageux à nuageux, parfois averses la nuit. VISIBILITE : bonne, parfois moyenne sous averses la nuit. 7 - Prévisions pour la nuit du 16 au 17 et la journée du jeudi 17 septembre VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 6 en cours de matinée. Fortes rafales. MER : peu agitée devenant agitée en seconde partie de nuit. HOULE non significative s'établissant localement à l'Ouest à Sud-Ouest 1 à 1,5 m. 8 - Tendance pour les jours suivants Vendredi 18 septembre Ouest à Nord-Ouest modéré a assez fort, basculant progressivement Sud-Ouest à Ouest modéré à assez fort Indice de confiance : 4 sur 5 Samedi 19 septembre Secteur Sud-Ouest modéré à assez fort, devenant secteur Ouest faible à modéré Indice de confiance : 4 sur 5 Dimanche 20 septembre Variable faible à modéré Indice de confiance : 4 sur 5 Lundi 21 septembre Variable faible à modéré Indice de confiance : 4 sur 5 9 - Observations le lundi 14 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Ouest 8 noeuds, 1024 hPa en hausse. Cap Gris Nez : vent Sud-Ouest 12 noeuds. Boulogne : vent Sud-Sud-Ouest 8 noeuds, 1024 hPa en hausse. Prochain bulletin le lundi 14 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -328,12 +328,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Le topic du Jardinage
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : recherche d'un pluviomètre orgon pour ma station wmr 200
-• Infoclimat Direct : Du 14 septembre au 20 septembre 2026 prévisions météo semaine 38
-• Infoclimat Direct : Le topic du Jardinage
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
+• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
+• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
+• Infoclimat Direct : =30°C consécutives]]>
+• Infoclimat Direct : Bugs sur Infoclimat #2
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 14/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -341,9 +341,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 14 Septembre 2026.
-Résumé général HDF précédent : Sur l'ensemble des deux semaines, les Hauts-de-France restent sous l'influence d'un puissant anticyclone. Le temps est sec, parfois chaud pour la saison, mais sans excès durable. Quelques averses faibles restent possibles en semaine 1 près des côtes, tandis que la semaine 2 s'annonce plus calme, bien qu'une minorité de scénarios envisage une dégradation en fin de période..
+Résumé général HDF précédent : Temps sec et chaud pour la saison sur l'ensemble des deux semaines, avec un pic de chaleur en début de semaine 1, un rafraîchissement temporaire en milieu de semaine 1, puis une nouvelle pulsion chaude en semaine 2. Les précipitations seront rares et localisées..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses faibles et éparses près des côtes et sur l'ouest des départements, reste sec ailleurs..
+Températures attendues précédemment : Temps sec, ensoleillé, chaleur en fin de semaine malgré un rafraîchissement en milieu de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -492,7 +492,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 
 =======================
 
@@ -529,7 +529,7 @@ Message:
 	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
 	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
 	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								1
 
 =======================
@@ -540,7 +540,7 @@ Bonjour @giec 2100,
 	je pense que nous ne parlons pas de la même chose. La dorsale guide le flux vers l'Europe de l'ouest. Nous serions dans une synoptique entre NAO+ et Pont atlantique avant que les hauts géopotentiels ne s'installent vraiment sur le le flanc ouest du continent.
 	Pour illustré, j'ai modélisé le parcours d'une particule durant la semaine:
 	Cette synoptique serait plus favorable à un faible mistral, ce qui n'est pas opposé à une énième installation de la chaleur par le sud avec le gonflement des hauts géopotentiels. Cependant j'ai toujours du mal avec ce prétendu flux de sud:
-	Modifié il y a 42 minutes par tao
+	Modifié il y a 2 heures par tao
 								2
 								1
 
@@ -554,9 +554,9 @@ Bonsoir,
 	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
 	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
 	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
-	Modifié il y a 12 heures par tao
-								8
-								8
+	Modifié il y a 14 heures par tao
+								9
+								9
 								4
 
 =======================
@@ -566,8 +566,8 @@ Message:
 Bon et bien ce matin on sait à quelle sauce on va être mange pour cette semaine. Un beau dôme de chaleur à nouveau. De nouveaux records battus pour une troisième décade. Et toujours pas une goutte d'eau.
 	C'est encore loin mais le scénario du pire a l'air d'arriver à nouveau. 
 	Virgile avait vu juste 
+								3
 								2
-								1
 
 =======================
 
@@ -575,20 +575,94 @@ Auteur: Kyrion
 Message:
 Oui, assez incroyable cette récurrence sèche. On va tranquillement ajouter 1 mois de plus à notre besace de sécheresse (je trouve d'habitude hors de propos de mettre ces cartes hors échéance, mais la similarité des zones sèches et humides est remarquable) GFS // CEP à J+ ... :
 	Il y a pu avoir quelques sorties qui laissaient entrevoir une humidification par le sud. Ils ont disparu manu militari.
-	Modifié il y a 2 heures par Kyrion
+	Modifié il y a 4 heures par Kyrion
 								3
-								3
+								5
 
 =======================
 
 Auteur: fran39
 Message:
 Oui à part quelques "pyrocumulus de beau temps" rien à se mettre sous la dent.
-								3
+								1
+								6
 
 =======================
 
 Auteur: Krholam
 Message:
 La relation de l’hexagone en ce moment avec L’anticyclone
+								4
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Il y a 4 heures, Tornado75 a dit :
+			Bon et bien ce matin on sait à quelle sauce on va être mange pour cette semaine. Un beau dôme de chaleur à nouveau. De nouveaux records battus pour une troisième décade. Et toujours pas une goutte d'eau.
+			C'est encore loin mais le scénario du pire a l'air d'arriver à nouveau. 
+			Virgile avait vu juste 
+	Je ne pense pas qu'on va de nouveau faire face à une nouvelle vague de chaleur, je base mon idée en analysant  les moyennes des ensembles pour ce topic.
+	GEM et CEP modélisent un reflux lent mais régulier de l'air chaud vers le sud, GFS est un peu plus timoré avec une meilleure résistance dans le sud-ouest de la chaleur.
+	Les températures resteraient (toujours en altitude) dans des valeurs pas trop excessives mais néanmoins supérieures aux moyennes de la saison.
+	C'est loin et donc à prendre avec des pincettes mais c'est la tendance.
+	Par contre le spectre de la sècheresse est lui bien présent.
+	Moyenne CEP des températures à 850Hpa :
+	Moyenne GFS des températures à 850Hpa :
+	Moyenne GEM des températures à 850Hpa :
+	Pour les précipitations pas grand-chose ou rien de visible sauf pour CEP qui modélise quelques signaux de pluies, notamment dans le sud et l'est mais il est le seul à voir cela
+	à long terme. Donc c'est très peu fiable je le précise d'autant plus que cela serait initié par des talwegs ou gouttes froides qui sont très compliqués à prévoir si longtemps à l'avance.
+	Je le met, en espérant que ce vœu de pluie sera exaucé,  sinon il faudrait faire la danse de la pluie 😁
+	Cette sècheresse est très préoccupante !
+	Début de topic (CEP) :
+	Fin de topic ( CEP) :
+	Modifié il y a 29 minutes par petit âge glaciaire 11
+								1
+
+=======================
+
+Auteur: Kam93
+Message:
+Il y a 4 heures, Tornado75 a dit :
+			Bon et bien ce matin on sait à quelle sauce on va être mange pour cette semaine. Un beau dôme de chaleur à nouveau. De nouveaux records battus pour une troisième décade. Et toujours pas une goutte d'eau.
+			C'est encore loin mais le scénario du pire a l'air d'arriver à nouveau. 
+	Ça dépend pour qui. Personnellement je me réjouis de ces prévisions étant en vacances sur la dernière semaine de septembre.
+	Il ne faut pas oublier que même à Paris il est possible d'avoir des températures supérieures à 25°C avec un temps clément jusqu'à mi-octobre. Ça ne serait pas la première fois.
+	Je comprend la lassitude de cet été hors norme et inédit. La sécheresse est terrible. Mais quand on n'est pas dépressif, ce temps c'est juste du bonheur.
 								2
+								1
+
+=======================
+
+Auteur: th38
+Message:
+il y a 3 minutes, Kam93 a dit :
+			Ça dépend pour qui. Personnellement je me réjouis de ces prévisions étant en vacances sur la dernière semaine de septembre.
+			Il ne faut pas oublier que même à Paris il est possible d'avoir des températures supérieures à 25°C avec un temps clément jusqu'à mi-octobre. Ça ne serait pas la première fois.
+			Je comprend la lassitude de cet été hors norme et inédit. La sécheresse est terrible. Mais quand on n'est pas dépressif, ce temps c'est juste du bonheur.
+	Inaudible ton post.
+	On s'en fou d'être dépressif ou en vacances.
+	L'agriculture est ruinée
+	Les écosystèmes n'ont JAMAIS été aussi malmenés
+	Tout ça va nous coûter on ne sait combien
+	Et on sait qu'en plus ça va tendre à être pire à l'avenir
+	Et c'est juste "du bonheur" pour celui qui part en vacances...
+	Bravo !
+								1
+								1
+
+=======================
+
+Auteur: fran39
+Message:
+il y a 6 minutes, Kam93 a dit :
+			quand on n'est pas dépressif, ce temps c'est juste du bonheur.
+	https://www.facebook.com/story.php?story_fbid=pfbid02cRrmpUeEdody16stBppSHg1PM27oWWPV3NU76p3fJ1pH13own3SruYXLGxwyZNfdl&amp;id=MeteoPedagogie
+								3
+
+=======================
+
+Auteur: Organon65
+Message:
+Bien vu, par contre la bassine/seau est vide dans 80% des régions.
