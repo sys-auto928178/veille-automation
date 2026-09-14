@@ -326,12 +326,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : =30°C consécutives]]>
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : =30°C consécutives]]>
-• Infoclimat Direct : =30°C consécutives]]>
+• Infoclimat Direct : Suivi du temps &#xE0; Montréal
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 14/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -339,9 +339,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 14 Septembre 2026.
-Résumé général HDF précédent : Temps sec et chaud pour la saison sur l'ensemble des deux semaines, avec un pic de chaleur en début de semaine 1, un rafraîchissement temporaire en milieu de semaine 1, puis une nouvelle pulsion chaude en semaine 2. Les précipitations seront rares et localisées..
+Résumé général HDF précédent : **Tendance générale sur 15 jours** : Conditions anticycloniques durables avec températures supérieures aux normales de saison. Pic de chaleur en début de semaine 1 (28-32°C), rafraîchissement temporaire en milieu de semaine 1 (18-22°C), puis remontée progressive avec réinstallation de conditions chaudes en semaine 2. Précipitations rares et localisées, sécheresse préoccupante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et chaud, rares averses possibles en milieu de semaine, pas de précipitations significatives..
+Températures attendues précédemment : Temps sec et ensoleillé, chaleur de plus en plus marquée, risque d'orages très limité..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 14 au Dimanche 20 Septembre 2026) ===
@@ -490,7 +490,7 @@ Auteur: giec 2100
 Message:
 un point où l'on peut - peut-être - accorder nos thermomètres, c'est la disparition du risque de nuit tropicale une fois passé mardi prochain, 24h plus tard pour l'arc méditerranéen, situation qui devrait rester d'actualité au-delà du topic, synoptique aidant...
 	seules les zones maritimes conserveraient ce "privilège" sur la période...
-	Modifié il y a 21 heures par giec 2100
+	Modifié il y a 23 heures par giec 2100
 
 =======================
 
@@ -527,7 +527,7 @@ Message:
 	avec les valeurs d'eau précipitable observées sur l'Hexagone et au S de celui-ci, en bordure E de la dorsale avec une advection d'air chaud en provenance d'Afrique à la clé, est-il étrange d'avoir un flux S à SW sec ?
 	conjonction de la pompe à vélo sous la dorsale (compression adiabatique par subsidence, l'air descendant de l'atmosphère vers la terre) et de la pompe à chaleur (zone chaude vers zone froide, air de l'Afrique du N propulsé vers les minimums du Groenland et mitan Labrador- Islande) sera-t-elle la meilleure métaphore dans cette situation?
 	on a bien un pseudopode de masse d'air potentiellement précipitable aux portes de l'Europe, prolongement d'un beau réservoir situé sur l'Atlantique N central et le golfe du Mexique mais hors de portée pour que ça précipite de façon consistante chez nous, puisque trop au N déjà...
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 
 =======================
@@ -538,7 +538,7 @@ Bonjour @giec 2100,
 	je pense que nous ne parlons pas de la même chose. La dorsale guide le flux vers l'Europe de l'ouest. Nous serions dans une synoptique entre NAO+ et Pont atlantique avant que les hauts géopotentiels ne s'installent vraiment sur le le flanc ouest du continent.
 	Pour illustré, j'ai modélisé le parcours d'une particule durant la semaine:
 	Cette synoptique serait plus favorable à un faible mistral, ce qui n'est pas opposé à une énième installation de la chaleur par le sud avec le gonflement des hauts géopotentiels. Cependant j'ai toujours du mal avec ce prétendu flux de sud:
-	Modifié il y a 4 heures par tao
+	Modifié il y a 6 heures par tao
 								2
 								1
 
@@ -552,7 +552,7 @@ Bonsoir,
 	Je ne sais pas vraiment s'il s'agit d'un marqueur durable du réchauffement climatique ou d'une plaisanterie bien longue de la variabilité du climat mais le constat  s'impose, il n'y a pas de franche incursion humide généralisée et durable depuis des mois.
 	Eventuellement, il est envisageable de repérer une évolution plus méridienne en fin de semaine qui de façon très hypothétique installerait une possibilité de blocage sur l'Europe du nord pouvant permettre le glissement de quelques anomalies, ces options existent mais sont très minoritaires.
 	Cette évolution, évoquée par @petit âge glaciaire 11 dans le fil précédent serait peut-être une piste vers une météo plus dynamique.
-	Modifié il y a 16 heures par tao
+	Modifié il y a 18 heures par tao
 								9
 								10
 								4
@@ -573,7 +573,7 @@ Auteur: Kyrion
 Message:
 Oui, assez incroyable cette récurrence sèche. On va tranquillement ajouter 1 mois de plus à notre besace de sécheresse (je trouve d'habitude hors de propos de mettre ces cartes hors échéance, mais la similarité des zones sèches et humides est remarquable) GFS // CEP à J+ ... :
 	Il y a pu avoir quelques sorties qui laissaient entrevoir une humidification par le sud. Ils ont disparu manu militari.
-	Modifié il y a 6 heures par Kyrion
+	Modifié il y a 8 heures par Kyrion
 								4
 								6
 
@@ -617,7 +617,7 @@ Il y a 4 heures, Tornado75 a dit :
 	Cette sècheresse est très préoccupante !
 	Début de topic (CEP) :
 	Fin de topic ( CEP) :
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 								1
 								1
 								2
@@ -633,7 +633,46 @@ Hello
 	Sans déconner cartes vraiment immonde ce jour, en hiver on aurait pu éventuellement attendre du stratus, mais là.
 	A voir si on ira sur la vague de chaleur ; j'espère que ça sera minoré... mais en tous cas aucun signal pluvieux. Autant cette semaine on hésitait avec les légères ondulations, mais alors pour la prochaine et le patator sur nous...
 	Manu
-	Modifié il y a 1 heure par edd
+	Modifié il y a 3 heures par edd
 								2
 								1
+								1
+								1
+
+=======================
+
+Auteur: edel
+Message:
+A ce niveau là c'est presque une caricature : hautes pressions à tous les étages pile sur la France, et vague de chaleur en plein été... alors avec les jours qui raccourcissent, thermiquement ca devrait aller, mais alors allez chercher des PP avec çà... 
+		il y a une heure, edd a dit :
+			en hiver on aurait pu éventuellement attendre du stratus, mais là.
+	Ah non merci, les stratus ca sert vraiment à rien, juste à subir un ciel gris immonde et du froid de basse couche...
+								1
+								1
+
+=======================
+
+Auteur: Drôme Collines
+Message:
+Le froid de basses couches sera peut-être notre dernier froid...
+	(Sauf à fuir très haut en altitude)
+	Je ne fais que résumer ce que certains ont déjà évoqué sur ce forum 
+								1
+								1
+
+=======================
+
+Auteur: Charly-C
+Message:
+On a d'ailleurs pas beaucoup de référence de fort blocage fin septembre sur ces dernières années.
+	Le dernier digne de ce nom doit remonter à 1985, à une époque où le climat était sensiblement plus frais. 
+								3
+
+=======================
+
+Auteur: Virgile
+Message:
+un dome de chaleur en vue encore 1 pour la semaine à venir avec des températures incroyablement chaudes pour la saison (records? ). Les 30 pourraient etre approchés voir dépassés sur la moitié nord.  les 35 approchés dans le sud ouest. Juin, juillet, aout, septembre, on enchaine des mois exceptionnels.  Avant l'excédent c'était de 1 à 2 degrés, maintenant c’est 3-4 degrés, normal quoi! Et tout ceci sans PP.
+								1
+								3
 								1
