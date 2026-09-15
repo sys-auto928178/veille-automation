@@ -1,138 +1,129 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
 **Généré le :** Mardi 15 Septembre 2026
-**Période :** Semaine 1 (Période exacte semaine 1 : du mardi 15 au dimanche 20 septembre 2026.) & Semaine 2 (Période exacte semaine 2 : du lundi 21 au dimanche 27 septembre 2026.)
+**Période :** Semaine 1 (Du Mardi 15 au Dimanche 20 Septembre 2026) & Semaine 2 (Du Lundi 21 au Dimanche 27 Septembre 2026)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré. — *Accord sur le maintien des hautes pressions; divergence sur la remontée du tube chaud et sur la localisation des averses.*
-- **Fiabilité du scénario majoritaire :** Blocage anticyclonique. — *Dominante sèche et assez chaude; les scénarios de dégradation restent minoritaires.*
+- **Consensus des modèles :** Modéré — *Accord régional*
+- **Fiabilité du scénario majoritaire :** Stable — *Incertitude en semaine 2*
 - **Stabilité des cartes/scénarios :** 6 / 105 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Élevée à partir de mercredi 23. — *AIFS peut fortement diverger; les runs long terme sont susceptibles de changer; GFS n’a pas pu être exploité directement.*
+- **Niveau d'incertitude global :** Timing — *Transition thermique*
 
-## 🗓️ SEMAINE 1 : Période exacte semaine 1 : du mardi 15 au dimanche 20 septembre 2026.
+## 🗓️ SEMAINE 1 : Du Mardi 15 au Dimanche 20 Septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Vigilance verte sur les Hauts-de-France : Les bulletins officiels ne signalent aucun phénomène dangereux, seulement des averses localisées possibles.
-2. Chaleur encore bien présente à l’intérieur : Jusqu’à 30°C à Beauvais et 31°C dans l’Aisne, tandis que le littoral reste plus frais avec 19 à 21°C.
-3. Averses très localisées : Avesnois en soirée/nuit, Picardie maritime, nord de l’Oise et moitié sud de l’Aisne peuvent recevoir quelques faibles averses.
-4. Vent de secteur ouest à sud-ouest : Rafales de 35 à 40 km/h possibles, avec un flux Manche/Mer du Nord de 4 à 6 beaufort, surtout vendredi.
-5. Confiance modérée pour la semaine : Les tendances long terme restent incertaines, notamment sur l’évolution du blocage anticyclonique et la localisation des averses.
+1. Blocage anticyclonique : Les hautes pressions dominent sur ou près de la France, maintenant un temps sec sur les Hauts-de-France.
+2. Chaleur modérée : Températures de saison à un peu élevées, avec 24 à 31°C au meilleur de l’après-midi selon les départements.
+3. Vent d’ouest : Un flux d’ouest à nord-ouest modéré apporte des rafales de 35 à 40 km/h, surtout près du littoral.
+4. Averses locales : Quelques faibles averses touchent l’Avesnois, la Picardie maritime et le nord de l’Oise, sans gravité.
+5. Vigilance verte : L’ensemble des cinq départements reste en vigilance verte, aucun phénomène dangereux n’est prévu.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-1. Les modèles s’accordent sur la persistance des hautes pressions sur ou proche de la France.  
-2. Les maximales restent élevées à l’intérieur, entre 24 et 31°C.  
-3. Vigilance verte sur les 5 départements, sans dégradation majeure.
+1. Maintien de l’anticyclone sur ou proche de la France, temps dominant sec.
+2. Températures de saison à un peu élevées, pas de froid durable.
+3. Vent d’ouest à nord-ouest modéré, avec rafales 35-40 km/h sur le littoral.
 **Points de divergence :**
-1. Localisation et intensité des averses : Avesnois, Picardie maritime, nord de l’Oise et sud de l’Aisne.  
-2. Force du vent en Manche/Mer du Nord : localement 6 beaufort vendredi.  
-3. Scénarios ensemblistes minoritaires : 1/4 à 1/3 de possibilité d’une évolution moins sèche.
+1. Placement exact des averses locales : Avesnois, Picardie maritime, nord de l’Oise.
+2. Scénarios minoritaires de dégradation plus instables (1/4 à 1/3 des ensembles).
+3. Intensité de la chaleur : ITN national proche du seuil de 25.3°C.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP)** (Documenté (discussion ensembliste).) | Hautes pressions dominantes sur/proche France; scénarios de dégradation minoritaires (1/4 à 1/3); pas d’enfoncement des 1015 hPa. | Temps sec et chaud; averses faibles possibles sur Avesnois, Picardie maritime, Oise et Aisne. | Hauts-de-France, notamment Oise, Aisne, Somme et littoral Manche/Mer du Nord. | Modérée (60-70%) : tendance citée pour la région, mais pas de run déterministe détaillé. | Maintien des hautes pressions sur ou proche de la France; pas de signal d’enfoncement des 1015 hPa sur les diagrammes; chaleur possible par le sud; mistral faible possible si la synoptique se confirme. |
-| **GFS** (Non documenté.) | Non estimable : aucune mention directe de GFS dans les échanges exploités pour la semaine 1. | Non estimable. | Non déterminé. | Non estimable. | Aucune exploitation directe de GFS dans les discussions fournies; le scénario dominant issu des autres sources est le maintien des hautes pressions. |
+| **Météo-France XML Meteotel / BSPPC Artois-Picardie** (Commenté en détail) | Blocage anticyclonique, HDF sec et assez chaud; petites averses locales près des côtes, Avesnois et nord de l’Oise. | Vent d’ouest 35-40 km/h, températures 19-31°C, pression 1015 hPa, vigilance verte. | Nord, Pas-de-Calais, Somme, Oise, Aisne | Élevée (80-90%) | Vigilance verte; Lille 27°C, Arras 25°C, Amiens 24°C, Beauvais 30°C, Aulnoy-sous-Laon 31°C; vent Ouest à Nord-Ouest 35 km/h; faibles averses sur Avesnois, Picardie maritime et moitié nord de l’Oise. |
+| **ECMWF / CEP** (Cité avec tendance) | HP dominante sur ou proche de la France; aucune dégradation majeure; scénarios plus instables minoritaires. | Temps sec, chaleur de saison à un peu élevée; vent faible à modéré. | Hauts-de-France | Modérée (60-70%) | « Omniprésence des hautes pressions sur ou proches de la France »; géopotentiels élevés, pas d’enfoncement des 1015 hPa. |
+| **GFS (NOAA)** (Brièvement évoqué) | Tendance anticyclonique similaire, avec des divergences possibles sur la durée et la position de l’HP. | Sec, pas de signal froid durable. | Hauts-de-France | Faible (40-50%) | Les modèles « différent » mais l’anticyclone reste omniprésent; incertitude sur d’éventuels scénarios plus chauds ou plus nuageux. |
+| **Guillaume Séchet / Météo-Villes + Infoclimat Direct** (Intégré) | Suivi direct et indicateur thermique national; ITN 14 jours entre 22.8°C et 25.8°C, seuil canicule 25.3°C. | Chaleur modérée, vigilance verte, pas de coup de froid. | France et Hauts-de-France | Modérée (60-70%) | Dernier bulletin HDF généré le 15/09/2026; confiance précédente semaine 1 modérée; blocage anticyclonique sec et températures de saison à un peu élevées. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
-| **Pas-de-Calais (62)** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
-| **Somme (80)** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
-| **Oise (60)** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
-| **Aisne (02)** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
+| **Nord (59)** | Temps sec et plutôt ensoleillé, passages nuageux en soirée sur l’Avesnois. | Min 13-15°C, max 21-27°C (Lille 27°C, Dunkerque 21°C sur le littoral). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque d’averses localisé à l’est; écart thermique littoral/intérieur. |
+| **Pas-de-Calais (62)** | Ciel clair à peu nuageux, nuages un peu plus présents près de la mer du Nord. | Min 14-16°C, max 19-25°C (Arras 25°C, Boulogne 19°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Écart thermique littoral/Arras; humidité maritime et averses côtières possibles. |
+| **Somme (80)** | Éclaircies; nuages plus présents sur la Picardie maritime. | Min 13-15°C, max 20-28°C (Amiens 24°C, Cayeux-sur-Mer 20°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Averses côtières localisées; pression stable autour de 1015 hPa. |
+| **Oise (60)** | Ciel se chargeant l’après-midi; averses sur le Vexin français, le pays de Thelle et une large moitié nord. | Min 14-16°C, max 30°C à Beauvais-Tillé. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des averses limitée à la moitié nord; température élevée. |
+| **Aisne (02)** | Vigilance verte; ciel parfois encombré, averses sur la moitié sud en cours de journée. | Min 14-16°C, max 31°C à Aulnoy-sous-Laon. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Averses uniquement sur la moitié sud; chaleur modérée à surveiller. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Mardi 15 septembre 2026, après-midi et soirée.** : Chaleur à l’intérieur (27 à 31°C), vent Ouest à Sud-Ouest 35-40 km/h, faibles averses possibles sur l’Avesnois en soirée.
-- **Mercredi 16 septembre 2026.** : En Oise, ciel se chargeant et averses possibles sur la moitié nord; petites averses sur la moitié sud de l’Aisne; vent variable.
-- **Jeudi 17 et vendredi 18 septembre 2026.** : Flux Ouest à Sud-Ouest 4-5, fraîchissant 6 vendredi après-midi en Mer du Nord; temps encore sec et assez chaud à l’intérieur.
-- **Samedi 19 et dimanche 20 septembre 2026.** : Vent Sud-Ouest modéré, assez fort vers le Pas-de-Calais samedi, puis Ouest faible à modéré virant Nord-Ouest dimanche; indice de confiance 4/5.
+- **Phase 1** : 15-16 septembre : temps sec et plutôt ensoleillé, vent d’ouest à nord-ouest modéré, faibles averses seulement en soirée.
+- **Phase 2** : 17-18 septembre : passages nuageux plus fréquents, vent ouest à nord-ouest 4-5, fraîchissant 6 en mer du Nord vendredi.
+- **Phase 3** : 19-20 septembre : samedi sud-ouest modéré à assez fort vers le Pas-de-Calais; dimanche vent variable faible à modéré, toujours sec.
+- **Phase 4** : 20-21 septembre : transition vers la semaine 2, blocage anticyclonique toujours présent, incertitude croissante.
 
 **Points solides :**
-1. Vigilance verte sur l’ensemble des Hauts-de-France.  
-2. Maintien des hautes pressions, pas de dégradation majeure.  
-3. Chaleur encore marquée à l’intérieur : 30 à 31°C.
+1. Anticyclone dominant, aucune dégradation pluvieuse organisée.
+2. Vigilance verte sur les cinq départements.
+3. Confiance 4/5 sur les tendances de vent J+4 à J+7.
 
 **Points fragiles :**
-1. Averses très localisées difficiles à placer précisément.  
-2. Évolution après vendredi 18 encore incertaine.  
-3. Scénarios ensemblistes minoritaires mais non négligeables.
+1. Averses locales difficiles à prévoir précisément.
+2. Indicateur thermique national proche du seuil de canicule.
+3. Scénarios minoritaires plus instables encore présents d’ici 20 septembre.
 
 **À surveiller (prochains runs) :**
-CEP, GFS, AIFS, GEM; prochains bulletins Météo-France J+4-J+7; cartes de géopotentiels et de température à 850 hPa pour surveiller le tube chaud.
+Prochains runs CEP, GFS et AIFS pour surveiller la fin du blocage; position exacte de l’anticyclone; évolution du tube chaud.
 
 
-## 🗓️ SEMAINE 2 : Période exacte semaine 2 : du lundi 21 au dimanche 27 septembre 2026.
+## 🗓️ SEMAINE 2 : Du Lundi 21 au Dimanche 27 Septembre 2026
 ### 💡 Points clés de la semaine 2
-1. Blocage anticyclonique probable : Les hautes pressions restent le scénario dominant pour les Hauts-de-France.
-2. Chaleur à confirmer : Un tube chaud à 850 hPa de 15-20°C est évoqué par CEP/GEM, mais surtout vers le sud-ouest.
-3. Fiabilité limitée : Les runs long terme peuvent changer radicalement; AIFS est jugé encore plus instable que CEP.
-4. Vent faible à modéré : Lundi 21 variable, mardi 22 Nord-Est; aucun coup de vent majeur jusqu’à mardi.
-5. Averses peu probables : Aucun signal fort d’orages; des averses résiduelles ne sont pas totalement exclues en marge du blocage.
+1. Prolongation anticyclonique : Le blocage pourrait se maintenir du 21 au 27 septembre, avec un temps sec et doux.
+2. Tube chaud : Une poche très douce à 850 hPa (15-20°C) pourrait remonter par le sud-ouest en fin de semaine.
+3. Températures douces : Les maximales resteraient proches ou un peu au-dessus des normales, sans excès durable.
+4. Incertitudes fortes : Les modèles long terme peuvent encore changer radicalement; prudence requise.
+5. Vent variable : Le vent serait faible à modéré, de secteur variable, avec un passage nord-est possible le 22 septembre.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-1. Les hautes pressions restent dominantes sur ou proche de la France.  
-2. CEP et GEM s’accordent sur un tube chaud à 850 hPa, mais décalé vers le sud-ouest.  
-3. Pas de signal fort de dégradation orageuse pour les Hauts-de-France jusqu’à mardi 22.
+1. Maintien de l’anticyclone ou de ses conditions de blocage.
+2. Conditions majoritairement sèches, sans dégradation durable.
+3. Températures de saison à un peu élevées, chaleur possible.
 **Points de divergence :**
-1. Position exacte du tube chaud : remontera-t-il vers le nord ou restera-t-il au sud-ouest ?  
-2. AIFS diverge fortement; les runs long terme peuvent changer radicalement.  
-3. Localisation des averses résiduelles et force du vent en Manche lundi soir.
+1. Position exacte du tube chaud et extension vers le nord.
+2. Possibilité d’une rupture du blocage en fin de semaine.
+3. Intensité du vent : faible à modéré, avec secteurs variables.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP)** (Documenté (discussion ensembliste).) | Persistance d’un blocage anticyclonique; tube chaud à 850 hPa de 15-20°C vers le sud-ouest sur les ensembles CEP. | Temps globalement sec pour les Hauts-de-France; chaleur plus marquée vers le sud-ouest que sur le nord. | Hauts-de-France en marge nord du tube chaud; Oise et Aisne potentiellement les plus concernées si la chaleur remonte. | Modérée (60-70%) : modèle cité avec tendance pour la France/le Nord, sans détail départemental. | Les ensembles CEP sont jugés fiables à long terme par le membre; tube chaud à 850 hPa 15-20°C orienté sud-ouest; blocage perpétuel maintenu; faible mistral possible. |
-| **GEM** (Documenté (discussion ensembliste).) | Accord avec CEP sur un tube chaud à 850 hPa de 15-20°C vers le sud-ouest; blocage anticyclonique maintenu. | Temps sec et assez chaud en marge sud-ouest; Hauts-de-France plutôt en bordure nord, sans dégradation notable. | Hauts-de-France en marge; Oise et Aisne plus susceptibles en cas de remontée du tube chaud. | Modérée (60-70%) : modèle cité avec tendance à long terme, sans détail régional. | GEM fait partie des deux modèles jugés les plus fiables à long terme; tube chaud à 850 hPa orienté sud-ouest. |
-| **AIFS** (Documenté mais non fiable à long terme.) | Aucun scénario fiable exploitable; modèle jugé plus changeant que CEP à long terme. | Non exploitable pour les Hauts-de-France; tendance à réviser fortement. | Non déterminé. | Faible (40-50%) : mentionné en une phrase, sans scénario détaillé. | AIFS est encore plus sujet à changer à long terme que le père CEP; aucune conclusion météorologique fiable. |
-| **GFS** (Non documenté dans les échanges.) | Non estimable : aucune mention explicite de GFS dans les discussions exploitées pour la semaine 2. | Non estimable. | Non estimable. | Non estimable. | Aucune discussion GFS extraite; à utiliser avec prudence en long terme. |
+| **Météo-France XML Prochains Jours / Marine (J+4 à J+7)** (Commenté) | Pression anticyclonique; vent faible à modéré, secteur variable; pas de précipitations marquées. | Vent Ouest faible à modéré le 21, Nord-Est faible à modéré le 22; indice de confiance 4/5. | Nord, Pas-de-Calais, Somme (littoral et intérieur) | Élevée (80-90%) | Indice de confiance 4/5 sur les vents; aucun signal de pluie durable; blocage anticyclonique maintenu. |
+| **ECMWF / CEP** (Cité avec tendance) | Poursuite du blocage anticyclonique; tube chaud 15-20°C à 850 hPa vers le sud-ouest; chaleur possible par le sud. | Temps sec, températures de saison à un peu élevées; pas de froid. | Hauts-de-France | Modérée (60-70%) | Maintien des hauts géopotentiels; scénarios plus dégradés restent possibles mais minoritaires. |
+| **GEM (Canadien)** (Cité avec tendance) | Même tendance que le CEP à long terme : HP et douceur sur la France. | Sec, doux. | Hauts-de-France | Modérée (60-70%) | Accord CEP/GEM sur la persistance du blocage; tube chaud possible sur le sud-ouest. |
+| **AIFS (IA ECMWF)** (Brièvement évoqué) | Très instable à long terme; tendance possible vers un maintien de l’HP mais fiabilité moindre que le CEP. | Incertitude forte sur températures et précipitations. | Hauts-de-France | Faible (40-50%) | À surveiller avec beaucoup de recul; peut changer radicalement sans conclusion fiable. |
+| **GFS (NOAA)** (Brièvement évoqué) | Scénarios divergents sur la durée du blocage; tendance générale sèche. | Incertitudes sur la chaleur. | Hauts-de-France | Faible (40-50%) | À confronter aux ensembles CEP/GEM; aucune certitude sur une éventuelle rupture du blocage. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Pas-de-Calais (62)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Somme (80)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Oise (60)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Aisne (02)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Nord (59)** | Temps sec, éclaircies, blocage anticyclonique; quelques nuages possibles près du littoral. | Min 12-15°C, max 22-27°C; possibilité de 28-29°C si le tube chaud se confirme. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fortes incertitudes long terme; les runs peuvent évoluer. |
+| **Pas-de-Calais (62)** | Sec et doux, passages nuageux possibles près de la mer du Nord. | Min 13-16°C, max 20-26°C selon littoral et intérieur. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Incertitude sur la persistance du blocage et l’extension de la chaleur. |
+| **Somme (80)** | Temps sec, éclaircies, quelques nuages sur la Picardie maritime. | Min 12-15°C, max 21-28°C; évolution dépendante du tube chaud. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Position de l’anticyclone et humidité côtière. |
+| **Oise (60)** | Temps sec, assez ensoleillé, toujours anticyclonique. | Min 12-15°C, max 24-30°C si le tube chaud se confirme. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Incertitude sur la remontée du tube chaud à 850 hPa. |
+| **Aisne (02)** | Temps sec, éclaircies, blocage anticyclonique persistant. | Min 12-15°C, max 25-31°C en cas de remontée chaude. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Modèles long terme encore changeants; prudence sur les maximales. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 21 septembre 2026.** : Vent faible variable le matin, faible à modéré d’Ouest le soir sur le nord; indice de confiance 4/5.
-- **Mardi 22 septembre 2026.** : Flux Nord-Est faible à modéré; temps sec; pas de signal de dégradation; indice de confiance 4/5.
-- **Mercredi 23 et jeudi 24 septembre 2026.** : Tendance long terme incertaine; blocage anticyclonique probable; chaleur plutôt au sud-ouest.
-- **Vendredi 25 au dimanche 27 septembre 2026.** : À réévaluer; possible remontée du tube chaud ou maintien du blocage; aucune conclusion fiable pour l’instant.
+- **Phase 1** : 21-22 septembre : vent faible à modéré, secteur variable avec passage Nord-Est possible le 22.
+- **Phase 2** : 23-24 septembre : légère hausse des températures possible si le tube chaud remonte par le sud-ouest.
+- **Phase 3** : 25-26 septembre : blocage anticyclonique probable, temps sec, douceur encore incertaine.
+- **Phase 4** : 27 septembre : incertitude forte; maintien de l’HP ou amorce de rupture, à trancher dans les prochains runs.
 
 **Points solides :**
-1. Haute pression dominante au moins jusqu’à mardi 22.  
-2. Vent faible à modéré, aucun coup de vent majeur en Manche/Mer du Nord.  
-3. CEP/GEM cohérents sur un tube chaud à 850 hPa de 15-20°C, plutôt orienté sud-ouest.
+1. Tendance anticyclonique majoritaire.
+2. Absence de signal froid durable.
+3. Vent faible à modéré, pas de coup de vent.
 
 **Points fragiles :**
-1. Remontée du tube chaud vers les Hauts-de-France très incertaine.  
-2. AIFS divergent, runs long terme susceptibles de changer.  
-3. Absence de détails départementaux Météo-France au-delà du 22 septembre.
+1. AIFS est très instable à long terme.
+2. Tube chaud 15-20°C à 850 hPa encore incertain.
+3. Possibilité d’averses locales près des côtes.
 
 **À surveiller (prochains runs) :**
-CEP, GEM, AIFS, GFS; prochains bulletins Météo-France J+4-J+7; cartes de température à 850 hPa pour surveiller le tube chaud.
+Runs CEP, GEM, GFS et AIFS des 16-17 septembre; cartes de géopotentiels 500 hPa; position du tube chaud; évolution de l’anticyclone.
 
 
 ========================================
 
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
-### Tendance 15 jours
-Sur l’ensemble des 15 prochains jours, le scénario dominant est un blocage anticyclonique sur ou proche de la France. Les Hauts-de-France resteraient globalement secs, avec des températures de saison à un peu élevées. La chaleur plus marquée est pour l’instant annoncée plutôt vers le sud-ouest. Les averses seraient rares et très localisées. La fiabilité est bonne jusqu’à mardi 22, puis nettement plus incertaine.
-
 ### 🚨 Analyse des doutes et lacunes
-- **Informations manquantes :** Manquent les minimales nocturnes, les prévisions départementales Météo-France au-delà du 22 septembre, les sorties GFS détaillées et les cartes de vigilance actualisées.
-- **Modèles sous-documentés :** GFS n’est pas documenté pour les deux semaines; AIFS est mentionné mais jugé peu fiable à long terme.
-- **Incertitudes images :** Les cartes d’ensemble CEP/GEM et les images satellitaires ne sont pas fournies; les prévisions reposent sur les textes des bulletins et la tendance long terme mentionnée.
-
-
-========================================
-
-## 📝 PROPOSITION DE POST LINKEDIN
-🌤️ Hauts-de-France : un blocage anticyclonique qui s’installe ? Chaleur encore présente ce mardi avec 30-31°C dans l’Oise et l’Aisne. Vigilance verte, averses très localisées sur le littoral picard et l’Avesnois. Pour la semaine prochaine, le scénario dominant reste sec, mais le tube chaud à 850 hPa évoqué par CEP/GEM est davantage orienté vers le sud-ouest. Incertitudes fortes à long terme, notamment avec AIFS qui peut tout changer. Prudence ! #Météo #HautsDeFrance #Prévisions

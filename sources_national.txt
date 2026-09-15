@@ -283,7 +283,7 @@ Températures minimales : stationnaires.
 Températures maximales : en hausse sur le piémont et la montagne.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 150935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 15 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 297 pour LANGUEDOC-ROUSSILLON. 2 - Situation générale mardi 15 septembre 2026 à 06H00 UTC, et évolution Faible gradient de pression. Dépression relative se creusant 1015 hPa entre Corse et Continent la nuit prochaine. 3 - Prévisions pour l'après-midi du mardi 15 septembre VENT : Variable de secteur Est dominant 1 à 3, virant Sud à Sud-Ouest 2 à 4 en fin de journée. MER : belle. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 15 septembre au mercredi 16 septembre VENT : Variable 1 à 3, localement Sud-Ouest 3 à 4 à l'est de Sicié, devenant secteur Ouest 2 à 3 en fin de nuit. MER : belle, devenant belle à peu agitée en seconde partie de nuit. HOULE : non significative. TEMPS : nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du mercredi 16 septembre VENT : Secteur Ouest 2 à 4, fraîchissant Ouest à Nord-Ouest 5 à 6, localement 7 à l'ouest du Cap Croisette et Sud-Ouest 4 à 5 à l'est de Porquerolles, en fin de journée. Rafales. MER : belle à peu agitée, devenant peu agitée à agitée par l'ouest en journée. HOULE : non significative. TEMPS : nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 16 au 17 et la journée du jeudi 17 septembre VENT : - de Port Camargue au Levant : Ouest à Nord-Ouest 5 à 6, parfois 7 - du Levant à Saint Raphael : Variable 2 à 4, fraîchissant Sud-Ouest 5 à 6 de Cap Camarat au Levant en fin de journée. Rafales. MER : peu agitée à agitée, localement forte à l'est de Sicié en seconde partie de nuit. HOULE : s'amplifiant Ouest à Sud-Ouest 1 à 1.5 en début de période, s'atténuant 0.5 à 1 m à l'ouest de Porquerolles en matinée. TEMPS : beau temps. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 17 au 18 et la journée du vendredi 18 septembre VENT : De Port Camargue à Camarat Ouest à Nord-Ouest 5 à 7, mollissant 3 à 5 en seconde partie de nuit, puis fraîchissant 5 à 6. Rafales. De Camarat à St Raphaël Ouest à Nord-Ouest 6, mollissant 3 en début de nuit, puis fraîchissant 5. MER : De Port Camargue à Marseille mer peu agitée, devenant temporairement agitée en début de nuit. De Marseille à St Raphaël mer peu agitée à agitée, localement forte du Levant à Camarat. HOULE : Établissement temporaire d'une houle de secteur Ouest 0,5 à 1,5 m. 8 - Tendance pour les jours suivants Samedi 19 septembre Nord-Ouest modéré le matin, devenant faible l'après-midi sur le Golfe du Lion. Variable faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 20 septembre Sur le Golfe du Lion, secteur Nord-Est faible à modéré, fraichissant modéré à assez fort en soirée. Autour de la Corse, secteur Nord faible à modéré. Indice de confiance : 4 sur 5 Lundi 21 septembre Sur le Golfe du Lion, vent de Nord-Ouest modéré à assez fort, virant au Nord à la fin. Entre Corse et continent, vent de secteur Nord-Est faible à modéré. Indice de confiance : 4 sur 5 Mardi 22 septembre Sur le Golfe du Lion, Nord modéré mollissant faible. Entre Corse et continent, Nord-Est faible à modéré. Indice de confiance : 4 sur 5 9 - Observations le mardi 15 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord-Est 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Sud-Est 6 noeuds, clair ou peu nuageux, visibilité 13 milles. Le Levant : vent Est 6 noeuds, 1021 hPa en hausse. Porquerolles : vent Sud-Est 4 noeuds. Cap Couronne : vent Est 8 noeuds. Prochain bulletin le mardi 15 septembre 2026, vers 18H30 légales
+FQCT40 LFML 151615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 15 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 298 pour LANGUEDOC-ROUSSILLON. 2 - Situation générale mardi 15 septembre 2026 à 12H00 UTC, et évolution Faible gradient de pression. Dépression relative se creusant 1015 hPa entre Corse et Continent la nuit prochaine. 3 - Prévisions pour la nuit du mardi 15 septembre au mercredi 16 septembre VENT : Variable 1 à 3, localement Sud-Ouest 3 à 4 à l'est de Sicié, devenant secteur Ouest 3 à 5 en fin de nuit. MER : belle, devenant belle à peu agitée en seconde partie de nuit, localement agitée au large à l'ouest de Beauduc. HOULE : non significative. TEMPS : nuageux. VISIBILITE : bonne. 4 - Prévisions pour la journée du mercredi 16 septembre VENT : Secteur Ouest 3 à 5, fraîchissant Ouest à Nord-Ouest 5 à 6 l'après-midi, localement Sud-Ouest 3 à 5 à l'est de Porquerolles. Rafales. MER : belle à peu agitée, localement agitée au large à l'ouest de Beauduc, devenant peu agitée à agitée l'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : nuageux. VISIBILITE : bonne. 5 - Tendance pour la nuit du 16 au 17, et la journée du jeudi 17 septembre VENT : - de Port Camargue au Levant : Ouest à Nord-Ouest 5 à 6, revenant Ouest 4 à 6 d'ouest en est l'après-midi. Rafales. - du Levant à Saint Raphael : Variable 2 à 4, parfois 5 au début, fraîchissant Ouest à Sud-Ouest 5 à 6 de Cap Camarat au Levant en fin de journée. Rafales. MER : peu agitée à agitée, devenant localement forte à l'est de Sicié en fin de journée. HOULE : s'amplifiant Ouest à Sud-Ouest 1 à 1.5 m en début de période, puis s'amortissant à l'ouest de Porquerolles l'après-midi. TEMPS : beau temps. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 17 au 18 et la journée du vendredi 18 septembre VENT : De Port Camargue à Camarat Ouest à Nord-Ouest 5 à 7, mollissant 3 à 5 en seconde partie de nuit, puis fraîchissant 5 à 6. Rafales. De Camarat à St Raphaël Ouest à Nord-Ouest 6, mollissant 3 en début de nuit, puis fraîchissant 5. MER : De Port Camargue à Marseille mer peu agitée, devenant temporairement agitée en début de nuit. De Marseille à St Raphaël mer peu agitée à agitée, localement forte du Levant à Camarat. HOULE : Établissement temporaire d'une houle de secteur Ouest 0,5 à 1,5 m. 7 - Tendance pour les jours suivants Samedi 19 septembre Nord-Ouest modéré le matin, devenant faible l'après-midi sur le Golfe du Lion. Variable faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 20 septembre Sur le Golfe du Lion, secteur Nord-Est faible à modéré, fraichissant modéré à assez fort en soirée. Autour de la Corse, secteur Nord faible à modéré. Indice de confiance : 4 sur 5 Lundi 21 septembre Sur le Golfe du Lion, vent de Nord-Ouest modéré à assez fort, virant au Nord à la fin. Entre Corse et continent, vent de secteur Nord-Est faible à modéré. Indice de confiance : 4 sur 5 Mardi 22 septembre Sur le Golfe du Lion, Nord modéré mollissant faible. Entre Corse et continent, Nord-Est faible à modéré. Indice de confiance : 4 sur 5 8 - Observations le mardi 15 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Sud-Ouest 12 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Sud-Sud-Ouest 10 noeuds. Le Levant : vent Sud 6 noeuds, 1018 hPa en baisse. Porquerolles : vent Sud-Sud-Ouest 10 noeuds. Cap Couronne : vent Sud-Sud-Ouest 6 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le mercredi 16 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -305,12 +305,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 15/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -318,9 +318,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 15 Septembre 2026.
-Résumé général précédent : .
+Résumé général précédent : Sur les 15 prochains jours, persistance probable d'un puissant anticyclone sur l'Europe de l'Ouest, avec un temps sec, souvent ensoleillé et des températures supérieures aux normales, particulièrement au sud..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : De saison.
+Températures attendues précédemment : Retour de températures nettement supérieures aux normales samedi-dimanche, surtout au sud ; ciel sec et ensoleillé..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 15 au Dimanche 20 Septembre 2026) ===
@@ -552,7 +552,7 @@ Il y a 2 heures, petit âge glaciaire 11 a dit :
 	du reste ça change beaucoup pour la position des minimums polaires sur ces trois runs... l'exercice se veut plutôt didactique, au reste on voit au moins quelque chose qui ne bouge pas fondamentalement du côté des hautes pressions...
 	bon on peut aussi s'amuser à attendre encore 48H, voir si cette caractéristique se maintient, et même voir si le signal de @Nicolas L nous ouvre l'espoir ou relève du énième mirage...
 	particulièrement inquiétante c'est l'animation des températures à 850hPa, ici avec GFS 12h, en se centrant sur l'Afrique et non plus sur le pôle : ça s'arrête à jeudi 24 septembre ; ici avec une image fixe, sinon on voit la masse d'air saharo-sahélienne repousser l'air polaire sans répit ; sans doute le même mécanisme qui nous suit depuis des mois et des mois...
-	Modifié il y a 21 heures par giec 2100
+	Modifié il y a 23 heures par giec 2100
 								1
 								1
 
@@ -612,7 +612,7 @@ Cumul de précipitations sur 384 heures...
 	C'est un exorciste qu'il nous faut moi je vous le dis.
 								2
 								3
-								3
+								4
 								1
 
 =======================
@@ -643,7 +643,7 @@ Tout cela est terrifiant !
 	Un carnage, pas de vent, juste des arbres qui n'en peuvent plus ...
 								1
 								6
-								17
+								20
 								4
 
 =======================
@@ -654,7 +654,7 @@ Aucune pluie en vue pour le moment jusqu'a la fin du mois.
 	Il y'a des scenarios moins chauds qui apparaissent pour le milieu de semaine sur les diagrammes de GFS avec une remontée de HP entre Scandinavie et Royaume Uni
 	CEp et GEM sont catastrophiques et même l’ensembliste GFS à long terme avec le déterministe de minuit très isolé dans la fraicheur.
 	Je serai pas étonné que la situation dure jusqu'a mi octobre comme en 2023
-								3
+								4
 								1
 
 =======================
@@ -692,7 +692,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 								2
 								2
 
@@ -723,7 +723,7 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 1 heure par giec 2100
+	Modifié il y a 3 heures par giec 2100
 								1
 
 =======================
@@ -733,7 +733,8 @@ Message:
 Reviens ma douce Patate.!!!
 	Ah ben non, casse toi.
 								1
-								4
+								5
+								1
 								1
 
 =======================
@@ -744,4 +745,5 @@ Message:
 	et encore on n'a pas la plus grosse... :
 	enfin en attendant j'en ai gros sur la patate de ce blocage perpétuel...
 								1
+								3
 								2
