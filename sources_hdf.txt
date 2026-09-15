@@ -303,12 +303,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
+• Infoclimat Direct : Projet vp2 Ascain - Sud ouest
+• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 15/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -316,9 +316,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 15 Septembre 2026.
-Résumé général HDF précédent : .
+Résumé général HDF précédent : Sur la période 15-27 septembre, hautes pressions dominantes sur ou proches de la France ; temps sec et chaud pour la saison, 19-31°C ; quelques averses locales en semaine 1 ; incertitude croissante en semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Vent d’ouest 35-40 km/h, températures 19-31°C, pression 1015 hPa, vigilance verte..
+Températures attendues précédemment : Vigilance verte, localement jaune ; averses faibles en soirée/nuit sur Avesnois, Picardie maritime, nord Oise, sud Aisne..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 15 au Dimanche 20 Septembre 2026) ===
@@ -520,36 +520,6 @@ Bonjour @giec 2100,
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: giec 2100
-Message:
-Il y a 2 heures, petit âge glaciaire 11 a dit :
-			Personnellement je ne vois pas trop l'intérêt d'analyser des runs à si long terme d' AIFS.
-			Il faudrait plutôt comparer des moyennes ou alors des runs à plus courte échéance. 
-			Des runs à long terme peuvent changer radicalement sans qu'on puisse en tirer une analyse ou une conclusion. AIFS est je pense encore plus sujet à changer à long terme que le père CEP..
-	du reste ça change beaucoup pour la position des minimums polaires sur ces trois runs... l'exercice se veut plutôt didactique, au reste on voit au moins quelque chose qui ne bouge pas fondamentalement du côté des hautes pressions...
-	bon on peut aussi s'amuser à attendre encore 48H, voir si cette caractéristique se maintient, et même voir si le signal de @Nicolas L nous ouvre l'espoir ou relève du énième mirage...
-	particulièrement inquiétante c'est l'animation des températures à 850hPa, ici avec GFS 12h, en se centrant sur l'Afrique et non plus sur le pôle : ça s'arrête à jeudi 24 septembre ; ici avec une image fixe, sinon on voit la masse d'air saharo-sahélienne repousser l'air polaire sans répit ; sans doute le même mécanisme qui nous suit depuis des mois et des mois...
-	Modifié hier à 18:51 par giec 2100
-								1
-								1
-
-=======================
-
-Auteur: Lodu17
-Message:
-L'emploi du conditionnel serait le bienvenu.
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-avec GEFS 12h, pour la période du topic à Bordeaux,  une montée régulière de la température, avec une dispersion mais aussi un tube fourni qui tend vers 20°C à 850 hPa ; à qualifier de petite chaleur ou de grosse douceur en T2m en fin de période... ?
-	chemin inverse pour la pression mais avec une forte dispersion, nous laissant à pile ou face pour provisionner les frais de divorce d'avec Patator...
-	précipitations, comme d'hab, epsilon... et je ne parierai pas un bouton de culotte à la bourse des parapluies de Cherrapunji ...
-
-=======================
-
 Auteur: tao
 Message:
 Bonjour,
@@ -589,7 +559,7 @@ Cumul de précipitations sur 384 heures...
 	On a vraiment l'impression que c'est obsessionnelle. Il y a un phénomène paranormal et je me mets dans sa tête en regardant cette carte : " surtout ne pas toucher la France !"
 	C'est un exorciste qu'il nous faut moi je vous le dis.
 								2
-								3
+								4
 								5
 								1
 
@@ -671,7 +641,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 6 heures par petit âge glaciaire 11
+	Modifié il y a 8 heures par petit âge glaciaire 11
 								2
 								1
 								3
@@ -703,8 +673,8 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 5 heures par giec 2100
-								1
+	Modifié il y a 7 heures par giec 2100
+								2
 								1
 
 =======================
@@ -714,7 +684,7 @@ Message:
 Reviens ma douce Patate.!!!
 	Ah ben non, casse toi.
 								1
-								6
+								7
 								1
 								1
 
@@ -727,15 +697,15 @@ Message:
 	enfin en attendant j'en ai gros sur la patate de ce blocage perpétuel...
 								1
 								4
-								4
+								6
 
 =======================
 
 Auteur: cédric du Lot
 Message:
 Au dela du fait qu'on en a plein le c*l, on ne peut en plus qu'être sidéré par un tel acharnement, un orange mécanique météorologique...
+								5
 								4
-								1
 
 =======================
 
@@ -744,4 +714,31 @@ Message:
 Bonsoir,
 	les hauts géopotentiels nous ont jeté un sort:
 	Catherine ❤️
+								1
 								2
+
+=======================
+
+Auteur: PaRaDoX
+Message:
+Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
+	Plus sérieusement ce scénario serait un cauchemar niveau sécheresse, l'impression qu'on est condamnés à choisir entre 2 alternatives sombres.
+								1
+
+=======================
+
+Auteur: serge26
+Message:
+Apres un hiver 2025/2026 tres pluvieux, quel est la probabilité d'en avoir un 2eme identique d'affilée pour combler ce déficit abyssal ?
+	Je le sens pas bien cette affaire
+
+=======================
+
+Auteur: Arkus
+Message:
+il y a 30 minutes, PaRaDoX a dit :
+			Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
+	Et encore, blocage anticyclonique hivernal n'est pas systématiquement synonyme de froid d'inversion. Certains se souviendront de décembre 2015, sa sécheresse record, son ensoleillement record, et sa douceur record. Pendant que le NO de l'Europe prenait par endroits 1000 mm de pluie dans le mois. Coïncidentalement, cela se produisait pendant un fort El Niño, mais espérons que ce ne fut effectivement qu'un hasard.
+	Bref, désolé pour la digression, mais sans surprise la semaine du topic est en train de se caler sur des anomalies thermiques costaudes, à défaut de la semaine actuelle qui a finalement été revue un peu à la baisse par rapport aux prévisions les plus chaudes.
+	Dernière mouture pour la semaine prochaine, mais comme on le voit, pas encore définitive (l'incertitude porte plus sur l'intensité de la chaleur que sur sa présence même) :
+								1
