@@ -1,6 +1,6 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
 **Généré le :** Mardi 15 Septembre 2026
-**Période :** Semaine 1 (Du mardi 15 au dimanche 20 septembre 2026 (semaine 38)) & Semaine 2 (Du Lundi 21 au Dimanche 27 Septembre 2026)
+**Période :** Semaine 1 (Du mardi 15 au dimanche 20 septembre 2026) & Semaine 2 (Du lundi 21 au dimanche 27 septembre 2026)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
@@ -11,82 +11,119 @@
 - **Stabilité des cartes/scénarios :** 6 / 96 — *6 cartes analysées*
 - **Niveau d'incertitude global :** Timing — *Transition thermique*
 
-## 🗓️ SEMAINE 1 : Du mardi 15 au dimanche 20 septembre 2026 (semaine 38)
+## 🗓️ SEMAINE 1 : Du mardi 15 au dimanche 20 septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Pic de chaleur suivi d'une baisse : Fortes chaleurs lundi-mardi (28-32°C) puis nette dégradation mercredi, retour à des normales de saison.
-2. Anticyclone tenace : Les hautes pressions dominent de l'Atlantique à la France, limitant très fortement les précipitations.
-3. Averses localisées : Quelques averses possibles sur la Flandre maritime et le littoral en fin d'après-midi, mais sans grand cumul.
-4. Nouvelle pulsion chaude en vue : Fin d'échéance avec une remontée de l'air subtropical, surtout dans le sud de la région.
-5. Sécheresse des sols : Pas de pluie significative, évapotranspiration de 5 à 7 mm/jour, les sols restent très secs.
+1. Chaleur maintenue : des températures de 26 à 28°C sur l'intérieur des Hauts-de-France malgré un ciel souvent nuageux.
+2. Vigilance verte : aucun paramètre dangereux, mais des averses éparses restent possibles sous les nuages.
+3. Flux de sud-ouest : vent modéré, parfois assez fort sur le littoral et le Pas-de-Calais en fin de semaine.
+4. Anticyclone solide : l'enfoncement des basses pressions n'apparaît pas sur les diagrammes, le temps sec domine.
+5. Averses côtières : mercredi après-midi, averses éparses sur la mer du Nord, littoral Nord et Pas-de-Calais.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Convergence sur le pic de chaleur lundi-mardi avec des températures très élevées (28-32°C) dans le sud de la région.
-- Convergence sur une baisse marquée mercredi et jeudi avec un retour à des normales de saison (19-21°C).
-- Convergence sur une nouvelle pulsion chaude en fin de période, surtout avec CEP/AIFS mais aussi GEM/ICON.
+- Persistance d'un temps sec et chaud sous anticyclone.
+- Vent de secteur sud-ouest modéré, orientation commune.
+- Absence de dégradation pluvio-orageuse majeure.
 **Points de divergence :**
-- Divergence sur l'intensité de la remontée chaude en fin de semaine : nettement plus marquée avec CEP/AIFS qu'avec GFS.
-- Divergence sur la localisation des averses : plutôt sur le littoral et la Flandre maritime selon Météo-France, mais certains modèles les voient plus à l'intérieur.
-- Divergence sur la durée du rafraîchissement : certains voient un retour de la chaleur dès samedi, d'autres dimanche.
+- Importance de la couverture nuageuse : très nuageux sur le Nord, plus ensoleillé sur l'Aisne.
+- Risque d'averses éparses localisées, surtout près des côtes.
+- Intensité du vent en fin de semaine, notamment vers le Pas-de-Calais.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP)** (Documenté par les membres) | Dorsale anticyclonique puissante recouvrant le pays en fin d'échéance avec flux de sud à sud-est apportant de l'air chaud. | Temps sec et ensoleillé, températures en hausse, surtout sur l'Oise et l'Aisne. | Toute la région Hauts-de-France, avec un gradient nord-sud marqué. | Élevée (85%) | Le CEP montre une dorsale avec des géopotentiels très élevés, la masse d'air subtropicale remonte sur la France. Les températures à 850 hPa dépassent 15°C sur toute la région, jusqu'à 18-20°C sur l'Oise et l'Aisne. Le scénario est robuste dans les ensembles. |
-| **GFS** (Documenté) | Scénario similaire mais moins marqué en intensité, avec une possible remontée de hautes pressions vers la Scandinavie en milieu de semaine. | Temps sec et chaud, mais moins extrême que le CEP. | Principalement le sud de la région (Oise, Aisne), avec un gradient nord-sud. | Modérée (65%) | GFS voit également une remontée chaude en fin de semaine, mais avec des températures à 850 hPa de 14-16°C contre 18-19°C pour le CEP. Il reste néanmoins dans la même tendance. |
-| **GEM** (Documenté) | Proche du CEP avec une dorsale anticyclonique bien installée et une masse d'air subtropicale. | Temps sec et ensoleillé, températures estivales dans le sud de la région. | Toute la région, avec les températures les plus élevées sur l'Oise et l'Aisne. | Modérée (60%) | GEM s'aligne avec le CEP et ICON, montrant un renouvellement de la masse d'air chaude. La nouvelle version de GEM est plébiscitée par les membres pour sa fiabilité. |
-| **ICON** (Documenté) | Même genre de scénario que le CEP, avec une pulsion chaude en fin d'échéance. | Temps sec et chaud, avec des maximales possibles de 30°C dans l'Aisne en fin de semaine. | Sud de la région principalement. | Modérée (55%) | ICON confirme la tendance à une nouvelle pulsion chaude, mais avec des températures légèrement inférieures au CEP. |
-| **AIFS (CEP-IA)** (Documenté) | Écrasante majorité de scénarios avec une puissante dorsale anticyclonique et un flux de sud à sud-est sur la France. | Temps sec, ensoleillé et chaud, surtout dans le sud de la région. | Toute la région, avec un gradient nord-sud très marqué. | Élevée (90%) | AIFS, version IA du CEP, montre une très forte probabilité d'une dorsale anticyclonique avec des géopotentiels très élevés. Les températures à 850 hPa pourraient dépasser 20°C dans le sud-ouest. La plupart des scénarios vont dans ce sens. |
+| **Météo-France (ARPEGE/AROME)** (Confirmé par les bulletins départementaux) | Anticyclone sur la France, flux de sud-ouest chaud, températures de 26 à 28°C, passages nuageux, averses éparses. | Temps sec et chaud, soleil parfois voilé, averses isolées en bord de mer. | Hauts-de-France : Nord, Pas-de-Calais, Somme, Oise, Aisne | Élevée (80-90%) | Vigilance verte sur les 5 départements ; Lille 26°C, Dunkerque 22°C, Arras 26°C, Boulogne 19°C, Amiens 28°C, Beauvais 28°C, Saint-Quentin 27°C ; vent SO 20-25 km/h ; averses possibles. |
+| **Ensembles GFS/GEFS/ECMWF (modélisation long terme)** (Commenté par les membres) | Maintien des hautes pressions sur la France, aucun enfoncement des 1015 hPa, flux de sud sec. | Temps sec et chaud, faible mistral possible, pas de pluie significative. | France, dont Hauts-de-France | Modérée (60-70%) | Discussions : "Sur les ensemblistes, ces scénarios restent minoritaires mais ils sont tout de même pas loin (entre 1/4 et 1/3 des scénarios)" ; "l'omniprésence des hautes pressions sur ou proches de la France ne fait que peu de doute". |
+| **Guillaume Séchet / Météo-Villes** (Intégré) | Expertise intégrée : flux de sud, chaleur, temps sec, pas de dégradation notable pour la semaine. | Temps chaud, faible mistral, soleil dominant. | Hauts-de-France et Nord-Est | Faible (40-50%) | Aucun détail chiffré fourni dans l'énoncé, mais l'expertise est cohérente avec la tendance anticyclonique. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Temps chaud et ensoleillé mardi, puis nuages et averses mercredi, retour du soleil vendredi | Max 28-30°C mardi, puis 19-21°C mercredi à vendredi, 20°C samedi/dimanche. Min 12-16°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls de pluie incertains samedi, dépendant de la position de la dépression |
-| **Pas-de-Calais (62)** | Temps chaud mardi (surtout Arrageois), puis nuages et averses en fin de semaine | Max 27-28°C mardi, puis 18-21°C mercredi à vendredi, 19-21°C samedi/dimanche. Min 10-15°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité des averses samedi, surtout sur le littoral |
-| **Somme (80)** | Temps très chaud mardi (surtout sud-est), puis nette baisse avec passages nuageux | Max 28-31°C mardi, puis 19-21°C mercredi à vendredi, environ 20°C samedi/dimanche. Min 11-16°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque de pluie plus important sur la Picardie maritime |
-| **Oise (60)** | Temps ensoleillé et très chaud mardi, puis fraîchissement avec averses mercredi et jeudi, retour du soleil vendredi | Max 29-31°C mardi, puis 18-22°C mercredi et jeudi, 19-21°C vendredi, 20-22°C samedi/dimanche. Min 9-12°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls de pluie incertains, surtout samedi |
-| **Aisne (02)** | Temps très chaud mardi, puis passages nuageux et averses en milieu de semaine, retour du soleil vendredi | Max 29-32°C mardi, puis 19-22°C mercredi, 19-21°C jeudi, 20-22°C vendredi, 21-23°C samedi/dimanche. Min 9-13°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque d'orages isolés samedi sur l'est du département |
+| **Nord (59)** | Très nuageux, soleil peinant à percer, chaleur | 26°C à Lille, 22°C à Dunkerque ; maximales jusqu'à 28°C possibles | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Couverture nuageuse importante, soleil incertain |
+| **Pas-de-Calais (62)** | Alternance de passages nuageux et d'éclaircies, chaud | Arras 26°C, Boulogne 19°C | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque d'averse localisé, fraîcheur sur le littoral |
+| **Somme (80)** | Ensoleillé avec passages nuageux, chaud | Amiens 28°C, Cayeux-sur-Mer 21°C | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Nuages passagers, fraîcheur relative au littoral |
+| **Oise (60)** | Températures élevées, temps sec, vent modéré | Beauvais 28°C | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque orageux faible, évolution J+7 à surveiller |
+| **Aisne (02)** | Plutôt ensoleillé sur l'Est, passages nuageux ailleurs | Saint-Quentin 27°C, Laon 26°C | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Trajectoire des averses sur la moitié Est |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Mardi 15 et mercredi 16 septembre** : Pic de chaleur suivi d'une baisse nette avec passage de nuages et quelques averses.
-- **Jeudi 17 et vendredi 18 septembre** : Temps plus frais et souvent nuageux, averses possibles, vent modéré avec rafales sur le littoral.
-- **Samedi 19 et dimanche 20 septembre** : Risque de pluie ou d'averses jusqu'à dimanche à la mi-journée, puis amélioration et nouvelle tendance chaude.
-- **Dimanche 20 soir et lundi 21** : Retour d'un temps plus sec et ensoleillé, températures en hausse.
+- **Mardi 15 septembre** : Temps très nuageux sur le Nord, soleil voilé ailleurs, chaleur jusqu'à 28°C.
+- **Mercredi 16 septembre** : Averses éparses en mer du Nord, vent mollissant puis fraîchissant l'après-midi.
+- **Jeudi 17 et vendredi 18 septembre** : Vent d'ouest 4 à 5, fraîchissant 6 vendredi en mer du Nord, temps variable.
+- **Samedi 19 et dimanche 20 septembre** : Sud-ouest modéré, assez fort vers le Pas-de-Calais samedi, puis ouest virant nord-ouest dimanche.
 
 **Points solides :**
-- Pic de chaleur bien établi lundi-mardi avec des valeurs très élevées pour mi-septembre.
-- Rafraîchissement net à partir de mercredi (températures proches des normales).
-- Persistance de l'anticyclone et absence de précipitations notables sur la semaine.
+- Vigilance verte généralisée sur les 5 départements.
+- Températures maximales de 26 à 28°C sur l'intérieur.
+- Vent modéré de secteur sud-ouest, conformes aux bulletins.
 
 **Points fragiles :**
-- Nouvelle remontée chaude en fin de semaine : intensité encore incertaine.
-- Localisation des averses de jeudi : littoral vs intérieur.
-- Cumuls de pluie samedi : très incertains, selon la trajectoire de la perturbation.
+- La couverture nuageuse pourrait limiter localement la hausse des températures.
+- Averses éparses difficiles à placer précisément.
+- Évolution après samedi 19 encore incertaine.
 
 **À surveiller (prochains runs) :**
-- Évolution du CEP et AIFS pour confirmer la pulsion chaude de dimanche.
-- Position exacte de la perturbation samedi pour évaluer le risque de pluie.
-- Comportement de GFS qui reste plus modéré.
+- Runs de 12z des 16 et 17 septembre.
+- Sorties GFS et CEP pour J+5 à J+7.
+- Cartes de précipitations pour le week-end.
 
 
-## 🗓️ SEMAINE 2 : Du Lundi 21 au Dimanche 27 Septembre 2026
+## 🗓️ SEMAINE 2 : Du lundi 21 au dimanche 27 septembre 2026
 ### 💡 Points clés de la semaine 2
+1. Chaleur à confirmer : GFS et GEFS montrent une température à 850 hPa élevée, avec un tube vers 20°C à Bordeaux.
+2. Incertitude forte : les runs long terme peuvent changer radicalement, AIFS encore plus instable que le CEP.
+3. Flux de sud : synoptique anticyclonique avec hauts géopotentiels, favorable à un temps sec et chaud.
+4. Risque orageux : un flux de sud humide en automne pourrait générer des averses, mais c'est incertain.
+5. Début de semaine variable : lundi vent faible, mardi nord-est faible à modéré selon Météo-France.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
+**Points de convergence :**
+- Maintien d'un flux de sud à sud-ouest chaud.
+- Températures à 850 hPa élevées sur la France.
+- Pas de signal franc de dégradation avant jeudi 24.
+**Points de divergence :**
+- Échéance exacte de la possible rupture (jeudi 24 ?).
+- Risque d'orages lié au flux de sud humide.
+- Incertitude sur la fiabilité des runs long terme (AIFS vs CEP).
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
-Aucun modèle spécifique détaillé.
+| Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
+| --- | --- | --- | --- | --- | --- |
+| **GFS** (Commenté) | Montée régulière des températures à 850 hPa, géopotentiels élevés jusqu'au 24 septembre, chaleur persistante. | Temps chaud et sec, possible dégradation orageuse en fin de semaine. | France, dont Hauts-de-France | Modérée (60-70%) | L'animation des températures à 850 hPa s'arrête jeudi 24 ; elle montre une masse d'air chaude remontant d'Afrique. |
+| **GEFS** (Commenté) | Ensemble avec une dispersion mais un tube fourni, tendant vers 20°C à 850 hPa sur Bordeaux. | Températures élevées, chaleur pouvant s'installer. | Sud-Ouest vers le nord de la France | Modérée (60-70%) | "Une montée régulière de la température, avec une dispersion mais aussi un tube fourni qui tend vers 20°C à 850 hPa". |
+| **ECMWF (CEP)** (Mentionné) | Pas de détail chiffré, mais considéré comme plus fiable qu'AIFS à long terme. | Non précisé | Tendance générale France | Faible (40-50%) | "AIFS est je pense encore plus sujet à changer à long terme que le père CEP" ; pas de scénario explicite. |
+| **AIFS** (Mentionné) | Forte variabilité, scénarios susceptibles de changer radicalement. | Non précisé | Non précisé | Faible (40-50%) | Considéré comme plus instable que le CEP. |
+| **Météo-France (tendance J+7)** (Confirmé pour les premiers jours) | Lundi 21 : vent faible variable, puis ouest faible à modéré sur la partie Nord ; mardi 22 : nord-est faible à modéré. | Temps variable, vent faible, pas de précipitations notables. | Hauts-de-France et côtes de la Manche | Élevée (80-90%) | Indice de confiance 4/5 pour lundi et mardi ; vent faible à modéré, secteur variable. |
+| **Guillaume Séchet / Météo-Villes** (Intégré) | Expertise intégrée pour la semaine 2 : chaleur possible, mais incertitude liée aux modèles long terme. | Non précisé | Nord-Est | Faible (40-50%) | Aucun détail supplémentaire fourni. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Pas-de-Calais (62)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Somme (80)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Oise (60)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
-| **Aisne (02)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Nord (59)** | Début de semaine variable, chaleur possible ensuite | Maximales autour de 25-28°C selon les modèles, minimales non précisées | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fortes divergences entre modèles long terme |
+| **Pas-de-Calais (62)** | Temps sec et vent modéré, chaleur possible | Maximales prévues 23-27°C, détail non fourni | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Évolution après mardi très dépendante des runs |
+| **Somme (80)** | Variable, passages nuageux, pas de pluie significative en début de semaine | Maximales autour de 26-28°C, tendance chaude | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Position de l'anticyclone et éventuelles descentes fraîches |
+| **Oise (60)** | Sec et chaud en tendance, soleil | Maximales 27-29°C possibles | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fiabilité des modèles long terme limitée |
+| **Aisne (02)** | Ensoleillé, chaleur, passages nuageux possibles | Maximales 26-28°C | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Évolution des hautes pressions et humidité en altitude |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
+- **Lundi 21 et mardi 22 septembre** : Vent faible variable, puis nord-est faible à modéré ; temps sec.
+- **Mercredi 23 et jeudi 24 septembre** : Possible remontée chaude, géopotentiels élevés, incertitude sur la fin de l'animation GFS.
+- **Vendredi 25 au dimanche 27 septembre** : Tendance chaude persistante, risque d'orages lié au flux de sud, mais non confirmé.
+- **Échéance au-delà du 27 septembre** : "Et même pour la suite, c'est pas gagné" : aucune tendance fiable, forte variabilité.
+
+**Points solides :**
+- Météo-France prévoit un vent faible à modéré lundi et mardi sur les HDF.
+- Les ensembles GEFS et GFS partagent une tendance chaude à 850 hPa.
+- L'indice thermique national reste élevé, proche du seuil de canicule.
+
+**Points fragiles :**
+- Fortes disparités entre modèles long terme après jeudi.
+- AIFS est jugé très instable, le CEP plus fiable mais pas de scénario net.
+- Risque d'orages très incertain.
+
+**À surveiller (prochains runs) :**
+- Runs 12z du 16 au 18 septembre.
+- Sorties GEFS et CEP à longue échéance.
+- Cartes de précipitations pour le jeudi 24 et le week-end.
 
 
 ========================================
@@ -94,3 +131,9 @@ Aucun modèle spécifique détaillé.
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### 🚨 Analyse des doutes et lacunes
+- **Timing/Chronologie :** Les incertitudes portent principalement sur la période du 24 au 27 septembre, où les modèles long terme divergent fortement.
+- **Localisation :** La localisation exacte des averses et orages est incertaine, notamment sur l'est des Hauts-de-France (Aisne) et les côtes.
+- **Intensité :** L'intensité de la chaleur en semaine 2 reste floue : les températures à 850 hPa sont élevées, mais la dégradation possible pourrait les faire baisser.
+- **Informations manquantes :** Les bulletins Météo-France détaillés pour J+4 à J+7 n'ont pas été fournis dans l'énoncé, ce qui limite la précision pour la semaine 2.
+- **Modèles sous-documentés :** AIFS et ECMWF (CEP) sont seulement mentionnés sans scénario détaillé. Guillaume Séchet est intégré mais sans détail chiffré.
+- **Incertitudes images :** L'animation GFS 12z s'arrête jeudi 24 septembre, ce qui empêche d'évaluer la fin de semaine 2. Les cartes de synthèse ne sont pas disponibles.
