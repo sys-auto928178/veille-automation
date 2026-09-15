@@ -303,12 +303,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 15/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -316,9 +316,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 15 Septembre 2026.
-Résumé général HDF précédent : Sur l’ensemble des 15 prochains jours, le scénario dominant est un blocage anticyclonique sur ou proche de la France. Les Hauts-de-France resteraient globalement secs, avec des températures de saison à un peu élevées. La chaleur plus marquée est pour l’instant annoncée plutôt vers le sud-ouest. Les averses seraient rares et très localisées. La fiabilité est bonne jusqu’à mardi 22, puis nettement plus incertaine..
+Résumé général HDF précédent : .
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et chaud; averses faibles possibles sur Avesnois, Picardie maritime, Oise et Aisne..
+Températures attendues précédemment : Vent d’ouest 35-40 km/h, températures 19-31°C, pression 1015 hPa, vigilance verte..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 15 au Dimanche 20 Septembre 2026) ===
@@ -520,27 +520,6 @@ Bonjour @giec 2100,
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Blacksun
-Message:
-Bill Murray revivait sans fin le jour de la marmotte nous c'est le jour de la patate 😁😐
-								2
-								2
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-il y a une heure, giec 2100 a dit :
-			je ne suis pas sûr que le ciblage NAO plus ou moins et les blocages à l'avenant ait beaucoup de sens dans cette configuration que l'on traîne depuis la sortie de l'hiver, avec ce décalage vers le pôle des centres d'action et le verrouillage anticyclonique pour le pays... 
-			nous disposons d'instruments d'interprétation et de guidage qu'il faut peut-être garder sous le coude hors des périodes loufoques comme celles-ci ; même en fin d'échéance les signaux sont peu encourageants quant à la sortie du verrouillage ; regarder l'historique récent (encore une histoire...) des runs, par exemple ceux de CEP version IA pour la synoptique hémisphérique de la fin du topic interroge :
-			c'est une méthode pragmatique qui en vaut bien d'autres, qui a le mérite de mettre en évidence sur 4 jours ce qui est prévu de bouger et ce qui imperturbablement (!) reste figé ; au bilan sur le cas d'espèce les minimums ont droit à un siège amovible, en vrais parquetiers pour dire le droit sous l'influence de la chancellerie polaire, tandis que les juges anticycloniques et leur siège quasi inamovible dicte le verdict sans appel,  avec du blocage pour la France...
-			pour continuer à filer la métaphore on notera que si les parquetiers bénéficiaient d'une assise, avec la réforme offerte par la chancellerie, elle n'aurait pas grande profondeur : on est loin des profondes dépressions à 960 hPa ou moins qui s'enhardissent en face de l'Irlande à l'entrée de l'automne comme certaines années...
-	Personnellement je ne vois pas trop l'intérêt d'analyser des runs à si long terme d' AIFS.
-	Il faudrait plutôt comparer des moyennes ou alors des runs à plus courte échéance. 
-	Des runs à long terme peuvent changer radicalement sans qu'on puisse en tirer une analyse ou une conclusion. AIFS est je pense encore plus sujet à changer à long terme que le père CEP..
-
-=======================
-
 Auteur: giec 2100
 Message:
 Il y a 2 heures, petit âge glaciaire 11 a dit :
@@ -550,7 +529,7 @@ Il y a 2 heures, petit âge glaciaire 11 a dit :
 	du reste ça change beaucoup pour la position des minimums polaires sur ces trois runs... l'exercice se veut plutôt didactique, au reste on voit au moins quelque chose qui ne bouge pas fondamentalement du côté des hautes pressions...
 	bon on peut aussi s'amuser à attendre encore 48H, voir si cette caractéristique se maintient, et même voir si le signal de @Nicolas L nous ouvre l'espoir ou relève du énième mirage...
 	particulièrement inquiétante c'est l'animation des températures à 850hPa, ici avec GFS 12h, en se centrant sur l'Afrique et non plus sur le pôle : ça s'arrête à jeudi 24 septembre ; ici avec une image fixe, sinon on voit la masse d'air saharo-sahélienne repousser l'air polaire sans répit ; sans doute le même mécanisme qui nous suit depuis des mois et des mois...
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 18:51 par giec 2100
 								1
 								1
 
@@ -598,8 +577,9 @@ il y a 22 minutes, Twister83 a dit :
 	ICON on imagine un peu la même chose, GEM idem etc… 
 	En fait, pour celles et ceux qui regardent les prévisions brutes de GFS, dites-vous qu’il est le plus soft dans ce nouvel épisode HG/HP tant en durée (cf diagramme) qu’en intensité (proche malgré tout des autres). 
 	Ce qu’on peut presque affirmer pour Bordeaux par exemple, ce mois de septembre aura plus de jours avec Tx supérieures à 30° qu’en dessous de ces 30°. Notons également une masse d’air très sèche pour la saison… on n’en a pas terminé avec le risque d’incendies… 
-								7
+								8
 								4
+								1
 
 =======================
 
@@ -610,7 +590,7 @@ Cumul de précipitations sur 384 heures...
 	C'est un exorciste qu'il nous faut moi je vous le dis.
 								2
 								3
-								4
+								5
 								1
 
 =======================
@@ -641,7 +621,7 @@ Tout cela est terrifiant !
 	Un carnage, pas de vent, juste des arbres qui n'en peuvent plus ...
 								1
 								6
-								20
+								23
 								4
 
 =======================
@@ -652,8 +632,9 @@ Aucune pluie en vue pour le moment jusqu'a la fin du mois.
 	Il y'a des scenarios moins chauds qui apparaissent pour le milieu de semaine sur les diagrammes de GFS avec une remontée de HP entre Scandinavie et Royaume Uni
 	CEp et GEM sont catastrophiques et même l’ensembliste GFS à long terme avec le déterministe de minuit très isolé dans la fraicheur.
 	Je serai pas étonné que la situation dure jusqu'a mi octobre comme en 2023
-								4
 								1
+								4
+								2
 
 =======================
 
@@ -690,9 +671,10 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 								2
-								2
+								1
+								3
 
 =======================
 
@@ -721,7 +703,8 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
+								1
 								1
 
 =======================
@@ -731,7 +714,7 @@ Message:
 Reviens ma douce Patate.!!!
 	Ah ben non, casse toi.
 								1
-								5
+								6
 								1
 								1
 
@@ -743,5 +726,22 @@ Message:
 	et encore on n'a pas la plus grosse... :
 	enfin en attendant j'en ai gros sur la patate de ce blocage perpétuel...
 								1
-								3
+								4
+								4
+
+=======================
+
+Auteur: cédric du Lot
+Message:
+Au dela du fait qu'on en a plein le c*l, on ne peut en plus qu'être sidéré par un tel acharnement, un orange mécanique météorologique...
+								4
+								1
+
+=======================
+
+Auteur: tao
+Message:
+Bonsoir,
+	les hauts géopotentiels nous ont jeté un sort:
+	Catherine ❤️
 								2
