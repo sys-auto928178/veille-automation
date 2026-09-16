@@ -314,10 +314,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Mardi 15 Septembre 2026.
-Résumé général HDF précédent : Temps sec et plus chaud que la normale sur l’ensemble de la période, avec une pause fraîcheur en milieu de semaine 1 puis hausse des températures. Précipitations quasi nulles sur les HDF ; sécheresse de surface préoccupante..
+Dernier bulletin HDF généré le Mercredi 16 Septembre 2026.
+Résumé général HDF précédent : Temps sec et plus chaud que la normale sur l'ensemble de la période HDF. Pause fraîcheur en milieu de semaine 1 avec quelques averses jeudi, puis hausse des températures en semaine 2. Précipitations quasi nulles, sécheresse de surface préoccupante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, averses possibles jeudi, vent modéré à assez fort sur le littoral, vigilance verte..
+Températures attendues précédemment : Temps sec, éclaircies, possible petite faiblesse anticyclonique sur le nord avec quelques averses..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 16 au Dimanche 20 Septembre 2026) ===
@@ -640,7 +640,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 10 heures par petit âge glaciaire 11
+	Modifié il y a 12 heures par petit âge glaciaire 11
 								2
 								1
 								3
@@ -672,7 +672,7 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 9 heures par giec 2100
+	Modifié il y a 11 heures par giec 2100
 								2
 								1
 

@@ -318,10 +318,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Mardi 15 Septembre 2026.
-Résumé général précédent : .
+Dernier bulletin généré le Mercredi 16 Septembre 2026.
+Résumé général précédent : Deux semaines dominées par un puissant anticyclone, avec un temps sec, ensoleillé et des températures souvent au-dessus des normales, en particulier au sud et en fin de période..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur marquée au sud-ouest et en Gironde, vent d’ouest modéré, pas de précipitations significatives..
+Températures attendues précédemment : Temps sec, éclaircies, chaleur marquée surtout au sud, baisse temporaire des températures en milieu de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 16 au Dimanche 20 Septembre 2026) ===
@@ -644,7 +644,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 10 heures par petit âge glaciaire 11
+	Modifié il y a 12 heures par petit âge glaciaire 11
 								2
 								1
 								3
@@ -676,7 +676,7 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 9 heures par giec 2100
+	Modifié il y a 11 heures par giec 2100
 								2
 								1
 
