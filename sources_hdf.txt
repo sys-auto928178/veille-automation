@@ -305,7 +305,7 @@ Températures minimales : sans changement significatif.
 Températures maximales : identiques à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 160335 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 16 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 16 septembre 2026 à 00H00 UTC, et évolution Dorsale des Açores au golfe de Gascogne, s'affaissant jeudi. Thalweg pluvieux atteignant la Manche et la Mer du Nord jeudi matin, puis le golfe de Gascogne l'après-midi. 3 - Prévisions pour la journée du mercredi 16 septembre VENT : Nord-Ouest 3 à 4, parfois 5 en mer du Nord au début, revenant Ouest à la mi-journée, puis fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi. MER : peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, s'établissant Nord 0.5 à 1 m en mer du Nord l'après-midi. TEMPS : peu nuageux à nuageux, averses éparses en mer du Nord l'après-midi. VISIBILITE : bonne, parfois moyenne sous averses. 4 - Prévisions pour la nuit du mercredi 16 septembre au jeudi 17 septembre VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 5 à 6 en fin de nuit. MER : peu agitée à agitée. HOULE : non significative. TEMPS : nuageux avec averses éparses VISIBILITE : moyenne sous précipitations. 5 - Prévisions pour la journée du jeudi 17 septembre VENT : Sud-Ouest 5 à 6, mollissant Ouest à Sud-Ouest 4 à 5 en fin de journée. Rafales. MER : agitée. HOULE : non significative, puis s'établissant Sud-Ouest 1 à 1.5 m en fin de journée. TEMPS : couvert et pluvieux. VISIBILITE : moyenne sous précipitations. 6 - Prévisions pour la nuit du 17 au 18 et la journée du vendredi 18 septembre VENT : Ouest à Nord-Ouest 5 à 6. MER : peu agitée, temporairement agitée. HOULE d'Ouest à Sud-Ouest inférieure à 1,5 m, s'atténuant ensuite. 7 - Tendance pour les jours suivants Samedi 19 septembre Sud-Ouest modéré, pouvant être modéré à assez fort en allant vers Pas-de-Calais. Indice de confiance : 4 sur 5 Dimanche 20 septembre secteur Ouest faible à modéré, virant au Nord-Ouest en fin de période. Indice de confiance : 4 sur 5 Lundi 21 septembre faible Variable le matin. En soirée, faible à modéré, de secteur Ouest sur la partie Nord et de secteur Nord-Est près des côtes bretonnes. Indice de confiance : 4 sur 5 Mardi 22 septembre Nord-Est faible à modéré. Indice de confiance : 4 sur 5 8 - Observations le mercredi 16 septembre 2026 à 03H00 UTC Dunkerque : vent Nord-Ouest 10 noeuds, mer belle, 1016 hPa en hausse, très nuageux à couvert, visibilité 4 milles. Cap Gris Nez : vent Nord-Ouest 16 noeuds. Boulogne : vent Nord-Nord-Ouest 12 noeuds, 1017 hPa en hausse. Prochain bulletin le mercredi 16 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 160950 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 16 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 16 septembre 2026 à 06H00 UTC, et évolution Dorsale des Açores au golfe de Gascogne, s'affaissant progressivement jeudi. Thalweg pluvieux, associé à une dépression autour de 980 hPa au sud de l'Islande, atteignant la Manche et la Mer du Nord jeudi matin, puis le golfe de Gascogne l'après-midi. 3 - Prévisions pour l'après-midi du mercredi 16 septembre VENT : fraîchissant Ouest à Sud-Ouest 4 à 5. MER : peu agitée. HOULE : non significative. TEMPS : peu nuageux à nuageux, averses en mer du Nord l'après-midi. VISIBILITE : bonne, localement moyenne sous averses. 4 - Prévisions pour la nuit du mercredi 16 septembre au jeudi 17 septembre VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 5 à 6 en fin de nuit. MER : peu agitée à agitée. HOULE : non significative. TEMPS : nuageux avec averses éparses. VISIBILITE : moyenne sous précipitations. 5 - Prévisions pour la journée du jeudi 17 septembre VENT : Ouest à Sud-Ouest 5 à 6, mollissant Ouest 4 à 5 en fin de journée. Rafales. MER : devenant agitée, parfois forte en Manche l'après-midi. HOULE : non significative, s'établissant Sud-Ouest 1 à 1.5 m l'après-midi. TEMPS : couvert et pluvieux. VISIBILITE : moyenne sous précipitations. 6 - Prévisions pour la nuit du 17 au 18 et la journée du vendredi 18 septembre VENT : virant Nord-Ouest 4 à 5, mollissant 3 à 4 en fin de nuit, puis revenant Sud-Ouest l'après-midi en fraîchissant progressivement 5 à 6. MER : peu agitée à agitée, s'atténuant temporairement peu agitée le matin. HOULE : Sud-Ouest s'amortissant autour de 1 m, puis devenant progressivement non significative l'après-midi. TEMPS : devenant peu nuageux, passages nuageux l'après-midi. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 18 au 19 et la journée du samedi 19 septembre VENT : Sud-Ouest 6. MER : agitée. HOULE dominante d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Dimanche 20 septembre Secteur Ouest modéré. Indice de confiance : 4 sur 5 Lundi 21 septembre Secteur Nord-Ouest au début faible à modéré, revenant Ouest vers le Pas-de-Calais et virant au Nord-Est près les côtes bretonnes. Indice de confiance : 4 sur 5 Mardi 22 septembre Variable faible fraichissant Nord-Est faible à modéré ensuite. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible à modéré. Indice de confiance : 4 sur 5 9 - Observations le mercredi 16 septembre 2026 à 09H00 UTC Dunkerque : vent Ouest-Nord-Ouest 12 noeuds, 1019 hPa en hausse. Cap Gris Nez : vent Ouest-Nord-Ouest 8 noeuds. Boulogne : vent Nord-Ouest 8 noeuds, 1020 hPa en hausse. Prochain bulletin le mercredi 16 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -327,12 +327,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Interrogations sur l'été/automne 2026 et changements climatiques.
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : [Réseau StatIC] Suivi du déploiement
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : [Réseau StatIC] Suivi du déploiement
+• Infoclimat Direct : Prévisions Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 16/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,9 +340,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 16 Septembre 2026.
-Résumé général HDF précédent : .
+Résumé général HDF précédent : Sur les 15 prochains jours, les hautes pressions restent proches ou sur la France. Temps plutôt sec et doux, avec un possible coup de chaleur en semaine 2 selon CEP/GEM, mais sans certitude..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : De saison.
+Températures attendues précédemment : Nuages nombreux la nuit, averses possibles sur l’ouest jusqu’à dimanche, vent O-NO 20-40 km/h, rafales Manche 5-6 vendredi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 16 au Dimanche 20 Septembre 2026) ===
@@ -544,18 +544,6 @@ Bonjour @giec 2100,
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Jujudu38
-Message:
-Cumul de précipitations sur 384 heures...
-	On a vraiment l'impression que c'est obsessionnelle. Il y a un phénomène paranormal et je me mets dans sa tête en regardant cette carte : " surtout ne pas toucher la France !"
-	C'est un exorciste qu'il nous faut moi je vous le dis.
-								3
-								4
-								5
-								1
-
-=======================
-
 Auteur: fifouninho75
 Message:
 il y a 30 minutes, Run999H a dit :
@@ -632,7 +620,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 18 heures par petit âge glaciaire 11
+	Modifié il y a 20 heures par petit âge glaciaire 11
 								3
 								1
 								3
@@ -664,7 +652,7 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								2
 								1
 
@@ -706,7 +694,7 @@ Bonsoir,
 	les hauts géopotentiels nous ont jeté un sort:
 	Catherine ❤️
 								2
-								5
+								7
 
 =======================
 
@@ -714,6 +702,7 @@ Auteur: PaRaDoX
 Message:
 Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
 	Plus sérieusement ce scénario serait un cauchemar niveau sécheresse, l'impression qu'on est condamnés à choisir entre 2 alternatives sombres.
+								1
 								2
 								1
 
@@ -734,9 +723,9 @@ il y a 30 minutes, PaRaDoX a dit :
 	Et encore, blocage anticyclonique hivernal n'est pas systématiquement synonyme de froid d'inversion. Certains se souviendront de décembre 2015, sa sécheresse record, son ensoleillement record, et sa douceur record. Pendant que le NO de l'Europe prenait par endroits 1000 mm de pluie dans le mois. Coïncidentalement, cela se produisait pendant un fort El Niño, mais espérons que ce ne fut effectivement qu'un hasard.
 	Bref, désolé pour la digression, mais sans surprise la semaine du topic est en train de se caler sur des anomalies thermiques costaudes, à défaut de la semaine actuelle qui a finalement été revue un peu à la baisse par rapport aux prévisions les plus chaudes.
 	Dernière mouture pour la semaine prochaine, mais comme on le voit, pas encore définitive (l'incertitude porte plus sur l'intensité de la chaleur que sur sa présence même) :
-								6
+								7
 								1
-								2
+								3
 								1
 								1
 
@@ -745,7 +734,8 @@ il y a 30 minutes, PaRaDoX a dit :
 Auteur: Matpo
 Message:
 Et encore, si nous sommes épargnés de taper de nouveau les 35°c (c'est même pas sûr) c'est uniquement grâce à la diminution de la durée du jour ! Parce que à 850hpa, ça le permet sans problème, on peut largement renouer pendant une semaine avec les 20°c sur le 850, autrefois survenant en plein été mais cette année ils nous suivent jusque fin septembre... Quel délire, c'est sans fin.
-								1
+								2
+								2
 
 =======================
 
@@ -755,7 +745,8 @@ Bonjour.
 	Ce qui me fait peur, c'est le manque de précipitations alors que septembre est un mois qui devait commencer à voir revenir les dépressions venues de l'atlantique, voir de la méditerranée.
 	Pour l'instant cela n'est pas le cas.
 	Alors qu'il va pleuvoir tout autour de nous.
-	Au plaisir de vous lire
+	Au plaisir de vous lire 
+								1
 
 =======================
 
@@ -769,6 +760,25 @@ il y a 40 minutes, vda77 a dit :
 			Au plaisir de vous lire 
 	Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
 	Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
-	Modifié il y a 14 minutes par toto42
+	Modifié il y a 2 heures par toto42
+								1
+								1
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+il y a 44 minutes, toto42 a dit :
+			Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
+			Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
+	Je ne conteste pas l'aspect alarmant de la situation et le fait que notre pays soit effectivement à l'écart des précipitations du fait de la synoptique mainte fois
+	décrite ici,  mais je ne suis pas certain qu'on puisse se baser sur cette carte à 384 heures pour n'importe qu'elle analyse objective, quand on sait que même souvent 3 jours à l'avance
+	on ne sait pas souvent ou il va pleuvoir exactement et quelles quantités.
+	Il s'agit d'un signal oui mais rien ne dit qu'il ne va pas y avoir des précipitations conséquentes d'ici le 2 octobre, cela eut parfaitement bien évoluer d'ici la.
+	Bon je pense que je dis un peu cela pour me rassurer car quand tous les modèles semblent concorder et seul un déplacement à l'ouest au nord ou à l'est des hautes pressions au fil des prochains runs  finissant pas changer la synoptique pourrait nous permettre de croire à une porte de sortie avant début octobre.
+	Je pense qu'on va finir par demander à l'église de procéder à des processions :
+	Modifié il y a 1 heure par petit âge glaciaire 11
+								1
 								1
 								1
