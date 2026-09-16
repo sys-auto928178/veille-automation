@@ -14,6 +14,124 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 === SOURCES COMPLÉMENTAIRES HDF (MÉTÉO-FRANCE XML 22SPC + SÉCHET + ITN 14J) ===
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
+=== BULLETIN DÉPARTEMENTAL NORD (DEPT59) ===
+Emis le : 16/09/2026 12:30
+
+Vigilance :
+Aujourd'hui et demain, le département du Nord est en vigilance verte.
+
+Observations :
+Aujourd'hui on observait à 12h :
+A Lille-Lesquin : température de 19 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 35 km/h, pression niveau mer 1019 hPa.
+A Dunkerque : température de 17 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 35 km/h.
+
+Prévisions pour les tout prochains jours :
+
+• Pour cet après-midi :
+L'après-midi bénéficie d'assez belles éclaircies. Quelques averses tombent en fin de journée, en Flandre intérieure ainsi que sur la région lilloise et le Douaisis.
+Vent d'Ouest, modéré.
+Températures maximales : de 19 à 21 degrés.
+
+• Pour la nuit prochaine :
+Le ciel est variable. Des averses sont possibles ici ou là en soirée en Flandre maritime. Elles cessent rapidement.
+Vent modéré, de Sud-Ouest.
+Températures minimales : dans l'intérieur de 11 à 13 degrés. 15 degrés en Flandre maritime.
+
+• Pour demain jeudi 17 en journée et la nuit suivante :
+Le début de matinée est peu ensoleillé, les nuages sont fréquents. Au fil du temps, le soleil parvient à se faire une place, mais cela ne dure pas. De petites averses débutent en fin de matinée en Flandres et se généralisent en cours d'après-midi. Pour la nuit : Si les étoiles doivent composer avec quelques petits nuages en première partie de nuit, en Flandre maritime ainsi que sur l'Avesnois, le Valenciennois et le Cambrésis, elles se laissent finalement admirer en seconde partie de nuit.
+On attend au maximum jusqu'à 5 millimètres de pluie en Flandre maritime.
+Etablissement, en début d'après-midi, d'un vent de Sud-Ouest assez fort, en Flandre intérieure ; atténuation ensuite.
+Températures maximales pour le jour : comprises entre 19 et 20 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur entre 10 et 11 degrés. 14 degrés en Flandre maritime.
+
+• Pour la journée de vendredi 18 et la nuit suivante :
+Après un début de journée assez bien ensoleillé, le temps devient plus nuageux l'après-midi, mais les éclaircies l'emportent encore. Pour la nuit : Les nuages, parfois nombreux en début de nuit, se raréfient et laissent la place à de belles éclaircies.
+Vent d'Ouest à Sud-Ouest, modéré.
+Températures maximales pour le jour : de 20 à 21 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur comprises entre 12 et 15 degrés. 16 degrés en Flandre maritime.
+
+• Pour la journée de samedi 19 :
+Le temps reste sec, avec des périodes ensoleillées et des passages nuageux plus ou moins épais.
+L'après-midi, vent s'orientant au Sud-Ouest assez fort, en Flandres ; atténuation ensuite. Rafales atteignant 65 km/h.
+Températures maximales : comprises entre 21 et 23 degrés.
+
+• Pour dimanche 20 et lundi 21 :
+De la métropole lilloise à l'Avesnois, temps pluvieux jusqu'à la mi-journée de dimanche. Sur les autres régions, soleil prédominant.
+Vent d'Ouest à Sud-Ouest, modéré, jusqu'à lundi au petit matin.
+Températures minimales : dans l'intérieur de 11 à 13 degrés. 15 degrés en Flandre maritime.
+Températures maximales : entre 20 et 22 degrés.
+
+• Pour mardi 22 et mercredi 23 :
+Temps le plus souvent ensoleillé.
+Mercredi après-midi et en fin de journée, vent de Nord-Est modéré, en Flandre maritime.
+Températures minimales : dans l'intérieur entre 11 et 13 degrés. 15 degrés en Flandre maritime.
+Températures maximales : depuis la côte jusqu'au Valenciennois et au Cambrésis de 23 à 25 degrés. 27 degrés sur l'Avesnois.
+
+• Pour jeudi 24 et vendredi 25 :
+Beau temps ensoleillé.
+De jeudi tôt le matin jusqu'en fin de journée, vent d'Est à Nord-Est soufflant modérément par endroits ; puis vendredi en matinée jusqu'à la mi-journée, en Flandre maritime.
+Températures minimales : similaires à la veille.
+Températures maximales : identiques à la veille.
+
+=== BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
+Emis le : 16/09/2026 12:30
+
+Vigilance :
+Aujourd'hui et demain, le département du Pas-de-Calais est en vigilance verte.
+
+Observations :
+Aujourd'hui on observait à 12h :
+A Arras : température de 19 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 30 km/h.
+A Boulogne-Sémaphore : température de 16 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 20 km/h.
+
+Prévisions pour les tout prochains jours :
+
+• Pour cet après-midi :
+Le temps est majoritairement sec dans l'après-midi, même si quelques averses sont possibles à la mi-journée, près de la Mer du Nord. Les quelques nuages, déjà discrets à la mi-journée, se dissipent rapidement et le soleil brille largement.
+Vent d'Ouest, modéré.
+Températures maximales : de 19 à 21 degrés.
+
+• Pour la nuit prochaine :
+Ciel étoilé et passages nuageux de plus en plus nombreux se partagent le ciel en la nuit. De petites averses sont même attendues sur les reliefs de l'Artois.
+Vent modéré, d'Ouest à Sud-Ouest.
+Températures minimales : comprises entre 12 et 15 degrés.
+
+• Pour demain jeudi 17 en journée et la nuit suivante :
+Quelques averses tombent toute la journée. La couche, très nuageuse en début de période, laisse entrevoir quelques éclaircies l'après-midi. Pour la nuit : Le ciel est bien dégagé. Les nuages, présents en soirée sur les côtes de la Manche ainsi que sur le Ternois, se dissipent rapidement.
+Le maximum de pluie attendu est de l'ordre de 15 millimètres sur le Haut-Artois.
+L'après-midi, vent s'orientant au Sud-Ouest, assez fort par endroits ; puis atténuation. Rafales atteignant 65 km/h sur le littoral.
+Températures maximales pour le jour : de 17 à 20 degrés.
+Températures minimales pour la nuit suivante : entre 9 et 12 degrés, et 8 degrés de l'Audomarois au Béthunois.
+
+• Pour la journée de vendredi 18 et la nuit suivante :
+La matinée est bien ensoleillée. En cours de journée, des nuages arrivent et se font de plus en plus nombreux. Ils ne laissent que peu de place aux éclaircies en fin de journée. Pour la nuit : En soirée, le ciel est bien nuageux et les étoiles peinent à se montrer. Ensuite, les éclaircies deviennent plus belles, dans l'intérieur, mais aussi dans le Calaisis.
+En fin d'après-midi et la nuit suivante, vent s'établissant à l'Ouest à Sud-Ouest assez fort, sur le littoral.
+Températures maximales pour le jour : de 19 à 21 degrés.
+Températures minimales pour la nuit suivante : entre 14 et 17 degrés, et 13 degrés sur la plaine d'Arras.
+
+• Pour la journée de samedi 19 :
+Le ciel est nuageux en matinée avec quelques éclaircies. Elles deviennent plus larges l'après-midi.
+Vent d'Ouest à Sud-Ouest, généralement assez fort. Avec, sur les trois quarts Ouest du département, des rafales atteignant 65 km/h, en journée.
+Températures maximales : entre 20 et 23 degrés.
+
+• Pour dimanche 20 et lundi 21 :
+Sur les trois quarts Ouest du département, risque de pluie ou d'averses jusqu'à la mi-journée de dimanche. Sur les autres régions, temps généralement ensoleillé.
+En milieu de nuit de samedi à dimanche, vent d'Ouest assez fort, sur le littoral.
+Températures minimales : comprises entre 12 et 14 degrés.
+Températures maximales : proches de 20 degrés.
+
+• Pour mardi 22 et mercredi 23 :
+Soleil prédominant.
+De la matinée de mercredi jusqu'en début de nuit suivante, vent d'Est à Nord-Est, modéré, sur le littoral.
+Températures minimales : entre 11 et 14 degrés.
+Températures maximales : entre 22 et 25 degrés.
+
+• Pour jeudi 24 et vendredi 25 :
+Le soleil brille sans partage.
+Jusqu'au milieu de nuit de jeudi à vendredi, vent d'Est à Nord-Est soufflant modérément par endroits ; puis de la matinée de vendredi jusqu'en début de nuit suivante, sur le littoral.
+Températures minimales : stationnaires.
+Températures maximales : similaires à la veille.
+
 === BULLETIN DÉPARTEMENTAL SOMME (DEPT80) ===
 Emis le : 16/09/2026 12:30
 
@@ -210,12 +328,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps &#xE0; Montréal
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Nouvelle console WeatherLink Davis
 • Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Automne/hiver 2026-2027 dans les Pyrénées
+• Infoclimat Direct : Gestion administrative des canicules
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 16/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -223,9 +341,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 16 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 prochains jours, les hautes pressions restent proches ou sur la France, avec un temps sec et doux. Un coup de chaleur est possible en semaine 2 selon CEP/GEM, mais l'intensité et la durée restent incertaines pour les HDF. Les précipitations seront très faibles à nulles sur l'ensemble de la région, avec une sécheresse de surface qui s'accentue..
+Résumé général HDF précédent : Sur l'ensemble des quinze prochains jours (16-27 septembre 2026), les Hauts-de-France restent en marge des fortes chaleurs. L'anticyclone protège le nord les premiers jours, puis un refroidissement graduel est possible en fin de semaine prochaine sans passage pluvieux majeur en vue..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et chaud pour la saison, très peu de précipitations en HDF..
+Températures attendues précédemment : Temps sec et doux, quelques nuages bas possibles, pas de pluie significative. (Max 120 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 16 au Dimanche 20 Septembre 2026) ===
@@ -460,7 +578,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 22 heures par petit âge glaciaire 11
+	Modifié hier à 13:23 par petit âge glaciaire 11
 								3
 								1
 								3
@@ -492,7 +610,7 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 21 heures par giec 2100
+	Modifié il y a 23 heures par giec 2100
 								2
 								1
 
@@ -601,8 +719,8 @@ il y a 40 minutes, vda77 a dit :
 			Au plaisir de vous lire 
 	Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
 	Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
-	Modifié il y a 4 heures par toto42
-								1
+	Modifié il y a 6 heures par toto42
+								2
 								1
 								3
 
@@ -619,7 +737,7 @@ il y a 44 minutes, toto42 a dit :
 	Il s'agit d'un signal oui mais rien ne dit qu'il ne va pas y avoir des précipitations conséquentes d'ici le 2 octobre, cela eut parfaitement bien évoluer d'ici la.
 	Bon je pense que je dis un peu cela pour me rassurer car quand tous les modèles semblent concorder et seul un déplacement à l'ouest au nord ou à l'est des hautes pressions au fil des prochains runs  finissant pas changer la synoptique pourrait nous permettre de croire à une porte de sortie avant début octobre.
 	Je pense qu'on va finir par demander à l'église de procéder à des processions :
-	Modifié il y a 3 heures par petit âge glaciaire 11
+	Modifié il y a 5 heures par petit âge glaciaire 11
 								1
 								1
 								1
@@ -633,7 +751,7 @@ On va passer d'un régime d'AO et NAO positif a négatif.
 	Ça peut donner une plus grande probabilité de pluie sur la moitié sud si un blocage se met en place sur le nord de l'Europe du moins en toute fin d'échéance.
 	C'est vrai que 2015 avait été une catastrophe hivernale notamment décembre avec une anomalie de + 4 degrés sur la France.
 	A l'inverse, l'automne et décembre 1997 avaient connu des séquences hivernales intéressantes (fin octobre 1997, début décembre 1997) et pas trop d’excèdent et des blocages de HP sur le nord de l'Europe... Septembre 1997 a été sous la coupole de HP atlantique et nordique quasiment tout le mois
-	Modifié il y a 3 heures par Hassan
+	Modifié il y a 5 heures par Hassan
 
 =======================
 
@@ -648,7 +766,7 @@ GFS, GEM et AIFS modélisent une évolution synoptique quand même notable en 4 
 	avec des pressions qui pourraient  finir par baisser par le sud mais on en ait pas la.
 	La patate anticyclonique peut très bien perdurer bien au delà de ce topic.
 	A suivre les prochains runs.
-								1
+								2
 
 =======================
 
@@ -665,5 +783,6 @@ Auteur: DoubleKnacki
 Message:
 Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
 	Peu, très peu voire pas d'eau donc à attendre en effet sur une grande partie du pays avec fréquemment un mercure au-dessus des normes, encore plus nettement sur la moitié Sud (le Nord pourrait mieux s'en tirer thermiquement, par moments).
-	Modifié il y a 24 minutes par DoubleKnacki
+	Modifié il y a 2 heures par DoubleKnacki
+								3
 								1
