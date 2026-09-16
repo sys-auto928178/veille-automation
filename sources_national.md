@@ -306,12 +306,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Projet vp2 Ascain - Sud ouest
 • Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 16/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -319,9 +319,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mercredi 16 Septembre 2026.
-Résumé général précédent : Deux semaines dominées par un puissant anticyclone, avec un temps sec, ensoleillé et des températures souvent au-dessus des normales, en particulier au sud et en fin de période..
+Résumé général précédent : Deux semaines sous haute pression, avec un temps sec et très ensoleillé. Chaleur de plus en plus marquée, surtout au sud, après une courte respiration en milieu de semaine 1..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, éclaircies, chaleur marquée surtout au sud, baisse temporaire des températures en milieu de semaine..
+Températures attendues précédemment : Temps sec et ensoleillé, fraîchissement temporaire en milieu de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 16 au Dimanche 20 Septembre 2026) ===
@@ -644,7 +644,7 @@ Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles
 	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
 	CEP et GEM pour Paris :
 	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié il y a 12 heures par petit âge glaciaire 11
+	Modifié il y a 14 heures par petit âge glaciaire 11
 								2
 								1
 								3
@@ -676,7 +676,7 @@ Il y a 4 heures, nickdu77 a dit :
 	où j'ai retenu dans la fin de l'intro : 
 	Globalement, l'étude montre que d'importantes contributions au développement ont lieu en dehors de la région dans laquelle le régime météorologique bloqué finit par s'établir, et qu'une prise en compte conjointe des différentes perspectives est importante afin de ne pas manquer les processus, en particulier la dynamique barocline humide, qui contribuent au cycle de vie d'un régime bloqué.
 	il ne manque sans doute pas de personnes moins dilettantes que mézigue dans la communauté icéenne pour prendre le relais et tenter d'y voir plus clair sur ces fameux blocages, histoire aussi de ronger notre frein dans l'attente d'une nouveauté "dégagiste" face à Patator, espérons pas trop loin de la fin de la période du topic...
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								2
 								1
 
@@ -744,4 +744,5 @@ il y a 30 minutes, PaRaDoX a dit :
 	Et encore, blocage anticyclonique hivernal n'est pas systématiquement synonyme de froid d'inversion. Certains se souviendront de décembre 2015, sa sécheresse record, son ensoleillement record, et sa douceur record. Pendant que le NO de l'Europe prenait par endroits 1000 mm de pluie dans le mois. Coïncidentalement, cela se produisait pendant un fort El Niño, mais espérons que ce ne fut effectivement qu'un hasard.
 	Bref, désolé pour la digression, mais sans surprise la semaine du topic est en train de se caler sur des anomalies thermiques costaudes, à défaut de la semaine actuelle qui a finalement été revue un peu à la baisse par rapport aux prévisions les plus chaudes.
 	Dernière mouture pour la semaine prochaine, mais comme on le voit, pas encore définitive (l'incertitude porte plus sur l'intensité de la chaleur que sur sa présence même) :
+								1
 								1
