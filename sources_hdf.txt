@@ -303,12 +303,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Nouvelle console WeatherLink Davis
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Premières neiges au Spitzberg
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Le topic du Jardinage
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 16/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -316,9 +316,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 16 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours (16-27 septembre), les hautes pressions dominent sur la France, avec un temps sec, ensoleillé et de plus en plus chaud. Un passage faiblement pluvieux est attendu jeudi 17, puis le soleil reprend le dessus. La sécheresse de surface se renforce et l'absence de précipitations est le fait marquant..
+Résumé général HDF précédent : Sur l'ensemble de la période, les hautes pressions dominent, avec un temps sec et ensoleillé, des températures de saison à légèrement au-dessus, et un risque de chaleur en semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et ensoleillé, températures en hausse, vent de sud à sud-est modéré. (max 120 caractères).
+Températures attendues précédemment : Temps sec, éclaircies, températures de saison à légèrement douces, vent de sud-ouest modéré..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 16 au Dimanche 20 Septembre 2026) ===
@@ -522,33 +522,6 @@ Bonjour @giec 2100,
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
 Auteur: nickdu77
 Message:
-Il y a 2 heures, fifouninho75 a dit :
-			Bon très bien bientôt on pourra prendre ses vacances d'été à la Toussaint, peut-être même dès cette année.🤪
-	Ben en fait pour moi, c'est déjà le cas. Je prends toujours mes vacances plus tard (septembre) mais là j'ai repoussé au 12 octobre pour voir ce que ça fait d'avoir des journées en-dessous de 25, voir même peut-être en-dessous de 20 sans craindre une poussée à plus de 30 ensuite.
-	Ce qui est inquiétant, c'est qu'on ne peut même pas complètement parler de blocage, c'est plutôt comme si tout était décalé de 1000 km, voir plus si on regarde les cartes. Avoir des HP qui englobent l'Ecosse et l'Irlande passé la mi-septembre et qui s'incrustent, c'est pas commun. Pour la fin de la sécheresse, c'est pas gagné et pour septembre, je crois qu'on peut dire que c'est plié : si on a 8 mm sur le mois, on sera content. Et même pour la suite, c'est pas gagné.
-								1
-								4
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-Tube chaud entre 15 et 20 degrés à 850 Hpa pour le sud-ouest sur les ensembles CEP et GEM (je prend les 2 modèles qui semblent les plus fiables à long terme) ;
-	Ces tubes sont visibles durant tout le topic. Cela ne veut pas dire qu'on  sera obligatoirement dans le tube mais c'est probable.
-	Pour le sud-ouest on risque d'avoir des températures au sol proches de 30 degrés durablement, et possiblement plus.
-	CEP et GEM pour Toulouse :
-	Pour Paris on retrouve ces tubes chaud entre 13 et 17 degrés soit des températures possibles au sol estivales et pas très loin des 30 degrés  :
-	CEP et GEM pour Paris :
-	Pour finir 2 cartes sidérantes des cumuls de pluie enFrance dans lesquelles il faut chercher les gouttes :
-	Modifié hier à 13:23 par petit âge glaciaire 11
-								3
-								1
-								3
-
-=======================
-
-Auteur: nickdu77
-Message:
 Si on regarde l'ensemble de l'hémisphère, c'est sans commentaires. Là, ça serait la situation le 21 à 20h00 et c'est bien centré sur Royaume-Uni, Irlande et nous.
 	Tout est rejeté au nord.
 
@@ -681,7 +654,7 @@ il y a 40 minutes, vda77 a dit :
 			Au plaisir de vous lire 
 	Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
 	Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
-	Modifié il y a 10 heures par toto42
+	Modifié il y a 12 heures par toto42
 								2
 								1
 								3
@@ -699,7 +672,7 @@ il y a 44 minutes, toto42 a dit :
 	Il s'agit d'un signal oui mais rien ne dit qu'il ne va pas y avoir des précipitations conséquentes d'ici le 2 octobre, cela eut parfaitement bien évoluer d'ici la.
 	Bon je pense que je dis un peu cela pour me rassurer car quand tous les modèles semblent concorder et seul un déplacement à l'ouest au nord ou à l'est des hautes pressions au fil des prochains runs  finissant pas changer la synoptique pourrait nous permettre de croire à une porte de sortie avant début octobre.
 	Je pense qu'on va finir par demander à l'église de procéder à des processions :
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 								1
 								1
 								1
@@ -713,7 +686,7 @@ On va passer d'un régime d'AO et NAO positif a négatif.
 	Ça peut donner une plus grande probabilité de pluie sur la moitié sud si un blocage se met en place sur le nord de l'Europe du moins en toute fin d'échéance.
 	C'est vrai que 2015 avait été une catastrophe hivernale notamment décembre avec une anomalie de + 4 degrés sur la France.
 	A l'inverse, l'automne et décembre 1997 avaient connu des séquences hivernales intéressantes (fin octobre 1997, début décembre 1997) et pas trop d’excèdent et des blocages de HP sur le nord de l'Europe... Septembre 1997 a été sous la coupole de HP atlantique et nordique quasiment tout le mois
-	Modifié il y a 9 heures par Hassan
+	Modifié il y a 11 heures par Hassan
 
 =======================
 
@@ -745,8 +718,8 @@ Auteur: DoubleKnacki
 Message:
 Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
 	Peu, très peu voire pas d'eau donc à attendre en effet sur une grande partie du pays avec fréquemment un mercure au-dessus des normes, encore plus nettement sur la moitié Sud (le Nord pourrait mieux s'en tirer thermiquement, par moments).
-	Modifié il y a 6 heures par DoubleKnacki
-								4
+	Modifié il y a 8 heures par DoubleKnacki
+								6
 								1
 
 =======================
@@ -757,4 +730,36 @@ Moi je vois avec le repositionnement progressif de run en run CEP du centre anti
 	L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
 	De l'assez belle arrière saison sans les pics de chaleur. 
 								1
+								5
+
+=======================
+
+Auteur: cris
+Message:
+Il y a 4 heures, AmourDaria a dit :
+			Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
+			L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
+			De l'assez belle arrière saison sans les pics de chaleur. 
+	Pour le Nord et l’Est mais pour le sud Ca reste malheureusement toujours la même rengaine chaude et sèche.
+								1
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+Il y a 4 heures, AmourDaria a dit :
+			Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
+			L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
+			De l'assez belle arrière saison sans les pics de chaleur. 
+	On frise ici l'incantation. 
+	Diagramme au Centre-Ouest 
+	Diagramme au Sud-Ouest : 
+	Diagramme en île de France
+	Diagramme au Centre-Est
+	Diagramme au Sud-Est
+	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
+	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
+	Modifié il y a 49 minutes par Ciel d&#039;encre
+								11
 								2
+								1
