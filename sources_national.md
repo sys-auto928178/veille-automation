@@ -305,11 +305,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Prévisions Nord-Est - Septembre 2026
+• Infoclimat Direct : Prévisions Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : &#x200B;&#x2728;&#x200B; &#x1D40B;&#x1D41A; &#x1D402;&#x1D428;&#x1D42E;&#x1D429;&#x1D41E; &#x1D41D;&#x1D41E; &#x1D405;&#x1D42B;&#x1D41A;&#x1D427;&#x1D41C;&#x1D41E; &#x1D41D;&#x1D41E;&#x1D42C; &#x1D402;&#x1D425;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D42C; &#x1D7D0;&#x1D7CE;&#x1D7D0;&#x1D7D4; &#x200B;&#x2728;&#x200B;&#x200B; Poule 7 : Ajaccio, Clermont Ferrand, Rodez, Nancy
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 17/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -317,9 +318,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 17 Septembre 2026.
-Résumé général précédent : Sur 15 jours, les hautes pressions dominent très largement. Le temps reste sec, souvent très ensoleillé, avec des températures au-dessus des normales, plus marquées sur la moitié sud. Aucune dégradation pluvieuse durable n’est en vue, malgré des signaux de migration des hautes pressions vers le nord en fin de période..
+Résumé général précédent : Hautes pressions dominantes sur la France, temps sec et chaud pour la saison jusqu'au 27 septembre..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Soleil dominant, très sec ; chaleur plus marquée au sud ; pas d’orages..
+Températures attendues précédemment : Vent modéré d'ouest à nord-ouest, températures de 16 à 27°C, nette dominante sèche..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 17 au Dimanche 20 Septembre 2026) ===
@@ -713,7 +714,7 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 	On peut éventuellement concéder des soubresaut frais dans le nord, l'est, selon la proximité avec une goutte froide sur les Balkans. La moyenne des diagrammes reste stable et hautes mais comme ces soubresauts sont courts et n'interviennent pas aux même moments, ils ne ressortent pas dans le signal moyen. 
 	Sans trop hésiter, je parierai sur du ++ chaud que la normale sur l'ouest, le sud, le centre mais sans trop hésiter je parierai sur du chaud entrecoupé d'un ou deux "coup de frais" sur le nord et surtout l'est. 
 	Mais ce serait encore sec dans tous les cas.
-	Modifié il y a 22 heures par Jojobarbar
+	Modifié hier à 21:48 par Jojobarbar
 								9
 								1
 
@@ -728,7 +729,8 @@ Heureusement que les minimales sont basses. Ça change tout par rapport à cet �
 Auteur: Grahok73
 Message:
 Trop fastoche les prévis TLT... Une seule image suffit...
-								6
+								1
+								7
 								1
 
 =======================
@@ -736,7 +738,9 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
+								1
+								1
 
 =======================
 
@@ -746,4 +750,6 @@ Il y a 4 heures, Grahok73 a dit :
 			Trop fastoche les prévis TLT... Une seule image suffit...
 	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
 								1
-								2
+								3
+								1
+								1
