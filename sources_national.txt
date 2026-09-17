@@ -305,12 +305,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Evolution climatologique 2021-2026 (rapport aux normes 1991-2020)
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Temps en Espagne
 • Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
 • Infoclimat Direct : Suivi de l'englacement au p&#xF4;le nord
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 17/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -318,9 +318,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 17 Septembre 2026.
-Résumé général précédent : Poursuite du temps anticyclonique sec et chaud, avec des températures au-dessus des normales, surtout au sud. Une possible dégradation en fin d’échéance reste très incertaine..
+Résumé général précédent : Période de 15 jours marquée par un temps souvent sec et bon ensoleillé sur la France, avec des températures au-dessus des normales. La chaleur, parfois marquée pour la saison, dominera par séquences, avec un refroidissement temporaire en fin de première semaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et ensoleillé, chaleur en hausse dimanche, surtout au sud..
+Températures attendues précédemment : Temps sec, ensoleillé, vent de Nord-Ouest modéré sur les côtes méditerranéennes, températures en hausse dans le sud, puis stabilisation..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 17 au Dimanche 20 Septembre 2026) ===
@@ -649,7 +649,7 @@ il y a 40 minutes, vda77 a dit :
 			Au plaisir de vous lire 
 	Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
 	Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
-	Modifié il y a 18 heures par toto42
+	Modifié il y a 20 heures par toto42
 								2
 								1
 								3
@@ -667,7 +667,7 @@ il y a 44 minutes, toto42 a dit :
 	Il s'agit d'un signal oui mais rien ne dit qu'il ne va pas y avoir des précipitations conséquentes d'ici le 2 octobre, cela eut parfaitement bien évoluer d'ici la.
 	Bon je pense que je dis un peu cela pour me rassurer car quand tous les modèles semblent concorder et seul un déplacement à l'ouest au nord ou à l'est des hautes pressions au fil des prochains runs  finissant pas changer la synoptique pourrait nous permettre de croire à une porte de sortie avant début octobre.
 	Je pense qu'on va finir par demander à l'église de procéder à des processions :
-	Modifié il y a 17 heures par petit âge glaciaire 11
+	Modifié il y a 19 heures par petit âge glaciaire 11
 								1
 								1
 								1
@@ -681,7 +681,7 @@ On va passer d'un régime d'AO et NAO positif a négatif.
 	Ça peut donner une plus grande probabilité de pluie sur la moitié sud si un blocage se met en place sur le nord de l'Europe du moins en toute fin d'échéance.
 	C'est vrai que 2015 avait été une catastrophe hivernale notamment décembre avec une anomalie de + 4 degrés sur la France.
 	A l'inverse, l'automne et décembre 1997 avaient connu des séquences hivernales intéressantes (fin octobre 1997, début décembre 1997) et pas trop d’excèdent et des blocages de HP sur le nord de l'Europe... Septembre 1997 a été sous la coupole de HP atlantique et nordique quasiment tout le mois
-	Modifié il y a 17 heures par Hassan
+	Modifié il y a 19 heures par Hassan
 
 =======================
 
@@ -713,7 +713,7 @@ Auteur: DoubleKnacki
 Message:
 Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
 	Peu, très peu voire pas d'eau donc à attendre en effet sur une grande partie du pays avec fréquemment un mercure au-dessus des normes, encore plus nettement sur la moitié Sud (le Nord pourrait mieux s'en tirer thermiquement, par moments).
-	Modifié il y a 14 heures par DoubleKnacki
+	Modifié il y a 16 heures par DoubleKnacki
 								7
 								1
 
@@ -754,7 +754,7 @@ Il y a 4 heures, AmourDaria a dit :
 	Diagramme au Sud-Est
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié il y a 6 heures par Ciel d&#039;encre
+	Modifié il y a 8 heures par Ciel d&#039;encre
 								22
 								4
 								1
@@ -768,5 +768,5 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 	On peut éventuellement concéder des soubresaut frais dans le nord, l'est, selon la proximité avec une goutte froide sur les Balkans. La moyenne des diagrammes reste stable et hautes mais comme ces soubresauts sont courts et n'interviennent pas aux même moments, ils ne ressortent pas dans le signal moyen. 
 	Sans trop hésiter, je parierai sur du ++ chaud que la normale sur l'ouest, le sud, le centre mais sans trop hésiter je parierai sur du chaud entrecoupé d'un ou deux "coup de frais" sur le nord et surtout l'est. 
 	Mais ce serait encore sec dans tous les cas.
-	Modifié il y a 4 heures par Jojobarbar
+	Modifié il y a 6 heures par Jojobarbar
 								3
