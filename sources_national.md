@@ -283,7 +283,7 @@ Températures minimales : en hausse.
 Températures maximales : identiques à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 170935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 17 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 301 pour PROVENCE, CORSE 2 - Situation générale jeudi 17 septembre 2026 à 06H00 UTC, et évolution Dépression relative 1010 hPa près de la Côte d'Azur, évoluant peu. Hautes pressions près de 1021 hPa au sud-ouest de la France, s'affaissant 1018-1020 hPa en soirée. 3 - Prévisions pour l'après-midi du jeudi 17 septembre VENT : - à l'ouest de Camarat : revenant Ouest 5 à 6, localement 7 de Sicié au Cap Camarat. Rafales. - à l'est de Camarat : Ouest à Sud-Ouest 4 à 5, devenant Variable dépressionnaire 3 à 5 en fin de journée. MER : peu agitée à agitée, localement forte au sud des îles d'Hyères. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est du Levant. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du jeudi 17 septembre au vendredi 18 septembre VENT : - à l'ouest du Levant : Ouest à Nord-Ouest mollissant 4 à 5, parfois 6, fraîchissant temporairement 5 à 6 en milieu de nuit. Rafales. - à l'est du Levant : Variable dépressionnaire 3 à 5, parfois 6 au début, s'orientant secteur Nord-Ouest 2 à 4 en milieu de nuit. MER : peu agitée à agitée, temporairement forte le soir au large du Levant. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Sicié. TEMPS : ciel clair, parfois voilé. VISIBILITE : bonne. 5 - Prévisions pour la journée du vendredi 18 septembre VENT : - à l'ouest du Levant : Ouest à Nord-Ouest 4 à 5, parfois 6 de Fos à Porquerolles, revenant localement Ouest à Sud-Ouest 4 à 5 à l'ouest de Cap Couronne en milieu d'après-midi. - à l'est du Levant : secteur Nord-Ouest 2 à 4, revenant Ouest à Sud-Ouest l'après-midi, puis mollissant variable 1 à 3 en fin de journée. MER : peu agitée à agitée, s'atténuant belle à peu agitée l'après-midi, localement agitée vers le large de Marseille au Levant. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Sicié. TEMPS : ensoleillé, passagèrement voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 18 au 19 et la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : virant Nord à Nord-Ouest 4 à 5, puis Nord 3 à 5 en fin de nuit, et mollissant Variable 2 à 4 en journée. - à l'est de Sicié : virant Nord-Est 2 à 4, puis fraîchissant 3 à 5 en seconde partie de nuit, et mollissant Est à Nord-Est 2 à 4 en journée. MER : s'atténuant belle à peu agitée, temporairement agitée vers le large en soirée. HOULE : Ouest 0.5 à 1 m, s'amortissant en journée. TEMPS : ciel clair, parfois voilé en journée. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Variable 1 à 3, s'orientant Ouest à Sud-Ouest 3 à 4 en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Lundi 21 septembre Secteur Nord-Ouest modéré à assez fort dans le golfe du Lion et variable faible autour de la Corse. Indice de confiance : 4 sur 5 Mardi 22 septembre Secteur Nord faible à modéré dans le golfe du Lion et Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible dans le Golfe du Lion devenant faible à modéré entre Corse et continent. Indice de confiance : 4 sur 5 Jeudi 24 septembre Variable faible. Indice de confiance : 4 sur 5 9 - Observations le jeudi 17 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Ouest 21 noeuds. Le Levant : vent Ouest 17 noeuds, 1012 hPa stationnaire. Porquerolles : vent Ouest-Sud-Ouest 16 noeuds. Cap Couronne : vent Ouest-Nord-Ouest 21 noeuds, rafales 33 noeuds. Prochain bulletin le jeudi 17 septembre 2026, vers 18H30 légales
+FQCT40 LFML 171615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 17 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 17 septembre 2026 à 12H00 UTC, et évolution Dépression relative 1012 hPa près de la Côte d'Azur, évoluant peu. Hautes pressions près de 1020 hPa au sud-ouest de la France. 3 - Prévisions pour la nuit du jeudi 17 septembre au vendredi 18 septembre VENT : - à l'ouest du Levant : Ouest à Nord-Ouest mollissant 4 à 5, parfois 6, puis fraîchissant temporairement 5 à 6 en milieu de nuit. Rafales. - à l'est du Levant : mollissant Ouest 5 à 6, puis secteur Nord-Ouest 3 à 5 en milieu de nuit, et 3 à 4 à la fin. MER : peu agitée à agitée, temporairement forte le soir au large du Levant. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Sicié. TEMPS : ciel clair, parfois voilé. VISIBILITE : bonne. 4 - Prévisions pour la journée du vendredi 18 septembre VENT : - de Port-Camargue à Cap Couronne : Nord-Ouest 4 à 5, revenant Ouest à Sud-Ouest à la mi-journée, puis mollissant secteur Ouest 3 à 4 en fin de journée. - de Cap Couronne au Levant : Ouest à Nord-Ouest 5 à 6. - du Levant à Saint-Raphaël : secteur Nord-Ouest 2 à 4, revenant Ouest à Sud-Ouest l'après-midi, puis mollissant Variable 1 à 3 en fin de journée. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Sicié. TEMPS : ensoleillé, passagèrement voilé. VISIBILITE : bonne. 5 - Tendance pour la nuit du 18 au 19, et la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : virant Nord à Nord-Ouest 4 à 5, parfois 6, puis Nord 3 à 5 en fin de nuit, et mollissant Variable 2 à 4 en journée. - à l'est de Sicié : virant Nord-Est 2 à 4, puis fraîchissant 3 à 5 en seconde partie de nuit, et mollissant Est à Nord-Est 2 à 4 en journée. MER : peu agitée à agitée, s'atténuant belle à peu agitée en fin de nuit. HOULE : Ouest 0.5 à 1 m, s'amortissant en journée. TEMPS : ciel clair, parfois voilé en journée. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Variable 1 à 3, s'orientant Ouest à Sud-Ouest 3 à 4 en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Lundi 21 septembre Secteur Nord-Ouest modéré à assez fort dans le golfe du Lion et variable faible autour de la Corse. Indice de confiance : 4 sur 5 Mardi 22 septembre Secteur Nord faible à modéré dans le golfe du Lion et Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible dans le Golfe du Lion devenant faible à modéré entre Corse et continent. Indice de confiance : 4 sur 5 Jeudi 24 septembre Variable faible. Indice de confiance : 4 sur 5 8 - Observations le jeudi 17 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Ouest 12 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Ouest 25 noeuds, rafales 39 noeuds. Le Levant : vent Ouest 27 noeuds, rafales 37 noeuds, 1010 hPa en baisse. Porquerolles : vent Ouest 27 noeuds, rafales 43 noeuds. Cap Couronne : vent Ouest 14 noeuds. Prochain bulletin le vendredi 18 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -305,12 +305,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Automne/hiver 2026-2027 dans les Pyrénées
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Prévisions Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 17/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -318,9 +318,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 17 Septembre 2026.
-Résumé général précédent : Suite à une fin de semaine 1 sous un anticyclone, la semaine 2 est encore marquée par la chaleur. L’anticyclone demeure sur l’Europe de l’Ouest, ne faiblissant que très peu. Les températures devraient rester au-dessus des moyennes, avec quelques pointes dans le sud. Un retour progressif à la normale est possible en toute fin de période..
+Résumé général précédent : La quinzaine à venir devrait rester dominée par les hautes pressions. Le temps s’annonce sec, souvent ensoleillé, avec des températures au-dessus des normales, surtout sur la moitié sud. Une baisse plus nette des géopotentiels est possible en toute fin de période, surtout au nord/est, mais le sud pourrait conserver un temps chaud et sec..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Températures proches des normales, quelques coups de chaleur dans le sud, vent de secteur ouest..
+Températures attendues précédemment : Ciel dégagé, soleil, pas de pluie, températures en légère hausse..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 17 au Dimanche 20 Septembre 2026) ===
@@ -522,25 +522,6 @@ Bonjour @giec 2100,
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: giec 2100
-Message:
-@Sky blue comment avoir la frite après ça...
-	et encore on n'a pas la plus grosse... :
-	enfin en attendant j'en ai gros sur la patate de ce blocage perpétuel...
-								1
-								4
-								6
-
-=======================
-
-Auteur: cédric du Lot
-Message:
-Au dela du fait qu'on en a plein le c*l, on ne peut en plus qu'être sidéré par un tel acharnement, un orange mécanique météorologique...
-								5
-								6
-
-=======================
-
 Auteur: tao
 Message:
 Bonsoir,
@@ -719,7 +700,7 @@ Il y a 4 heures, AmourDaria a dit :
 	Diagramme au Sud-Est
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié il y a 20 heures par Ciel d&#039;encre
+	Modifié il y a 22 heures par Ciel d&#039;encre
 								29
 								4
 								1
@@ -733,8 +714,9 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 	On peut éventuellement concéder des soubresaut frais dans le nord, l'est, selon la proximité avec une goutte froide sur les Balkans. La moyenne des diagrammes reste stable et hautes mais comme ces soubresauts sont courts et n'interviennent pas aux même moments, ils ne ressortent pas dans le signal moyen. 
 	Sans trop hésiter, je parierai sur du ++ chaud que la normale sur l'ouest, le sud, le centre mais sans trop hésiter je parierai sur du chaud entrecoupé d'un ou deux "coup de frais" sur le nord et surtout l'est. 
 	Mais ce serait encore sec dans tous les cas.
-	Modifié il y a 18 heures par Jojobarbar
+	Modifié il y a 20 heures par Jojobarbar
 								8
+								1
 
 =======================
 
@@ -747,4 +729,21 @@ Heureusement que les minimales sont basses. Ça change tout par rapport à cet �
 Auteur: Grahok73
 Message:
 Trop fastoche les prévis TLT... Une seule image suffit...
-								5
+								6
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+pire qu'une corvée de pluche cette météo ?
+	Modifié il y a 2 heures par giec 2100
+
+=======================
+
+Auteur: Blacksun
+Message:
+Il y a 4 heures, Grahok73 a dit :
+			Trop fastoche les prévis TLT... Une seule image suffit...
+	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
+								1

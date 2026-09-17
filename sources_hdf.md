@@ -279,7 +279,7 @@ Températures minimales : en hausse sur le Tardenois.
 Températures maximales : similaires à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 170925 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 17 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 128 2 - Situation générale jeudi 17 septembre 2026 à 06H00 UTC, et évolution Dorsale des Açores au golfe de Gascogne, se renforçant vendredi. Thalweg, associé à une dépression autour de 975 hPa au sud-est de l'Islande, balayant la Manche et la Mer du Nord ce matin, puis le golfe de Gascogne l'après-midi. Nouvelle perturbation peu active balayant la Manche demain. 3 - Prévisions pour l'après-midi du jeudi 17 septembre VENT : Sud-Ouest 5 à 6, localement 6 à 7 du Cap Gris-Nez à la Baie de Somme. Rafales. MER : agitée, temporairement forte en Manche. HOULE : non significative. TEMPS : couvert et pluvieux. VISIBILITE : moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du jeudi 17 septembre au vendredi 18 septembre VENT : Ouest à Nord-Ouest mollissant 4 à 5. MER : peu agitée à agitée. HOULE : Sud-Ouest 0.5 à 1 m. TEMPS : nuageux avec quelques averses, se dégageant en première partie de nuit. VISIBILITE : bonne, localement moyenne sous averses. 5 - Prévisions pour la journée du vendredi 18 septembre VENT : Ouest 4 à 5, revenant Sud-Ouest 5 à 6 l'après-midi, avec menace de 7 dans le détroit et en Mer du Nord. Rafales. MER : peu agitée à agitée, devenant agitée l'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, s'amortissant l'après-midi. TEMPS : peu nuageux à nuageux, devenant très nuageux l'après-midi, avec quelques pluies en fin de journée. VISIBILITE : bonne, localement moyenne sous précipitations. 6 - Prévisions pour la nuit du 18 au 19 et la journée du samedi 19 septembre VENT : Sud-Ouest 5 à 6 l'après-midi, avec passagèrement menace de 7 dans le détroit et en Mer du Nord, en soirée, puis l'après-midi. Rafales. MER : agitée. HOULE : non significative. TEMPS : nuageux à très nuageux, avec quelques pluie la nuit. VISIBILITE : bonne, localement moyenne sous précipitations. 7 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Ouest 6 mollissant 4 à 5 en début de nuit. MER : agitée, devenant peu agitée en cours de matinée. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1 à 1,5 m en seconde partie de nuit. 8 - Tendance pour les jours suivants Lundi 21 septembre variable faible. Indice de confiance : 4 sur 5 Mardi 22 septembre Secteur Est faible en entrée de Manche et variable faible en sortie de Manche. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible. Indice de confiance : 4 sur 5 Jeudi 24 septembre Secteur Est faible. Indice de confiance : 4 sur 5 9 - Observations le jeudi 17 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Sud-Ouest 14 noeuds, mer belle, 1012 hPa en baisse, nuageux avec éclaircies, visibilité 6 milles. Cap Gris Nez : vent Sud-Ouest 29 noeuds. Boulogne : vent Sud-Ouest 23 noeuds, rafales 33 noeuds, 1013 hPa en baisse. Prochain bulletin le jeudi 17 septembre 2026, vers 18H00 légales
+FQCT40 LFQQ 171620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 17 septembre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 17 septembre 2026 à 12H00 UTC, et évolution Thalweg, associé à une dépression autour de 976 hPa au sud-est de l'Islande, balayant le golfe de Gascogne cet après-midi. Nouvelle perturbation peu active balayant la Manche demain. Dorsale des Açores au golfe de Gascogne, se renforçant vendredi. 3 - Prévisions pour la nuit du jeudi 17 septembre au vendredi 18 septembre VENT : Ouest à Sud-Ouest 5 à 6, mollissant Ouest à Nord-Ouest 4 à 5, en soirée MER : peu agitée à agitée. HOULE : Sud-Ouest 0.5 à 1 m. TEMPS : nuageux avec quelques averses, se dégageant en première partie de nuit. VISIBILITE : bonne, localement moyenne sous averses. 4 - Prévisions pour la journée du vendredi 18 septembre VENT : Ouest 4, parfois 5, revenant Sud-Ouest 5 à 6 l'après-midi. Rafales. MER : peu agitée, localement agitée en Manche au début, devenant agitée partout en fin d'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, s'amortissant l'après-midi. TEMPS : peu nuageux à nuageux, devenant très nuageux l'après-midi, avec quelques pluies en fin de journée. VISIBILITE : bonne, localement moyenne sous précipitations. 5 - Tendance pour la nuit du 18 au 19, et la journée du samedi 19 septembre VENT : Sud-Ouest 5 à 6 l'après-midi, avec passagèrement menace de 7 dans le détroit et en Mer du Nord, l'après-midi. Rafales. MER : agitée. HOULE : non significative, localement Sud-Ouest 0.5 à 1 m, de la baie de Canche, à la baie de Somme. TEMPS : nuageux à très nuageux, avec quelques pluie la nuit. VISIBILITE : bonne, localement moyenne sous précipitations. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Ouest 6 mollissant 4 à 5 en début de nuit. MER : agitée, devenant peu agitée en cours de matinée. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1 à 1,5 m en seconde partie de nuit. 7 - Tendance pour les jours suivants Lundi 21 septembre variable faible. Indice de confiance : 4 sur 5 Mardi 22 septembre Secteur Est faible en entrée de Manche et variable faible en sortie de Manche. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible. Indice de confiance : 4 sur 5 Jeudi 24 septembre Secteur Est faible. Indice de confiance : 4 sur 5 8 - Observations le jeudi 17 septembre 2026 à 15H00 UTC Dunkerque : vent Sud-Ouest 12 noeuds, 1010 hPa en baisse. Cap Gris Nez : vent Sud-Ouest 21 noeuds, rafales 31 noeuds. Boulogne : vent Sud-Ouest 16 noeuds, rafales 27 noeuds, 1011 hPa en baisse, averses et grains, visibilité 4 milles. Bouée Sandettie : vent Sud-Ouest 25 noeuds, creux 1,3 mètre, 1009 hPa en baisse, visibilité 5 milles. Prochain bulletin le vendredi 18 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -301,12 +301,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Suivi de la secheresse
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Prévisions &#xCE;le-de-France Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 17/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,9 +314,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 17 Septembre 2026.
-Résumé général HDF précédent : .
+Résumé général HDF précédent : Deux semaines dominées par les hautes pressions : temps sec et très ensoleillé sur les Hauts-de-France. Quelques averses résiduelles possibles en tout début de période (nuit de jeudi 17, fin de nuit de samedi 19) et un risque localisé de pluie mardi 22 sur le Haut-Artois, mais rien de durable. Températures douces à chaudes : maximales 18 à 26 °C, minimales 8 à 17 °C selon littoral et intérieur. Sécheresse de surface préoccupante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : De saison.
+Températures attendues précédemment : Temps sec, ensoleillé, chaleur relative dans l'intérieur; vent de sud-ouest sensible..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 17 au Dimanche 20 Septembre 2026) ===
@@ -518,25 +518,6 @@ Bonjour @giec 2100,
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: giec 2100
-Message:
-@Sky blue comment avoir la frite après ça...
-	et encore on n'a pas la plus grosse... :
-	enfin en attendant j'en ai gros sur la patate de ce blocage perpétuel...
-								1
-								4
-								6
-
-=======================
-
-Auteur: cédric du Lot
-Message:
-Au dela du fait qu'on en a plein le c*l, on ne peut en plus qu'être sidéré par un tel acharnement, un orange mécanique météorologique...
-								5
-								6
-
-=======================
-
 Auteur: tao
 Message:
 Bonsoir,
@@ -715,7 +696,7 @@ Il y a 4 heures, AmourDaria a dit :
 	Diagramme au Sud-Est
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié il y a 20 heures par Ciel d&#039;encre
+	Modifié il y a 22 heures par Ciel d&#039;encre
 								29
 								4
 								1
@@ -729,8 +710,9 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 	On peut éventuellement concéder des soubresaut frais dans le nord, l'est, selon la proximité avec une goutte froide sur les Balkans. La moyenne des diagrammes reste stable et hautes mais comme ces soubresauts sont courts et n'interviennent pas aux même moments, ils ne ressortent pas dans le signal moyen. 
 	Sans trop hésiter, je parierai sur du ++ chaud que la normale sur l'ouest, le sud, le centre mais sans trop hésiter je parierai sur du chaud entrecoupé d'un ou deux "coup de frais" sur le nord et surtout l'est. 
 	Mais ce serait encore sec dans tous les cas.
-	Modifié il y a 18 heures par Jojobarbar
+	Modifié il y a 20 heures par Jojobarbar
 								8
+								1
 
 =======================
 
@@ -743,4 +725,21 @@ Heureusement que les minimales sont basses. Ça change tout par rapport à cet �
 Auteur: Grahok73
 Message:
 Trop fastoche les prévis TLT... Une seule image suffit...
-								5
+								6
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+pire qu'une corvée de pluche cette météo ?
+	Modifié il y a 2 heures par giec 2100
+
+=======================
+
+Auteur: Blacksun
+Message:
+Il y a 4 heures, Grahok73 a dit :
+			Trop fastoche les prévis TLT... Une seule image suffit...
+	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
+								1
