@@ -330,12 +330,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : &#xC9;volution de la nature - 2026
 • Infoclimat Direct : Tendances été 2026
-• Infoclimat Direct : &#xC9;volution de la nature - 2026
-• Infoclimat Direct : Suivi du temps &#xE0; Montréal
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Tendances été 2026
+• Infoclimat Direct : Nouvelle console WeatherLink Davis
+• Infoclimat Direct : Nouvelle console WeatherLink Davis
+• Infoclimat Direct : Nouvelle console WeatherLink Davis
+• Infoclimat Direct : Tendances été 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 17/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -343,9 +343,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 17 Septembre 2026.
-Résumé général précédent : Temps sec et anticyclonique sur la France, avec une chaleur modérée en cours de semaine prochaine, sans canicule..
+Résumé général précédent : Sur la quinzaine à venir, l’anticyclone devrait rester le principal centre d’action : temps sec dominant, ensoleillement généreux, températures au-dessus des normales, surtout au sud. La semaine 1 est marquée par une hausse progressive, la semaine 2 par une chaleur automnale plus franche, sans excès durable à ce stade. Aucun retour franc des perturbations atlantiques n’est modélisé avec fiabilité..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et lumineux, chaleur modérée au sud, pas de refroidissement durable..
+Températures attendues précédemment : Dorsale, temps sec, hausse des températures, flux de sud à sud-est..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 17 au Dimanche 20 Septembre 2026) ===
@@ -547,17 +547,6 @@ Bonjour @giec 2100,
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Sky blue
-Message:
-Reviens ma douce Patate.!!!
-	Ah ben non, casse toi.
-								1
-								7
-								1
-								2
-
-=======================
-
 Auteur: giec 2100
 Message:
 @Sky blue comment avoir la frite après ça...
@@ -755,7 +744,7 @@ Il y a 4 heures, AmourDaria a dit :
 	Diagramme au Sud-Est
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié il y a 16 heures par Ciel d&#039;encre
+	Modifié il y a 18 heures par Ciel d&#039;encre
 								29
 								4
 								1
@@ -769,7 +758,7 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 	On peut éventuellement concéder des soubresaut frais dans le nord, l'est, selon la proximité avec une goutte froide sur les Balkans. La moyenne des diagrammes reste stable et hautes mais comme ces soubresauts sont courts et n'interviennent pas aux même moments, ils ne ressortent pas dans le signal moyen. 
 	Sans trop hésiter, je parierai sur du ++ chaud que la normale sur l'ouest, le sud, le centre mais sans trop hésiter je parierai sur du chaud entrecoupé d'un ou deux "coup de frais" sur le nord et surtout l'est. 
 	Mais ce serait encore sec dans tous les cas.
-	Modifié il y a 14 heures par Jojobarbar
+	Modifié il y a 16 heures par Jojobarbar
 								8
 
 =======================
@@ -777,3 +766,10 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 Auteur: Plancher
 Message:
 Heureusement que les minimales sont basses. Ça change tout par rapport à cet été.
+
+=======================
+
+Auteur: Grahok73
+Message:
+Trop fastoche les prévis TLT... Une seule image suffit...
+								2
