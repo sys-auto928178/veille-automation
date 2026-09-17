@@ -301,12 +301,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi de la secheresse
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Prévisions Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 17/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,9 +313,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 17 Septembre 2026.
-Résumé général HDF précédent : Deux semaines dominées par les hautes pressions : temps sec et très ensoleillé sur les Hauts-de-France. Quelques averses résiduelles possibles en tout début de période (nuit de jeudi 17, fin de nuit de samedi 19) et un risque localisé de pluie mardi 22 sur le Haut-Artois, mais rien de durable. Températures douces à chaudes : maximales 18 à 26 °C, minimales 8 à 17 °C selon littoral et intérieur. Sécheresse de surface préoccupante..
+Résumé général HDF précédent : Deux semaines sous l’influence d’un anticyclone durable : temps sec, souvent ensoleillé, avec de simples passages nuageux et un risque très localisé d’averses. Températures de saison à légèrement au-dessus, avec une possible pulsion chaude en toute fin de période..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé, chaleur relative dans l'intérieur; vent de sud-ouest sensible..
+Températures attendues précédemment : Vent de sud-ouest assez fort samedi, rafales 65 km/h; maximales 18-26°C selon les zones. (max 120).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 17 au Dimanche 20 Septembre 2026) ===
@@ -696,8 +695,8 @@ Il y a 4 heures, AmourDaria a dit :
 	Diagramme au Sud-Est
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié il y a 22 heures par Ciel d&#039;encre
-								29
+	Modifié hier à 19:12 par Ciel d&#039;encre
+								30
 								4
 								1
 								5
@@ -710,8 +709,8 @@ Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de 
 	On peut éventuellement concéder des soubresaut frais dans le nord, l'est, selon la proximité avec une goutte froide sur les Balkans. La moyenne des diagrammes reste stable et hautes mais comme ces soubresauts sont courts et n'interviennent pas aux même moments, ils ne ressortent pas dans le signal moyen. 
 	Sans trop hésiter, je parierai sur du ++ chaud que la normale sur l'ouest, le sud, le centre mais sans trop hésiter je parierai sur du chaud entrecoupé d'un ou deux "coup de frais" sur le nord et surtout l'est. 
 	Mais ce serait encore sec dans tous les cas.
-	Modifié il y a 20 heures par Jojobarbar
-								8
+	Modifié il y a 22 heures par Jojobarbar
+								9
 								1
 
 =======================
@@ -733,7 +732,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
 
 =======================
 
@@ -743,3 +742,4 @@ Il y a 4 heures, Grahok73 a dit :
 			Trop fastoche les prévis TLT... Une seule image suffit...
 	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
 								1
+								2
