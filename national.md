@@ -6,124 +6,123 @@
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur le blocage anticyclonique ; désaccord sur la position exacte et l’intensité de la chaleur.*
-- **Fiabilité du scénario majoritaire :** Blocage anticyclonique chaud et sec — *Scénario majoritaire : hautes pressions dominantes, pluies très limitées, chaleur surtout au sud.*
+- **Consensus des modèles :** Élevé — *Très large accord entre modèles sur le temps sec et anticyclonique.*
+- **Fiabilité du scénario majoritaire :** Anticyclone tenace — *Scénario majoritaire : hautes pressions persistantes, chaleur au sud, sécheresse qui s'accentue.*
 - **Stabilité des cartes/scénarios :** 6 / 124 — *6 cartes sur 124 analysées*
-- **Niveau d'incertitude global :** Position de l’anticyclone et intensité thermique — *Les modèles divergent sur l’évolution nord/est et sur d’éventuelles pluies en fin d’échéance.*
+- **Niveau d'incertitude global :** Modérée — *Principale inconnue : la position exacte de l'anticyclone après le 24 septembre.*
 
 ## 🗓️ SEMAINE 1 : Du Jeudi 17 au Dimanche 20 Septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Blocage anticyclonique : Temps sec et ensoleillé dominant sur la France.
-2. Dégradé nord/sud : Températures au-dessus des normales, plus marqué au sud.
-3. Pluies très limitées : Faible risque de pluie au nord et nord-est en fin de semaine.
-4. Hausse thermique : Samedi et dimanche, nette douceur sur l’ouest et le sud.
-5. Prudence méditerranée : Mistral parfois assez fort, orages possibles en Corse.
+1. Anticyclone verrouillé : Temps sec et très ensoleillé sur la quasi-totalité du pays.
+2. Chaleur au Sud : Mercure en nette hausse, notamment près de la Méditerranée.
+3. Fraîcheur Nord/Est : Possible en toute fin de semaine, mais sans pluie.
+4. Corse à surveiller : Faible risque d'orages, sans passage en vigilance orange.
+5. Sécheresse inquiétante : Aucune précipitation significative en vue.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Hautes pressions dominantes sur l’Atlantique et la France : temps sec et ensoleillé.
-- Températures au-dessus des normales avec un dégradé nord/sud, sans excès.
-- Faible risque de pluie au nord/nord-est en fin de semaine.
+1. Tous les modèles s'accordent sur la persistance des hautes pressions et l'absence de précipitations significatives.
+2. La chaleur est attendue sur la moitié sud, avec un pic possible en fin de semaine.
+3. Le rafraîchissement évoqué pour le nord/est reste sec et ne change pas la donne hydrique.
 **Points de divergence :**
-- Position exacte de l’anticyclone en fin de semaine (sur la France ou légèrement décalé).
-- Présence ou non de pluies sur le nord-est dimanche.
-- Intensité de la remontée chaude en toute fin de période.
+1. Position exacte de l'anticyclone en fin de semaine : au-dessus de la France (CEP) ou décalé vers le nord/est (GEM, AIFS).
+2. Intensité de la chaleur : certains membres évoquent un simple "chaud pour la saison", d'autres une pulsion chaude plus marquée.
+3. Possibilité de précipitations sur le nord-est : minoritaire, mais évoquée par certains membres.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **AIFS (CEP AI)** (documented) | Dorsale anticyclonique puissante couvrant la France en fin d’échéance, flux de sud à sud-est, nouvelle pulsion chaude. | Temps sec, ensoleillé, chaleur marquée surtout au sud ; pas de pluie significative. | France entière, plus marqué sud/sud-ouest/mediterranee | Élevée (85%) | Dernière mouture du modèle IA d’ECMWF : une écrasante majorité de scénarios place une dorsale anticyclonique sur le pays dimanche 20, avec un flux de sud à sud-est. |
-| **GFS (américain)** (partial) | Remontée de la chaleur en fin de période, puis rafraîchissement en début de semaine suivante. | Temps chaud et sec, suivi d’une respiration plus fraîche au nord/est. | France, surtout nord/est en fin de semaine | Modérée (65%) | Le GFS, via les cartes de température à 2 m, suggère une poursuite de la chaleur puis un rafraîchissement la semaine suivante. |
-| **Ensembles (génériques)** (partial) | Temps anticyclonique majoritaire ; scénarios de retour des perturbations atlantiques minoritaires. | Sec et ensoleillé ; petites chances de pluie, surtout au nord-est en fin de semaine. | France entière, nord_est, nord | Modérée (65%) | Les ensembles laissent une place minoritaire mais réelle à une perturbation atlantique ; la majorité des membres reste sous l’influence des hautes pressions. |
+| **CEP (ensemble + version IA)** (Documenté) | Écrasante majorité de scénarios avec une puissante dorsale anticyclonique recouvrant la France en fin d'échéance, flux de S à SE et pulsion chaude. | Temps sec et très ensoleillé, températures en hausse, surtout au sud, sans excès caniculaires. | Tout le pays, plus marqué sur le Sud-Ouest et la région méditerranéenne. | Élevée (85%) | Le CEP AI montre une convergence forte vers une dorsale anticyclonique. Un quart des scénarios place la zone à plus de 20°C à 850 hPa sur le pays, notamment au sud-ouest et en Méditerranée. Pas d'excès caniculaires. |
+| **GFS** (Documenté) | Signal très sec, France à l'écart des précipitations, hautes pressions omniprésentes de l'Atlantique à l'Europe. | Temps sec et ensoleillé, températures au-dessus des normales, surtout au sud. | National, plus particulièrement la moitié sud. | Modérée (65%) | Les cartes de cumul de précipitations montrent une France épargnée, alors que les pluies circulent autour du pays. Signal cohérent avec le CEP. |
+| **GEM & AIFS** (Documenté) | Évolution synoptique avec géopotentiels se positionnant plus au nord et plus à l'est d'ici jeudi 24, ouvrant une possible porte de sortie. | Temps sec et ensoleillé, chaleur, mais possible baisse des températures en fin de période. | Nord, Nord-Est, puis éventuellement Sud en fin d'échéance. | Modérée (65%) | GEM et AIFS s'accordent sur un déplacement des hautes pressions vers le nord et l'est, contrairement au CEP qui les voit plutôt glisser vers l'est. Pour le moment, pas de baisse des géopotentiels dans le sud. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec et ensoleillé, passages nuageux possibles en fin de semaine. | Maximales de 20 à 23°C, minimales de 9 à 13°C. | moderee | ECMWF, GFS | Peu de messages dédiés à cette zone ; localisation des nuages et pluies incertaine. |
-| **Nord** | Nuages jeudi avec faible pluie possible, puis sec et ensoleillé, risque de pluie dimanche. | Maximales de 21 à 26°C samedi, minimales de 11 à 15°C. | elevee | Météo-France, ECMWF | Risque de pluie de dimanche à affiner. |
-| **Nord-Est** | Soleil et nuages élevés, sec ; possible faiblesse anticyclonique en fin de semaine. | Maximales de 20 à 25°C, minimales de 8 à 12°C. | faible | ECMWF, GFS | Scénario de précipitations encore minoritaire et incertain. |
-| **Ouest et Façade Atlantique** | Jeudi pluies faibles localisées le matin puis soleil ; vendredi à dimanche beau temps sec. | Maximales de 22 à 28°C (19°C sur le littoral), minimales de 9 à 16°C. | elevee | Météo-France, ECMWF | Évolution rapide des nuages jeudi ; températures littorales sensibles au vent. |
-| **Centre** | Temps sec et ensoleillé, passages nuageux possibles en fin de semaine. | Maximales de 22 à 27°C, minimales de 8 à 13°C. | moderee | ECMWF, GFS | Pas de discussion spécifique ; estimation issue des modèles généraux. |
-| **Sud-Ouest** | Jeudi matin ensoleillé puis nuages ; vendredi à dimanche beau temps, ensoleillé. | Maximales de 21 à 29°C, 30°C possible localement dimanche ; minimales de 7 à 14°C. | elevee | Météo-France, ECMWF | Possible pic à 30°C dimanche ; nébulosité de jeudi à affiner. |
-| **Sud-Est et Vallée du Rhône** | Soleil et nuages élevés jeudi, puis beau temps sec jusqu'à dimanche. | Maximales de 21 à 27°C, minimales de 7 à 13°C. | elevee | Météo-France, ECMWF | Intensité du vent de nord et températures en monts du Lyonnais. |
-| **Méditerranée et Corse** | Soleil franc, chaud ; mistral parfois assez fort, orages possibles sur la Corse. | Maximales de 26 à 31°C dimanche, minimales de 11 à 18°C. | elevee | Météo-France, ECMWF, AIFS | Risque d'orages en Corse et force du mistral en fin de période. |
+| **Nord-Ouest** | Temps sec et ensoleillé, passages nuageux possibles en journée. | Maximales 20 à 24°C, minimales 10 à 14°C. | moderee | CEP, GFS | Évolution des nuages en fin de journée |
+| **Nord** | Beau temps sec et ensoleillé, ciel parfois voilé. | Maximales 22 à 26°C, minimales 11 à 15°C. | moderee | CEP, GFS, AIFS | Timing du rafraîchissement en fin de période |
+| **Nord-Est** | Sec et ensoleillé, possible baisse des températures en fin de semaine. | Maximales 20 à 25°C, minimales 8 à 12°C. | faible | CEP, GEM | Comportement de l'anticyclone en fin de semaine |
+| **Ouest et Façade Atlantique** | Soleil généreux, températures en hausse en fin de semaine. | Maximales 25 à 30°C dimanche, minimales 10 à 17°C selon littoral. | moderee | CEP, GFS, AIFS | Températures sur le littoral, rafraîchies par l'océan |
+| **Centre** | Temps sec et ensoleillé, chaleur modérée. | Maximales 24 à 28°C. | moderee | CEP, GFS | Aucune majeure |
+| **Sud-Ouest** | Très ensoleillé, chaleur marquée en fin de semaine. | Maximales 28 à 31°C dimanche, minimales 10 à 14°C. | elevee | CEP, GFS, GEM, AIFS | Pic de chaleur potentiel en début de semaine suivante |
+| **Sud-Est et Vallée du Rhône** | Soleil dominant, très doux, mistral faible possible. | Maximales 25 à 29°C, minimales 9 à 14°C. | elevee | CEP, GFS, GEM | Force du mistral en fin de période |
+| **Méditerranée et Corse** | Excellent ensoleillement, chaleur, quelques nuages en Corse. | Maximales 27 à 31°C, minimales 12 à 19°C. | elevee | CEP, GFS, GEM, AIFS | Orages en Corse et intensité du mistral |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **17-18 septembre** : Soleil parfois voilé, quelques pluies faibles localisées possibles, températures de saison.
-- **19 septembre** : Temps sec et ensoleillé, nette hausse des températures au sud.
-- **20 septembre** : Soleil dominant, faible risque de pluie au nord, mistral modéré en méditerranée.
-- **20 septembre (fin de journée)** : Amorce possible de la remontée chaude par le sud en liaison avec la semaine suivante.
+- **Jeudi 17 septembre** : Soleil généreux mais ciel voilé par moments, vent d'ouest modéré, chaleur agréable.
+- **Vendredi 18 septembre** : Très belle journée ensoleillée après dissipation des nuages matinaux.
+- **Samedi 19 septembre** : Soleil sans nuages, températures en hausse, chaleur de saison.
+- **Dimanche 20 septembre** : Pic de chaleur de la période, surtout au sud, ciel toujours dégagé.
 
 **Points solides :**
-- Temps sec et ensoleillé sur la majeure partie du pays.
-- Températures au-dessus des normales, surtout au sud.
-- Hausse thermique samedi/dimanche, notamment sur l’ouest et le sud.
+1. Temps sec et anticyclonique sur l'ensemble du pays.
+2. Chaleur de plus en plus marquée, surtout au sud.
+3. Aucun phénomène dangereux attendu à l'échelle nationale.
 
 **Points fragiles :**
-- Pluies faibles de jeudi et dimanche au nord.
-- Évolution nuageuse sur l’ouest atlantique.
-- Force du mistral en méditerranée.
+1. Éventuel rafraîchissement sur le nord/est en toute fin de semaine.
+2. Comportement du mistral et des orages corses.
+3. Évolution de la position de l'anticyclone après dimanche.
 
 **À surveiller (prochains runs) :**
-Évolution de la position de l’anticyclone, risque de pluie au nord-est dimanche, amorce de la remontée chaude de lundi.
+Prochains runs CEP, GFS et GEM pour confirmer le déplacement des hautes pressions et l'arrivée éventuelle de fraîcheur.
 
 
 ## 🗓️ SEMAINE 2 : Du Lundi 21 au Dimanche 27 Septembre 2026
 ### 💡 Points clés de la semaine 2
-1. Anticyclone tenace : Temps sec et très ensoleillé sur la quasi-totalité du pays.
-2. Chaleur au sud : Anomalies thermiques positives marquées, surtout sur la moitié sud.
-3. Incursions fraîches : Possibles mais brèves, limitées au nord et à l’est.
-4. Pluies absentes : Le déficit de précipitations reste le point le plus préoccupant.
-5. Fin d’échéance incertaine : Possible baisse des pressions par le sud, mais très hypothétique.
+1. Anticyclone tenace : La France reste sous une vaste zone de hautes pressions.
+2. Chaleur au Sud : Anomalies thermiques positives, surtout sur la moitié sud.
+3. Nord/Est contrastés : Possibles coups de frais brefs, mais toujours secs.
+4. Sécheresse aggravée : Aucune pluie significative en vue, situation préoccupante.
+5. Modèles partagés : CEP, GEM, AIFS et GFS divergent sur l'évolution des HP.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Poursuite du blocage anticyclonique et déficit de pluie marqué.
-- Températures au-dessus des normales, surtout sur la moitié sud.
-- Les incursions fraîches, si elles existent, seraient brèves et limitées au nord/est.
+1. Persistance de conditions sèches et anticycloniques sur l'ensemble de la semaine.
+2. Anomalies thermiques positives, plus marquées sur la moitié sud.
+3. La sécheresse ne connaîtra aucune amélioration significative.
 **Points de divergence :**
-- Position des géopotentiels : plus au nord/est avec GFS/GEM/AIFS, moins avec le CEP.
-- Possibilité de pluies sur la moitié sud en toute fin d’échéance, très incertaine.
-- Intensité de la chaleur : simple excédent modéré ou poussée plus franche avec 35°C possible localement.
+1. Position de l'anticyclone en fin de semaine : CEP le maintient sur la France, GEM/AIFS le voient remonter vers le nord.
+2. Intensité de la chaleur : possible 35°C localement dans le sud-ouest en début de semaine, mais incertain.
+3. Fraîcheurs sur le nord/est : quelques scénarios évoquent des coups de frais, d'autres une chaleur persistante.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **CEP (ECMWF)** (documented) | Hauts géopotentiels se déplaçant vers l’est sans remontée nette vers le nord ; arrière-saison possible au nord/est, mais chaleur au sud. | Sec, ensoleillé ; fraîcheurs possibles au nord/est, chaleur maintenue au sud. | France, avec nord/est et sud en débat | Élevée (85%) | Le CEP reste moins franc que GFS/GEM/AIFS sur une remontée des géopotentiels vers le nord. Une partie des messages évoque de premières fraîcheurs automnales au nord/est, mais d’autres analystes y voient le maintien d’une crête subtropicale. |
-| **GFS** (partial) | France à l’écart des précipitations, anomalies thermiques positives ; géopotentiels remontant plus au nord/est en cours de semaine. | Temps sec, chaud notamment sur la moitié sud ; pas de retour des pluies. | France entière, surtout ouest, sud, centre | Modérée (65%) | Le GFS déterministe montre un cumul de précipitations très faible sur la France à 384 h, dans un contexte où les hautes pressions dominent. Il fait partie, avec GEM et AIFS, des modèles voyant les géopotentiels remonter vers le nord/est. |
-| **GEM** (partial) | Géopotentiels se positionnant plus au nord et à l’est ; possible fenêtre pour des pluies sur la moitié sud en toute fin d’échéance. | Temps sec et chaud, avec une possibilité très incertaine de dégradation par le sud en fin de semaine. | moitié sud, sud_ouest, mediterranee_corse, centre | Faible (45%) | GEM rejoint GFS et AIFS sur une remontée des hauts géopotentiels vers le nord/est, ce qui pourrait, à plus long terme, ouvrir la porte à une baisse des pressions par le sud. À ce stade, aucun scénario de pluie n’est confirmé. |
-| **AIFS (modèle IA ECMWF)** (partial) | Même évolution que GEM/GFS : dorsale remontant vers le nord/est, sans signal franc de dégradation avant la fin de la période. | Temps sec, ensoleillé, chaleur persistante au sud ; incertitude sur une possible baisse des pressions. | France entière, surtout sud/ouest | Modérée (65%) | AIFS rejoint GFS et GEM pour positionner les géopotentiels plus au nord et à l’est, contrairement au CEP. Ces cartes sont des tendances, pas des prévisions confirmées. |
+| **CEP (ensemble + déterministe)** (Documenté) | Déplacement des hauts géopotentiels vers l'est mais moins vers le nord, maintenant la chaleur sur le sud et le centre. | Temps sec, ensoleillé, températures au-dessus des normales, surtout au sud-ouest et en Méditerranée. | Moitié sud, centre, est ; nord potentiellement moins chaud. | Élevée (85%) | Les diagrammes montrent une persistance de la crête subtropicale, avec des températures à 850 hPa très au-dessus des normales. Quelques scénarios de fraîcheur sur le nord-est, mais minoritaires. |
+| **GFS** (Documenté) | France à l'écart des précipitations, cumuls quasi nuls, hautes pressions dominantes sur l'Europe de l'Ouest. | Temps sec et chaud, surtout au sud, avec un possible coup de frais sur le nord. | Tout le pays ; nord-ouest et nord-est moins chauds. | Modérée (65%) | Le déterministe GFS montre un contraste saisissant entre une France sèche et des précipitations abondantes autour (Europe du Nord, Méditerranée). Signal cohérent avec les autres modèles. |
+| **GEM & AIFS** (Documenté) | Géopotentiels remontant plus nettement vers le nord et l'est d'ici jeudi 24, possible porte de sortie pour le sud. | Temps sec mais chaleur moins durable, fraîcheurs possibles sur le nord et l'est. | Nord, nord-est, potentiellement sud en fin d'échéance. | Modérée (65%) | Pour GEM et AIFS, les hautes pressions se décalent vers le nord et l'est, ce qui pourrait à terme permettre une baisse des géopotentiels par le sud. Hypothèse fragile, non confirmée par le CEP. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec et ensoleillé ; possible incursion plus fraîche en milieu de semaine. | Maximales de 20 à 25°C, minimales de 8 à 12°C. | moderee | ECMWF, GFS | Peu de données propres à la zone ; position de l’anticyclone incertaine. |
-| **Nord** | Soleil, températures de saison, très sec sur l’ensemble de la semaine. | Maximales de 22 à 25°C, minimales de 11 à 13°C. | elevee | Météo-France, ECMWF | Rafraîchissement nocturne plus ou moins marqué selon la nébulosité. |
-| **Nord-Est** | Possible petite incursion plus fraîche, mais toujours sec, sans retour des pluies. | Maximales de 20 à 24°C, minimales de 7 à 10°C. | moderee | ECMWF, GFS, GEM, AIFS | Opposition entre fraîcheur possible au nord/est et maintien de la crête subtropicale. |
-| **Ouest et Façade Atlantique** | Beau temps sec, soleil généreux, chaleur en hausse en milieu de semaine. | Maximales de 27 à 29°C (24°C sur le littoral), minimales de 7 à 14°C. | elevee | Météo-France, ECMWF | Températures littorales dépendantes du vent et de la brise. |
-| **Centre** | Anticyclone, temps sec et ensoleillé, températures au-dessus des normales. | Maximales de 24 à 27°C, minimales de 8 à 12°C. | moderee | ECMWF, GFS | Évolution de la position de l’anticyclone et possible fraîcheur relative. |
-| **Sud-Ouest** | Soleil, très sec, chaleur marquée ; 35°C possible localement. | Maximales de 28 à 30°C, 30°C sur les coteaux, localement plus ; minimales de 7 à 13°C. | elevee | Météo-France, ECMWF, GFS | Atteinte éventuelle de 35°C localement ; intensité de la poussée chaude. |
-| **Sud-Est et Vallée du Rhône** | Soleil sans partage, températures en hausse puis stables, pas de pluie. | Maximales de 23 à 26°C puis en hausse, minimales de 8 à 12°C. | elevee | Météo-France, ECMWF | Hausse thermique plus ou moins rapide en fin de semaine. |
-| **Méditerranée et Corse** | Soleil généreux, chaud ; mistral parfois assez fort, orages possibles en Corse. | Maximales de 26 à 30°C, localement 30°C ; minimales de 11 à 17°C. | elevee | Météo-France, ECMWF, AIFS | Force du mistral et caractère orageux en Corse. |
+| **Nord-Ouest** | Temps sec, alternance de soleil et de passages nuageux. | Maximales 20 à 26°C, minimales 9 à 15°C. | moderee | CEP, GFS, AIFS | Influence océanique sur les températures |
+| **Nord** | Sec et ensoleillé, possible coup de frais en milieu de semaine. | Maximales 18 à 24°C, minimales 8 à 13°C. | moderee | CEP, GFS, GEM | Impact de la goutte froide balkanique |
+| **Nord-Est** | Temps frais et sec, éclaircies, possible influence d'une goutte froide. | Maximales 17 à 23°C, minimales 6 à 10°C. | moderee | CEP, GEM | Position de la goutte froide sur les Balkans |
+| **Ouest et Façade Atlantique** | Très ensoleillé, chaleur en hausse, surtout à l'intérieur des terres. | Maximales 26 à 30°C, minimales 10 à 17°C. | moderee | CEP, GFS, AIFS | Températures sur le littoral, atténuées par l'océan |
+| **Centre** | Sec et ensoleillé, températures en hausse. | Maximales 25 à 29°C, minimales 10 à 14°C. | moderee | CEP, GFS | Évolution du centre anticyclonique |
+| **Sud-Ouest** | Chaleur marquée, soleil généreux, risque de 35°C localement. | Maximales 28 à 35°C, minimales 10 à 16°C. | elevee | CEP, GFS, GEM, AIFS | Atteinte ou non des 35°C |
+| **Sud-Est et Vallée du Rhône** | Ensoleillé, chaud, mistral modéré en début de semaine. | Maximales 25 à 30°C, minimales 9 à 14°C. | elevee | CEP, GFS, GEM | Force du mistral et températures en montagne |
+| **Méditerranée et Corse** | Soleil dominant, chaleur, mistral parfois assez fort sur le golfe du Lion. | Maximales 27 à 32°C, minimales 15 à 19°C sur le littoral. | elevee | CEP, GFS, GEM, AIFS | Intensité du mistral, très localisée |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **21-22 septembre** : Poussée chaude marquée envisagée sur le sud et le sud-ouest, temps sec.
-- **23-24 septembre** : Soleil persistant, possible léger fléchissement thermique au nord/est.
-- **25-26 septembre** : Blocage anticyclonique, chaleur maintenue au sud, sécheresse de surface accentuée.
-- **27 septembre** : Fin d’échéance incertaine : possible baisse des pressions par le sud, sinon persistance de la chaleur.
+- **Lundi 21 et mardi 22 septembre** : Pic de chaleur possible sur le sud-ouest et le sud-est, avec mistral en Méditerranée.
+- **Mercredi 23 et jeudi 24 septembre** : Chaleur toujours présente au sud, timide baisse des températures au nord.
+- **Vendredi 25 et samedi 26 septembre** : Régime sec et ensoleillé persistant, températures toujours au-dessus des normales.
+- **Dimanche 27 septembre** : Fin de semaine toujours anticyclonique, avec une incertitude sur la position exacte des HP.
 
 **Points solides :**
-- Anticyclone tenace, pluies très limitées.
-- Anomalies thermiques positives, surtout au sud.
-- Temps sec et ensoleillé quasi général.
+1. Temps sec et anticyclonique sur la quasi-totalité du pays.
+2. Températures au-dessus des normales, surtout au sud.
+3. Aucun épisode pluvieux significatif en vue.
 
 **Points fragiles :**
-- Éventuelle fraîcheur au nord/est en milieu de semaine.
-- Possible dégradation par le sud en fin d’échéance.
-- Atteinte de 35°C localement.
+1. Pic de chaleur en début de semaine : 35°C possibles localement, mais incertains.
+2. Fraîcheurs sur le nord-est : évoquées, mais avec une fiabilité limitée.
+3. Évolution de l'anticyclone en fin de semaine : nette divergence entre modèles.
 
 **À surveiller (prochains runs) :**
-Comparaison CEP vs GFS/GEM/AIFS sur la position des géopotentiels ; signaux de pluie sur la moitié sud en fin d’échéance.
+Évolution des runs CEP, GEM et AIFS pour déterminer si l'anticyclone se décale vers le nord, ouvrant une porte de sortie.
 
 
 ========================================
@@ -131,27 +130,42 @@ Comparaison CEP vs GFS/GEM/AIFS sur la position des géopotentiels ; signaux de 
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Scénario le plus probable sur 17-27 septembre : temps sec et très ensoleillé, dominé par les hautes pressions, avec des températures au-dessus des normales, surtout au sud. Une brève respiration plus fraîche est possible sur le nord/est en milieu de semaine 2, avant un probable retour de la chaleur.
+Temps sec et anticyclonique sur l'ensemble du pays du 17 au 27 septembre, avec des températures régulièrement au-dessus des normales de saison. La chaleur sera surtout marquée sur la moitié sud, tandis que le nord et l'est connaîtront des alternances de fraîcheur, sans pluie.
 
 ### Période la plus fiable
-Semaine 1 (17-20 septembre) : prévisions à courte échéance, appuyées par les bulletins Météo-France, plus fiables. Semaine 2 : tendance, confiance modérée.
+La semaine 1 (17-20 septembre) est la plus fiable : convergence très nette des modèles sur un temps sec, ensoleillé et de plus en plus chaud. La semaine 2 (21-27 septembre) comporte plus d'incertitudes sur la position de l'anticyclone et l'intensité de la chaleur.
 
 ### Phénomènes récurrents
-Dorsale anticyclonique, flux de sud à sud-est, mistral/tramontane, absence de perturbation atlantique, sécheresse de surface.
+- Hausse continue des températures, surtout dans le sud-ouest et en Méditerranée
+- Mistral et tramontane à plusieurs reprises en région méditerranéenne
+- Fraîcheurs nocturnes plus marquées sur le nord et l'est
 
 ### Principales incertitudes
-Position exacte de l’anticyclone, possibilité de pluies sur la moitié sud en toute fin de période, intensité de la poussée chaude avec 35°C possible localement.
+- Évolution de l'anticyclone en fin de semaine 2 (maintien ou décalage vers le nord)
+- Intensité exacte de la chaleur, notamment le risque de dépasser 35°C dans le sud-ouest
+- Impact d'une éventuelle goutte froide sur les Balkans concernant le nord-est
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Les passages nuageux et faibles pluies de jeudi/dimanche restent délicats à caler ; la remontée chaude pourrait débuter dès lundi 21 ou se renforcer seulement en fin de semaine 2.
-- **Localisation :** Les précipitations possibles concernent surtout le nord-est/nord en fin de semaine 1 ; en semaine 2, une dégradation par le sud reste très hypothétique.
-- **Intensité :** Écart possible sur les maximales : 35°C localement sur le sud-ouest/sud ; intensité du mistral/tramontane en méditerranée.
-- **Informations manquantes :** Pas de détails pour la Bretagne, la Normandie, le Grand Est, la Corse ; pas de cumuls de pluie précis ; pas de discussion sur l’humidité des sols au-delà du déficit déjà connu.
-- **Modèles sous-documentés :** GEM et AIFS cités mais peu détaillés ; aucune analyse dédiée d’Arpège ou de WRF.
-- **Incertitudes images :** Les diagrammes et cartes à 384 h montrent des divergences fortes entre CEP, GFS, GEM et AIFS ; ces cartes sont à considérer comme des tendances, pas des prévisions.
+- **Timing/Chronologie :** - Chronologie du pic de chaleur en début de semaine 2 : lundi/mardi, mais l'intensité exacte et la durée restent incertaines
+- Arrivée possible de fraîcheur sur le nord-est en fin de semaine 2, avec un timing mal défini
+- **Localisation :** - Position de l'anticyclone après le 24 septembre : CEP le maintient sur la France, GEM et AIFS le voient remonter vers le nord
+- Zones concernées par les éventuelles fraîcheurs : nord-est uniquement ou nord en général
+- Localisation précise des plus fortes chaleurs : sud-ouest, vallée du Rhône ou Méditerranée
+- **Intensité :** - Risque de 35°C localement dans le sud-ouest en début de semaine 2 : possible mais non confirmé
+- Force du mistral et de la tramontane : variable selon les runs
+- Températures minimales : les nuits pourraient être plus fraîches que prévu sur les régions intérieures
+- **Informations manquantes :** - Aucune discussion détaillée sur l'humidité des sols et les risques de sécheresse renforcée
+- Peu d'informations sur l'ensoleillement précis jour par jour
+- Pas de mention des températures de la mer et de leurs effets sur le littoral
+- **Modèles sous-documentés :** - GEM : cité principalement pour son scénario de déplacement des HP vers le nord, mais peu détaillé
+- AIFS : même niveau de détail limité
+- ICON : non mentionné dans les discussions
+- **Incertitudes images :** - Les cartes de cumul de précipitations de GFS à 384h sont évoquées avec prudence : signal intéressant mais non fiable à cette échéance
+- Les diagrammes de températures à 850 hPa montrent des divergences entre les scénarios, notamment pour la fin de semaine 2
+- La carte de l'eau précipitable présentée par un membre reste une analyse théorique, non confirmée par les modèles
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌞 Prévision 17-27 septembre : un anticyclone très tenace, un temps sec et des températures au-dessus des normales, surtout au sud. La semaine 1 est assez fiable ; la semaine 2 demande de la prudence. Le manque de pluie reste le point le plus préoccupant. #météo #prévisions #sécheresse #Infoclimat
+🌞 France : 10 jours sous l'anticyclone, avec une chaleur qui s'installe sur la moitié sud. Les modèles s'accordent sur un temps sec et ensoleillé du 17 au 27 septembre. Les températures seront régulièrement au-dessus des normales, avec un pic possible lundi et mardi dans le sud-ouest. Le nord et l'est connaîtront des fraîcheurs plus marquées, mais toujours sans pluie. La sécheresse reste préoccupante, surtout en Méditerranée où le mistral soufflera par moments. Les prochains runs seront décisifs pour affiner la fin de semaine prochaine, alors que certains modèles envisagent un décalage de l'anticyclone vers le nord. #Météo #France #Anticyclone #Sécheresse #Septembre2026

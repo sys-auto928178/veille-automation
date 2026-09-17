@@ -6,125 +6,118 @@
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Les modèles s'accordent sur le maintien de l'anticyclone, mais divergent sur son positionnement exact et la chaleur associée.*
-- **Fiabilité du scénario majoritaire :** Sec et de plus en plus doux — *Le scénario le plus probable est un temps sec et ensoleillé, avec une hausse des températures en fin de semaine 2 ; les pluies restent rares et faibles.*
+- **Consensus des modèles :** Élevé — *Consensus très net sur le maintien des hautes pressions et le temps sec ; divergences surtout sur la chaleur.*
+- **Fiabilité du scénario majoritaire :** Anticyclone durable — *Dorsale ou blocage anticyclonique, pas de retour des perturbations à l’horizon.*
 - **Stabilité des cartes/scénarios :** 6 / 124 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Incertitude modérée — *La synoptique de la deuxième semaine est assez bien calée sur le principe d'un anticyclone, mais l'ampleur de la chaleur et le risque d'averses restent à affiner.*
+- **Niveau d'incertitude global :** Modérée — *Position de l’anticyclone et intensité des températures en semaine 2 restent à affiner.*
 
 ## 🗓️ SEMAINE 1 : Du jeudi 17 au dimanche 20 septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Temps gris et averses jeudi : Les pluies se généralisent l'après-midi sur toute la région, avec 5 à 15 mm localement.
-2. Amélioration vendredi : Le soleil revient largement, avec des températures de saison comprises entre 19 et 22°C.
-3. Samedi changeant : Nuages puis belles éclaircies, vent assez fort avec rafales jusqu'à 65 km/h sur le littoral.
-4. Dimanche instable le matin : Risque de pluies ou d'averses jusqu'à la mi-journée, puis nette amélioration.
-5. Douceur printanière : Les maximales restent comprises entre 19 et 24°C selon les secteurs, sans excès.
+1. Pluies puis embellie : Une dégradation rapide apporte 5 à 15 mm jeudi, avant un net retour des éclaircies vendredi.
+2. Vent assez fort sur le littoral : Rafales de 55 à 65 km/h possibles, surtout jeudi et samedi en bord de mer.
+3. Douceur en hausse samedi : Les maximales atteignent localement 24 à 26°C dans l’intérieur des Hauts-de-France.
+4. Dimanche sous voile nuageux : Le soleil reste présent mais voilé, avec un temps sec et agréable.
+5. Anticyclone qui se renforce : La dorsale des Açores reprend la main et bloque le retour des perturbations.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Passage pluvieux jeudi sur l'ensemble des modèles et des bulletins Météo-France, avec des cumuls faibles à modérés (5-15 mm).
-- Amélioration nette vendredi avec un soleil généreux et des températures de saison (19-22°C).
-- Maintien d'un temps sec et doux samedi après-midi, avec un vent assez fort sur le littoral (rafales 55-65 km/h).
+• Passage pluvieux jeudi puis amélioration nette vendredi.
+• Mise en place d’une dorsale anticyclonique en fin de semaine.
+• Températures en hausse samedi, sans excès caniculaire en HDF.
 **Points de divergence :**
-- Intensité et localisation des plus fortes pluies jeudi : les modèles hésitent entre Flandres/Haut-Artois (cumuls 5-15 mm) et un simple passage nuageux plus à l'est.
-- Évolution de l'anticyclone dimanche : certains runs voient un risque d'averses plus marqué sur la moitié nord, d'autres un temps totalement sec.
-- La remontée des températures samedi (21-24°C intérieurs, 23-26°C dans l'Aisne) est plus ou moins prononcée selon les modèles.
+• Cumuls de pluie jeudi : environ 5 mm dans le Nord, jusqu’à 15 mm dans le Haut-Artois.
+• Intensité et horaires des rafales : 55 à 65 km/h selon les secteurs.
+• Épaisseur du voile nuageux dimanche, plus ou moins marquée selon les départements.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Météo-France XML (bulletins départementaux Meteotel / SCHAPI05)** (Documenté et précis, vigilance verte sur tous les départements.) | Passage d'un thalweg jeudi avec pluies généralisées, puis retour d'un temps plus sec et ensoleillé vendredi et samedi avant un risque d'averses dimanche matin. | Pluies jeudi (5-15 mm), rafales 55-65 km/h sur le littoral, températures 17-26°C en hausse samedi. | L'ensemble des 5 départements HDF, avec les plus forts cumuls en Pas-de-Calais (Haut-Artois) et dans le Nord (Flandres). | Élevée (80-90%) : bulletins départementaux détaillés pour chaque département. | Pluies jeudi en cours de journée ; amélioration vendredi ; samedi partagé ; dimanche averses matinales possibles puis éclaircies. |
-| **ECMWF / CEP (déterministe et ensemble)** (Documenté.) | Anticyclone proche de la France, mais un petit thalweg balaye la moitié nord jeudi ; les hautes pressions reprennent ensuite la main avec une douceur de saison. | Pluies faibles jeudi sur HDF, éclaircies ensuite, températures proches des normales, vent modéré à assez fort. | Principalement Nord, Pas-de-Calais, Somme, Oise et Aisne pour le passage pluvieux ; toute la région ensuite. | Élevée (80-90%) : le CEP est largement commenté dans les discussions pour la période. | Les membres montrent une dorsale qui se renforce par le sud-ouest, mais une faiblesse relative permet le passage d'un front jeudi ; ensuite l'anticyclone pourrait se positionner plus au nord. |
-| **GFS (déterministe et ensemble)** (Documenté.) | Maintien d'un puissant anticyclone sur l'Europe, avec un flux de sud à sud-ouest apportant de la chaleur en fin de période ; pour HDF, passage d'un front jeudi puis temps sec. | Averses jeudi matin, rafales possibles, puis soleil ; pic de chaleur possible en début de semaine suivante. | Nord et Pas-de-Calais concernés par les averses ; toute la région sous l'anticyclone ensuite. | Modérée (60-70%) : GFS est cité avec des cartes mais moins détaillé que le CEP. | GFS voit très peu de précipitations sur la France, mais pour HDF le front de jeudi est présent ; ensuite l'anticyclone protège la région. |
-| **GEM (déterministe)** (Documenté succinctement.) | Évolution des géopotentiels vers le nord-est, avec des hautes pressions qui pourraient enfin se décaler et laisser passer quelques perturbations sur le nord-ouest en fin d'échéance. | Pour S1 : temps sec et assez doux, avec un risque d'averses en toute fin de période. | Nord et Pas-de-Calais potentiellement concernés par des précipitations faibles. | Faible à modérée (40-60%) : GEM est brièvement évoqué avec des cartes. | GEM montre une porte de sortie possible plus marquée que le CEP, mais non confirmée. |
-| **AIFS (modèle IA du CEP)** (Documenté.) | Scénarios majoritaires avec une dorsale anticyclonique écrasante sur la France en fin de période, donc temps sec et chaud ; pour S1, HDF reste en marge avec un front jeudi. | Averses jeudi, soleil ensuite, températures en hausse. | Toute la HDF, mais le nord-est pourrait conserver des températures moins élevées. | Modérée (60-70%) : AIFS mentionné dans les discussions avec analyse des ensembles. | L'IA du CEP confirme la tendance anticyclonique de long terme, mais l'incertitude reste forte sur la durée et l'intensité de la chaleur. |
+| **Météo-France XML (guidance officielle Arpège/AROME)** (Opérationnelle, bonne fiabilité à courte échéance.) | Perturbation atlantique rapide jeudi, amélioration vendredi, puis temps sec et anticyclonique avec hausse thermique samedi. | Pluies jeudi (5-15 mm), rafales 55-65 km/h, éclaircies ensuite. | Nord, Pas-de-Calais, Somme, Oise, Aisne ; littoral Manche et Mer du Nord. | Élevée (80-90 %) | Le bulletin côtier indique un avis de grand frais n°128. Vent de Sud-Ouest 5 à 7 Beaufort, mer agitée à temporairement forte. Les cumuls les plus notables concernent le Haut-Artois avec 15 mm. |
+| **ECMWF CEP / CEP IA (AIFS)** (Fiabilité bonne pour le sec, modérée pour l’intensité de la chaleur.) | Dorsale anticyclonique puissante recouvrant le pays en fin d’échéance, flux de sud à sud-est, chaleur plus nette au sud. | Temps sec, températures en hausse samedi et dimanche, maximales 20-26°C selon les secteurs. | Hauts-de-France en marge nord ; sud de la France plus exposé à la chaleur. | Modérée (60-70 %) | Le CEP-AI place une dorsale étendue sur l’Europe de l’Ouest. Les températures à 850 hPa dépassent localement 20°C dans un quart des scénarios en toute fin d’échéance. |
+| **GFS (américain)** (Déterministe, à confirmer avec l’ensemble.) | Signal chaud et sec, cohérent avec le retour des hautes pressions ; pas de défilé de perturbations sur la France. | Aucune pluie notable après jeudi, hausse des températures à 850 hPa. | France entière ; HDF en bordure nord de la poussée chaude. | Faible à modérée (40-50 %) | Le GFS insiste sur la remontée de la chaleur après un bref rafraîchissement. Pour les HDF, l’effet serait modéré grâce à la position plus septentrionale de la région. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Gris et pluvieux jeudi avec averses se généralisant, puis éclaircies vendredi et samedi ; risque d'averses dimanche matin. | Min 9-15°C, Max 18-24°C selon les jours ; 13-15°C en intérieur, 17°C en Flandre maritime pour les minimales de vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | L'extension exacte des averses jeudi reste à préciser ; l'atténuation du vent samedi soir est plus rapide sur les terres. |
-| **Pas-de-Calais (62)** | Temps gris avec pluies jeudi sur une grande moitié ouest, puis éclaircies vendredi et samedi ; petites averses possibles samedi soir sur le littoral. | Min 9-17°C, Max 17-23°C ; minimales plus douces sur le littoral (13-17°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | La localisation du maximum de pluie (Haut-Artois) est incertaine ; les averses du samedi soir pourraient ne pas aborder le littoral. |
-| **Somme (80)** | Ciel très nuageux jeudi avec pluies se généralisant, puis belle éclaircie vendredi et samedi ; risque d'averses dimanche matin. | Min 10-15°C, Max 17-24°C ; 17°C sur le Doullennais jeudi, 15°C sur le littoral pour les minimales de vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Le cumul des pluies jeudi est plus incertain sur l'intérieur des terres ; la séquence ensoleillée de samedi pourrait être plus nuageuse que prévu. |
-| **Oise (60)** | Gris et sans soleil jeudi, pluies éparses en fin d'après-midi ; puis beau temps vendredi et samedi avec quelques nuages d'altitude. | Min 9-12°C, Max 18-25°C ; 18°C sur le pays de Bray et la Picardie verte jeudi, 22-25°C samedi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Les pluies éparses de jeudi pourraient ne concerner qu'une partie du département ; la hausse des températures samedi est plus marquée vers l'est. |
-| **Aisne (02)** | Ciel voilé jeudi avec quelques pluies en fin de journée, puis soleil généreux vendredi et samedi ; temps agréable. | Min 8-13°C, Max 20-26°C ; maximales en hausse samedi (23-26°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Les pluies de jeudi pourraient rester très localisées ; la baisse des températures dimanche sera plus nette sous les averses. |
+| **Nord (59)** | Ciel très nuageux jeudi avec pluies généralisées l’après-midi, puis éclaircies vendredi et samedi, voile nuageux dimanche. | Min 10 à 17°C selon littoral/intérieur, max 19 à 24°C ; dimanche 20 à 23°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des pluies en Flandre intérieure, atténuation plus ou moins rapide du vent en soirée. |
+| **Pas-de-Calais (62)** | Averses jeudi, éclaircies vendredi, ciel changeant samedi avec soleil, voile nuageux dimanche. | Min 9 à 17°C selon littoral/intérieur, max 17 à 23°C ; dimanche 19 à 22°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls du Haut-Artois, averses côtières samedi soir, force du vent littoral. |
+| **Somme (80)** | Pluies jeudi, éclaircies vendredi, nuages et éclaircies samedi, voile nuageux dimanche. | Min 10 à 16°C selon littoral/intérieur, max 18 à 24°C ; dimanche 20 à 22°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Rafales sur le littoral picard, rares averses nocturnes samedi, brume possible lundi. |
+| **Oise (60)** | Nuageux jeudi avec faibles pluies en fin de journée, belles éclaircies vendredi, nuages élevés samedi, voile dimanche. | Min 9 à 15°C, max 18 à 25°C ; dimanche 21 à 24°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des faibles pluies, évolution du voile nuageux. |
+| **Aisne (02)** | Ciel nuageux jeudi avec pluies nocturnes, journée lumineuse vendredi, voile nuageux samedi, éclaircies dimanche. | Min 10 à 16°C, max 20 à 26°C ; dimanche 22 à 25°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Pluies nocturnes localisées, ampleur du voile nuageux samedi. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Jeudi 17 septembre** : Passage pluvieux généralisé, vent de Sud-Ouest assez fort ; maximales 17-22°C.
-- **Vendredi 18 septembre** : Retour d'un beau temps éclairci, vent modéré ; maximales 19-22°C.
-- **Samedi 19 septembre** : Temps changeant, éclaircies l'après-midi, rafales 65 km/h sur le littoral ; 20-26°C.
-- **Dimanche 20 septembre** : Risque d'averses le matin puis amélioration, vent d'Ouest modéré ; 19-21°C.
+- **Jeudi 17 septembre** : Dégradation rapide avec pluies et vent assez fort, particulièrement sur l’ouest et le littoral.
+- **Vendredi 18 septembre** : Nette amélioration, belles éclaircies et températures de saison.
+- **Samedi 19 septembre** : Ciel partagé, douceur marquée et rafales possibles en fin de journée.
+- **Dimanche 20 septembre** : Soleil voilé, temps sec et agréable, vent modéré d’ouest à nord-ouest.
 
 **Points solides :**
-- Pluies généralisées jeudi sur toute la région, avec les plus forts cumuls en Pas-de-Calais et dans le Nord.
-- Amélioration vendredi avec retour du soleil et températures de saison.
-- Vent assez fort samedi sur le littoral, avec des rafales proches de 65 km/h.
+• Pluies jeudi, cumuls modestes et localisés.
+• Amélioration franche dès vendredi.
+• Pas de risque de phénomène dangereux pour les HDF.
 
 **Points fragiles :**
-- L'extrémité orientale de l'Aisne pourrait ne recevoir que très peu de pluie jeudi.
-- La tenue des éclaircies samedi après-midi reste incertaine sur le Nord et le Pas-de-Calais.
-- Le risque d'averses dimanche matin est plus marqué sur les départements côtiers, mais pourrait se décaler.
+• Cumuls pluvieux exacts jeudi.
+• Vitesse et localisation des rafales.
+• Évolution du voile nuageux dimanche.
 
 **À surveiller (prochains runs) :**
-- Évolution de la dorsale anticyclonique : un décalage vers le nord permettrait-il l'arrivée de perturbations ?
-- Intensité de la remontée chaude en début de semaine prochaine (lundi 21-22).
-- Positionnement exact du thalweg jeudi : détermine les cumuls de pluie dans le Nord-Pas-de-Calais.
+CEP/AIFS 12Z, GFS 12Z, GEM 12Z ; suivi de la position exacte de la dorsale et de l’éventuelle remontée chaude vers le nord.
 
 
 ## 🗓️ SEMAINE 2 : Du lundi 21 au dimanche 27 septembre 2026
 ### 💡 Points clés de la semaine 2
-1. Anticyclone et sécheresse : Les hautes pressions restent dominantes sur la France, maintenant un temps sec et souvent ensoleillé en HDF.
-2. Douceur en hausse : Les températures repartent à la hausse en cours de semaine, avec des maximales de 22 à 26°C, voire davantage en fin de semaine.
-3. Brumes et nuages bas : Risque de brume ou de stratocumulus près du littoral et dans les vallées en début de journée.
-4. Vent faible à modéré : Le vent reste généralement faible, avec quelques rafales modérées sur le littoral en milieu de semaine.
-5. Fin de semaine incertaine : Les modèles évoquent une possible pulsion chaude pour le week-end, mais aussi une faible chance d'averses sur le nord ; tout reste à confirmer.
+1. Temps sec et ensoleillé : L’anticyclone domine, avec un soleil souvent généreux sur l’ensemble des HDF.
+2. Nuits fraîches dans l’intérieur : Les minimales peuvent descendre vers 8 à 11°C en début de période.
+3. Chaleur plus au sud : Les HDF restent en marge des fortes chaleurs, mais les après-midis restent doux, 20 à 25°C.
+4. Sécheresse qui se poursuit : Aucune pluie durable n’est en vue, le déficit hydrique de surface s’accentue.
+5. Vent de secteur est possible : Un flux d’Est à Nord-Est modéré peut se développer à partir de jeudi.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Temps généralement sec et ensoleillé au moins jusqu'à vendredi sur la quasi-totalité des HDF.
-- Températures en hausse en milieu de semaine, avec des maximales comprises entre 22 et 26°C.
-- Vent faible à modéré, orienté variable, sans coup de vent majeur.
+• Anticyclone dominant toute la semaine, aucune pluie durable.
+• Nuits fraîches possibles dans l’intérieur, journées douces à chaudes.
+• HDF moins touchés par la chaleur que le sud de la France.
 **Points de divergence :**
-- Évolution du week-end : la plupart des modèles voient un renforcement de la chaleur, mais certains scénarios (GEM) suggèrent une dégradation possible sur le nord.
-- L'ampleur de la remontée chaude : 850 hPa entre 15 et 20°C selon les runs, ce qui ferait passer les maximales de 22°C à 26-28°C, voire plus.
-- Le risque de brumes ou de nuages bas près du littoral, plus ou moins étendu selon les modèles.
+• Position de l’anticyclone : GFS/GEM/AIFS le poussent plus au nord et à l’est, le CEP moins.
+• Ampleur de la chaleur en fin de semaine : vraies fraîcheurs automnales ou pulsion chaude ?
+• Possibilité d’ondées mardi matin sur le Haut-Artois, vue par Météo-France, absente des modèles globaux.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Météo-France XML (bulletins départementaux Meteotel)** (Documenté ; la prévision devient plus incertaine au-delà de vendredi.) | Temps sec et ensoleillé sur l'ensemble des Hauts-de-France de mardi à vendredi, avec quelques passages nuageux et un risque de brume en début de journée ; températures en hausse. | Soleil dominant, brumes matinales, températures 22-26°C en journée, vent faible. | Tous les départements HDF, avec des nuances littorales (Flandre maritime, Picardie maritime) plus nuageuses. | Élevée (80-90%) pour J+2 à J+8, grâce aux bulletins départementaux détaillés. | Mardi/mercredi : soleil et passages nuageux, risque d'averses sur le littoral en début de journée ; jeudi/vendredi : ciel bleu. Les maximales atteignent 22-26°C selon les secteurs. |
-| **ECMWF / CEP (déterministe et ensemble)** (Documenté.) | Poursuite de la dorsale anticyclonique, avec une remontée des températures par le sud-ouest ; la plupart des scénarios maintiennent le temps sec sur HDF, mais une minorité voit une dégradation possible par le nord-est. | Temps sec et de plus en plus doux, parfois chaud en fin de période ; vent faible. | Toute la région, avec les températures les plus élevées dans le sud de l'Oise et de l'Aisne. | Élevée (80-90%) : le CEP est le modèle le plus commenté par les membres pour cette période. | Les géopotentiels restent très élevés sur la France, mais leur position exacte (dorsale zénithale ou orientée à l'est) conditionne la durée de la douceur et le risque d'averses sur le nord. |
-| **GFS (déterministe et ensemble)** (Documenté.) | Anticyclone très puissant sur l'Europe, flux de sud à sud-est très chaud pour la saison ; HDF serait en bordure, avec un temps sec mais des températures moins excessives que dans le sud. | Sec et ensoleillé, chaleur modérée à forte selon les jours ; pas de pluie significative. | Principalement l'ensemble de la région ; le nord de l'Oise et l'Aisne pourraient être les plus chauds. | Modérée (60-70%) : GFS est cité pour ses cumuls et ses tendances, mais moins détaillé pour HDF. | GFS voit un temps très sec sur la France ; pour HDF, quelques passages nuageux possibles en début de semaine, puis un ensoleillement généreux. |
-| **GEM (déterministe et ensemble)** (Documenté succinctement.) | Positionnement des hautes pressions plus au nord, permettant peut-être l'approche de perturbations sur le nord-ouest en fin de semaine ; scénario minoritaire mais suivi par certains membres. | Temps encore sec sur HDF, mais avec un risque d'averses plus marqué en fin de période ; températures en baisse possible. | Nord, Pas-de-Calais, Somme potentiellement concernés par des pluies faibles. | Faible (40-50%) : GEM est brièvement évoqué, sans analyse approfondie pour HDF. | GEM propose une évolution différente du CEP, avec des hautes pressions moins envahissantes ; à surveiller pour une sortie de l'anticyclone. |
-| **AIFS (modèle IA du CEP)** (Documenté.) | Très forte majorité de scénarios avec une dorsale anticyclonique écrasante couvrant la France en fin de semaine ; HDF resterait au sec avec des températures au-dessus des normales. | Temps sec, ensoleillé et doux, avec un risque de chaleur plus marqué vers l'intérieur des terres. | Toute la région, mais les maximales les plus élevées seraient dans l'Aisne et l'Oise. | Modérée (60-70%) : AIFS est mentionné par plusieurs membres pour sa cohérence avec le CEP. | L'IA du CEP renforce la confiance dans le scénario sec et chaud, mais les écarts types restent importants en fin d'échéance. |
+| **ECMWF CEP (classique + ensembles)** (Opérationnel + ensemble, divergences entre membres.) | Hauts géopotentiels se déplaçant plutôt vers l’est, avec moins de remontée vers le nord ; temps sec, fraîcheurs possibles au nord-est. | Sec et ensoleillé, nuits parfois fraîches, journées douces. | Hauts-de-France, nord-est ; contraste avec un sud plus chaud. | Modérée (60-70 %) | Le CEP suggère un positionnement des hautes pressions moins septentrional que GFS/GEM/AIFS. Cela pourrait laisser passer de petites baisses de températures sur le nord, mais sans pluie significative. |
+| **GFS** (Déterministe, à croiser avec les ensembles.) | Très sec et anticyclonique à perte de vue ; cumuls de précipitations quasi nuls sur une grande partie de l’Europe de l’Ouest. | Pas de pluie, ensoleillement, températures plus élevées au sud. | France, Europe de l’Ouest. | Modérée (60-70 %) | Le GFS montre une France à l’écart des pluies, entourée de perturbations qui restent bloquées au nord ou à l’ouest. C’est un signal cohérent avec la récurrence anticyclonique. |
+| **GEM (canadien)** (Opérationnel, fiabilité à confirmer.) | Évolution synoptique notable : géopotentiels se positionnant plus au nord et plus à l’est d’ici jeudi 24. | Toujours sec pour la France, possible porte de sortie plus tard pour le sud. | HDF en bordure nord, sud moins concerné. | Faible (40-50 %) | GEM déplace davantage les hautes pressions vers le nord et l’est que le CEP. Pour les HDF, le temps resterait sec, mais une évolution synoptique est à surveiller pour début octobre. |
+| **AIFS (ECMWF IA)** (Modèle IA émergent, à confronter aux runs classiques.) | Dorsale anticyclonique puissante et vaste, flux de sud à sud-est, nouvelle pulsion chaude en fin de mois. | Soleil et sécheresse, chaleur plus marquée sur la moitié sud. | France entière, HDF en marge nord. | Modérée (60-70 %) | L’AIFS insiste sur la persistance des hautes pressions. La chaleur concernerait surtout le sud et l’ouest, les HDF restant plus frais, surtout la nuit. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Temps sec et ensoleillé la plupart du temps, avec des passages nuageux près de la Flandre maritime mardi ; risque de brume matinale. | Min 10-14°C, Max 22-26°C selon les secteurs ; 14°C en Flandre maritime pour les minimales. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | La présence de brume en seconde partie de nuit mardi/mercredi est incertaine ; la chaleur de fin de semaine dépend de la synoptique. |
-| **Pas-de-Calais (62)** | Éclaircies prédominantes près de la Mer du Nord et sur le Haut-Artois, avec risque d'averses mardi ; puis beau temps ensoleillé jeudi et vendredi. | Min 11-13°C, Max 22-24°C ; minimales stables, maximales en hausse sur les côtes de la Manche. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Le risque d'averses mardi est plus marqué sur le littoral que dans l'intérieur ; l'évolution du week-end reste ouverte. |
-| **Somme (80)** | Picardie maritime plutôt ensoleillée avec quelques passages nuageux mardi, puis largement ensoleillé mercredi à vendredi ; brumes possibles en début de journée. | Min 10-12°C, Max 22-24°C ; en hausse sur le littoral picard en toute fin de période. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | La couverture nuageuse de mardi est incertaine ; la hausse des températures vendredi semble plus nette sur le littoral. |
-| **Oise (60)** | Beau temps ensoleillé de mardi à vendredi, avec quelques passages nuageux en début de semaine ; brumes possibles en matinée. | Min 9-11°C, Max 22-24°C en début de semaine, proches de 23°C mercredi, stables ensuite. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Les brumes matinales pourraient localement être plus denses ; l'intensité de la chaleur du week-end est incertaine. |
-| **Aisne (02)** | Temps largement ensoleillé de mardi à vendredi, avec un soleil particulièrement généreux jeudi et vendredi. | Min 9-11°C, Max 24-26°C en milieu de semaine ; stables jusqu'à vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | La poursuite du beau temps après vendredi dépend de l'évolution de l'anticyclone ; une hausse des températures est possible pour le week-end. |
+| **Nord (59)** | Temps sec, largement ensoleillé, très belle arrière-saison ; nuits parfois fraîches dans l’intérieur. | Min 9 à 14°C, max 20 à 25°C ; températures stables en fin de semaine. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité du vent de secteur est, fraîcheur matinale plus ou moins marquée selon la nébulosité. |
+| **Pas-de-Calais (62)** | Sec et ensoleillé, avec quelques ondées éparses possibles mardi matin sur le Haut-Artois. | Min 9 à 13°C, max 20 à 24°C ; températures stables en fin de période. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation et durée des ondées du Haut-Artois, force du vent de secteur est. |
+| **Somme (80)** | Soleil dominant, temps sec, brume possible sur le littoral en seconde partie de nuit lundi à mardi. | Min proches de 10°C, max proches de 20°C puis 22 à 24°C en milieu de semaine. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brume littorale, rafales modérées localisées en bord de mer. |
+| **Oise (60)** | Beau temps sec et ensoleillé, soleil généreux, ciel bleu prédominant en milieu de semaine. | Min 9 à 11°C, max 20 à 24°C ; hausse possible en fin de semaine du Vexin à la Picardie verte. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Vent modéré localisé, évolution thermique en fin de semaine. |
+| **Aisne (02)** | Temps généralement ensoleillé et sec, très belle arrière-saison, fraîcheurs matinales. | Min 8 à 11°C, max 20 à 25°C ; températures stables en fin de semaine. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Vent localisé, fraîcheur matinale plus ou moins marquée selon éclaircies nocturnes. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 21 septembre** : Fin du risque d'averses matinal, nette amélioration ; températures autour de 19-22°C.
-- **Mardi 22 et mercredi 23 septembre** : Temps sec et ensoleillé, avec nuages et brumes possibles en début de journée ; maximales 22-26°C.
-- **Jeudi 24 et vendredi 25 septembre** : Soleil et ciel bleu prédominent ; températures stables, autour de 22-25°C.
-- **Samedi 26 et dimanche 27 septembre** : Temps probablement sec et très doux, voire chaud pour la saison ; incertitude sur une éventuelle dégradation du nord-ouest.
+- **Lundi 21 et mardi 22 septembre** : Temps sec et ensoleillé, nuits fraîches, brume littorale possible et ondées très locales sur le Haut-Artois.
+- **Mercredi 23 et jeudi 24 septembre** : Beau temps sec, soleil généreux, vent d’Est à Nord-Est modéré par endroits.
+- **Vendredi 25 et samedi 26 septembre** : Soleil généreux, températures stables, vent parfois modéré selon les secteurs.
+- **Dimanche 27 septembre** : Tendance anticyclonique maintenue, temps sec et doux, chaleur possible plus au sud.
 
 **Points solides :**
-- Temps sec et ensoleillé sur la majeure partie de la semaine, avec un risque de pluie très faible.
-- Températures diurnes agréables, comprises entre 22 et 26°C.
-- Nuits fraîches à douces, avec des minimales souvent voisines de 9 à 13°C.
+• Temps sec et souvent ensoleillé sur la quasi-totalité de la semaine.
+• Températures maximales comprises entre 20 et 25°C sur les HDF.
+• Pas de phénomène dangereux attendu.
 
 **Points fragiles :**
-- Le week-end des 26-27 septembre : l'arrivée d'une masse d'air très chaude par le sud reste le scénario le plus probable, mais une dégradation sur le nord ne peut être exclue.
-- Les brumes ou nuages bas pourraient localement réduire l'ensoleillement matinal, notamment près du littoral.
-- La durée de la sécheresse : aucune pluie significative en vue, ce qui aggrave la situation hydrologique.
+• Éventuelles ondées mardi matin sur le Haut-Artois.
+• Intensité de la hausse des températures en fin de semaine.
+• Brume littorale possible lundi à mardi.
 
 **À surveiller (prochains runs) :**
-- L'évolution de la dorsale anticyclonique en fin de semaine : remontée vers le nord ou glissement vers l'est ?
-- Les sorties CEP et GFS pour le week-end des 26-27, afin de confirmer ou infirmer le pic de chaleur.
-- Le comportement de GEM et AIFS, qui divergent sur la possibilité d'un décrochage froid vers l'Europe centrale.
+CEP 00Z/12Z, GFS, GEM, AIFS ; position exacte de la dorsale, évolution des fraîcheurs sur le nord-est et éventuelle porte de sortie pluvieuse pour début octobre.
 
 
 ========================================
@@ -132,31 +125,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Sur les deux semaines, les Hauts-de-France restent sous influence anticyclonique, avec des pluies très limitées (essentiellement jeudi 17 et une faible opportunité lundi 21). Les températures sont proches des normales en début de période, puis s'orientent à la hausse, avec un possible coup de chaleur en fin de mois. La sécheresse de surface se poursuit.
+Après le passage pluvieux de jeudi, les hautes pressions reprennent la main pour au moins dix jours. Temps sec, souvent ensoleillé, avec un net gradient nord-sud : fraîcheurs possibles au nord, chaleur plus marquée au sud en fin de période.
 
 ### Période la plus fiable
-La semaine 1 (17-20 septembre) est la plus fiable, car les modèles et les bulletins Météo-France convergent sur un passage pluvieux jeudi puis une amélioration ; la semaine 2 reste plus incertaine en raison de l'évolution de l'anticyclone.
+Semaine 1 (17-20 septembre), grâce aux bulletins Météo-France détaillés et à une échéance courte. La semaine 2 est fiable sur le caractère sec, mais plus incertaine sur les températures.
 
 ### Phénomènes récurrents
-- Brumes et nuages bas matinaux à partir de mardi 22.
-- Vent assez fort sur le littoral lors des changements de pression (jeudi, samedi).
-- Douceur diurne avec des maximales souvent supérieures à 20°C, parfois proches de 25°C dans l'intérieur.
+Rafales sous averses en début de période, brume littorale possible, nuits fraîches dans l’intérieur, et hausse des températures diurnes en fin de semaine.
 
 ### Principales incertitudes
-- L'intensité et la durée de la remontée chaude en fin de semaine 2 (26-27 septembre).
-- La possibilité d'une dégradation orageuse ou pluvieuse sur le nord en fin d'échéance.
-- La persistance de la sécheresse et son impact sur l'humidité des sols.
+Position exacte de l’anticyclone en semaine 2, extension de la chaleur vers le nord, possibilité d’ondées locales mardi, absence de signal de pluie durable.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes HDF. Le passage pluvieux de jeudi est bien daté, mais la fin des averses dimanche matin et le retour du soleil sont sujets à variation. En semaine 2, l'arrivée de la chaleur pourrait être avancée ou retardée de 24 à 48 heures.
-- **Localisation :** Doutes sur la localisation précise HDF. Les plus fortes pluies de jeudi pourraient se décaler de la Flandre vers l'Artois ou la Picardie maritime. Le risque de brumes littorales est également difficile à localiser. En fin de semaine 2, une éventuelle dégradation pourrait ne concerner que le littoral ou l'intérieur.
-- **Intensité :** Doutes sur l'intensité HDF. L'intensité des averses jeudi (5 à 15 mm) reste incertaine, surtout sur le Haut-Artois. La hausse des températures en semaine 2 est très variable selon les scénarios : de simples maximales à 24°C à un pic proche de 28°C dans l'Aisne.
-- **Informations manquantes :** Informations importantes non abordées ou manquantes. Les bulletins XML ne précisent pas les cumuls de pluie pour la semaine 2 ; ils ne couvrent pas le week-end des 26-27 septembre. L'impact sur la sécheresse des sols n'est pas chiffré. Les indices de risque d'orages ne sont pas détaillés pour HDF.
-- **Modèles sous-documentés :** Modèles peu ou pas commentés par les membres. GEM est peu décrit dans les discussions HDF, tout comme AIFS dont l'analyse se limite à des considérations générales. Les modèles régionaux à haute résolution (AROME, WRF) ne sont pas mentionnés pour cette période.
-- **Incertitudes images :** Incertitudes sur les graphiques. Les images mentionnées dans les discussions (diagrammes CEP, cartes GFS à 384 h) ne sont pas jointes ici ; leur interprétation doit rester prudente. Les cartes de cumuls à longue échéance (GFS) montrent un signal sec, mais avec une fiabilité faible au-delà de 5 jours.
+- **Timing/Chronologie :** Le moment exact de la bascule vers les éclaircies vendredi et le retour du vent samedi restent incertains. En semaine 2, la hausse des températures pourrait survenir plus tôt ou plus tard que prévu.
+- **Localisation :** Les cumuls de pluie jeudi dépendent de la position du front : Flandre intérieure, Haut-Artois, Picardie maritime. Les ondées de mardi sur le Haut-Artois sont également très localisées.
+- **Intensité :** Intensité des rafales de 55 à 65 km/h et cumuls de 5 à 15 mm jeudi. En semaine 2, l’ampleur de la chaleur varie selon l’évolution de la dorsale.
+- **Informations manquantes :** Peu de détails dans les topics Infoclimat sur les températures exactes en HDF. Les bulletins XML donnent la trame officielle, mais sans probabilités chiffrées. Le suivi de l’humidité des sols n’est pas détaillé dans les discussions.
+- **Modèles sous-documentés :** GEM est peu commenté, AIFS est un modèle émergent, et les modèles ARPEGE/AROME ne sont pas explicitement discutés dans les topics, mais sont couverts par les bulletins Météo-France.
+- **Incertitudes images :** Cartes GFS à 384h, diagrammes CEP et cartes AIFS postés par les membres : à considérer avec prudence, car leur lisibilité et leur échéance limitent la fiabilité.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌤️ Les Hauts-de-France sous l'anticyclone : un passage pluvieux jeudi, puis un temps sec et de plus en plus doux jusqu'au week-end prochain. Prudence : les pluies seront insuffisantes pour la sécheresse. Les modèles hésitent encore sur la fin de semaine prochaine. #Météo #HautsDeFrance #Prévisions
+Après une courte dégradation jeudi, les Hauts-de-France retrouvent un temps sec et souvent ensoleillé. L’anticyclone s’installe durablement : belles journées, nuits plus fraîches, mais sécheresse de surface qui se poursuit. #Météo #HautsDeFrance #Sécheresse #Automne
