@@ -329,12 +329,11 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
+• Infoclimat Direct : Tendance hiver 2026-2027
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
-• Infoclimat Direct : El Ni&#xF1;o - La Ni&#xF1;a
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : El Ni&#xF1;o - La Ni&#xF1;a
-• Infoclimat Direct : El Ni&#xF1;o - La Ni&#xF1;a
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 18/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -342,21 +341,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 18 Septembre 2026.
-Résumé général HDF précédent : Tendance sur 15 jours : temps sec, ensoleillé et doux sur les Hauts-de-France, avec un possible fléchissement en semaine 2 mais sans retour des pluies significatives..
+Résumé général HDF précédent : Temps sec, ensoleillé et doux sur les Hauts-de-France, avec une possible érosion anticyclonique en semaine 2 mais sans retour des pluies significatives. Températures souvent au-dessus des normales de saison, fraîcheurs nocturnes préservant un ressenti automnal..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Beau temps généralisé, pas de précipitations, brumes côtières possibles..
+Températures attendues précédemment : Soleil dominant sur HDF ; risque d’averses très faible, plutôt en Manche et littoral picard..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Matpo
-Message:
-Et encore, si nous sommes épargnés de taper de nouveau les 35°c (c'est même pas sûr) c'est uniquement grâce à la diminution de la durée du jour ! Parce que à 850hpa, ça le permet sans problème, on peut largement renouer pendant une semaine avec les 20°c sur le 850, autrefois survenant en plein été mais cette année ils nous suivent jusque fin septembre... Quel délire, c'est sans fin.
-								2
-								1
-								3
-
-=======================
-
 Auteur: vda77
 Message:
 Bonjour.
@@ -521,7 +511,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 								1
 
@@ -551,7 +541,7 @@ il y a 38 minutes, greedin a dit :
 			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
 	Effectivement ! Il serait puissant en plus...
 	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
-								4
+								5
 
 =======================
 
@@ -561,24 +551,24 @@ il y a 10 minutes, Ciel d&amp;#x27;encre a dit :
 			Effectivement ! Il serait puissant en plus...
 			Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
 	Cela fait plusieurs fois qu'on a des modélisations de ce genre, on n'en est même pas passé loin au début de cette semaine de le voir se former au sein d'un bel amas orageux au large de la Tunisie, précisément là où GFS le modélise ici.
-								4
+								5
 
 =======================
 
 Auteur: Tornado75
 Message:
-Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme prévu jusqu'à au moins les 12 prochains jours
+Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme prévu jusqu'à au moins les 12 prochains jours 
+								2
+
+=======================
+
+Auteur: Sky blue
+Message:
+C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
+	Modifié il y a 22 minutes par Sky blue
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: Matpo
-Message:
-Et encore, si nous sommes épargnés de taper de nouveau les 35°c (c'est même pas sûr) c'est uniquement grâce à la diminution de la durée du jour ! Parce que à 850hpa, ça le permet sans problème, on peut largement renouer pendant une semaine avec les 20°c sur le 850, autrefois survenant en plein été mais cette année ils nous suivent jusque fin septembre... Quel délire, c'est sans fin.
-								2
-								1
-								3
-
-=======================
-
 Auteur: vda77
 Message:
 Bonjour.
@@ -743,7 +733,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 								1
 
@@ -773,7 +763,7 @@ il y a 38 minutes, greedin a dit :
 			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
 	Effectivement ! Il serait puissant en plus...
 	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
-								4
+								5
 
 =======================
 
@@ -783,10 +773,19 @@ il y a 10 minutes, Ciel d&amp;#x27;encre a dit :
 			Effectivement ! Il serait puissant en plus...
 			Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
 	Cela fait plusieurs fois qu'on a des modélisations de ce genre, on n'en est même pas passé loin au début de cette semaine de le voir se former au sein d'un bel amas orageux au large de la Tunisie, précisément là où GFS le modélise ici.
-								4
+								5
 
 =======================
 
 Auteur: Tornado75
 Message:
-Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme prévu jusqu'à au moins les 12 prochains jours
+Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme prévu jusqu'à au moins les 12 prochains jours 
+								2
+
+=======================
+
+Auteur: Sky blue
+Message:
+C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
+	Modifié il y a 22 minutes par Sky blue
+								1
