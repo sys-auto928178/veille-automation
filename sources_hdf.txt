@@ -304,12 +304,12 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Prévisions &#xCE;le-de-France Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : [Réseau StatIC] Suivi du déploiement
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 18/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -317,9 +317,11 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 18 Septembre 2026.
-Résumé général HDF précédent : Temps sec, ensoleillé et anticyclonique sur les Hauts-de-France du 21 septembre au 4 octobre, avec des températures douces à chaudes en journée et fraîches la nuit. Les pluies resteront très rares, voire absentes..
+Résumé général HDF précédent : Sur l’ensemble de la quinzaine, les Hauts-de-France restent sous un régime très sec et anticyclonique, avec un soleil souvent généreux et des températures douces à chaudes en journée. La semaine 1 est bien documentée et fiable; la semaine 2 reste incertaine, avec une possible évolution vers davantage de fraîcheur, voire un retour de nuages, mais aucun scénario ne s’impose。
+
+..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, ensoleillé, températures de saison à chaudes; fraîcheur possible au nord-est..
+Températures attendues précédemment : Pas de précipitation notable; fraîcheur possible en fin de nuit et en matinée, notamment dans l’intérieur des Hauts-de-France..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -460,7 +462,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 4 heures par Sky blue
+	Modifié il y a 6 heures par Sky blue
 								1
 								1
 
@@ -506,7 +508,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 55 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 
 =======================
 
@@ -524,7 +526,12 @@ Auteur: giec 2100
 Message:
 @Krholam j'ai bien vu aussi ce que d'aucuns qualifieraient peut-être de "mirage", mais à quoi d'autre se raccrocher... ?
 	sans doute l'effet d'un positionnement plus à l'E de notre anticyclone, un déverrouillage provisoire, mais à cette échéance combien de fois rebattues seront les cartes?
-	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter dans une trajectoire toujours méridienne... ?
+	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter vers le N dans une trajectoire toujours méridienne... ?
+	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
+	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
+	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
+	Modifié il y a 1 heure par giec 2100
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: DoubleKnacki
@@ -664,7 +671,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 4 heures par Sky blue
+	Modifié il y a 6 heures par Sky blue
 								1
 								1
 
@@ -710,7 +717,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 55 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 
 =======================
 
@@ -728,4 +735,9 @@ Auteur: giec 2100
 Message:
 @Krholam j'ai bien vu aussi ce que d'aucuns qualifieraient peut-être de "mirage", mais à quoi d'autre se raccrocher... ?
 	sans doute l'effet d'un positionnement plus à l'E de notre anticyclone, un déverrouillage provisoire, mais à cette échéance combien de fois rebattues seront les cartes?
-	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter dans une trajectoire toujours méridienne... ?
+	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter vers le N dans une trajectoire toujours méridienne... ?
+	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
+	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
+	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
+	Modifié il y a 1 heure par giec 2100
+								1

@@ -309,11 +309,11 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Mon site météo avec visualisation claire sur 24h, lisible et sans fioritures
+• Infoclimat Direct : [Réseau StatIC] Suivi du déploiement
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -322,9 +322,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 18 Septembre 2026.
-Résumé général précédent : Temps sec et anormalement chaud sur la majeure partie du pays jusqu’au 27 septembre ; possible bascule vers une dégradation méditerranéenne en tout début octobre, mais très incertaine..
+Résumé général précédent : Tendance dominante : temps sec, ensoleillé et anormalement chaud, surtout sur la moitié sud. Une possible dégradation méditerranéenne est à surveiller en toute fin de période, mais le scénario le plus probable reste un maintien du blocage..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sécheresse de surface, températures au-dessus des normales, aucune pluie significative..
+Températures attendues précédemment : Températures très élevées sur le Sud, minimales basses sur le Nord, pas de pluie significative..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -465,7 +465,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 4 heures par Sky blue
+	Modifié il y a 6 heures par Sky blue
 								1
 								1
 
@@ -511,7 +511,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 55 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 
 =======================
 
@@ -529,7 +529,12 @@ Auteur: giec 2100
 Message:
 @Krholam j'ai bien vu aussi ce que d'aucuns qualifieraient peut-être de "mirage", mais à quoi d'autre se raccrocher... ?
 	sans doute l'effet d'un positionnement plus à l'E de notre anticyclone, un déverrouillage provisoire, mais à cette échéance combien de fois rebattues seront les cartes?
-	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter dans une trajectoire toujours méridienne... ?
+	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter vers le N dans une trajectoire toujours méridienne... ?
+	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
+	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
+	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
+	Modifié il y a 1 heure par giec 2100
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: DoubleKnacki
@@ -669,7 +674,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 4 heures par Sky blue
+	Modifié il y a 6 heures par Sky blue
 								1
 								1
 
@@ -715,7 +720,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 55 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 
 =======================
 
@@ -733,4 +738,9 @@ Auteur: giec 2100
 Message:
 @Krholam j'ai bien vu aussi ce que d'aucuns qualifieraient peut-être de "mirage", mais à quoi d'autre se raccrocher... ?
 	sans doute l'effet d'un positionnement plus à l'E de notre anticyclone, un déverrouillage provisoire, mais à cette échéance combien de fois rebattues seront les cartes?
-	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter dans une trajectoire toujours méridienne... ?
+	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter vers le N dans une trajectoire toujours méridienne... ?
+	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
+	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
+	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
+	Modifié il y a 1 heure par giec 2100
+								1
