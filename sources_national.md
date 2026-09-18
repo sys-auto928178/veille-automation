@@ -309,12 +309,12 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Photos d'oiseaux
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : [Réseau StatIC] Suivi du déploiement
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Prévisions &#xCE;le-de-France Septembre 2026
+• Infoclimat Direct : Climatologie hiver 2025-2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 18/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -322,9 +322,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 18 Septembre 2026.
-Résumé général précédent : Tendance dominante : temps sec, ensoleillé et anormalement chaud, surtout sur la moitié sud. Une possible dégradation méditerranéenne est à surveiller en toute fin de période, mais le scénario le plus probable reste un maintien du blocage..
+Résumé général précédent : Période dominée par un temps sec et anticyclonique, avec des températures au-dessus des normales, surtout au sud. Une dégradation méditerranéenne est possible en toute fin de période, mais très incertaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Températures très élevées sur le Sud, minimales basses sur le Nord, pas de pluie significative..
+Températures attendues précédemment : Sec et chaud, orages possibles en Méditerranée à partir du 27..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -465,7 +465,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 6 heures par Sky blue
+	Modifié il y a 8 heures par Sky blue
 								1
 								1
 
@@ -511,7 +511,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 
 =======================
 
@@ -533,7 +533,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 1 heure par giec 2100
+	Modifié il y a 3 heures par giec 2100
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -674,7 +674,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 6 heures par Sky blue
+	Modifié il y a 8 heures par Sky blue
 								1
 								1
 
@@ -720,7 +720,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 
 =======================
 
@@ -742,5 +742,5 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 1 heure par giec 2100
+	Modifié il y a 3 heures par giec 2100
 								1
