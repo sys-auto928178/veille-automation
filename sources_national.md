@@ -284,7 +284,7 @@ Températures minimales : identiques à la veille.
 Températures maximales : en baisse sur les coteaux de Gascogne ainsi que dans le Volvestre.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 180945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 18 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 18 septembre 2026 à 06H00 UTC, et évolution Dépression relative 1011 hPa sur la Mer Ligure, prévue près de la Provence ce soir, puis se comblant progressivement la nuit. Anticyclone vers 1018 hPa sur le sud-ouest de la France et la Mer des Baléares, se renforçant 1022/1025 hPa demain, avec faible gradient de pression sur le bassin. 3 - Prévisions pour l'après-midi du vendredi 18 septembre VENT : - de Port-Camargue à Porquerolles : Ouest 4 à 5, localement 6 à l'est du Cap Croisette. - de Porquerolles à Saint-Raphaël : Ouest à Sud-Ouest 2 à 4, devenant Variable à la fin. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 18 septembre au samedi 19 septembre VENT : - de Port-Camargue à Sicié : Ouest à Nord-Ouest 4 à 5, parfois 6, virant Nord à Nord-Ouest en fin de soirée et devenant Variable 2 à 4 à l'est du Cap Croisette. - de Sicié à Saint-Raphaël : s'orientant Nord-Est 3 à 4. MER : peu agitée à agitée, s'atténuant peu agitée en seconde partie de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles au début, s'amortissant à l'ouest de Cap Croisette en fin de nuit. TEMPS : ciel clair, parfois peu nuageux en fin de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : secteur Nord 3 à 4, parfois 5 vers Beauduc au début, revenant secteur Ouest 2 à 3 l'après-midi. - à l'est de Sicié : Est à Nord-Est 3 à 4, mollissant 2 à 3 en fin de journée. MER : belle à peu agitée, s'atténuant belle en fin de journée. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette au Levant le matin. TEMPS : ensoleillé, parfois peu nuageux le matin. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Nord à Nord-Ouest dominant 1 à 3, temporairement 2 à 4 à l'ouest du Cap Croisette le matin, s'orientant Ouest à Sud-Ouest 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ciel clair. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 20 au 21 et la journée du lundi 21 septembre VENT : De Port Camargue à Marseille Nord 3 à 5, virant Sud-Est 2 à 3 en milieu d'après-midi. De Marseille à St Raphaël Est à Sud-Est 2 à 4, virant Sud à Sud-Est 1 à 2 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante de Nord à Nord-Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Mardi 22 septembre Secteur Nord-Est faible à modéré autour de la Corse. Secteur Nord dominant ailleurs, puis Variable faible l'après-midi. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est modéré de Saint-Raphaël à Menton. Variable faible de Saint-Raphaël à la frontière espagnole et en Corse. Indice de confiance : 3 sur 5 Jeudi 24 septembre Variable faible avec un risque de secteur Nord modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 25 septembre Variable faible avec un risque de Secteur Nord-Est modéré à assez fort autour de la Corse. Indice de confiance : 3 sur 5 9 - Observations le vendredi 18 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Ouest 4 noeuds. Le Levant : vent Ouest 8 noeuds, 1013 hPa en hausse. Porquerolles : vent Ouest 8 noeuds. Cap Couronne : vent Nord-Ouest 16 noeuds, mer peu agitée, visibilité 10 milles. Prochain bulletin le vendredi 18 septembre 2026, vers 18H30 légales
+FQCT40 LFML 181605 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 18 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 18 septembre 2026 à 12H00 UTC, et évolution Dépression relative 1012 hPa près de la côte d'Azur, prévue près de la Provence ce soir, puis se comblant progressivement la nuit. Anticyclone vers 1018 hPa sur le sud-ouest de la France et la Mer des Baléares, se renforçant 1022/1025 hPa demain, avec faible gradient de pression sur le bassin. 3 - Prévisions pour la nuit du vendredi 18 septembre au samedi 19 septembre VENT : - de Port-Camargue à Sicié : Ouest à Nord-Ouest 4 à 5, virant Nord à Nord-Ouest en fin de soirée et devenant Variable 2 à 4 à l'est du Cap Croisette. - de Sicié à Saint-Raphaël : s'orientant Nord-Est 3 à 4. MER : peu agitée à agitée, s'atténuant peu agitée en seconde partie de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles au début, s'amortissant à l'ouest de Cap Croisette en fin de nuit. TEMPS : ciel clair, parfois peu nuageux en fin de nuit. VISIBILITE : bonne. 4 - Prévisions pour la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : secteur Nord 3 à 4, parfois 5 vers Beauduc au début, revenant secteur Ouest 2 à 4 l'après-midi. - à l'est de Sicié : Est à Nord-Est 3 à 4, mollissant 2 à 3 en fin de journée. MER : belle à peu agitée, s'atténuant belle en fin de journée. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette au Levant le matin. TEMPS : ensoleillé, parfois peu nuageux le matin. VISIBILITE : bonne. 5 - Tendance pour la nuit du 19 au 20, et la journée du dimanche 20 septembre VENT : Nord à Nord-Ouest dominant 1 à 3, temporairement 2 à 4 à l'ouest du Cap Croisette le matin, s'orientant Ouest à Sud-Ouest 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ciel clair. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 20 au 21 et la journée du lundi 21 septembre VENT : De Port Camargue à Marseille Nord 3 à 5, virant Sud-Est 2 à 3 en milieu d'après-midi. De Marseille à St Raphaël Est à Sud-Est 2 à 4, virant Sud à Sud-Est 1 à 2 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante de Nord à Nord-Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Mardi 22 septembre Secteur Nord-Est faible à modéré autour de la Corse. Secteur Nord dominant ailleurs, puis Variable faible l'après-midi. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est modéré de Saint-Raphaël à Menton. Variable faible de Saint-Raphaël à la frontière espagnole et en Corse. Indice de confiance : 3 sur 5 Jeudi 24 septembre Variable faible avec un risque de secteur Nord modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 25 septembre Variable faible avec un risque de Secteur Nord-Est modéré à assez fort autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le vendredi 18 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Sud-Ouest 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Ouest 17 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Ouest 12 noeuds, 1013 hPa en baisse. Porquerolles : vent Ouest 14 noeuds. Cap Couronne : vent Ouest-Nord-Ouest 14 noeuds. Prochain bulletin le samedi 19 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -309,12 +309,12 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps-Centre du Quebec
-• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
-• Infoclimat Direct : Suivi du temps-Centre du Quebec
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Mon site météo avec visualisation claire sur 24h, lisible et sans fioritures
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 18/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -322,65 +322,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 18 Septembre 2026.
-Résumé général précédent : Sur les 15 prochains jours, un temps sec, ensoleillé et anormalement chaud est très probable jusqu’au 27 septembre. À partir du 28 septembre, le blocage pourrait commencer à faiblir, mais les scénarios divergent : maintien des hautes pressions ou dégradation méditerranéenne avec un risque hypothétique de medicane..
+Résumé général précédent : Temps sec et anormalement chaud sur la majeure partie du pays jusqu’au 27 septembre ; possible bascule vers une dégradation méditerranéenne en tout début octobre, mais très incertaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Ensoleillement dominant, absence de précipitations significatives, températures au-dessus des normales..
+Températures attendues précédemment : Sécheresse de surface, températures au-dessus des normales, aucune pluie significative..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-il y a 44 minutes, toto42 a dit :
-			Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
-			Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
-	Je ne conteste pas l'aspect alarmant de la situation et le fait que notre pays soit effectivement à l'écart des précipitations du fait de la synoptique mainte fois
-	décrite ici,  mais je ne suis pas certain qu'on puisse se baser sur cette carte à 384 heures pour n'importe qu'elle analyse objective, quand on sait que même souvent 3 jours à l'avance
-	on ne sait pas souvent ou il va pleuvoir exactement et quelles quantités.
-	Il s'agit d'un signal oui mais rien ne dit qu'il ne va pas y avoir des précipitations conséquentes d'ici le 2 octobre, cela eut parfaitement bien évoluer d'ici la.
-	Bon je pense que je dis un peu cela pour me rassurer car quand tous les modèles semblent concorder et seul un déplacement à l'ouest au nord ou à l'est des hautes pressions au fil des prochains runs  finissant pas changer la synoptique pourrait nous permettre de croire à une porte de sortie avant début octobre.
-	Je pense qu'on va finir par demander à l'église de procéder à des processions :
-	Modifié mercredi à 08:29 par petit âge glaciaire 11
-								1
-								1
-								1
-
-=======================
-
-Auteur: Hassan
-Message:
-On va passer d'un régime d'AO et NAO positif a négatif.
-	Les HP semblent vouloir migrer vers le nord au cours de cette échéance.
-	Ça peut donner une plus grande probabilité de pluie sur la moitié sud si un blocage se met en place sur le nord de l'Europe du moins en toute fin d'échéance.
-	C'est vrai que 2015 avait été une catastrophe hivernale notamment décembre avec une anomalie de + 4 degrés sur la France.
-	A l'inverse, l'automne et décembre 1997 avaient connu des séquences hivernales intéressantes (fin octobre 1997, début décembre 1997) et pas trop d’excèdent et des blocages de HP sur le nord de l'Europe... Septembre 1997 a été sous la coupole de HP atlantique et nordique quasiment tout le mois
-	Modifié mercredi à 08:55 par Hassan
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-GFS, GEM et AIFS modélisent une évolution synoptique quand même notable en 4 jours, je poste que AIFS et GEM pour ne pas alourdir d'images car les 3 déterministes se ressemblent.
-	Les géopotentiels se positionneraient plus au nord et plus à l'est pour ces modèles .
-	Dimanche 20 septembre et jeudi 24 septembre AIFS :
-	Dimanche 20 septembre  et jeudi 24 septembre GEM :
-	CEP modélise une évolution différente avec un déplacements de hauts géopotentiel vers l'est mais moins vers le nord  :
-	Pour le moment pas de signe de baisse de géopotentiels dans le sud mais cela peut évoluer, cela pourrait être une porte de sortie , pour le sud de la France ,
-	avec des pressions qui pourraient  finir par baisser par le sud mais on en ait pas la.
-	La patate anticyclonique peut très bien perdurer bien au delà de ce topic.
-	A suivre les prochains runs.
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-Rien à espérer pour ce topic.
-	Plus qu'à patienter jusqu'à mi-octobre.
-	En attendant, heureusement que la durée d'ensoleillement est plus courte et que le soleil est plus bas.
-								2
-
-=======================
-
 Auteur: DoubleKnacki
 Message:
 Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
@@ -476,7 +423,7 @@ Il y a 4 heures, Grahok73 a dit :
 			Trop fastoche les prévis TLT... Une seule image suffit...
 	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
 								1
-								3
+								4
 								2
 								1
 
@@ -518,7 +465,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 2 heures par Sky blue
+	Modifié il y a 4 heures par Sky blue
 								1
 								1
 
@@ -543,61 +490,48 @@ il y a une heure, filgoud a dit :
 	Pour les signaux humides, dans le  sud, ce n'est pas impossible et ça ressort depuis quelques temps qu'il pourrait y avoir des précipitations :
 	Pas fou mais profitez-en : dans le nord, j'ai regardé les prévisions de MF sur Paris et j'ai cru que le site avait bugué : pas une précipitation ou presque jusqu'au 2/10 et c'est confirmé par le diagramme GEFS. L'échéance est lointaine, mais j'ai peu de doute ... malheureusement .... On va avoir un mois de septembre à presque 0 mm.
 								2
+
+=======================
+
+Auteur: Krholam
+Message:
+Y’a quand même quelques signaux qui commencent à apparaitrr pour fin septembre.
+	on est limite avec le topic suivant. Ça n’a pas l’air encore folichon et ça demande confirmation mais il y a des signes
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Effectivement il y a des signaux d'une baisse des géopotentiels sur la France sans qu'on sache encore la synoptique qui pourrait se dessiner. 
+	Des hypothèses de gouttes froides ou creusement a l'est de la France ou en méditerranée émergent par moment mais sans aucune certitude à ce jour.
+	La plupart des modèles modélisent ces signaux qui sont a suivre donc mais il faut pas se leurer si changement il y a cela sera sûrement pour le prochain topic mais on pourrait en avoir les prémices à la fin de ce topic.
+	Je ne vais pas poster des déterministes à trop long terme car ils sont changeants et différents selon les modèles, je pense qu'il faut se limiter à 180 h pour ilustrer ces signaux. 
+	Ci-après 3 modèles qui illustrent ces possibilités de changement de synoptique a haute altitude ( 500 Hpa), c'est 3 modèles sont assez prochent et modélisent une approche de bas géopotentiels sous forme peut-être de gouttes froides par l'est du pays dans qu'il soit possible de savoir encore si ils vont parvenir sur notre pays et les effets prévus. 
+	Mais ça semble bouger etvse rapprocher de la France et cela pourrait etre une vraie porte de sortie du blocage actuel, avec à la clé enfin des précipitations sur notre pays ,  à suivre donc.
+	GFS :
+	GEM :
+	AIFS :
+	Modifié il y a 55 minutes par petit âge glaciaire 11
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a 1 minute, petit âge glaciaire 11 a dit :
+			Mais ça semble bouger et cela pourrait etre une vraie porte de sortie du blocage actuel
+	Je l’espere egalement.
+	C’est la N-ieme porte de sortie qui depuis cet été. Sortie qu’on attend toujours
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Krholam j'ai bien vu aussi ce que d'aucuns qualifieraient peut-être de "mirage", mais à quoi d'autre se raccrocher... ?
+	sans doute l'effet d'un positionnement plus à l'E de notre anticyclone, un déverrouillage provisoire, mais à cette échéance combien de fois rebattues seront les cartes?
+	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter dans une trajectoire toujours méridienne... ?
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-il y a 44 minutes, toto42 a dit :
-			Avec la carte de l'Europe, c'est encore plus caricatural pour le déterministe GFS avec son cumul des précipitations.
-			Ce n'est pas une prévision, mais on sent quand même que la porte de sortie n'est pas pour tout de suite.
-	Je ne conteste pas l'aspect alarmant de la situation et le fait que notre pays soit effectivement à l'écart des précipitations du fait de la synoptique mainte fois
-	décrite ici,  mais je ne suis pas certain qu'on puisse se baser sur cette carte à 384 heures pour n'importe qu'elle analyse objective, quand on sait que même souvent 3 jours à l'avance
-	on ne sait pas souvent ou il va pleuvoir exactement et quelles quantités.
-	Il s'agit d'un signal oui mais rien ne dit qu'il ne va pas y avoir des précipitations conséquentes d'ici le 2 octobre, cela eut parfaitement bien évoluer d'ici la.
-	Bon je pense que je dis un peu cela pour me rassurer car quand tous les modèles semblent concorder et seul un déplacement à l'ouest au nord ou à l'est des hautes pressions au fil des prochains runs  finissant pas changer la synoptique pourrait nous permettre de croire à une porte de sortie avant début octobre.
-	Je pense qu'on va finir par demander à l'église de procéder à des processions :
-	Modifié mercredi à 08:29 par petit âge glaciaire 11
-								1
-								1
-								1
-
-=======================
-
-Auteur: Hassan
-Message:
-On va passer d'un régime d'AO et NAO positif a négatif.
-	Les HP semblent vouloir migrer vers le nord au cours de cette échéance.
-	Ça peut donner une plus grande probabilité de pluie sur la moitié sud si un blocage se met en place sur le nord de l'Europe du moins en toute fin d'échéance.
-	C'est vrai que 2015 avait été une catastrophe hivernale notamment décembre avec une anomalie de + 4 degrés sur la France.
-	A l'inverse, l'automne et décembre 1997 avaient connu des séquences hivernales intéressantes (fin octobre 1997, début décembre 1997) et pas trop d’excèdent et des blocages de HP sur le nord de l'Europe... Septembre 1997 a été sous la coupole de HP atlantique et nordique quasiment tout le mois
-	Modifié mercredi à 08:55 par Hassan
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-GFS, GEM et AIFS modélisent une évolution synoptique quand même notable en 4 jours, je poste que AIFS et GEM pour ne pas alourdir d'images car les 3 déterministes se ressemblent.
-	Les géopotentiels se positionneraient plus au nord et plus à l'est pour ces modèles .
-	Dimanche 20 septembre et jeudi 24 septembre AIFS :
-	Dimanche 20 septembre  et jeudi 24 septembre GEM :
-	CEP modélise une évolution différente avec un déplacements de hauts géopotentiel vers l'est mais moins vers le nord  :
-	Pour le moment pas de signe de baisse de géopotentiels dans le sud mais cela peut évoluer, cela pourrait être une porte de sortie , pour le sud de la France ,
-	avec des pressions qui pourraient  finir par baisser par le sud mais on en ait pas la.
-	La patate anticyclonique peut très bien perdurer bien au delà de ce topic.
-	A suivre les prochains runs.
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-Rien à espérer pour ce topic.
-	Plus qu'à patienter jusqu'à mi-octobre.
-	En attendant, heureusement que la durée d'ensoleillement est plus courte et que le soleil est plus bas.
-								2
-
-=======================
-
 Auteur: DoubleKnacki
 Message:
 Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
@@ -693,7 +627,7 @@ Il y a 4 heures, Grahok73 a dit :
 			Trop fastoche les prévis TLT... Une seule image suffit...
 	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
 								1
-								3
+								4
 								2
 								1
 
@@ -735,7 +669,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 2 heures par Sky blue
+	Modifié il y a 4 heures par Sky blue
 								1
 								1
 
@@ -760,3 +694,43 @@ il y a une heure, filgoud a dit :
 	Pour les signaux humides, dans le  sud, ce n'est pas impossible et ça ressort depuis quelques temps qu'il pourrait y avoir des précipitations :
 	Pas fou mais profitez-en : dans le nord, j'ai regardé les prévisions de MF sur Paris et j'ai cru que le site avait bugué : pas une précipitation ou presque jusqu'au 2/10 et c'est confirmé par le diagramme GEFS. L'échéance est lointaine, mais j'ai peu de doute ... malheureusement .... On va avoir un mois de septembre à presque 0 mm.
 								2
+
+=======================
+
+Auteur: Krholam
+Message:
+Y’a quand même quelques signaux qui commencent à apparaitrr pour fin septembre.
+	on est limite avec le topic suivant. Ça n’a pas l’air encore folichon et ça demande confirmation mais il y a des signes
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Effectivement il y a des signaux d'une baisse des géopotentiels sur la France sans qu'on sache encore la synoptique qui pourrait se dessiner. 
+	Des hypothèses de gouttes froides ou creusement a l'est de la France ou en méditerranée émergent par moment mais sans aucune certitude à ce jour.
+	La plupart des modèles modélisent ces signaux qui sont a suivre donc mais il faut pas se leurer si changement il y a cela sera sûrement pour le prochain topic mais on pourrait en avoir les prémices à la fin de ce topic.
+	Je ne vais pas poster des déterministes à trop long terme car ils sont changeants et différents selon les modèles, je pense qu'il faut se limiter à 180 h pour ilustrer ces signaux. 
+	Ci-après 3 modèles qui illustrent ces possibilités de changement de synoptique a haute altitude ( 500 Hpa), c'est 3 modèles sont assez prochent et modélisent une approche de bas géopotentiels sous forme peut-être de gouttes froides par l'est du pays dans qu'il soit possible de savoir encore si ils vont parvenir sur notre pays et les effets prévus. 
+	Mais ça semble bouger etvse rapprocher de la France et cela pourrait etre une vraie porte de sortie du blocage actuel, avec à la clé enfin des précipitations sur notre pays ,  à suivre donc.
+	GFS :
+	GEM :
+	AIFS :
+	Modifié il y a 55 minutes par petit âge glaciaire 11
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a 1 minute, petit âge glaciaire 11 a dit :
+			Mais ça semble bouger et cela pourrait etre une vraie porte de sortie du blocage actuel
+	Je l’espere egalement.
+	C’est la N-ieme porte de sortie qui depuis cet été. Sortie qu’on attend toujours
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Krholam j'ai bien vu aussi ce que d'aucuns qualifieraient peut-être de "mirage", mais à quoi d'autre se raccrocher... ?
+	sans doute l'effet d'un positionnement plus à l'E de notre anticyclone, un déverrouillage provisoire, mais à cette échéance combien de fois rebattues seront les cartes?
+	et dans ce cas-là les minimums "libérés" ne vont-ils pas encore nous tangenter dans une trajectoire toujours méridienne... ?
