@@ -304,7 +304,7 @@ Températures minimales : sans changement significatif.
 Températures maximales : similaires à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 180400 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 18 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 18 septembre 2026 à 00H00 UTC, et évolution Thalweg résiduel 1017-1020 hPa sur golfe de Gascogne ce matin, puis dorsale se renforçant des Açores au golfe de Gascogne. Nouvelle perturbation peu active dans des hautes pressions proches de 1020 hPa samedi. 3 - Prévisions pour la journée du vendredi 18 septembre VENT : Ouest 4, parfois 5 en mer du Nord, revenant Sud-Ouest 5 à 6 l'après-midi. Rafales dans le détroit du Pas de Calais en fin de journée. MER : peu agitée, localement agitée en Manche au début, devenant agitée partout en fin d'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, s'amortissant l'après-midi. TEMPS : peu nuageux à nuageux, devenant très nuageux l'après-midi, avec quelques pluies en fin de journée. VISIBILITE : bonne, localement moyenne sous précipitations. 4 - Prévisions pour la nuit du vendredi 18 septembre au samedi 19 septembre VENT : Sud-Ouest 6. Rafales dans le détroit. MER : agitée. HOULE : non significative, localement Sud-Ouest 0.5 à 1 m, de la baie de Canche à la baie de Somme. TEMPS : nuageux à très nuageux, avec quelques pluies la nuit. VISIBILITE : bonne, localement moyenne sous précipitations. 5 - Prévisions pour la journée du samedi 19 septembre VENT : Sud-Ouest 6, fraîchissant 7 à l'est du détroit du Pas de Calais à la mi-journée. Rafales. MER : agitée. HOULE : non significative, localement Sud-Ouest 0.5 à 1 m, de la baie de Canche à la baie de Somme. TEMPS : nuageux à très nuageux, avec quelques gouttes. VISIBILITE : bonne, moyenne sous pluies. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Ouest 6 mollissant 4 à 5 en milieu de nuit. MER : agitée, devenant peu agitée en début de matinée. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1 à 1,5 m en Manche. 7 - Tendance pour les jours suivants Lundi 21 septembre variable faible. Indice de confiance : 4 sur 5 Mardi 22 septembre Secteur Est faible en entrée de Manche et variable faible en sortie de Manche. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible. Indice de confiance : 4 sur 5 Jeudi 24 septembre Secteur Est faible. Indice de confiance : 4 sur 5 8 - Observations le vendredi 18 septembre 2026 à 03H00 UTC Dunkerque : vent Ouest-Nord-Ouest 12 noeuds, 1013 hPa en hausse. Cap Gris Nez : vent Ouest 19 noeuds. Boulogne : vent Ouest-Nord-Ouest 10 noeuds, 1013 hPa en hausse, clair ou peu nuageux, visibilité 10 milles. Bouée Sandettie : vent Ouest-Nord-Ouest 17 noeuds, creux 0,7 mètre, 1012 hPa en baisse, visibilité 5 milles. Prochain bulletin le vendredi 18 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 180945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 18 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 18 septembre 2026 à 06H00 UTC, et évolution Dorsale se renforçant des Açores au golfe de Gascogne. Perturbation peu active en Manche samedi matin. 3 - Prévisions pour l'après-midi du vendredi 18 septembre VENT : Ouest à Sud-Ouest fraîchissant 5 à 6. Rafales dans le détroit du Pas de Calais à la fin. MER : peu agitée, devenant agitée l'après-midi. HOULE : non significative. TEMPS : nuageux à très nuageux, parfois pluie à la fin. VISIBILITE : bonne, parfois moyenne sous pluie à la fin. 4 - Prévisions pour la nuit du vendredi 18 septembre au samedi 19 septembre VENT : Sud-Ouest 6. Rafales dans le détroit du Pas de Calais. MER : agitée. HOULE : non significative, s'établissant localement Ouest 0.5 à 1 m de la baie de Canche à la baie de Somme. TEMPS : nuageux à très nuageux, parfois pluie. VISIBILITE : bonne, parfois moyenne sous pluie. 5 - Prévisions pour la journée du samedi 19 septembre VENT : Sud-Ouest 6, parfois 7 à l'est du détroit du Pas de Calais l'après-midi. Rafales. MER : agitée. HOULE : non significative, localement Ouest 0.5 à 1 m de la baie de Canche à la baie de Somme. TEMPS : nuageux à très nuageux, parfois pluie le matin. VISIBILITE : bonne, parfois moyenne sous pluie le matin. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Sud-Ouest 6, mollissant progressivement Ouest à Nord-Ouest 3 à 4 la nuit. MER : agitée, s'atténuant peu agitée en seconde partie de nuit. HOULE : s'établissant Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : nuageux à très nuageux, parfois pluie la nuit. VISIBILITE : bonne, parfois moyenne sous pluie la nuit. 7 - Prévisions pour la nuit du 20 au 21 et la journée du lundi 21 septembre VENT : Ouest 3 à 4, revenant Sud à Sud-Ouest en seconde partie de nuit. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Mardi 22 septembre Secteur Est dominant, faible à modéré. Indice de confiance : 4 sur 5 Mercredi 23 septembre Variable faible à modéré. Indice de confiance : 3 sur 5 Jeudi 24 septembre Variable faible. Indice de confiance : 3 sur 5 Vendredi 25 septembre Variable faible à modéré. Indice de confiance : 3 sur 5 9 - Observations le vendredi 18 septembre 2026 à 09H00 UTC Dunkerque : vent Ouest 12 noeuds, mer peu agitée, 1016 hPa en hausse, très nuageux à couvert, visibilité 5 milles. Cap Gris Nez : vent Ouest 16 noeuds. Boulogne : vent Ouest 12 noeuds, 1016 hPa en hausse, très nuageux à couvert, visibilité 8 milles. Prochain bulletin le vendredi 18 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -326,12 +326,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
-• Infoclimat Direct : Topic de l'humour
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Marseille - F&#xEA;te du vent - 20 et 21 septembre 2025
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Photos d'oiseaux
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Incendies 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 18/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -339,30 +339,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 18 Septembre 2026.
-Résumé général HDF précédent : Blocage anticyclonique persistant sur l'Europe occidentale: temps sec, ensoleillé et plus doux que la normale sur les Hauts-de-France, avec un pic thermique modéré entre le 23 et le 26 septembre. Incertitude croissante ensuite sur une possible dégradation en début octobre..
+Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France devraient rester sous l'influence d'un puissant anticyclone : temps sec, ensoleillé et doux. La principale incertitude se situe en semaine 2 (28/09-04/10), avec un possible fléchissement du blocage mais aucun signal pluvieux net..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé; fraîcheur relative possible en fin de semaine par le nord-est..
+Températures attendues précédemment : Sec, ensoleillé, très doux; fraîcheur possible au nord en cas de goutte froide balkanique..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: PaRaDoX
-Message:
-Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
-	Plus sérieusement ce scénario serait un cauchemar niveau sécheresse, l'impression qu'on est condamnés à choisir entre 2 alternatives sombres.
-								1
-								2
-								1
-
-=======================
-
-Auteur: serge26
-Message:
-Apres un hiver 2025/2026 tres pluvieux, quel est la probabilité d'en avoir un 2eme identique d'affilée pour combler ce déficit abyssal ?
-	Je le sens pas bien cette affaire
-								1
-
-=======================
-
 Auteur: Arkus
 Message:
 il y a 30 minutes, PaRaDoX a dit :
@@ -514,7 +496,7 @@ Il y a 4 heures, AmourDaria a dit :
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
 	Modifié mercredi à 19:12 par Ciel d&#039;encre
-								30
+								31
 								4
 								1
 								5
@@ -551,7 +533,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								1
 
@@ -572,26 +554,28 @@ Il y a 4 heures, Grahok73 a dit :
 Auteur: greedin
 Message:
 c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 38 minutes, greedin a dit :
+			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+	Effectivement ! Il serait puissant en plus...
+	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+								3
+
+=======================
+
+Auteur: Sebaas
+Message:
+il y a 10 minutes, Ciel d&amp;#x27;encre a dit :
+			Effectivement ! Il serait puissant en plus...
+			Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+	Cela fait plusieurs fois qu'on a des modélisations de ce genre, on n'en est même pas passé loin au début de cette semaine de le voir se former au sein d'un bel amas orageux au large de la Tunisie, précisément là où GFS le modélise ici.
+								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: PaRaDoX
-Message:
-Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
-	Plus sérieusement ce scénario serait un cauchemar niveau sécheresse, l'impression qu'on est condamnés à choisir entre 2 alternatives sombres.
-								1
-								2
-								1
-
-=======================
-
-Auteur: serge26
-Message:
-Apres un hiver 2025/2026 tres pluvieux, quel est la probabilité d'en avoir un 2eme identique d'affilée pour combler ce déficit abyssal ?
-	Je le sens pas bien cette affaire
-								1
-
-=======================
-
 Auteur: Arkus
 Message:
 il y a 30 minutes, PaRaDoX a dit :
@@ -743,7 +727,7 @@ Il y a 4 heures, AmourDaria a dit :
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
 	Modifié mercredi à 19:12 par Ciel d&#039;encre
-								30
+								31
 								4
 								1
 								5
@@ -780,7 +764,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								1
 
@@ -801,3 +785,23 @@ Il y a 4 heures, Grahok73 a dit :
 Auteur: greedin
 Message:
 c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 38 minutes, greedin a dit :
+			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+	Effectivement ! Il serait puissant en plus...
+	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+								3
+
+=======================
+
+Auteur: Sebaas
+Message:
+il y a 10 minutes, Ciel d&amp;#x27;encre a dit :
+			Effectivement ! Il serait puissant en plus...
+			Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+	Cela fait plusieurs fois qu'on a des modélisations de ce genre, on n'en est même pas passé loin au début de cette semaine de le voir se former au sein d'un bel amas orageux au large de la Tunisie, précisément là où GFS le modélise ici.
+								3

@@ -309,7 +309,7 @@ Températures minimales : stables.
 Températures maximales : en baisse sur les coteaux de Gascogne ainsi que dans le Volvestre.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 180425 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 18 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 18 septembre 2026 à 00H00 UTC, et évolution Hautes pressions autour de 1017 hPa sur le Roussillon, avec une dépression relative 1012 hPa près de la Côte d'Azur, se comblant en soirée. Hautes pressions progressant par l'ouest la nuit, vers 1022 hPa sur le bassin demain après-midi. 3 - Prévisions pour la journée du vendredi 18 septembre VENT : - de Port-Camargue à Cap Croisette : Nord-Ouest 5 à 6, mollissant 4 à 5 à la mi-journée, puis revenant Ouest à Nord-Ouest en début d'après-midi, mais localement Ouest à Sud-Ouest vers Port-Camargue, puis mollissant Ouest 2 à 4 partout à la fin. - de Cap Croisette au Levant : Nord-Ouest 4 à 5 parfois 6 à l'ouest de Sicié vers le large le matin, fraîchissant Ouest à Nord-Ouest 5 à 6 en début d'après-midi, puis mollissant Variable 2 à 4 vers le Levant à la fin. - du Levant à Saint-Raphaël : Variable 2 à 4, dépressionnaire, le matin et secteur Nord-Est dominant l'après-midi, et temporairement Ouest à Nord-Ouest 5 à 6 au large du Levant l'après-midi. MER : peu agitée à agitée. HOULE : Ouest Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles. TEMPS : ensoleillé, passagèrement voilé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 18 septembre au samedi 19 septembre VENT : - de Port-Camargue à Cap Croisette : Ouest 2 à 4, fraîchissant Nord à Nord-Ouest 4 à 5 en début de nuit. - de Cap Croisette au Levant : Ouest à Nord-Ouest 4 à 5, parfois 6 vers Sicié au début, mollissant Nord-Est 3 à 4 par l'est, à l'est de Sicié en début de nuit, mais localement Variable 2 à 4 à l'ouest de Sicié, secteur Nord-Est dominant en seconde partie de nuit. - du Levant à Saint-Raphaël : Nord-Est 3 à 4. MER : peu agitée à agitée, s'atténuant belle à peu agitée en fin de nuit. HOULE : Ouest Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles, s'amortissant à l'ouest de Cap Croisette en fin de nuit, et s'atténuant autour de 0.5 m à l'est. TEMPS : ciel clair, localement nuageux au large de la côte bleue en fin de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : secteur Nord 3 à 4, parfois 5 vers Beauduc au début, mollissant secteur Ouest 2 à 3 l'après-midi. - à l'est de Sicié : Nord-Est 3 à 4, revenant secteur Est l'après-midi, puis mollissant Est à Nord-Est 2 à 3 en fin de journée. MER : belle à peu agitée, s'atténuant belle en fin de journée. HOULE : Ouest 0.5 à 1 m, s'amortissant à la mi-journée TEMPS : ensoleillé, mais localement peu nuageux vers Sicié. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Variable 1 à 3, fraîchissant 2 à 4 en milieu de nuit avec orientation Nord à Nord-Ouest, puis à l'Ouest à Sud-Ouest. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Lundi 21 septembre Secteur Nord-Ouest modéré à assez fort dans le golfe du Lion et variable faible autour de la Corse. Indice de confiance : 4 sur 5 Mardi 22 septembre Secteur Nord faible à modéré dans le golfe du Lion et Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est faible dans le Golfe du Lion devenant faible à modéré entre Corse et continent. Indice de confiance : 4 sur 5 Jeudi 24 septembre Variable faible. Indice de confiance : 4 sur 5 8 - Observations le vendredi 18 septembre 2026 à 03H00 UTC Cap Camarat : vent Nord-Nord-Ouest 10 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Ouest 8 noeuds. Le Levant : vent Ouest 8 noeuds, 1012 hPa en baisse. Porquerolles : vent Nord-Ouest 12 noeuds. Cap Couronne : vent Ouest-Nord-Ouest 16 noeuds. Prochain bulletin le vendredi 18 septembre 2026, vers 13H00 légales
+FQCT40 LFML 180945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 18 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 18 septembre 2026 à 06H00 UTC, et évolution Dépression relative 1011 hPa sur la Mer Ligure, prévue près de la Provence ce soir, puis se comblant progressivement la nuit. Anticyclone vers 1018 hPa sur le sud-ouest de la France et la Mer des Baléares, se renforçant 1022/1025 hPa demain, avec faible gradient de pression sur le bassin. 3 - Prévisions pour l'après-midi du vendredi 18 septembre VENT : - de Port-Camargue à Porquerolles : Ouest 4 à 5, localement 6 à l'est du Cap Croisette. - de Porquerolles à Saint-Raphaël : Ouest à Sud-Ouest 2 à 4, devenant Variable à la fin. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 18 septembre au samedi 19 septembre VENT : - de Port-Camargue à Sicié : Ouest à Nord-Ouest 4 à 5, parfois 6, virant Nord à Nord-Ouest en fin de soirée et devenant Variable 2 à 4 à l'est du Cap Croisette. - de Sicié à Saint-Raphaël : s'orientant Nord-Est 3 à 4. MER : peu agitée à agitée, s'atténuant peu agitée en seconde partie de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1 à 1.5 m à l'est de Porquerolles au début, s'amortissant à l'ouest de Cap Croisette en fin de nuit. TEMPS : ciel clair, parfois peu nuageux en fin de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : secteur Nord 3 à 4, parfois 5 vers Beauduc au début, revenant secteur Ouest 2 à 3 l'après-midi. - à l'est de Sicié : Est à Nord-Est 3 à 4, mollissant 2 à 3 en fin de journée. MER : belle à peu agitée, s'atténuant belle en fin de journée. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette au Levant le matin. TEMPS : ensoleillé, parfois peu nuageux le matin. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 19 au 20 et la journée du dimanche 20 septembre VENT : Nord à Nord-Ouest dominant 1 à 3, temporairement 2 à 4 à l'ouest du Cap Croisette le matin, s'orientant Ouest à Sud-Ouest 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ciel clair. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 20 au 21 et la journée du lundi 21 septembre VENT : De Port Camargue à Marseille Nord 3 à 5, virant Sud-Est 2 à 3 en milieu d'après-midi. De Marseille à St Raphaël Est à Sud-Est 2 à 4, virant Sud à Sud-Est 1 à 2 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante de Nord à Nord-Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Mardi 22 septembre Secteur Nord-Est faible à modéré autour de la Corse. Secteur Nord dominant ailleurs, puis Variable faible l'après-midi. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est modéré de Saint-Raphaël à Menton. Variable faible de Saint-Raphaël à la frontière espagnole et en Corse. Indice de confiance : 3 sur 5 Jeudi 24 septembre Variable faible avec un risque de secteur Nord modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 25 septembre Variable faible avec un risque de Secteur Nord-Est modéré à assez fort autour de la Corse. Indice de confiance : 3 sur 5 9 - Observations le vendredi 18 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Ouest 4 noeuds. Le Levant : vent Ouest 8 noeuds, 1013 hPa en hausse. Porquerolles : vent Ouest 8 noeuds. Cap Couronne : vent Nord-Ouest 16 noeuds, mer peu agitée, visibilité 10 milles. Prochain bulletin le vendredi 18 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -331,12 +331,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Topic de l'humour
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Marseille - F&#xEA;te du vent - 20 et 21 septembre 2025
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Photos d'oiseaux
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 18/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -344,30 +344,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 18 Septembre 2026.
-Résumé général précédent : Crête anticyclonique persistante, temps sec, ensoleillé et doux à chaud sur la France pour les 15 prochains jours, avec une confiance plus élevée en semaine 1 qu’en semaine 2..
+Résumé général précédent : Crête anticyclonique persistante, temps sec, ensoleillé et doux à chaud sur la France pour les 15 prochains jours, avec une confiance plus élevée en semaine 1 qu'en semaine 2..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Soleil dominant, aucun signal pluvieux significatif, chaleur modérée à forte sur la moitié sud..
+Températures attendues précédemment : Temps sec, ensoleillé, chaleur modérée à forte sur la moitié sud..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: PaRaDoX
-Message:
-Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
-	Plus sérieusement ce scénario serait un cauchemar niveau sécheresse, l'impression qu'on est condamnés à choisir entre 2 alternatives sombres.
-								1
-								2
-								1
-
-=======================
-
-Auteur: serge26
-Message:
-Apres un hiver 2025/2026 tres pluvieux, quel est la probabilité d'en avoir un 2eme identique d'affilée pour combler ce déficit abyssal ?
-	Je le sens pas bien cette affaire
-								1
-
-=======================
-
 Auteur: Arkus
 Message:
 il y a 30 minutes, PaRaDoX a dit :
@@ -519,7 +501,7 @@ Il y a 4 heures, AmourDaria a dit :
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
 	Modifié mercredi à 19:12 par Ciel d&#039;encre
-								30
+								31
 								4
 								1
 								5
@@ -556,7 +538,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								1
 
@@ -577,26 +559,28 @@ Il y a 4 heures, Grahok73 a dit :
 Auteur: greedin
 Message:
 c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 38 minutes, greedin a dit :
+			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+	Effectivement ! Il serait puissant en plus...
+	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+								3
+
+=======================
+
+Auteur: Sebaas
+Message:
+il y a 10 minutes, Ciel d&amp;#x27;encre a dit :
+			Effectivement ! Il serait puissant en plus...
+			Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+	Cela fait plusieurs fois qu'on a des modélisations de ce genre, on n'en est même pas passé loin au début de cette semaine de le voir se former au sein d'un bel amas orageux au large de la Tunisie, précisément là où GFS le modélise ici.
+								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: PaRaDoX
-Message:
-Avec un peu de chance on gardera la patate haut vissée au-dessus de la France cet hiver pour nous garantir des phénomènes de basse couche et le premier hiver en-dessous des normes depuis très longtemps !
-	Plus sérieusement ce scénario serait un cauchemar niveau sécheresse, l'impression qu'on est condamnés à choisir entre 2 alternatives sombres.
-								1
-								2
-								1
-
-=======================
-
-Auteur: serge26
-Message:
-Apres un hiver 2025/2026 tres pluvieux, quel est la probabilité d'en avoir un 2eme identique d'affilée pour combler ce déficit abyssal ?
-	Je le sens pas bien cette affaire
-								1
-
-=======================
-
 Auteur: Arkus
 Message:
 il y a 30 minutes, PaRaDoX a dit :
@@ -748,7 +732,7 @@ Il y a 4 heures, AmourDaria a dit :
 	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
 	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
 	Modifié mercredi à 19:12 par Ciel d&#039;encre
-								30
+								31
 								4
 								1
 								5
@@ -785,7 +769,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								1
 
@@ -806,3 +790,23 @@ Il y a 4 heures, Grahok73 a dit :
 Auteur: greedin
 Message:
 c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 38 minutes, greedin a dit :
+			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
+	Effectivement ! Il serait puissant en plus...
+	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+								3
+
+=======================
+
+Auteur: Sebaas
+Message:
+il y a 10 minutes, Ciel d&amp;#x27;encre a dit :
+			Effectivement ! Il serait puissant en plus...
+			Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
+	Cela fait plusieurs fois qu'on a des modélisations de ce genre, on n'en est même pas passé loin au début de cette semaine de le voir se former au sein d'un bel amas orageux au large de la Tunisie, précisément là où GFS le modélise ici.
+								3
