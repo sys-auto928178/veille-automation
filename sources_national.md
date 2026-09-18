@@ -317,10 +317,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Jeudi 17 Septembre 2026.
-Résumé général précédent : Du 17 au 27 septembre : temps sec et chaud pour la saison sous l’influence d’un puissant anticyclone ; quelques passages nuageux, pluies rares et localisées..
+Dernier bulletin généré le Vendredi 18 Septembre 2026.
+Résumé général précédent : Sur l’ensemble des deux semaines, le scénario dominant reste un temps majoritairement sec et anticyclonique, avec des températures au-dessus des normales, surtout sur la moitié sud. Une inflexion plus fraîche et plus humide est possible en semaine 2, mais très incertaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pas de pluie, soleil, vent modéré d’ouest..
+Températures attendues précédemment : Sec, ensoleillé, chaleur diurne, fraîcheur nocturne possible..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -540,7 +540,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								1
 
@@ -773,7 +773,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								1
 

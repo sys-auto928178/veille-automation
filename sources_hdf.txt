@@ -313,10 +313,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Jeudi 17 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours, blocage anticyclonique persistant sur l'Europe de l'Ouest ; les Hauts-de-France restent à l'écart des précipitations, avec un ensoleillement généreux et des températures au-dessus des normales, ponctuées d'une possible pulsion chaude en toute fin de mois..
+Dernier bulletin HDF généré le Vendredi 18 Septembre 2026.
+Résumé général HDF précédent : Sur l'horizon des 15 prochains jours (21 septembre au 4 octobre), les Hauts-de-France évoluent sous la domination d'un blocage anticyclonique exceptionnellement persistant. Les hautes pressions centrées sur l'Europe du Nord-Ouest maintiennent des conditions sèches, ensoleillées et anormalement chaudes pour la fin septembre et le début octobre. Les températures moyennes devraient se situer 3 à 5°C au-dessus des normales saisonnières, avec des maximales oscillant entre 21 et 27°C selon les secteurs, minimales plus fraîches (8-15°C) offrant un contraste diurne marqué. La sécheresse de surface s'aggrave inexorablement, avec un déficit hydrique qui devient préoccupant pour les sols superficiels. L'éventuelle sortie de ce blocage est envisagée au-delà du 1er octobre, mais sans aucune certitude..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé, vent modéré à assez fort samedi, pas de pluie significative sur les HDF..
+Températures attendues précédemment : Ensoleillement généreux, chaleur de saison en hausse, absence de précipitations notables, fraîcheur nocturne relative..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -536,7 +536,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								1
 
@@ -769,7 +769,7 @@ Trop fastoche les prévis TLT... Une seule image suffit...
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								1
 
