@@ -15,43 +15,43 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL PARIS ET PETITE COURONNE (DEPT75) ===
-Emis le : 19/09/2026 06:30
+Emis le : 19/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, Paris et sa petite couronne sont en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Paris-Montsouris : température de 13 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1021 hPa.
-Au Jardin du Luxembourg : température de 16 degrés.
+Aujourd'hui on observait à 09h :
+A Paris-Montsouris : température de 14 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1022 hPa.
+Au Jardin du Luxembourg : température de 15 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 19 :
-Un voile nuageux filtre le soleil.
-Vent de Sud-Ouest, modéré.
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable.
+Vent modéré, de Sud-Ouest.
 Températures maximales : entre 24 et 26 degrés.
 
 • Pour la nuit prochaine :
-Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
-Vent faible, variable.
-Températures minimales : entre 14 et 15 degrés.
+Le ciel est voilé, mais laisse apparaître les étoiles.
+Vent variable, faible.
+Températures minimales : comprises entre 14 et 15 degrés.
 
 • Pour demain dimanche 20 en journée et la nuit suivante :
-Les nuages sont bien présents en matinée. Ensuite, le soleil gagne du terrain et devient prédominant. Pour la nuit : Après un début de nuit bien étoilé, le ciel se voile.
-Vent d'Ouest à Nord-Ouest, faible à modéré, jusqu'en milieu d'après-midi, à l'extérieur de Paris ; après une atténuation, reprise du vent, en début de nuit, avec orientation au Nord.
-Températures maximales pour le jour : de 24 à 27 degrés.
+Le ciel est variable en matinée. Puis, de belles éclaircies laissent passer le soleil, l'après-midi. Pour la nuit : Après un début de nuit bien étoilé, le ciel se voile.
+Vent faible à modéré à l'extérieur de Paris, d'Ouest à Nord-Ouest, jusqu'en milieu d'après-midi ; et de Nord, en début de nuit.
+Températures maximales pour le jour : comprises entre 24 et 27 degrés.
 Températures minimales pour la nuit suivante : de 12 à 14 degrés.
 
 • Pour la journée de lundi 21 et la nuit suivante :
-C'est une belle journée qui s'annonce. Les quelques nuages du petit matin cèdent rapidement la place à de larges éclaircies. L'après-midi promet d'être bien ensoleillée. Pour la nuit : Le ciel est bien étoilé.
-Vent variable, faible.
+C'est une belle journée qui s'annonce. Les quelques nuages du petit matin cèdent rapidement la place à de larges éclaircies. L'après-midi promet d'être bien ensoleillée. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+Vent faible, variable.
 Températures maximales pour le jour : comprises entre 24 et 25 degrés.
 Températures minimales pour la nuit suivante : de 13 à 15 degrés.
 
 • Pour la journée de mardi 22 :
 Le soleil règne en maître du matin au soir.
-Vent faible, variable.
+Vent variable, faible.
 Températures maximales : entre 26 et 28 degrés.
 
 • Pour mercredi 23 et jeudi 24 :
@@ -73,44 +73,44 @@ Températures minimales : en hausse sur le nord.
 Températures maximales : en hausse sur Paris, à l'ouest ainsi que sur le Val de Marne.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 19/09/2026 06:30
+Emis le : 19/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département des Bouches-du-Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Marignane : température de 14 degrés, vent de secteur Sud-Est soufflant jusqu'à 15 km/h, pression niveau mer 1019 hPa.
-A Aix-en-Provence : température de 13 degrés, vent variable faible.
+Aujourd'hui on observait à 09h :
+A Marignane : température de 20 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 10 km/h, pression niveau mer 1020 hPa.
+A Aix-en-Provence : température de 19 degrés, vent variable faible.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 19 :
-Le soleil règne en maître. Quelques rares nuages peuvent apparaître en fin de matinée, autour des Alpilles.
-Vent d'Ouest à Sud-Ouest assez faible.
+Le soleil règne en maître. Quelques rares nuages peuvent apparaître en fin de matinée, des Alpilles au Salonnais.
+Petit vent d'Ouest à Sud-Ouest généralement faible.
 Températures maximales : comprises entre 26 et 29 degrés.
 
 • Pour la nuit prochaine :
-Le ciel est clair toute la nuit.
+Les rares nuages présents n'empêchent nullement l'observation des étoiles.
 Vent faible.
-Températures minimales : du Rhône à l'étang de Berre et autour de Marseille comprises entre 16 et 18 degrés. De 12 à 13 degrés entre Aix Aubagne et Jouques.
+Températures minimales : du Rhône à l'étang de Berre et jusqu'aux Calanques entre 16 et 18 degrés. Comprises entre 12 et 13 degrés entre Peyrolles Aix et Aubagne.
 
 • Pour demain dimanche 20 en journée et la nuit suivante :
-Le soleil domine largement du matin au soir. Pour la nuit : Le ciel est bien étoilé.
-Vent de Nord temporairement assez fort, des Alpilles au golfe de Fos. Rafales atteignant 55 km/h, en début de nuit.
-Températures maximales pour le jour : de 28 à 31 degrés.
-Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et jusqu'aux Calanques voisines de 17 à 20 degrés. Entre 12 et 13 degrés entre Peyrolles Aix et Aubagne.
+Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+Vent de Nord temporairement assez fort, des Alpilles au golfe de Fos. Rafales atteignant 55 km/h, en première partie de nuit.
+Températures maximales pour le jour : entre 28 et 31 degrés.
+Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et autour de Marseille voisines de 17 à 20 degrés. De 12 à 13 degrés entre Aix Aubagne et Jouques.
 
 • Pour la journée de lundi 21 et la nuit suivante :
-La journée est largement ensoleillée. Les nuages présents au petit matin, autour de la Sainte Baume, se dissipent rapidement. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
-En journée et début de nuit, Mistral assez fort, des Alpilles au Salonnais ; atténuation ensuite. Rafales atteignant 65 km/h.
-Températures maximales pour le jour : comprises entre 29 et 32 degrés, et 28 degrés de Marseille à La Ciotat.
-Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et autour de Marseille de 17 à 19 degrés. Entre 13 et 15 degrés entre Aix Aubagne et Jouques.
+C'est une journée bien ensoleillée qui s'annonce, même si on peut noter quelques nuages plus présents autour de la Sainte Baume, en début de matinée. Pour la nuit : Le ciel est clair toute la nuit.
+En journée et début de nuit, Mistral assez fort, de Châteaurenard à Salon ; atténuation ensuite. Rafales atteignant 65 km/h.
+Températures maximales pour le jour : entre 29 et 32 degrés, et 28 degrés à Marseille et dans les Calanques.
+Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et jusqu'aux Calanques de 17 à 19 degrés. Entre 13 et 15 degrés entre Aix Aubagne et Jouques.
 
 • Pour la journée de mardi 22 :
-Le soleil est généreux tout au long de la journée.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
 Vent faible dans l'ensemble.
-Températures maximales : comprises entre 28 et 31 degrés, et 32 degrés dans le val de Durance.
+Températures maximales : de 28 à 31 degrés, et 32 degrés dans le val de Durance.
 
 • Pour mercredi 23 et jeudi 24 :
 D'Arles au Golfe de Fos ainsi qu'entre Trets et Aubagne, éclaircies prédominantes. Risque de temps généralement pluvieux de mercredi à la mi-journée jusqu'en fin de journée ; risque de formation de brume en seconde partie de nuit de mercredi à jeudi. Ailleurs, temps largement ensoleillé.
@@ -131,45 +131,45 @@ Températures minimales : similaires à la veille.
 Températures maximales : stationnaires.
 
 === BULLETIN DÉPARTEMENTAL GIRONDE (DEPT33) ===
-Emis le : 19/09/2026 06:30
+Emis le : 19/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Gironde est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Bordeaux : température de 9 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1023 hPa.
-Au Cap-Ferret : température de 13 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 10 km/h.
-A Libourne : température de 8 degrés, vent de secteur Nord soufflant jusqu'à 10 km/h.
+Aujourd'hui on observait à 09h :
+A Bordeaux : température de 12 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1024 hPa.
+Au Cap-Ferret : température de 17 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 15 km/h.
+A Libourne : température de 12 degrés, vent variable faible.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 19 :
-Le temps est ensoleillé du matin au soir.
-L'après-midi jusqu'en début de soirée, vent s'établissant au Nord modéré, sur le Nord-Ouest du département.
-Températures maximales : comprises entre 24 et 27 degrés.
+L'ensoleillement est excellent et le soleil règne sans partage.
+L'après-midi jusqu'en début de soirée, vent de Nord modéré, sur le Nord-Ouest du département.
+Températures maximales : entre 24 et 27 degrés.
 
 • Pour la nuit prochaine :
 Le temps est calme et propice à l'observation des étoiles.
-Vent variable, faible.
+Vent faible, variable.
 Températures minimales : autour de 10 à 13 degrés, et 9 degrés sur le littoral.
 
 • Pour demain dimanche 20 en journée et la nuit suivante :
-La journée est lumineuse, avec beaucoup de soleil. Pour la nuit : Le ciel est bien étoilé.
-En cours d'après-midi, vent s'établissant au Nord à Nord-Ouest assez fort, sur le littoral ; puis atténuation.
+La journée est lumineuse, avec beaucoup de soleil. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+Etablissement, en cours d'après-midi, d'un vent de Nord à Nord-Ouest assez fort, sur le littoral ; atténuation ensuite.
 Températures maximales pour le jour : comprises entre 28 et 31 degrés, et 27 degrés sur le littoral.
 Températures minimales pour la nuit suivante : sur la majeure partie sud du département de 10 à 13 degrés. De 14 à 15 degrés sur le Médoc et le Blayais.
 
 • Pour la journée de lundi 21 et la nuit suivante :
-Le soleil règne en maître du matin au soir. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
-Vent généralement modéré, de Nord-Est.
-Températures maximales pour le jour : entre 29 et 31 degrés, et 26 degrés sur le littoral.
-Températures minimales pour la nuit suivante : voisines de 12 à 15 degrés, et 19 degrés sur le littoral.
+Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : Le ciel est bien étoilé.
+Vent de Nord-Est, généralement modéré.
+Températures maximales pour le jour : de 29 à 31 degrés, et 26 degrés sur le littoral.
+Températures minimales pour la nuit suivante : autour de 12 à 15 degrés, et 19 degrés sur le littoral.
 
 • Pour la journée de mardi 22 :
-L'ensoleillement est excellent et le soleil règne sans partage.
-Vent de secteur Nord, généralement modéré.
-Températures maximales : comprises entre 29 et 32 degrés, et 28 degrés sur le littoral. Ces températures sont au-dessus des valeurs de saison, localement bien au-dessus.
+Le soleil est généreux tout au long de la journée.
+Vent généralement modéré, de secteur Nord.
+Températures maximales : entre 29 et 32 degrés, et 28 degrés sur le littoral. Ces températures se situent au-dessus des valeurs normalement observées, localement bien au-dessus.
 
 • Pour mercredi 23 et jeudi 24 :
 Soleil prédominant.
@@ -190,45 +190,45 @@ Températures minimales : en hausse.
 Températures maximales : identiques à la veille.
 
 === BULLETIN DÉPARTEMENTAL RHÔNE (DEPT69) ===
-Emis le : 19/09/2026 06:30
+Emis le : 19/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Lyon : température de 11 degrés, vent de secteur Sud-Est soufflant jusqu'à 5 km/h, pression niveau mer 1023 hPa.
-Aux Sauvages : température de 10 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 20 km/h.
-A Brindas : température de 14 degrés.
+Aujourd'hui on observait à 09h :
+A Lyon : température de 15 degrés, vent variable faible, pression niveau mer 1024 hPa.
+Aux Sauvages : température de 14 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 10 km/h.
+A Brindas : température de 16 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 19 :
-Le soleil est généreux tout au long de la journée.
+Le soleil règne en maître du matin au soir.
 Vent variable, faible.
-Températures maximales : entre 24 et 26 degrés.
+Températures maximales : de 24 à 26 degrés.
 
 • Pour la nuit prochaine :
 La présence d'un voile de nuages élevés ternit l'éclat des étoiles.
 Vent faible, variable.
-Températures minimales : entre 9 et 12 degrés, et 13 degrés dans le Beaujolais.
+Températures minimales : comprises entre 9 et 12 degrés, et 13 degrés dans le Beaujolais.
 
 • Pour demain dimanche 20 en journée et la nuit suivante :
-Le soleil est généralement voilé par des nuages. Pour la nuit : Le ciel est généralement voilé.
+Un voile nuageux filtre le soleil. Pour la nuit : Le ciel est généralement voilé.
 L'après-midi et la nuit suivante, établissement d'un vent de Nord à Nord-Ouest, généralement modéré.
-Températures maximales pour le jour : de 26 à 28 degrés.
+Températures maximales pour le jour : comprises entre 26 et 28 degrés.
 Températures minimales pour la nuit suivante : de 13 à 16 degrés, et 11 degrés dans les monts du Lyonnais.
 
 • Pour la journée de lundi 21 et la nuit suivante :
-Le ciel est passagèrement assez nuageux. Les nuages ont tendance à se dissiper l'après-midi, et en fin de journée, le soleil prend le dessus. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
-Vent de Nord modéré, en journée et une grande partie de la nuit suivante ; puis s'atténuant.
-Températures maximales pour le jour : comprises entre 25 et 28 degrés.
-Températures minimales pour la nuit suivante : de 10 à 13 degrés, et 9 degrés dans les monts du Lyonnais.
+Le ciel est passagèrement assez nuageux. Les nuages ont tendance à se dissiper l'après-midi, et en fin de journée, le soleil prend le dessus. Pour la nuit : Le ciel est bien étoilé.
+En journée et une grande partie de la nuit suivante, vent de Nord, modéré ; puis faiblissant.
+Températures maximales pour le jour : entre 25 et 28 degrés.
+Températures minimales pour la nuit suivante : entre 10 et 13 degrés, et 9 degrés dans les monts du Lyonnais.
 
 • Pour la journée de mardi 22 :
-Le soleil brille sans interruption.
+L'ensoleillement est excellent et le soleil règne sans partage.
 L'après-midi jusqu'en début de soirée, établissement d'un vent de Nord, souvent modéré.
-Températures maximales : comprises entre 26 et 29 degrés. Ces températures sont au-dessus des valeurs normalement observées.
+Températures maximales : entre 26 et 29 degrés. Ces températures sont au-dessus des valeurs de saison.
 
 • Pour mercredi 23 et jeudi 24 :
 Temps largement ensoleillé.
@@ -249,45 +249,45 @@ Températures minimales : en hausse sur l'Est-Lyonnais ainsi que des monts du Ly
 Températures maximales : en hausse dans les monts du Lyonnais ainsi qu'en zone de plaine.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 19/09/2026 06:30
+Emis le : 19/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Toulouse-Blagnac : température de 14 degrés, vent de secteur Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1022 hPa.
-A Luchon : température de 10 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 5 km/h.
-A Saint-Félix-Lauragais : température de 14 degrés, vent de secteur Ouest soufflant jusqu'à 20 km/h.
+Aujourd'hui on observait à 09h :
+A Toulouse-Blagnac : température de 16 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1024 hPa.
+A Luchon : température de 10 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 20 km/h.
+A Saint-Félix-Lauragais : température de 15 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 19 :
-Le temps est ensoleillé du matin au soir.
-Vent variable, faible.
-Températures maximales : entre 25 et 28 degrés.
+Le soleil brille sans interruption.
+Vent faible, variable.
+Températures maximales : de 25 à 28 degrés.
 
 • Pour la nuit prochaine :
-Le ciel est bien étoilé.
-Vent faible, variable.
-Températures minimales : comprises entre 8 et 11 degrés, et 12 degrés dans l'Agglomération toulousaine.
+Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+Vent variable, faible.
+Températures minimales : entre 8 et 11 degrés, et 12 degrés dans l'Agglomération toulousaine.
 
 • Pour demain dimanche 20 en journée et la nuit suivante :
-Le soleil est généreux tout au long de la journée. Pour la nuit : Le ciel est clair toute la nuit.
-En milieu d'après-midi, vent s'établissant au Nord-Ouest modéré, sur le Lauragais ; puis atténuation.
-Températures maximales pour le jour : sur la plaine et le piémont comprises entre 29 et 31 degrés. 27 degrés sur le Cagire et le Luchonnais.
+La journée est belle, le soleil est largement présent. Pour la nuit : Le ciel est bien étoilé.
+En cours d'après-midi, vent s'orientant au Nord-Ouest modéré, sur le Lauragais ; atténuation ensuite.
+Températures maximales pour le jour : sur la plaine et le piémont entre 29 et 31 degrés. 27 degrés sur le Cagire et le Luchonnais.
 Températures minimales pour la nuit suivante : sur la plaine et le piémont de 11 à 14 degrés. 9 degrés sur le Cagire et le Luchonnais.
 
 • Pour la journée de lundi 21 et la nuit suivante :
-L'ensoleillement est excellent et le soleil règne sans partage. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
-En seconde partie de journée, vent s'orientant au Nord-Ouest modéré, sur le Lauragais ; atténuation ensuite.
-Températures maximales pour le jour : de 30 à 32 degrés.
-Températures minimales pour la nuit suivante : de 10 à 13 degrés, et comprises entre 14 et 16 degrés du Lauragais aux coteaux de Cadours.
+Le soleil règne en maître du matin au soir. Pour la nuit : Le ciel est clair toute la nuit.
+L'après-midi, vent s'établissant au Nord-Ouest modéré, sur le Lauragais ; puis atténuation.
+Températures maximales pour le jour : comprises entre 30 et 32 degrés.
+Températures minimales pour la nuit suivante : entre 10 et 13 degrés, et de 14 à 16 degrés du Lauragais aux coteaux de Cadours.
 
 • Pour la journée de mardi 22 :
 Le soleil domine largement du matin au soir.
-Vent faible, variable.
-Températures maximales : entre 30 et 31 degrés.
+Vent variable, faible.
+Températures maximales : comprises entre 30 et 31 degrés.
 
 • Pour mercredi 23 et jeudi 24 :
 Soleil et ciel bleu prédominent.
@@ -334,12 +334,12 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Production d'électricité renouvelable et météo
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Suivi du temps en Belgique.
-• Infoclimat Direct : Cartes insolites #2
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 19/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -347,32 +347,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 19 Septembre 2026.
-Résumé général précédent : Sur les 15 prochains jours, un temps anticyclonique, sec et très doux pour la saison devrait dominer. Une évolution est possible en toute fin de période, avec un risque de dégradation en Méditerranée..
+Résumé général précédent : Un temps très majoritairement anticyclonique, sec et anormalement chaud pour la saison devrait dominer la quinzaine. Un changement de synoptique est toutefois possible en toute fin de période, avec un risque de dégradation orageuse en Méditerranée, mais il est très incertain..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé et anormalement chaud, surtout sur la moitié sud. Vent généralement faible..
+Températures attendues précédemment : Temps sec et très doux, avec un risque d'orages très pluvieux en Méditerranée à partir du 27/09 (échéance très lointaine)..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: DoubleKnacki
-Message:
-Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
-	Peu, très peu voire pas d'eau donc à attendre en effet sur une grande partie du pays avec fréquemment un mercure au-dessus des normes, encore plus nettement sur la moitié Sud (le Nord pourrait mieux s'en tirer thermiquement, par moments).
-	Modifié mercredi à 11:37 par DoubleKnacki
-								9
-								1
-
-=======================
-
-Auteur: AmourDaria
-Message:
-Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
-	L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
-	De l'assez belle arrière saison sans les pics de chaleur. 
-								1
-								5
-
-=======================
-
 Auteur: cris
 Message:
 Il y a 4 heures, AmourDaria a dit :
@@ -467,7 +447,7 @@ il y a 38 minutes, greedin a dit :
 			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
 	Effectivement ! Il serait puissant en plus...
 	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
-								5
+								6
 
 =======================
 
@@ -491,7 +471,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 16 heures par Sky blue
+	Modifié il y a 18 heures par Sky blue
 								1
 								1
 
@@ -537,7 +517,8 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 12 heures par petit âge glaciaire 11
+	Modifié il y a 14 heures par petit âge glaciaire 11
+								1
 
 =======================
 
@@ -547,6 +528,7 @@ il y a 1 minute, petit âge glaciaire 11 a dit :
 			Mais ça semble bouger et cela pourrait etre une vraie porte de sortie du blocage actuel
 	Je l’espere egalement.
 	C’est la N-ieme porte de sortie qui depuis cet été. Sortie qu’on attend toujours
+								1
 								1
 
 =======================
@@ -559,30 +541,48 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
+								1
+
+=======================
+
+Auteur: fran39
+Message:
+Le 16/09/2026 à 21:04, Ciel d&amp;#x27;encre a dit :
+			On frise ici l'incantation. 
+			(...)
+			Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
+	Je vous trouve un peu sévère ou catégorique. Le terme "vraies fraîcheurs automnales" est sans doute exagéré, et de toutes manière subjectif. Force est de constater qu'il y a une possibilité, qui me semble grandissante depuis hier, d'avoir une influence du cyclonisme sur l'Europe centrale (transit d'une goutte froide en milieu de semaine du Benelux aux Alpes) en termes de masse d'air sur l'est de la France en seconde partie de semaine.
+	@AmourDaria parlait de "vent continental" et en tout cas il y a bien cette possibilité vendredi prochain. Avec cela on serait loin des 32 °C à Paris régulièrement modélisés par IFS ces derniers jours (pour vendredi 25).
+	Donc :
+	pas non plus de vraie fraîcheur,
+	pas de remise en cause du temps très chaud pour la saison à l'ouest et au sud,
+	mais peut-être des matinées frisquettes à l'est et des maximales moins excessives qu'initialement envisagées
+	et malheureusement ce qui n'est pas remis en cause avec ce flux c'est la sécheresse puissante et les dangers de feux (quelques "pyrocumulus de beau temps" pas exclus...)
+								5
+								1
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+56 minutes ago, fran39 said:
+			Je vous trouve un peu sévère ou catégorique. Le terme "vraies fraîcheurs automnales" est sans doute exagéré, et de toutes manière subjectif. Force est de constater qu'il y a une possibilité, qui me semble grandissante depuis hier, d'avoir une influence du cyclonisme sur l'Europe centrale (transit d'une goutte froide en milieu de semaine du Benelux aux Alpes) en termes de masse d'air sur l'est de la France en seconde partie de semaine.
+			@AmourDaria parlait de "vent continental" et en tout cas il y a bien cette possibilité vendredi prochain. Avec cela on serait loin des 32 °C à Paris régulièrement modélisés par IFS ces derniers jours (pour vendredi 25).
+			Donc :
+			pas non plus de vraie fraîcheur,
+			pas de remise en cause du temps très chaud pour la saison à l'ouest et au sud,
+			mais peut-être des matinées frisquettes à l'est et des maximales moins excessives qu'initialement envisagées
+			et malheureusement ce qui n'est pas remis en cause avec ce flux c'est la sécheresse puissante et les dangers de feux (quelques "pyrocumulus de beau temps" pas exclus...)
+	Et oui mais encore une fois... Les ensembles...
+	En regardant les ensembles :
+	On voit pour Strasbourg que le determiste AIFS est en sortie de route. Même topo pour GEFS 12z...
+	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
+	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: DoubleKnacki
-Message:
-Cela me donne l'impression, juste en regardant d'en haut à Z500hpa, que l'on repart pour cette semaine du topic, sur une sorte de récurrence, de synoptique proche de ce que nous avons eu pendant " une partie " de cet été difficile. Du très rouge à un moment donné proche du pays au niveau de la couleur des geopotentiels, avec carrément du -6/-8°c à 500 hPa notamment en première partie de topic. Un précédant à cette altitude, pour une seconde décade de septembre ? On a basculé nettement dans quelque chose de vraiment particulier et inquiétant, sans vouloir faire de " sensationnalisme ".
-	Peu, très peu voire pas d'eau donc à attendre en effet sur une grande partie du pays avec fréquemment un mercure au-dessus des normes, encore plus nettement sur la moitié Sud (le Nord pourrait mieux s'en tirer thermiquement, par moments).
-	Modifié mercredi à 11:37 par DoubleKnacki
-								9
-								1
-
-=======================
-
-Auteur: AmourDaria
-Message:
-Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
-	L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
-	De l'assez belle arrière saison sans les pics de chaleur. 
-								1
-								5
-
-=======================
-
 Auteur: cris
 Message:
 Il y a 4 heures, AmourDaria a dit :
@@ -677,7 +677,7 @@ il y a 38 minutes, greedin a dit :
 			c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
 	Effectivement ! Il serait puissant en plus...
 	Bon, au-delà de 240 heures tout de même, c'est à ne pas prendre au pied de la lettre. On retiendra qu'il y a un potentiel sur la période. 
-								5
+								6
 
 =======================
 
@@ -701,7 +701,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 16 heures par Sky blue
+	Modifié il y a 18 heures par Sky blue
 								1
 								1
 
@@ -747,7 +747,8 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 12 heures par petit âge glaciaire 11
+	Modifié il y a 14 heures par petit âge glaciaire 11
+								1
 
 =======================
 
@@ -757,6 +758,7 @@ il y a 1 minute, petit âge glaciaire 11 a dit :
 			Mais ça semble bouger et cela pourrait etre une vraie porte de sortie du blocage actuel
 	Je l’espere egalement.
 	C’est la N-ieme porte de sortie qui depuis cet été. Sortie qu’on attend toujours
+								1
 								1
 
 =======================
@@ -769,5 +771,43 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
+								1
+
+=======================
+
+Auteur: fran39
+Message:
+Le 16/09/2026 à 21:04, Ciel d&amp;#x27;encre a dit :
+			On frise ici l'incantation. 
+			(...)
+			Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
+	Je vous trouve un peu sévère ou catégorique. Le terme "vraies fraîcheurs automnales" est sans doute exagéré, et de toutes manière subjectif. Force est de constater qu'il y a une possibilité, qui me semble grandissante depuis hier, d'avoir une influence du cyclonisme sur l'Europe centrale (transit d'une goutte froide en milieu de semaine du Benelux aux Alpes) en termes de masse d'air sur l'est de la France en seconde partie de semaine.
+	@AmourDaria parlait de "vent continental" et en tout cas il y a bien cette possibilité vendredi prochain. Avec cela on serait loin des 32 °C à Paris régulièrement modélisés par IFS ces derniers jours (pour vendredi 25).
+	Donc :
+	pas non plus de vraie fraîcheur,
+	pas de remise en cause du temps très chaud pour la saison à l'ouest et au sud,
+	mais peut-être des matinées frisquettes à l'est et des maximales moins excessives qu'initialement envisagées
+	et malheureusement ce qui n'est pas remis en cause avec ce flux c'est la sécheresse puissante et les dangers de feux (quelques "pyrocumulus de beau temps" pas exclus...)
+								5
+								1
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+56 minutes ago, fran39 said:
+			Je vous trouve un peu sévère ou catégorique. Le terme "vraies fraîcheurs automnales" est sans doute exagéré, et de toutes manière subjectif. Force est de constater qu'il y a une possibilité, qui me semble grandissante depuis hier, d'avoir une influence du cyclonisme sur l'Europe centrale (transit d'une goutte froide en milieu de semaine du Benelux aux Alpes) en termes de masse d'air sur l'est de la France en seconde partie de semaine.
+			@AmourDaria parlait de "vent continental" et en tout cas il y a bien cette possibilité vendredi prochain. Avec cela on serait loin des 32 °C à Paris régulièrement modélisés par IFS ces derniers jours (pour vendredi 25).
+			Donc :
+			pas non plus de vraie fraîcheur,
+			pas de remise en cause du temps très chaud pour la saison à l'ouest et au sud,
+			mais peut-être des matinées frisquettes à l'est et des maximales moins excessives qu'initialement envisagées
+			et malheureusement ce qui n'est pas remis en cause avec ce flux c'est la sécheresse puissante et les dangers de feux (quelques "pyrocumulus de beau temps" pas exclus...)
+	Et oui mais encore une fois... Les ensembles...
+	En regardant les ensembles :
+	On voit pour Strasbourg que le determiste AIFS est en sortie de route. Même topo pour GEFS 12z...
+	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
+	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
 								1
