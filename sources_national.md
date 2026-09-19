@@ -309,7 +309,7 @@ Températures minimales : en hausse dans l'Agglomération toulousaine, dans le V
 Températures maximales : en baisse sur le Lauragais.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 190355 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le samedi 19 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 19 septembre 2026 à 00H00 UTC, et évolution Dépression relative 1016 hPa au large des côtes Provençales, se comblant ce matin. Hautes pressions se renforçant progressivement 1020/1022 hPa cet après-midi, puis 1022/1025 hPa demain matin, avec faible gradient de pression. 3 - Prévisions pour la journée du samedi 19 septembre VENT : - à l'ouest de Sicié : Nord à Nord-Ouest 4 à 5, mais localement 2 à 4 de Cap Couronne à Sicié, mollissant Ouest à Nord-Ouest 2 à 3 l'après-midi. - à l'est de Sicié : Est à Nord-Est 3 à 4, mollissant 2 à 3 en fin d'après-midi. MER : belle à peu agitée, s'atténuant belle en fin d'après-midi. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette au Levant le matin. TEMPS : ensoleillé avec léger voile, quelques nuages le matin à l'est de Sicié. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 19 septembre au dimanche 20 septembre VENT : Nord à Nord-Ouest 1 à 3, parfois 4 vers Saint-Raphaël, revenant Nord à Nord-Ouest en seconde partie de nuit, mais localement Variable à l'ouest de Cap Croisette. MER : belle. HOULE : non significative. TEMPS : ciel clair. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 20 septembre VENT : Nord à Nord-Ouest dominant 1 à 3, parfois 4 à l'ouest du Cap Croisette, fraîchissant Ouest à Sud-Ouest 2 à 4 en milieu d'après-midi. MER : belle. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 20 au 21 et la journée du lundi 21 septembre VENT : De Port Camargue à Marseille Nord à Nord-Ouest 3 à 5, virant Nord-Est 2 à 4 en début de matinée. De Marseille à St Raphaël Ouest à Sud-Ouest 2 à 4 revenant Sud à Sud-Ouest 2 à 4. MER : belle à peu agitée. HOULE dominante de Nord à Nord-Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Mardi 22 septembre Secteur Nord-Est faible à modéré autour de la Corse. Secteur Nord dominant ailleurs, puis Variable faible l'après-midi. Indice de confiance : 4 sur 5 Mercredi 23 septembre Secteur Est modéré de Saint-Raphaël à Menton. Variable faible de Saint-Raphaël à la frontière espagnole et en Corse. Indice de confiance : 3 sur 5 Jeudi 24 septembre Variable faible avec un risque de secteur Nord modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 25 septembre Variable faible avec un risque de Secteur Nord-Est modéré à assez fort autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le samedi 19 septembre 2026 à 03H00 UTC Cap Camarat : vent Nord 6 noeuds, rafales 16 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Nord 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 12 noeuds, 1017 hPa en hausse. Porquerolles : vent Est 6 noeuds, rafales 16 noeuds. Cap Couronne : vent Nord 10 noeuds. Prochain bulletin le samedi 19 septembre 2026, vers 13H00 légales
+FQCT40 LFML 190955 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le samedi 19 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 19 septembre 2026 à 06H00 UTC, et évolution Hautes pressions se renforçant progressivement 1020/1022 hPa cet après-midi, puis 1022/1025 hPa demain matin, avec faible gradient de pression. 3 - Prévisions pour l'après-midi du samedi 19 septembre VENT : - à l'ouest de Sicié : Ouest à Nord-Ouest 2 à 3. - à l'est de Sicié : Est à Nord-Est 2 à 4. MER : belle à peu agitée, s'atténuant belle en fin d'après-midi. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette au Levant le matin. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 19 septembre au dimanche 20 septembre VENT : Variable 1 à 3, s'orientant Nord à Nord-Ouest 2 à 4 en seconde partie de nuit. MER : belle. HOULE : non significative. TEMPS : ciel clair. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 20 septembre VENT : Nord à Nord-Ouest 2 à 4, revenant Ouest à Sud-Ouest en milieu d'après-midi. MER : belle. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 20 au 21 et la journée du lundi 21 septembre VENT : - de Port Camargue au Cap Croisette : secteur Ouest 2 à 4, fraîchissant localement Nord à Nord-Ouest 4 à 5, parfois 6 en milieu de nuit. Rafales. - du Cap Croisette à Saint-Raphaël : Ouest à Sud-Ouest 2 à 4, virant Est 1 à 3 en fin de nuit, puis Sud l'après-midi. MER : belle, localement peu agitée à l'ouest du Cap Croisette. HOULE : non significative. TEMPS : beau temps, voilé. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 21 au 22 et la journée du mardi 22 septembre VENT : De Port Camargue à Marseille Nord 4 à 6, devenant variable 1 à 3 en cours de matinée. De Marseille à St Raphaël variable 1 à 3. MER : belle à peu agitée. HOULE dominante de Nord-Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Mercredi 23 septembre Secteur Ouest faible à modéré. Indice de confiance : 4 sur 5 Jeudi 24 septembre Secteur Ouest modéré à assez fort. Indice de confiance : 4 sur 5 Vendredi 25 septembre Nord faible à modéré dans le Golfe du Lion, Nord-Est modéré à assez fort entre Corse et continent. Indice de confiance : 3 sur 5 Samedi 26 septembre Nord-Est faible à modéré. Indice de confiance : 3 sur 5 9 - Observations le samedi 19 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord-Est 12 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Nord-Est 8 noeuds, nuageux avec éclaircies, visibilité 10 milles. Le Levant : vent Est-Nord-Est 12 noeuds, 1020 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds. Cap Couronne : vent Nord-Ouest 4 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le samedi 19 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -334,12 +334,12 @@ risque est encore très marginal.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Temps en Italie (depuis 2017)
+• Infoclimat Direct : Temps en Italie (depuis 2017)
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 19/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -347,9 +347,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 19 Septembre 2026.
-Résumé général précédent : Un temps très majoritairement anticyclonique, sec et anormalement chaud pour la saison devrait dominer la quinzaine. Un changement de synoptique est toutefois possible en toute fin de période, avec un risque de dégradation orageuse en Méditerranée, mais il est très incertain..
+Résumé général précédent : Temps majoritairement anticyclonique, sec et anormalement chaud pour la saison sur la quinzaine. Une possible dégradation orageuse en Méditerranée et un léger refroidissement sur l’Est sont à surveiller en toute fin de période, mais restent incertains..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et très doux, avec un risque d'orages très pluvieux en Méditerranée à partir du 27/09 (échéance très lointaine)..
+Températures attendues précédemment : Temps sec, ensoleillé, très doux ; possible tassement des températures sur l’Est en fin de semaine. (107 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -471,7 +471,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 18 heures par Sky blue
+	Modifié il y a 20 heures par Sky blue
 								1
 								1
 
@@ -517,7 +517,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 14 heures par petit âge glaciaire 11
+	Modifié il y a 16 heures par petit âge glaciaire 11
 								1
 
 =======================
@@ -541,7 +541,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 13 heures par giec 2100
+	Modifié il y a 15 heures par giec 2100
 								1
 
 =======================
@@ -580,7 +580,7 @@ Message:
 	On voit pour Strasbourg que le determiste AIFS est en sortie de route. Même topo pour GEFS 12z...
 	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
 	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
-								1
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: cris
@@ -701,7 +701,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 18 heures par Sky blue
+	Modifié il y a 20 heures par Sky blue
 								1
 								1
 
@@ -747,7 +747,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 14 heures par petit âge glaciaire 11
+	Modifié il y a 16 heures par petit âge glaciaire 11
 								1
 
 =======================
@@ -771,7 +771,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 13 heures par giec 2100
+	Modifié il y a 15 heures par giec 2100
 								1
 
 =======================
@@ -810,4 +810,4 @@ Message:
 	On voit pour Strasbourg que le determiste AIFS est en sortie de route. Même topo pour GEFS 12z...
 	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
 	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
-								1
+								2
