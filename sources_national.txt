@@ -332,11 +332,11 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Le topic du Jardinage
+• Infoclimat Direct : Suivi du temps &#xE0; Montréal
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 19/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -344,46 +344,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 19 Septembre 2026.
-Résumé général précédent : Quinzaine marquée par un temps anticyclonique, sec et anormalement chaud pour la saison, surtout à l’ouest et au sud. Une possible dégradation orageuse en Méditerranée et un léger refroidissement sur l’est sont à surveiller en toute fin de période, mais restent incertains..
+Résumé général précédent : Poursuite d’un temps anticyclonique, sec et anormalement chaud pour la saison sur une grande partie du pays, avec une possible évolution en fin de quinzaine vers un déblocage orageux en Méditerranée et une baisse des températures sur l’est..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et très doux; en fin de semaine, risque d’orages ou de pluies en Méditerranée, notamment entre le 27 et le 4 octobre. (118 caractères).
+Températures attendues précédemment : Temps sec, ensoleillé et chaud pour la saison ; matinées parfois fraîches dans l’intérieur..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: cris
-Message:
-Il y a 4 heures, AmourDaria a dit :
-			Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
-			L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
-			De l'assez belle arrière saison sans les pics de chaleur. 
-	Pour le Nord et l’Est mais pour le sud Ca reste malheureusement toujours la même rengaine chaude et sèche.
-								1
-								1
-
-=======================
-
-Auteur: Ciel d&#039;encre
-Message:
-Il y a 4 heures, AmourDaria a dit :
-			Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
-			L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
-			De l'assez belle arrière saison sans les pics de chaleur. 
-	On frise ici l'incantation. 
-	Diagramme au Centre-Ouest 
-	Diagramme au Sud-Ouest : 
-	Diagramme en île de France
-	Diagramme au Centre-Est
-	Diagramme au Sud-Est
-	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
-	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié mercredi à 19:12 par Ciel d&#039;encre
-								31
-								4
-								1
-								5
-
-=======================
-
 Auteur: Jojobarbar
 Message:
 Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de vue.
@@ -468,7 +434,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 22 heures par Sky blue
+	Modifié hier à 13:38 par Sky blue
 								1
 								1
 
@@ -514,7 +480,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 18 heures par petit âge glaciaire 11
+	Modifié il y a 20 heures par petit âge glaciaire 11
 								1
 
 =======================
@@ -538,7 +504,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -556,8 +522,8 @@ Le 16/09/2026 à 21:04, Ciel d&amp;#x27;encre a dit :
 	pas de remise en cause du temps très chaud pour la saison à l'ouest et au sud,
 	mais peut-être des matinées frisquettes à l'est et des maximales moins excessives qu'initialement envisagées
 	et malheureusement ce qui n'est pas remis en cause avec ce flux c'est la sécheresse puissante et les dangers de feux (quelques "pyrocumulus de beau temps" pas exclus...)
-								6
-								1
+								7
+								2
 								1
 
 =======================
@@ -578,42 +544,29 @@ Message:
 	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
 	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
 								4
+
+=======================
+
+Auteur: giec 2100
+Message:
+pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos scénarios cacophoniques j'illustrerais la chose avec le seul diagramme de Bordeaux, mouture GEFS 6h, où rien n'est bien établi quant au déverrouillage franc anticyclonique : 
+	outre la tendance baissière "consensuelle" jusqu'au 23 on a le déterministe qui plonge au fond du tube par la suite ; 
+	un tube? un vrai caniveau vue la largeur... 
+	ainsi vont parfois les espérances... 
+	à mon avis, de façon ad nauseam, même régime : 
+	cagnard, sec et sous l'influence de la botte lointaine de Patator ou directe de son excroissance...
+	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
+	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
+	Modifié il y a 1 heure par giec 2100
+
+=======================
+
+Auteur: Plancher
+Message:
+Effectivement, aucun déblocage ne semble possible pour ce topic. Pour le suivant, a priori, pas grand chose à espérer.
+	Mais, je suppose que cela ne durera pas éternellement.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: cris
-Message:
-Il y a 4 heures, AmourDaria a dit :
-			Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
-			L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
-			De l'assez belle arrière saison sans les pics de chaleur. 
-	Pour le Nord et l’Est mais pour le sud Ca reste malheureusement toujours la même rengaine chaude et sèche.
-								1
-								1
-
-=======================
-
-Auteur: Ciel d&#039;encre
-Message:
-Il y a 4 heures, AmourDaria a dit :
-			Moi je vois avec le repositionnement progressif de run en run CEP du centre anticyclonique et des hautes pressions associées, le contraire du retour ou de l'installation de quelqconque chaleur, plutôt les premières vraies fraicheurs automnales notamment pour le nord et l'est de la France, nocturnes et mêmes diurnes sous le vent continental. 
-			L'ensoleillement restant élevé et l'absence de pluie reconduite au moins pour un temps. 
-			De l'assez belle arrière saison sans les pics de chaleur. 
-	On frise ici l'incantation. 
-	Diagramme au Centre-Ouest 
-	Diagramme au Sud-Ouest : 
-	Diagramme en île de France
-	Diagramme au Centre-Est
-	Diagramme au Sud-Est
-	On retrouve bien les signaux d'une solide crête subtropicale stationnaire advectant de l'air Saharien du Maroc vers la France (au paroxysme à l'ouest) jusqu'en fin d'échéance. Elle porte une masse d'air à des niveaux de température très au dessus des moyennes de saison. 
-	C'est une continuité des récurrences de cet été en matière de dynamique atmosphérique (sans atteindre les mêmes valeurs thermiques, évidemment). Elle se terminera certainement avec l'avancée dans la saison, en lien avec le renforcement du vortex polaire, mais pas en septembre ...à priori. Tout indique que nous n'en sommes pas encore au "retour ou de l'installation (...) des premières vraies fraicheurs automnales". 
-	Modifié mercredi à 19:12 par Ciel d&#039;encre
-								31
-								4
-								1
-								5
-
-=======================
-
 Auteur: Jojobarbar
 Message:
 Bien d'accord avec les analyses précédentes, c'est anticyclonique à perte de vue.
@@ -698,7 +651,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié il y a 22 heures par Sky blue
+	Modifié hier à 13:38 par Sky blue
 								1
 								1
 
@@ -744,7 +697,7 @@ Effectivement il y a des signaux d'une baisse des géopotentiels sur la France s
 	GFS :
 	GEM :
 	AIFS :
-	Modifié il y a 18 heures par petit âge glaciaire 11
+	Modifié il y a 20 heures par petit âge glaciaire 11
 								1
 
 =======================
@@ -768,7 +721,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -786,8 +739,8 @@ Le 16/09/2026 à 21:04, Ciel d&amp;#x27;encre a dit :
 	pas de remise en cause du temps très chaud pour la saison à l'ouest et au sud,
 	mais peut-être des matinées frisquettes à l'est et des maximales moins excessives qu'initialement envisagées
 	et malheureusement ce qui n'est pas remis en cause avec ce flux c'est la sécheresse puissante et les dangers de feux (quelques "pyrocumulus de beau temps" pas exclus...)
-								6
-								1
+								7
+								2
 								1
 
 =======================
@@ -808,3 +761,24 @@ Message:
 	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
 	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
 								4
+
+=======================
+
+Auteur: giec 2100
+Message:
+pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos scénarios cacophoniques j'illustrerais la chose avec le seul diagramme de Bordeaux, mouture GEFS 6h, où rien n'est bien établi quant au déverrouillage franc anticyclonique : 
+	outre la tendance baissière "consensuelle" jusqu'au 23 on a le déterministe qui plonge au fond du tube par la suite ; 
+	un tube? un vrai caniveau vue la largeur... 
+	ainsi vont parfois les espérances... 
+	à mon avis, de façon ad nauseam, même régime : 
+	cagnard, sec et sous l'influence de la botte lointaine de Patator ou directe de son excroissance...
+	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
+	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
+	Modifié il y a 1 heure par giec 2100
+
+=======================
+
+Auteur: Plancher
+Message:
+Effectivement, aucun déblocage ne semble possible pour ce topic. Pour le suivant, a priori, pas grand chose à espérer.
+	Mais, je suppose que cela ne durera pas éternellement.
