@@ -285,11 +285,10 @@ FQCT40 LFQQ 191625 Origine Météo-France . Bulletin côtier pour la bande des 2
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (J+2 et J+3) :
-J+2 et J+3 ﻿Pas de phénomène météorologique dangereux prévu pour 
-ces deux jours.
+Poursuite de fortes chaleurs sur une grande partie du pays. Risque d'orages localisés sur les régions centrales et le nord.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (De J+4 à J+7) :
-De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
+Baisse progressive des températures par l'ouest et le nord. Maintien d'un risque d'orages d'évolution diurne et de chaleur résiduelle au sud-est.
 
 === RISQUE D'ORAGES & INDICES CONVECTIFS (KERAUNOS, BLITZORTUNG, METEOTEL XML) ===
 • Blitzortung / Keraunos : Détection des impacts de foudre en temps réel (Token 0). Indice de convection CAPE/LI sous surveillance.
@@ -303,10 +302,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Prévisions Nord - Septembre 2026
-• Infoclimat Direct : Aidez nous &#xE0; recenser les erreurs de notre base climatologique
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 19/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,9 +313,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 19 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France restent sous l'influence d'un anticyclone, avec un temps sec et ensoleillé, des températures douces à chaudes pour la saison, et une possible dégradation en toute fin de période mais très incertaine..
+Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France restent sous l’influence d’un anticyclone : temps sec, ensoleillé et doux à chaud pour la saison, avec des nuits fraîches. Une dégradation très incertaine se dessine pour la fin de période..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec et ensoleillé, maximales 20-26°C, minimales fraîches..
+Températures attendues précédemment : Temps généralement sec et ensoleillé, rafraîchissement possible par l’est en fin de semaine. (90 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -462,7 +461,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 18:45 par giec 2100
 								1
 
 =======================
@@ -501,7 +500,7 @@ Message:
 	On voit pour Strasbourg que le determiste AIFS est en sortie de route. Même topo pour GEFS 12z...
 	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
 	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
-								4
+								5
 
 =======================
 
@@ -515,7 +514,7 @@ pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos 
 	cagnard, sec et sous l'influence de la botte lointaine de Patator ou directe de son excroissance...
 	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
 	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
-	Modifié il y a 5 heures par giec 2100
+	Modifié il y a 7 heures par giec 2100
 								1
 
 =======================
@@ -535,7 +534,7 @@ Il y a 8 heures, Jojobarbar a dit :
 	En fait la tendance est à l'amincissement de la puissante dorsale, très en forme en début de semaine...
 	Ce soir, cette tendance semble faire l'unanimité parmi les modèles (l'ensemble du pauvre : ARPEGE, ICON, GFS, ...)
 	Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
-								12
+								15
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: Plancher
@@ -680,7 +679,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 18:45 par giec 2100
 								1
 
 =======================
@@ -719,7 +718,7 @@ Message:
 	On voit pour Strasbourg que le determiste AIFS est en sortie de route. Même topo pour GEFS 12z...
 	Je suis d'accord que l'est à une probabilité loin d'être nulle d'être soumis à de la fraîcheur, mais quand on voit l'évolution des ensembles ces scénarios deviennent rares, ou moins frais. 
 	Attention vraiment à replacer les determistes dans leurs ensembles à ces échéances sinon après on parle de "mirages".
-								4
+								5
 
 =======================
 
@@ -733,7 +732,7 @@ pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos 
 	cagnard, sec et sous l'influence de la botte lointaine de Patator ou directe de son excroissance...
 	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
 	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
-	Modifié il y a 5 heures par giec 2100
+	Modifié il y a 7 heures par giec 2100
 								1
 
 =======================
@@ -753,4 +752,4 @@ Il y a 8 heures, Jojobarbar a dit :
 	En fait la tendance est à l'amincissement de la puissante dorsale, très en forme en début de semaine...
 	Ce soir, cette tendance semble faire l'unanimité parmi les modèles (l'ensemble du pauvre : ARPEGE, ICON, GFS, ...)
 	Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
-								12
+								15
