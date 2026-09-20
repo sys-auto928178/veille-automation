@@ -301,12 +301,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Du 21 septembre au 27 septembre 2026 prévisions météo semaine 39
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Prévisions &#xCE;le-de-France Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Le topic du Jardinage
+• Infoclimat Direct : &#x200B;&#x2728;&#x200B; &#x1D40B;&#x1D41A; &#x1D402;&#x1D428;&#x1D42E;&#x1D429;&#x1D41E; &#x1D41D;&#x1D41E; &#x1D405;&#x1D42B;&#x1D41A;&#x1D427;&#x1D41C;&#x1D41E; &#x1D41D;&#x1D41E;&#x1D42C; &#x1D402;&#x1D425;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D42C; &#x1D7D0;&#x1D7CE;&#x1D7D0;&#x1D7D4; &#x200B;&#x2728;&#x200B;&#x200B; Poule 7 : Ajaccio, Clermont Ferrand, Rodez, Nancy
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 20/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,39 +314,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 20 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours, les Hauts-de-France restent sous l’influence d’un puissant anticyclone : temps sec, très ensoleillé et doux pour la saison. Une possible dégradation se dessine après le 30 septembre, mais elle reste très hypothétique..
+Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France restent sous la domination d'un anticyclone : temps sec, ensoleillé et doux pour la saison. La chaleur est modérée, avec un pic possible autour du 24-25 septembre. Une dégradation est envisagée après le 30 septembre, mais elle reste très hypothétique pour la région..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé, pas de précipitations, pas d’orages ; températures en hausse en milieu de semaine..
+Températures attendues précédemment : Soleil généreux, fraîcheur matinale, douceur l'après-midi. Rafales possibles sur le littoral jeudi/vendredi. (112 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: giec 2100
-Message:
-pire qu'une corvée de pluche cette météo ?
-	Modifié jeudi à 15:41 par giec 2100
-								1
-								1
-
-=======================
-
-Auteur: Blacksun
-Message:
-Il y a 4 heures, Grahok73 a dit :
-			Trop fastoche les prévis TLT... Une seule image suffit...
-	Ouais et on espère que ce n'est pas que le début, d'accord, d'accord...
-								1
-								4
-								2
-								1
-
-=======================
-
-Auteur: greedin
-Message:
-c'est pas une medicane qui est modélisé entre le 27 et le 4 octobre en meditéranée ? (ça reste trés trés trés loin en écheance)
-
-=======================
-
 Auteur: Ciel d&#039;encre
 Message:
 il y a 38 minutes, greedin a dit :
@@ -544,7 +517,41 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
+								1
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+Le 19/09/2026 à 18:22, fran39 a dit :
+			Mon propos ce matin était juste de nuancer l'aspect "chaleur généralisée et durable" sur la semaine prochaine, et de noter une évolution indéniable de l'ensemble des modèles à réduire l'ampleur géographique de la masse d'air très chaud en seconde partie de semaine. J'en ai indiqué les raisons (circulation d'un thalweg/goutte froide du Benelux aux Alpes à partir de mercredi). L'évolution des runs d'AIFS déterministes en T850 hPa pour vendredi prochain 12 UTC est particulièrement frappante. On partait lundi mardi de cette semaine à du 16/20 °C généralisés sur la France (plage en orange) pour voir cette plage se limiter de plus en plus à l'Ouest, puis finalement à l'Aquitaine, puis finalement au littoral aquitain.
+			En fait la tendance est à l'amincissement de la puissante dorsale, très en forme en début de semaine...
+			Ce soir, cette tendance semble faire l'unanimité parmi les modèles (l'ensemble du pauvre : ARPEGE, ICON, GFS, ...)
+			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
+	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
+	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
+	Modifié il y a 1 heure par Ciel d&#039;encre
+								1
+								1
+								3
+
+=======================
+
+Auteur: fran39
+Message:
+Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
+	Edit : finalement la seule question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devront nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir ?
+	Modifié il y a 1 heure par fran39
+								1
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 2 minutes, fran39 a dit :
+			Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... 
+	Non, tu as eu raison d'apporter une nuance en l'argumentant. C'est aussi ce qui fait l'intérêt du forum. 
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -557,5 +564,5 @@ Bonsoir,
 	Plus il restera en retrait sur l'océan plus l'absence de pluies se fera cruellement sentir, plus il sera mobile vers le continent plus la possibilité de pluies voire d'épisode méditerranéen sera d'actualité. 
 	En tout état de cause, il paraît presque acquis que la bascule en flux de sud sera effective et à même de maintenir des températures hautes pour la saison.
 	Si la voie de l'océan voulait bien prendre de l'ampleur, le changement de saison pourrait se confirmer au niveau de l'humidité, ce ne serait pas un luxe! 
-								11
-								3
+								13
+								4
