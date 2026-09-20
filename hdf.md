@@ -1,132 +1,129 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
 **Généré le :** Dimanche 20 Septembre 2026
-**Période :** Semaine 1 (Semaine 1 : du lundi 21 au dimanche 27 septembre 2026) & Semaine 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026)
+**Période :** Semaine 1 (Du lundi 21 septembre au dimanche 27 septembre 2026) & Semaine 2 (Du lundi 28 septembre au dimanche 4 octobre 2026 (⚠️ Le sujet spécifique de la Semaine 40 n'est pas encore ouvert sur le forum Infoclimat ; analyse fondée sur les projections à long terme du sujet Semaine 39).)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Fort consensus pour la semaine 1 ; consensus faible pour la semaine 2.*
-- **Fiabilité du scénario majoritaire :** Blocage anticyclonique persistant — *Scénario très majoritaire : sec et chaud jusqu'au 2 octobre au moins. Scénario de dégradation minoritaire.*
+- **Consensus des modèles :** Modéré — *Semaine 1 très consensuelle ; semaine 2 ouverte, sans sujet forum S40.*
+- **Fiabilité du scénario majoritaire :** Sec et anticyclonique prolongé — *La sortie de blocage est évoquée mais sans scénario majoritaire ni pluie fiable avant le 2/10.*
 - **Stabilité des cartes/scénarios :** 6 / 102 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Incertitude forte en semaine 2 — *Les modèles divergent nettement au-delà du 30 septembre ; aucune discussion dédiée sur le forum.*
+- **Niveau d'incertitude global :** Forte après le 30 septembre — *Échéances >180h, déterministes changeants, ensembles hésitants.*
 
-## 🗓️ SEMAINE 1 : Semaine 1 : du lundi 21 au dimanche 27 septembre 2026
+## 🗓️ SEMAINE 1 : Du lundi 21 septembre au dimanche 27 septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Blocage anticyclonique : Temps sec et très ensoleillé sur l'ensemble des Hauts-de-France, sans précipitation significative.
-2. Douceur marquée : Températures maximales de 20 à 25°C sous abri, minimales souvent fraîches (5 à 12°C).
-3. Vent de Nord-Ouest : Vent modéré, avec des rafales possibles près des littoraux Nord, Pas-de-Calais et Somme, notamment jeudi.
-4. Sécheresse persistante : Aucune pluie attendue, sols superficiels très secs, évapotranspiration élevée.
-5. Fin de semaine sous surveillance : Des signaux de baisse des géopotentiels apparaissent, sans scénario fiable à ce stade.
+1. Blocage anticyclonique : Temps sec et très ensoleillé toute la semaine sur les Hauts-de-France grâce à l'anticyclone.
+2. Pic de douceur : Maximales de 24 à 26°C dans l'intérieur, 22°C sur le littoral jeudi et vendredi.
+3. Nuits fraîches : Minimales de 5 à 12°C selon les départements et la proximité de la mer.
+4. Vent changeant : Vent de Nord-Ouest en début de semaine, puis Sud-Est en fin de semaine avec rafales littorales.
+5. Aucune pluie : Aucune précipitation n'est modélisée de façon fiable jusqu'au 27 septembre sur la région.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Temps sec et ensoleillé sur les HDF du lundi 21 au dimanche 27 septembre : convergence totale entre Météo-France, GFS, ECMWF/AIFS, GEFS.
-- Températures maximales comprises entre 20 et 25°C, avec un pic possible mercredi 23.
-- Vent modéré de Nord-Ouest, avec rafales côtières possibles jeudi 24 et vendredi 25.
+- Anticyclone puissant : aucun scénario pluvieux pour les HDF entre lundi et dimanche.
+- Températures : douceur diurne généralisée 20-26°C, fraîcheur matinale 5-12°C.
+- Vent : bascule du Nord-Ouest en début de semaine vers le Sud-Est en fin de semaine.
 **Points de divergence :**
-- Date et réalité d'une éventuelle baisse des géopotentiels en fin de semaine : certains modèles (GFS, GEM, AIFS) évoquent une porte de sortie, d'autres non.
-- Niveau de chaleur en seconde partie de semaine : les maximales pourraient être moins élevées que prévu à l'est, avec un fort dégradé ouest/sud-ouest.
-- Fraîcheur matinale : possible dans l'intérieur, mais localisation exacte incertaine.
+- Une goutte froide pourrait circuler du Benelux aux Alpes en milieu/fin de semaine, mais les ensembles la voient plus rarement et moins intense.
+- L'ampleur de la chaleur jeudi/vendredi varie selon les modèles : AIFS déterministe plus chaud, GEFS plus modéré.
+- L'impact sur les HDF est incertain : plutôt un simple abaissement des maximales à l'est qu'une vraie dégradation pluvieuse.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Météo-France XML / SCHAPI (bulletins départementaux 59, 62, 80, 60, 02)** (Documented) | Anticyclone durable : ciel bleu, ensoleillement généreux, aucune précipitation, températures maximales 20-25°C, minimales 5-12°C. Vent Nord-Ouest modéré, rafales côtières jeudi. | Temps sec et ensoleillé, rafales de Nord-Ouest sur le littoral, fraîcheur matinale dans l'intérieur. | Ensemble des Hauts-de-France (Nord, Pas-de-Calais, Somme, Oise, Aisne) | Élevée (90%) – bulletins officiels détaillés pour chaque département | Accord total entre les 5 bulletins départementaux : temps sec, ensoleillé, vent modéré de secteur Nord-Ouest, rafales locales sur le littoral. Températures maximales en légère hausse en fin de semaine. |
-| **ECMWF / AIFS** (Documented) | Dorsale anticyclonique solide en début de semaine, avec un amincissement possible en seconde partie de semaine. Pas de déblocage franc modélisé ; possibilité de fraîcheurs matinales à l'est. | Temps sec, chaleur modérée, minimales parfois inférieures à 10°C. | France, plus particulièrement HDF en marge ouest de la dorsale | Modérée (65%) – modèle cité pour la France, pas spécifiquement pour les HDF | L'analyse des T850 hPa montre une réduction de la poche de chaleur vers l'ouest. Les ensembles restent indécis sur une éventuelle goutte froide. Aucun signal pluvieux net pour les HDF. |
-| **GFS (déterministe)** (Documented) | Maintien de l'anticyclone, baisse possible des géopotentiels par l'est en fin de période, sans conséquences notables pour le Nord. | Temps sec, soleil, pas de précipitation pour les HDF. | Est de la France, Méditerranée ; HDF en marge | Modérée (60%) – cité comme modèle de référence pour les signaux de fin septembre | GFS modélise une approche de bas géopotentiels sous forme de gouttes froides par l'est. Pour les HDF, l'impact serait limité ; la sécheresse resterait dominante. |
-| **GEM** (Documented) | Scénario similaire à GFS : baisse des géopotentiels, approche de goutte froide par l'est, pas de certitude sur les effets dans le nord. | Aucune précipitation notable pour les HDF. | Est de la France | Faible à modérée (55%) – brièvement mentionné | GEM s'aligne sur les autres modèles pour une baisse des géopotentiels à 500 hPa, mais sans précision pour les Hauts-de-France. |
-| **GEFS (ensembles)** (Documented) | Confirmation d'un temps sec et chaud durable : très peu de précipitations modélisées jusqu'au 2 octobre au moins. | Sécheresse, chaleur, absence de pluie. | Nord de la France, HDF | Modérée (65%) – utilisé pour confirmer l'absence de pluie | Le diagramme GEFS montre un tube de températures très large et une absence quasi totale de précipitations pour le nord de la France. Les scénarios de déblocage sont rares. |
-| **ARPEGE (Météo-France)** (Documented) | Réduction de l'ampleur de la masse d'air très chaud en seconde partie de semaine. | Chaleur moins forte, matinées fraîches possibles. | Est de la France | Faible (45%) – mentionné en passant | ARPEGE s'aligne sur la tendance à l'amincissement de la dorsale. Aucune précipitation n'est envisagée pour les HDF. |
-| **ICON** (Documented) | Même tendance : amincissement de la dorsale, pas de déblocage. | Sec, chaud mais moins extrême. | France | Faible (40%) – simple citation | Aucun détail spécifique pour les HDF. Le modèle rejoint le consensus d'un temps sec et chaud. |
+| **Météo-France XML / Guillaume Séchet** (Documenté / fiable pour les 5 départements.) | Anticyclone 1027-1033 hPa sur la Manche domine toute la semaine : ciel clair à peu nuageux, aucune précipitation, températures 20-26°C, vent N-O puis S-E. | Soleil généreux, fraîcheurs matinales 5-10°C, douceur l'après-midi 20-26°C, pas de pluie. | Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02) | Élevée (80% à 90%) – bulletins départementaux détaillés pour les 5 départements HDF. | Nord : 20-26°C ; Pas-de-Calais : 20-25°C ; Somme : 20-25°C ; Oise : 21-26°C ; Aisne : 21-26°C. Nuits 5-12°C. Aucune pluie. Vigilance verte. |
+| **GFS / GEFS (américain)** (Scénario solide pour le sec ; medicane très incertaine.) | Sec et chaud sur le nord jusqu'au 2/10 ; modélisation récurrente d'une medicane en Méditerranée entre 27/09 et 04/10, sans impact garanti sur les HDF. | Pas de pluie fiable dans le nord ; signaux humides méditerranéens très lointains. | Nord de la France (référence GEFS citée à Paris) ; Méditerranée pour la medicane. | GEFS : Modérée (60% à 70%) ; GFS : Faible (40% à 50%). | GEFS confirme un septembre quasi à 0 mm dans le nord ; le déterminisme GFS place une medicane au large de la Tunisie, mais au-delà de 240h, à ne pas prendre au pied de la lettre. |
+| **ECMWF / AIFS (européen)** (Tendance évoquée, pas de scénario ferme.) | Amincissement progressif de la dorsale ; T850 en baisse à l'est ; possibilité d'une goutte froide du Benelux aux Alpes, mais les ensembles sont plus prudents. | Fin de semaine 1 moins chaude à l'est, matinées fraîches, sécheresse inchangée. | Est des HDF (Aisne, Oise) potentiellement plus concernés ; Ouest peu impacté. | Faible (40% à 50%) – pas de commentaire détaillé spécifique HDF. | Les runs AIFS ont vu la masse très chaude se rétracter vers l'Aquitaine ; les ensembles raréfient les scénarios frais. Pour les HDF, l'effet serait surtout une atténuation de la chaleur et des matinées plus fraîches, sans pluie. |
+| **GEM (canadien)** (Signal à suivre, sans scénario opérationnel.) | Approche de bas géopotentiels à 500 hPa par l'est, possible porte de sortie du blocage ; pas de détail régional fiable. | Potentiel de fin de blocage et de précipitations, très incertain. | France entière, notamment moitié est ; HDF en marge. | Faible (40% à 50%) – brièvement évoqué. | Le modèle s'aligne avec GFS et AIFS sur une baisse des géopotentiels approchant la France, mais les effets HDF (pluie, fraîcheur) restent indéterminés. |
+| **ARPEGE / ICON (modèles de l'ensemble du pauvre)** (Convergence qualitative, non chiffrée pour les HDF.) | Tendance à l'amincissement de la dorsale en fin de semaine 1, avec une masse d'air chaud moins étendue vers l'est. | Chaleur un peu moins forte que prévu, toujours sec. | Moitié est de la France ; HDF possiblement en bordure. | Faible (40% à 50%) – simple mention, pas de détail HDF. | Convergent avec l'idée d'un affaiblissement de la dorsale ; ne prévoient pas de pluie HDF. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Temps sec et très ensoleillé, ciel bleu dominant | Min 6-12°C, Max 20-25°C | elevee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Fraîcheur matinale plus marquée dans l'intérieur, rafales localisées |
-| **Pas-de-Calais (62)** | Ensoleillé, sec, quelques nuages inoffensifs possibles | Min 7-11°C, Max 19-24°C | elevee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Rafales côtières plus soutenues possibles, atténuation rapide dans l'intérieur |
-| **Somme (80)** | Soleil généreux et temps sec | Min 7-11°C, Max 20-24°C | elevee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Fraîcheur matinale sur le Doullennais, brise de mer possible |
-| **Oise (60)** | Ensoleillé, passages nuageux élevés inoffensifs | Min 6-10°C, Max 21-25°C | elevee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Nuages élevés possibles, vent plus variable dans le sud du département |
-| **Aisne (02)** | Ensoleillé, quelques passages nuageux inoffensifs | Min 5-11°C, Max 21-26°C | elevee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Nuits fraîches (5°C possibles sur la Champagne crayeuse), fortes amplitudes diurnes |
+| **Nord (59)** | Ensoleillé, sec, ciel clair à peu nuageux toute la semaine ; douceur l'après-midi. | Min 6-12°C, max 20-26°C sous abri (22°C littoral) ; pic jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Rafales de Sud-Sud-Est possibles en seconde partie de nuit jeudi-vendredi ; fraîcheur variable selon littoral/intérieur. |
+| **Pas-de-Calais (62)** | Temps sec et très ensoleillé ; passages nuageux sans conséquence mercredi matin. | Min 7-11°C, max 20-25°C sous abri ; maximales les plus élevées jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Vent assez fort localement sur le littoral ; températures plus fraîches près de la Manche. |
+| **Somme (80)** | Soleil dominant du matin au soir, sec ; quelques nuages discrets en début de semaine. | Min 7-12°C, max 20-25°C sous abri ; pic jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Vent de Sud-Est modéré samedi/dimanche sur la Picardie maritime ; fraîcheur matinale 7-9°C. |
+| **Oise (60)** | Soleil généreux, sec ; passages de nuages élevés mercredi. | Min 6-10°C, max 21-26°C sous abri ; maximales les plus chaudes jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fraîcheur matinale marquée (6-9°C) ; vent modéré localisé en soirée selon les secteurs. |
+| **Aisne (02)** | Beau temps sec et ensoleillé ; quelques passages nuageux inoffensifs mercredi. | Min 5-11°C, max 21-26°C sous abri ; pic de chaleur jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | 5°C possibles sur la Champagne crayeuse/Valois en début de semaine ; vent de Sud-Ouest par endroits lundi 28. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 21 et mardi 22 septembre** : Temps sec et ensoleillé, soleil sans partage, minimales fraîches de 6 à 10°C, maximales 20-24°C.
-- **Mercredi 23 septembre** : Nouvelle belle journée, quelques nuages élevés inoffensifs, maximales 21-26°C selon les départements.
-- **Jeudi 24 et vendredi 25 septembre** : Temps toujours ensoleillé, vent de Nord-Ouest modéré avec rafales possibles près des côtes, maximales 21-23°C.
-- **Samedi 26 et dimanche 27 septembre** : Soleil et ciel bleu prédominent, vent souvent faible et variable, maximales 22-25°C.
+- **Lundi 21 - mardi 22 septembre** : Plein soleil, températures agréables 20-24°C, nuits fraîches dans l'intérieur.
+- **Mercredi 23 septembre** : Soleil encore généreux, passages nuageux inoffensifs, vent d'ouest-nord-ouest modéré en fin de journée.
+- **Jeudi 24 - vendredi 25 septembre** : Chaleur relative, maximales 24-26°C dans l'intérieur, rafales possibles près du littoral.
+- **Samedi 26 - dimanche 27 septembre** : Temps généralement ensoleillé, vent de sud-est modéré par endroits, douceur maintenue.
 
 **Points solides :**
-- Absence totale de précipitations sur les 7 jours pour les 5 départements.
-- Ensoleillement abondant, ciel bleu dominant.
-- Températures maximales entre 20 et 25°C, en hausse en fin de semaine.
+- Vigilance verte et aucun phénomène dangereux de J+2 à J+7.
+- Ensoleillement quasi continu et absence de pluie sur les 5 départements.
+- Maximales 20-26°C selon littoral/intérieur ; nuits fraîches 5-12°C.
 
 **Points fragiles :**
-- Évolution du week-end des 26-27 septembre : possible influence d'une goutte froide, très incertaine.
-- Localisation exacte des rafales de Nord-Ouest sur le littoral.
-- Éventuel fléchissement des températures en seconde partie de semaine.
+- Échéances >180h pour la fin de semaine : les déterministes divergent des ensembles.
+- Possible influence d'une goutte froide sur l'est des HDF en fin de semaine.
+- Rafales locales possibles lors des bascules de vent, en particulier en Flandre maritime et sur le littoral picard.
 
 **À surveiller (prochains runs) :**
-- Prochains runs GFS et ECMWF/AIFS pour la fin de semaine 1.
-- Ouverture du sujet semaine 40 sur le forum Infoclimat.
-- Évolution des géopotentiels à 500 hPa et position exacte de la dorsale.
+- GEFS/GFS 12z : évolution de la goutte froide et de la medicane.
+- AIFS/CEP : maintien ou amincissement de la dorsale après 180h.
+- GEM : convergence des signaux à 500 hPa.
 
 
-## 🗓️ SEMAINE 2 : Du Lundi 28 Septembre au Dimanche 4 Octobre 2026
+## 🗓️ SEMAINE 2 : Du lundi 28 septembre au dimanche 4 octobre 2026 (⚠️ Le sujet spécifique de la Semaine 40 n'est pas encore ouvert sur le forum Infoclimat ; analyse fondée sur les projections à long terme du sujet Semaine 39).
 ### 💡 Points clés de la semaine 2
-1. Prolongation du sec : Les projections long terme suggèrent un temps encore sec et ensoleillé sur les HDF jusqu'au 2 octobre au moins.
-2. Signaux de changement : Une baisse des géopotentiels est modélisée par GFS, GEM et AIFS pour la fin septembre sans certitude sur les effets dans le nord.
-3. Médicane potentielle : Modélisation d'un système méditerranéen puissant entre le 27 et le 4 octobre, échéance très lointaine, sans impact direct prévisible sur les HDF.
-4. Incertitude forte : Aucun scénario ne fait consensus pour une dégradation ; la prudence est absolue.
-5. Températures : Minimales en hausse, maximales stables ou en baisse selon les secteurs, notamment près de la mer.
+1. Prolongation anticyclonique : Lundi et mardi restent secs et ensoleillés, avec un vent de Sud-Est modéré.
+2. Sécheresse qui s'accentue : Les projections maintiennent un temps sec jusqu'au 2 octobre au moins sur le nord.
+3. Signaux de rupture : Baisse des géopotentiels possible en toute fin de période, sans scénario précis à plus de 180h.
+4. Médicane lointaine : Modélisations récurrentes d'une medicane en Méditerranée entre le 27 septembre et le 4 octobre.
+5. Sujet S40 non ouvert : Forte incertitude après le 30 septembre, à réévaluer dès l'ouverture du prochain sujet.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Pour lundi 28 et mardi 29 : temps généralement ensoleillé, vent de Sud modéré, températures minimales en hausse (accord Météo-France + modèles long terme).
-- Pas de signal pluvieux majeur pour les HDF jusqu'au 2 octobre.
-- Maintien probable de l'anticyclone, malgré un léger affaiblissement en altitude.
+- Lundi-mardi : temps sec, ensoleillé, vent de Sud-Est modéré, minimales en hausse.
+- Aucune précipitation fiable avant le 2/10 (MF + GEFS).
+- Températures maximales stables, comparables à la fin de semaine 1 (22-25°C).
 **Points de divergence :**
-- Possibilité d'une dégradation entre le 30 septembre et le 4 octobre : certains modèles voient une porte de sortie, d'autres non.
-- Localisation des éventuelles pluies : sud-est et Méditerranée plutôt que les HDF.
-- Comportement exact de la dorsale : son positionnement à l'est ouvrirait un flux de Sud plus humide ou non.
+- Après le 30/09 : maintien anticyclonique ou amorce de dégradation ? Les modèles hésitent.
+- Position de la goutte froide/thalweg : est ou centre de la France, conséquences différentes pour les HDF.
+- Medicane méditerranéenne : son éventuelle formation pourrait modifier la circulation, mais tout est très lointain.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Météo-France XML / SCHAPI (J+8/J+9)** (Documented) | Lundi 28 et mardi 29 septembre : temps largement ensoleillé, vent de Sud modéré, minimales en hausse. Pluie possible lundi sur le Ponthieu et le Vimeu, mais limitée. | Soleil prédominant, quelques pluies localisées sur la Picardie maritime lundi. | HDF, particulièrement Somme littorale pour la pluie | Élevée (80%) pour lundi/mardi ; faible au-delà | Une dégradation pluvieuse est évoquée uniquement sur le Ponthieu et le Vimeu lundi 28, puis retour au sec. Pour la suite, aucune information fiable. |
-| **ECMWF / AIFS** (Documented) | Approche possible de bas géopotentiels par l'est, pouvant initier une porte de sortie du blocage, mais très incertaine. | Possible retour de précipitations, non confirmé. | Est de la France, Méditerranée ; HDF potentiellement en marge | Modérée (60%) – modèle cité pour les signaux, mais pas de scénario précis pour le nord | AIFS modélise une baisse des géopotentiels mais les ensembles sont très dispersés. Aucun scénario majoritaire pour une dégradation pluvieuse sur les HDF. |
-| **GFS** (Documented) | Possible formation d'un système méditerranéen (medicane) entre le 27 et le 4 octobre, puissant mais très lointain. Impact sur les HDF quasi nul dans les projections actuelles. | Temps sec sur le nord, risque orageux localisé en Méditerranée à confirmer. | Méditerranée, pas les HDF directement | Faible (50%) – simple mention d'échéance très lointaine | GFS modélise une medicane en Méditerranée. Les membres insistent sur la très grande incertitude (>240h) et l'absence de lien direct avec les HDF. |
-| **GEM** (Documented) | Baisse des géopotentiels, goutte froide possible par l'est, mais aucune certitude pour le nord. | Pas de précipitation significative pour les HDF. | Est de la France | Faible (45%) – mention unique | GEM s'aligne sur les autres modèles sans apporter de précision utile pour les HDF. |
-| **GEFS (ensembles)** (Documented) | Quasi aucune précipitation modélisée jusqu'au 2 octobre pour le nord de la France. Scénarios de déblocage rares ou peu marqués. | Sécheresse persistante, temps chaud et sec. | Nord de la France, HDF | Modérée (65%) | Le diagramme GEFS montre une persistance du temps sec et chaud. La confiance est modérée car l'échéance dépasse 10 jours. |
+| **Météo-France XML / Guillaume Séchet** (Documenté pour 28-29/09 ; projection pour la suite.) | Lundi 28 et mardi 29 : soleil prédominant, vent de Sud-Est généralement modéré, minimales en hausse, maximales stables autour de 22-25°C. | Temps sec et ensoleillé, aucune précipitation ; douceur diurne maintenue. | Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02) | Élevée (80% à 90%) pour lundi-mardi ; Faible (40% à 50%) au-delà. | Lundi-mardi max prévues : Nord 22-25°C, Pas-de-Calais 21-23°C, Somme 21-23°C, Oise 22-24°C, Aisne 23-25°C ; minimales en hausse ; vent Sud-Est modéré. |
+| **ECMWF / AIFS (projections long terme)** (Projection longue échéance, non documentée en semaine 40.) | Baisse des géopotentiels à 500 hPa possible en fin de période, peut-être sous forme de goutte froide ; aucun scénario de précipitations fiable pour les HDF. | Fin de blocage possible mais non assurée ; pas de pluie en vue avant le 2/10. | Est de la France, marge orientale des HDF. | Faible (40% à 50%) – pas de sujet S40. | Les modèles voient un amincissement de la dorsale, mais les ensembles hésitent ; aucune sortie de blocage nette n'est acquise. |
+| **GFS / GEFS** (Le sec est probable ; la rupture est incertaine.) | Pas de précipitation ou presque jusqu'au 2/10 sur le nord ; modélisations répétées d'une medicane en Méditerranée ; fenêtre pluvieuse possible mais très lointaine. | Sécheresse de surface qui s'accentue ; orages de masse d'air chaud possibles au sud. | Nord/HDF pour le sec ; Méditerranée pour la medicane ; effets indirects possibles. | Modérée (60% à 70%) pour GEFS sur le sec ; Faible (40% à 50%) pour la medicane. | Le diagramme GEFS et MF parisien montrent presque 0 mm jusqu'au 2/10. La medicane est un signal récurrent, mais trop lointain pour être interprété pour les HDF. |
+| **GEM (canadien)** (Signal de veille, pas de scénario fiable.) | Aligné avec GFS/AIFS sur une baisse des géopotentiels par l'est ; porte de sortie du blocage possible, sans détail HDF. | Potentiel de pluie en fin de période, très incertain. | France est ; HDF incertain. | Faible (40% à 50%). | Rien n'est joué : les modèles changent d'un run à l'autre ; il faut attendre l'ouverture du sujet S40. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Temps largement ensoleillé, sec ; incertitude au-delà de mardi 29 | Minimales en hausse 10-14°C, maximales 20-25°C puis stables ou en baisse | moderee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Échéance lointaine au-delà du 30/09 : aucun scénario de dégradation consensuel |
-| **Pas-de-Calais (62)** | Soleil prédominant, sec ; incertitude en fin de semaine | Minimales en hausse 10-14°C, maximales en baisse près de la mer (18-22°C) | moderee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Échéance lointaine, aucune discussion dédiée pour la semaine 40 |
-| **Somme (80)** | Pluie possible lundi sur Ponthieu et Vimeu, puis retour du soleil | Minimales en hausse 9-13°C, maximales stables 20-24°C | moderee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Le scénario pluvieux est limité géographiquement ; au-delà de mardi, forte incertitude |
-| **Oise (60)** | Beau temps sec et bien ensoleillé | Minimales en hausse 8-12°C, maximales stables 21-25°C | moderee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Fiabilité correcte jusqu'à mardi 29, faible au-delà |
-| **Aisne (02)** | Temps largement ensoleillé, sec | Minimales en hausse 8-13°C, maximales en baisse sur la Thiérache (20-24°C) | moderee | Météo-France XML, ECMWF/AIFS, GFS, GEFS, Guillaume Séchet | Échéance lointaine ; aucune discussion spécifique pour la semaine 40 |
+| **Nord (59)** | Lundi-mardi 28-29/09 : soleil prédominant, sec. Ensuite maintien probable de l'anticyclone jusqu'au 2/10, puis incertitude. | Maximales stables 22-25°C sous abri ; minimales en hausse (au-dessus de 10-12°C). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Sujet S40 non ouvert ; échéances au-delà de 180h peu fiables. |
+| **Pas-de-Calais (62)** | Soleil prédominant lundi-mardi ; temps sec et doux, probablement encore ensoleillé jusqu'au 2/10. | Maximales 21-23°C sous abri (similaires à la veille) ; minimales en hausse sur les côtes de la Manche et l'est. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Pas de sujet S40 ; détail des températures après mardi non modélisé. |
+| **Somme (80)** | Beau temps sec et ensoleillé lundi-mardi, vent de Sud tournant Sud-Sud-Est. | Minimales en hausse sur une grande moitié est ; maximales similaires à la veille (21-23°C sous abri). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Projections long terme uniquement pour la fin de semaine ; risque de bascule synoptique. |
+| **Oise (60)** | Temps largement ensoleillé lundi-mardi ; soleil prédominant ensuite jusqu'à nouvel ordre. | Maximales sans changement significatif (22-24°C sous abri) ; minimales en hausse sur plusieurs secteurs. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Sujet S40 non ouvert ; modèles à long terme divergents à partir du 30/09. |
+| **Aisne (02)** | Temps généralement ensoleillé lundi-mardi ; minimales et maximales en hausse sur le Laonnois, la Champagne crayeuse et le Tardenois. | Maximales 23-25°C sous abri environ ; minimales en hausse. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Projection basée sur le bulletin J+2/J+3 uniquement pour la fin de semaine ; sujet S40 absent. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 28 septembre** : Soleil prédominant, vent de Sud modéré ; pluie possible sur Ponthieu et Vimeu en journée.
-- **Mardi 29 septembre** : Temps largement ensoleillé, minimales en hausse, maximales stables ou en baisse selon les secteurs.
-- **Mercredi 30 septembre au jeudi 1er octobre** : Incertitude maximale : maintien probable du sec, mais signaux divergents entre modèles.
-- **Vendredi 2 au dimanche 4 octobre** : Aucun scénario fiable ; possibilité d'un déverrouillage du blocage, à surveiller.
+- **Lundi 28 - mardi 29 septembre** : Soleil prédominant, vent de Sud-Est modéré, minimales en hausse, maximales 22-25°C.
+- **Mercredi 30 septembre - jeudi 1er octobre** : Incertitude croissante, pas de pluie fiable, maintien probable de l'anticyclone.
+- **Vendredi 2 - samedi 3 octobre** : Fenêtre possible de baisse des géopotentiels, mais aucun scénario fiable.
+- **Dimanche 4 octobre** : Indéterminé : retour anticyclonique, thalweg ou amorce de dégradation restent possibles.
 
 **Points solides :**
-- Temps sec et ensoleillé maintenu au moins jusqu'au mardi 29 septembre.
-- Hausse des températures minimales sur l'ensemble des HDF.
-- Vent de Sud modéré lundi/mardi, attesté par les bulletins Météo-France.
+- Lundi-mardi 28-29/09 : scénario sec et ensoleillé très fiable, sans pluie.
+- Aucune précipitation mesurable en vue avant le 2/10.
+- Températures maximales stables 22-25°C.
 
 **Points fragiles :**
-- Toute évolution après le 30 septembre : aucune convergence entre les modèles.
-- Scénario d'une dégradation : très minoritaire, sans certitude sur la localisation ni l'intensité.
-- Une medicane en Méditerranée : possible mais sans impact direct prévisible sur les HDF.
+- Fin de période (30/09-04/10) : incertitude maximale, aucun scénario dominant.
+- Modèles déterministes changeants d'un run à l'autre ; prudence sur les cartes au-delà de 180h.
+- Sujet S40 non ouvert : pas de discussion communautaire pour affiner la tendance.
 
 **À surveiller (prochains runs) :**
-- Ouverture imminente du sujet semaine 40 sur Infoclimat.
-- Runs ECMWF/AIFS et GFS des 21 et 22 septembre pour l'évolution du blocage.
-- Position exacte de la dorsale et trajectoire des gouttes froides modélisées.
+- Ouverture du sujet S40 (semaine 40) sur Infoclimat.
+- Runs GFS/GEFS et AIFS/CEP ; position de la dorsale à 500 hPa.
+- GEM : convergence des signaux de fin de blocage.
 
 
 ========================================
@@ -134,40 +131,29 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Sur les 15 prochains jours (21 septembre - 4 octobre), les Hauts-de-France restent dominés par un puissant anticyclone : temps sec, très ensoleillé et anormalement doux pour la saison. La sécheresse de surface s'accentue. Une dégradation très incertaine est possible entre le 30 septembre et le 4 octobre, mais aucun scénario ne fait consensus.
+Sur l'ensemble des 15 jours, les Hauts-de-France restent sous un puissant anticyclone : temps sec, très ensoleillé et anormalement doux. La première semaine est très fiable ; la deuxième voit une incertitude croissante après le 30 septembre, avec des signaux de rupture possibles mais aucun scénario majoritaire.
 
 ### Période la plus fiable
-La semaine 1 (21-27 septembre) est la plus fiable, avec des prévisions détaillées par département et une convergence totale des modèles sur le temps sec et ensoleillé.
+Semaine 1 (21-27/09) : confiance élevée. Semaine 2 (28/09-04/10) : confiance faible à modérée ; seuls les jours 28-29/09 sont robustes.
 
 ### Phénomènes récurrents
-- Blocage anticyclonique persistant, régime de dorsale.
-- Rafales de Nord-Ouest sur le littoral en milieu de semaine 1.
-- Amplitudes diurnes marquées (5-12°C de différence entre min et max).
+- Blocage anticyclonique persistant, sécheresse de surface qui s'accentue.
+- Rafales modérées sur le littoral lors des bascules de vent.
+- Signaux récurrents de medicane/goutte froide en Méditerranée en fin de période, sans impact direct garanti.
 
 ### Principales incertitudes
-- Date et réalité d'un éventuel déblocage en fin de période.
-- Comportement exact de la dorsale et position des gouttes froides.
-- Évolution de la chaleur en seconde partie de semaine 1.
-- Formation d'une medicane en Méditerranée, sans impact direct prévisible mais facteur de redistribution synoptique.
+Fin de semaine 2 : position de l'anticyclone, trajectoire des gouttes froides, influence d'une éventuelle medicane, intensité de la chaleur.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Les doutes portent principalement sur la chronologie d'un éventuel déblocage entre le 27 septembre et le 4 octobre. Les membres du forum évoquent des signaux mais aucune certitude sur la date.
-- **Localisation :** La localisation des éventuelles précipitations est très incertaine : les modèles privilégient l'est et la Méditerranée plutôt que les HDF. Dans l'hypothèse d'une goutte froide, le nord pourrait être en marge.
-- **Intensité :** L'intensité de la chaleur en fin de semaine 1 est incertaine : les maximales pourraient être moins élevées que prévu à l'est, mais la sécheresse reste puissante. L'intensité des rafales côtières est localisée et temporaire.
-- **Informations manquantes :** Le sujet semaine 40 n'étant pas ouvert sur Infoclimat, aucune discussion spécifique n'est disponible pour la période du 28 septembre au 4 octobre. Les données sur l'humidité des sols et le bilan hydrique ne sont pas détaillées dans les discussions. La question des précipitations (quasi nulles) est abordée, mais sans analyse hydrologique complète.
-- **Modèles sous-documentés :** ARPEGE, ICON et GEM sont faiblement documentés (mention unique). Aucune analyse détaillée de leurs sorties pour les HDF n'a été fournie par les membres.
-- **Incertitudes images :** Les cartes à 500 hPa de GFS, GEM et AIFS ont été partagées mais ne sont pas incluses dans les données. Leur interprétation à plus de 240h est jugée très fragile par les membres eux-mêmes.
+- **Timing/Chronologie :** Les signaux de pluie pour fin septembre/début octobre sont constamment repoussés depuis l'été ; la fenêtre du 30/09-04/10 est donc fragile.
+- **Localisation :** Une goutte froide pourrait circuler du Benelux aux Alpes ; l'est des HDF serait plus susceptible d'en ressentir les effets, mais la localisation précise est incertaine.
+- **Intensité :** L'intensité de la chaleur en semaine 1 dépend de l'amincissement de la dorsale : les maximales pourraient être localement 2 à 4°C plus basses à l'est, surtout en Aisne et dans l'Oise.
+- **Informations manquantes :** Pas de sujet S40 sur le forum ; peu de commentaires spécifiquement centrés sur les HDF ; pas de données Keraunos exploitables (Token 0) ; pas de suivi localisé des sols HDF dans les discussions.
+- **Modèles sous-documentés :** ARPEGE, ICON, GEM et les ensembles CEP/ECMWF sont peu ou pas commentés pour les HDF ; seuls GFS/GEFS et AIFS sont évoqués.
+- **Incertitudes images :** Les cartes postées (GFS, GEM, AIFS) sont des cartes nationales à 500 hPa, sans zoom HDF ; le diagramme GEFS posté concerne Bordeaux, pas une ville HDF.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🇫🇷 Hauts-de-France : l'automne attendra, l'anticyclone s'installe pour 2 semaines !
-
-🗓️ Semaine 1 (21-27 sept) : soleil généreux, températures 20-25°C, vent de Nord-Ouest modéré, rafales sur les côtes jeudi. Aucune pluie attendue.
-
-🗓️ Semaine 2 (28 sept - 4 oct) : le blocage pourrait se maintenir, mais les signaux d'un changement se multiplient pour la fin de période. Prudence : les modèles sont très indécis.
-
-⚠️ Sécheresse de surface en accentuation : soyez vigilants aux feux de végétation.
-
-Restez connectés pour le prochain bulletin ! #Météo #HautsDeFrance #Prévisions #Anticyclone
+🌤️ Bulletin HDF : un anticyclone puissant offre une semaine 1 sèche et très ensoleillée (21-27/09), avec des températures de 20 à 26°C. La semaine 2 reste incertaine après le 30/09 ; aucun signal pluvieux fiable avant le 2/10. La sécheresse de surface s'accentue. #Météo #HautsDeFrance #Prévisions #Anticyclone
