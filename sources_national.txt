@@ -285,7 +285,7 @@ Températures minimales : en hausse sur le Cagire et le Luchonnais ainsi que du 
 Températures maximales : en baisse sur le Cagire et le Luchonnais.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 200935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 20 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 20 septembre 2026 à 06H00 UTC, et évolution Hautes pressions 1022/1025 hPa. Dépression relative 1020 hPa au large des côtes de Provence lundi. 3 - Prévisions pour l'après-midi du dimanche 20 septembre VENT : Ouest à Sud-Ouest 2 à 4. MER : belle. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du dimanche 20 septembre au lundi 21 septembre VENT : - de Port Camargue au Cap Croisette : secteur Ouest 2 à 4, fraîchissant Nord à Nord-Ouest 4 à 5, parfois 6 en milieu de nuit. Rafales. - du Cap Croisette à Saint-Raphaël : Ouest à Sud-Ouest 2 à 4, devenant Variable dépressionnaire 1 à 3 en seconde partie de nuit. MER : belle à peu agitée. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette à Porquerolles en seconde partie de nuit. TEMPS : ciel clair, parfois voilé. VISIBILITE : bonne. 5 - Prévisions pour la journée du lundi 21 septembre VENT : - de Port Camargue au Cap Croisette : Nord à Nord-Ouest 4 à 5, parfois 6. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 1 à 3, Est dominant, puis Sud dominant l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 21 au 22 et la journée du mardi 22 septembre VENT : - de Port Camargue au Cap Croisette : Nord à Nord-Ouest 4 à 5, parfois 6, devenant Variable 1 à 3 l'après-midi. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 1 à 3, Est à Nord-Est dominant à l'est de Sicié en journée. MER : belle à peu agitée. HOULE : non significative. TEMPS : ciel clair, parfois voilé la nuit. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 22 au 23 et la journée du mercredi 23 septembre VENT : De Port Camargue à Fos Nord à Nord-Est 2 à 4, virant Sud-Est en cours de matinée. De Fos à St Raphaël Est à Sud-Est 1 à 3, fraîchissant 4 à 5 en seconde partie de nuit, puis mollissant 3 à 4 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante d'Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Jeudi 24 septembre Secteur Ouest modéré. Indice de confiance : 4 sur 5 Vendredi 25 septembre Secteur Nord faible à modéré dans le Golfe du Lion, Nord-Est modéré à assez fort entre Corse et continent. Indice de confiance : 4 sur 5 Samedi 26 septembre Secteur Sud-Est faible à modéré dans le Golfe du Lion, secteur Nord-Est modéré entre Corse et continent. Indice de confiance : 3 sur 5 Dimanche 27 septembre Secteur Sud-Est faible à modéré dans le Golfe du Lion, secteur Nord-Est modéré entre Corse et continent. Indice de confiance : 3 sur 5 9 - Observations le dimanche 20 septembre 2026 à 09H00 UTC Cap Camarat : vent Sud-Est 2 noeuds, nuageux avec éclaircies, visibilité 10 milles. Cap Cepet : vent Sud-Sud-Ouest 6 noeuds. Le Levant : vent Ouest-Nord-Ouest 2 noeuds, 1024 hPa en hausse. Cap Couronne : vent Nord-Nord-Ouest 6 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le dimanche 20 septembre 2026, vers 18H30 légales
+FQCT40 LFML 201610 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 20 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 20 septembre 2026 à 12H00 UTC, et évolution Hautes pressions 1022/1025 hPa, s'affaissant 1020/1022 hPa lundi. Dépression relative 1020 hPa au large des côtes de Provence lundi matin, se décalant vers le sud en se creusant 1018 hPa en journée. 3 - Prévisions pour la nuit du dimanche 20 septembre au lundi 21 septembre VENT : - de Port Camargue au Cap Croisette : secteur Ouest 2 à 4, fraîchissant Nord à Nord-Ouest 4 à 5, en fin de soirée, parfois 6. Rafales. - du Cap Croisette à Saint-Raphaël : Ouest à Sud-Ouest 2 à 4, devenant Variable dépressionnaire en seconde partie de nuit. MER : belle à peu agitée. HOULE : non significative, localement Ouest 0.5 à 1 m du Cap Croisette à Porquerolles en seconde partie de nuit. TEMPS : ciel clair, parfois voilé. VISIBILITE : bonne. 4 - Prévisions pour la journée du lundi 21 septembre VENT : - de Port Camargue au Cap Croisette : Nord à Nord-Ouest 4 à 5, parfois 6. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 2 à 4, Est dominant, puis Sud 1 à 3 dominant l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 5 - Tendance pour la nuit du 21 au 22, et la journée du mardi 22 septembre VENT : - de Port Camargue au Cap Croisette : Nord à Nord-Ouest 4 à 5, localement 6 vers Beauduc, virant Nord en milieu de nuit, puis devenant Variable 1 à 3 l'après-midi. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 1 à 3, Est à Nord-Est dominant à l'est de Sicié en journée. MER : belle à peu agitée. HOULE : non significative. TEMPS : ciel clair, parfois voilé la nuit. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 22 au 23 et la journée du mercredi 23 septembre VENT : De Port Camargue à Fos Nord à Nord-Est 2 à 4, virant Sud-Est en cours de matinée. De Fos à St Raphaël Est à Sud-Est 1 à 3, fraîchissant 4 à 5 en seconde partie de nuit, puis mollissant 3 à 4 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante d'Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Jeudi 24 septembre Secteur Ouest modéré. Indice de confiance : 4 sur 5 Vendredi 25 septembre Secteur Nord faible à modéré dans le Golfe du Lion, Nord-Est modéré à assez fort entre Corse et continent. Indice de confiance : 4 sur 5 Samedi 26 septembre Secteur Sud-Est faible à modéré dans le Golfe du Lion, secteur Nord-Est modéré entre Corse et continent. Indice de confiance : 3 sur 5 Dimanche 27 septembre Secteur Sud-Est faible à modéré dans le Golfe du Lion, secteur Nord-Est modéré entre Corse et continent. Indice de confiance : 3 sur 5 8 - Observations le dimanche 20 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Ouest 14 noeuds. Cap Cepet : vent Sud-Ouest 8 noeuds. Le Levant : vent Ouest 8 noeuds, 1023 hPa en baisse. Porquerolles : vent Sud-Ouest 12 noeuds. Cap Couronne : vent Ouest 8 noeuds, rafales 19 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le lundi 21 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -307,12 +307,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Prévisions &#xCE;le-de-France Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 20/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,21 +320,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 20 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique persistant, temps sec et anormalement doux, chaleur plus marquée au sud-ouest et en Méditerranée. Une dégradation reste possible en toute fin de période, mais très incertaine..
+Résumé général précédent : Blocage anticyclonique persistant avec temps sec, ensoleillé et anormalement doux pour la saison; possible érosion en fin de période et risque méditerranéen incertain..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps généralement sec, ensoleillé, chaud au sud et à l’ouest ; possible fraîcheur relative à l’est..
+Températures attendues précédemment : Sec et très doux la plupart du temps; en fin de période, risque pluvio-orageux méditerranéen très incertain..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
-Auteur: Grahok73
-Message:
-Trop fastoche les prévis TLT... Une seule image suffit...
-								1
-								8
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
@@ -516,7 +507,7 @@ pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos 
 	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
 	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
 	Modifié hier à 12:08 par giec 2100
-								1
+								2
 
 =======================
 
@@ -543,20 +534,25 @@ Auteur: Twister83
 Message:
 C'est très très fort comme performance.
 								5
+								3
+								17
 								2
-								15
-								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+Il y a 9 heures, Twister83 a dit :
+			C'est très très fort comme performance.
+	pareil pour l'Américain version 6h :
+	2mm de cumul sur les côtes bretonnes, en seconde moitié de première décade d'octobre...
+	https://images.meteociel.fr/im/100/3261/384_777hyl7.GIF
+	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
+	https://images.meteociel.fr/im/10/23722/animnwj8.gif
+	no future...
+	Modifié il y a 1 heure par giec 2100
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: Grahok73
-Message:
-Trop fastoche les prévis TLT... Une seule image suffit...
-								1
-								8
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 pire qu'une corvée de pluche cette météo ?
@@ -738,7 +734,7 @@ pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos 
 	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
 	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
 	Modifié hier à 12:08 par giec 2100
-								1
+								2
 
 =======================
 
@@ -765,6 +761,20 @@ Auteur: Twister83
 Message:
 C'est très très fort comme performance.
 								5
+								3
+								17
 								2
-								15
-								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+Il y a 9 heures, Twister83 a dit :
+			C'est très très fort comme performance.
+	pareil pour l'Américain version 6h :
+	2mm de cumul sur les côtes bretonnes, en seconde moitié de première décade d'octobre...
+	https://images.meteociel.fr/im/100/3261/384_777hyl7.GIF
+	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
+	https://images.meteociel.fr/im/10/23722/animnwj8.gif
+	no future...
+	Modifié il y a 1 heure par giec 2100
