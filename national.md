@@ -1,126 +1,136 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Dimanche 20 Septembre 2026
-**Période :** Semaine 1 (Du Lundi 21 Septembre au Dimanche 27 Septembre 2026) & Semaine 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026)
+**Période :** Semaine 1 (Du lundi 21 au dimanche 27 septembre 2026) & Semaine 2 (Du lundi 28 septembre au dimanche 4 octobre 2026)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Consensus sur le temps sec et chaud jusqu'au 27, mais désaccord sur la suite.*
-- **Fiabilité du scénario majoritaire :** Sec et chaud, puis possible évolution — *Scénario principal : blocage anticyclonique, avec une dégradation possible en Méditerranée en fin de quinzaine.*
+- **Consensus des modèles :** Modéré — *Un large consensus se dégage pour le temps sec et chaud de la semaine 1, mais les écarts se creusent pour la semaine 2.*
+- **Fiabilité du scénario majoritaire :** Blocage puis possible dégradation méditerranéenne — *Scénario principal : maintien de l'anticyclone jusqu'au début octobre, avec une possibilité de dégradation en Méditerranée.*
 - **Stabilité des cartes/scénarios :** 6 / 154 — *6 cartes sur 154 analysées*
-- **Niveau d'incertitude global :** Forte pour la semaine 2 — *Les projections au-delà de 7 jours sont très incertaines, surtout pour la Méditerranée.*
+- **Niveau d'incertitude global :** Forte — *Les échéances au-delà de 240 h sont très peu fiables, en particulier pour la medicane.*
 
-## 🗓️ SEMAINE 1 : Du Lundi 21 Septembre au Dimanche 27 Septembre 2026
+## 🗓️ SEMAINE 1 : Du lundi 21 au dimanche 27 septembre 2026
 ### 💡 Points clés de la semaine 1
-1. Blocage anticyclonique persistant : le temps sec et très chaud pour la saison se maintient sur la quasi-totalité du pays.
-2. Chaleur en retrait à l'est : possible affaiblissement de la masse d'air très chaude en seconde partie de semaine, surtout sur le quart nord-est.
-3. Nuits parfois fraîches : des minimales à un chiffre sont possibles localement, contrastant avec des après-midis estivaux.
-4. Sécheresse de surface préoccupante : les sols s'assèchent encore, avec un risque incendie accru, notamment dans le sud et l'ouest.
-5. Fin de semaine à surveiller : des signaux d'une baisse des géopotentiels émergent pour le début octobre, sans certitude.
+1. Blocage anticyclonique maintenu : Temps sec, ensoleillé et anormalement chaud pour la saison sur l'ensemble du pays.
+2. Chaleur marquée au sud-ouest : Des maximales de 29 à 32 °C sont envisageables en Aquitaine et en Occitanie.
+3. Nuits parfois fraîches : Les minimales restent basses dans l'est, offrant un contraste net avec les journées chaudes.
+4. Mistral en Méditerranée : Rafales possibles de 60 à 65 km/h lundi et mardi sur la Provence et la Camargue.
+5. Fin de semaine à surveiller : Possible baisse des géopotentiels et arrivée d'une goutte froide par l'est, sans certitude.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-1. Maintien d'un temps sec et anticyclonique sur l'ensemble du pays jusqu'au 27 septembre, avec un ensoleillement généreux.
-2. Chaleur toujours présente, mais moins intense et moins étendue en seconde partie de semaine, avec un possible retrait sur l'est.
-3. Sécheresse de surface toujours préoccupante, avec un risque incendie accru.
+- Blocage anticyclonique robuste : temps sec et ensoleillé sur la majeure partie du pays jusqu'à au moins jeudi.
+- Chaleur anormalement élevée pour la saison, surtout au sud-ouest et sur le littoral atlantique.
+- Tendance quasi unanime à un amincissement de la dorsale en fin de semaine, sans scénario de déblocage majeur.
 **Points de divergence :**
-1. Intensité et extension de la chaleur en fin de semaine : scénario d'un fort dégradé SO/NE (fran39) vs. maintien d'une chaleur plus généralisée (Jojobarbar).
-2. Possibilité d'une dégradation orageuse en Méditerranée en toute fin de période, liée à une baisse des géopotentiels, mais avec une grande incertitude.
-3. Rôle exact de la goutte froide modélisée du Benelux aux Alpes : impact sur les températures et l'instabilité encore flou.
+- Devenir de la masse d'air très chaud : concentrée à l'ouest ou encore étendue à l'est ?
+- Possibilité d'une goutte froide ou d'un creusement méditerranéen entre le 27/09 et le 04/10.
+- Scénarios de fraîcheur à l'est jugés minoritaires par les ensembles, mais pas totalement écartés.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS (Global Forecast System)** (Modèle de référence cité à de multiples reprises, avec une tendance claire et des scénarios d'évolution commentés.) | Maintien d'un temps sec et anticyclonique jusqu'au 27, puis possible évolution vers une baisse des géopotentiels en Méditerranée en toute fin de période. | Soleil dominant, chaleur marquée au sud et à l'ouest, mistral possible en Méditerranée. | France entière, avec une attention particulière pour le sud-est et la Méditerranée en fin de période. | Élevée (85%) | GFS modélise une possible baisse des géopotentiels à 500 hPa sur la France en fin de semaine. Les membres s'accordent sur le maintien du blocage anticyclonique jusqu'au 25 environ. GFS évoque également un possible épisode de type medicane en Méditerranée entre le 27 et le 4 octobre, mais avec de très fortes réserves (échéance > 240h). |
-| **ECMWF (IFS / Ensemble européen)** (Le modèle européen est cité indirectement via les ensembles, principalement pour la réduction de l'ampleur de la chaleur en fin de semaine.) | Dorsale anticyclonique solide en début de semaine, avec une tendance à l'amincissement en seconde partie, permettant un léger retrait de la chaleur extrême sur l'est. | Temps sec et ensoleillé, chaleur plus modérée sur les régions de l'est, minimales parfois fraîches. | France entière, avec un impact plus notable sur l'est du pays. | Modérée (65%) | L'IFS déterministe a montré ces derniers jours une tendance à réduire la zone de températures à 850 hPa très élevées (16-20°C), la confinant de plus en plus au littoral aquitain pour vendredi. Cela pourrait permettre un fort dégradé thermique SO/NE. |
-| **GEM (Global Environmental Multiscale)** (Modèle cité une fois, mais avec une analyse détaillée de ses sorties à 500 hPa.) | Approche de bas géopotentiels par l'est du pays en fin de semaine, sous forme possible de goutte froide. | Temps encore sec, mais avec un risque d'instabilité et d'orages isolés sur l'est en fin de période. | Est de la France, plus particulièrement des frontières du nord-est aux Alpes. | Modérée (65%) | GEM s'aligne sur GFS et AIFS pour une baisse des géopotentiels sur la France, avec une possible goutte froide par l'est. Aucun scénario précis de précipitations n'est encore établi. |
-| **AIFS (Expérimental IA ECMWF)** (Modèle cité à plusieurs reprises, notamment pour ses sorties déterministes.) | Même signal qu'ECMWF/GEM : réduction de la poche de chaleur à l'ouest et possible approche de bas géopotentiels par l'est. | Soleil dominant, chaleur moins forte sur l'est, mistral en Méditerranée. | Est de la France et littoral aquitain. | Modérée (65%) | L'évolution des runs AIFS en T850 hPa pour vendredi prochain est jugée "particulièrement frappante" par un membre (fran39), passant d'une chaleur généralisée à une chaleur confinée à l'extrême ouest. |
-| **ARPEGE & ICON (Météo-France & DWD)** (Cités ensemble dans un message, sans analyse détaillée de leurs sorties.) | Tendance à l'amincissement de la dorsale et à un léger recul de la chaleur en seconde partie de semaine. | Temps sec, ensoleillé, chaleur plus modérée sur le nord-est. | France entière, effet plus marqué sur la moitié est. | Faible (45%) | Mentionnés comme faisant partie de "l'ensemble du pauvre" s'accordant sur la tendance à la baisse des géopotentiels en fin de semaine. |
+| **GFS (déterministe)** (Partiel) | Maintien de l'anticyclone en début de semaine, puis possible baisse des géopotentiels par l'est et medicane en Méditerranée en toute fin de période. | Temps sec et chaud, puis possible changement en Méditerranée. | Est, Méditerranée, Corse | Modérée (65%) | Utilisé pour illustrer l'approche de bas géopotentiels à 500 hPa et une possible cyclogenèse méditerranéenne. |
+| **GEFS (ensemble GFS)** (Documenté) | Aucun déverrouillage franc de l'anticyclone ; les scénarios de fraîcheur à l'est deviennent minoritaires. Sécheresse qui se poursuit au moins jusqu'au 02/10. | Temps sec, chaud, très peu de précipitations. | France entière, plus particulièrement nord et est | Modérée (65%) | Diagramme de Bordeaux très dispersé, aucune sortie de blocage nette. Confirme le très faible cumul de pluie sur Paris. |
+| **ECMWF / IFS** (Partiel) | Dorsale solide en début de semaine, puis amincissement. Les fortes chaleurs se recentrent vers l'ouest et le sud-ouest. | Temps très chaud et sec, quelques matinées fraîches possibles à l'est. | Ouest, sud-ouest, est | Modérée (65%) | Les runs IFS montrent une réduction de la masse d'air très chaud en T850, limitée au littoral aquitain. |
+| **AIFS (modèle IA ECMWF)** (Partiel) | Déterministe parfois en sortie de route pour l'est, avec une possibilité de fraîcheur, non confirmée par les ensembles. Tendance à l'amincissement de la dorsale. | Temps sec, chaleur d'abord généralisée puis plus limitée à l'ouest. | Est, nord-est | Modérée (65%) | Les évolutions des T850 pour vendredi 25 montrent un net repli des températures élevées vers l'ouest. |
+| **GEM** (Insuffisant) | Approche de bas géopotentiels sous forme possible de gouttes froides par l'est, en accord avec GFS et AIFS. | Possible retour de précipitations, encore très incertain. | Est, nord-est | Faible (45%) | Cité une fois dans une sélection de trois modèles illustrant une baisse des géopotentiels à 500 hPa. |
+| **ARPEGE** (Insuffisant) | Rejoint la tendance à l'amincissement de la dorsale en fin de semaine, sans remettre en cause la sécheresse. | Temps sec, chaleur persistante au sud et à l'ouest. | France entière | Faible (45%) | Mentionné au passage dans "l'ensemble du pauvre" aux côtés d'ICON et GFS. |
+| **ICON** (Insuffisant) | Même tendance que ARPEGE et GFS : affaiblissement de la dorsale, pas de déblocage majeur. | Temps sec et chaud. | France entière | Faible (45%) | Cité dans une liste de modèles convergeant vers un amincissement de la dorsale. |
+| **Météo-France** (Documenté) | Temps sec, ensoleillé et anormalement chaud, avec mistral en Méditerranée, quelques pluies possibles sur le relief pyrénéen lundi. | Beau temps, chaleur, absence de phénomène dangereux jusqu'à J+7. | France entière | Élevée (85%) | Prévisions détaillées pour Paris, Gironde, Rhône, Bouches-du-Rhône, Haute-Garonne et bande côtière méditerranéenne. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Soleil dominant, quelques voiles nuageux, chaleur modérée. | Maximales 24-27°C, minimales 10-14°C. | elevee | GFS, ECMWF, ARPEGE | Risque de brumes côtières et de variations thermiques locales. |
-| **Nord** | Ensoleillé, ciel clair, chaleur modérée. | Maximales 24-27°C, minimales 10-13°C. | elevee | GFS, ECMWF, AIFS, GEFS | Impact de la goutte froide du Benelux, possible en fin de semaine sur l'est de la zone. |
-| **Nord-Est** | Soleil, puis voiles nuageux, chaleur modérée. | Maximales 24-28°C, minimales 8-14°C. | elevee | GFS, ECMWF, GEM | Position exacte de la goutte froide et son impact sur la chaleur. |
-| **Ouest et Façade Atlantique** | Soleil éclatant, chaleur marquée. | Maximales 27-31°C, minimales 10-17°C. | elevee | GFS, ECMWF, AIFS, ARPEGE | La chaleur pourrait se maintenir plus longtemps sur le littoral aquitain. |
-| **Centre** | Soleil généreux, chaleur modérée. | Maximales 25-29°C, minimales 9-13°C. | elevee | GFS, ECMWF, ICON | Risque de fortes chaleurs en fin de semaine si la goutte froide ne se décale pas. |
-| **Sud-Ouest** | Soleil et chaleur, très sec. | Maximales 29-31°C, minimales 11-15°C. | elevee | GFS, ECMWF, AIFS, ARPEGE | Maintien d'une masse d'air très chaude en fin de semaine, avec un possible renforcement du vent d'autan. |
-| **Sud-Est et Vallée du Rhône** | Soleil, mistral possible, chaleur modérée. | Maximales 25-29°C, minimales 9-16°C. | elevee | GFS, ECMWF, GEM, ARPEGE | Maintien de la chaleur ou influence de la goutte froide en fin de semaine. |
-| **Méditerranée et Corse** | Soleil, chaleur, mistral puis vent d'est. | Maximales 27-31°C, minimales 16-20°C sur le littoral. | moderee | GFS, ECMWF, GEM, AIFS, CEP | Évolution très incertaine en fin de période (27 septembre et au-delà). |
+| **Nord-Ouest** | Temps sec et ensoleillé, quelques voiles nuageux, chaleur modérée | Maximales 22 à 28°C, minimales 9 à 14°C | moderee | GFS, ECMWF | Précision thermique sur le littoral |
+| **Nord** | Ensoleillé, sec, chaleur modérée en journée, nuits fraîches | Maximales 23 à 27°C, minimales 11 à 14°C | elevee | Meteo-France, GEFS, IFS | Influence d'une goutte froide en fin de semaine |
+| **Nord-Est** | Soleil dominant, chaleur modérée, possible baisse des températures en fin de semaine | Maximales 24 à 28°C, minimales 8 à 13°C | moderee | AIFS, GFS, GEFS | Réalité de la fraîcheur et de la goutte froide |
+| **Ouest et Façade Atlantique** | Beau temps sec, très chaud pour la saison, maximales 27 à 31°C | Maximales 27 à 31°C, minimales 10 à 17°C selon littoral | elevee | Meteo-France, GFS, ECMWF | Évolution en fin de semaine avec amincissement de la dorsale |
+| **Centre** | Temps ensoleillé et sec, chaleur modérée, nuits fraîches | Maximales 25 à 29°C, minimales 8 à 13°C | moderee | Meteo-France, GFS | Contraste thermique est-ouest |
+| **Sud-Ouest** | Très ensoleillé, chaleur marquée, maximales proches de 30°C | Maximales 29 à 31°C, minimales 9 à 15°C | elevee | Meteo-France, GFS, AIFS | Pluie localisée et force de l'autan |
+| **Sud-Est et Vallée du Rhône** | Ensoleillé, chaleur modérée à forte, mistral possible en vallée du Rhône | Maximales 25 à 30°C, minimales 11 à 18°C | elevee | Meteo-France, GFS, ECMWF | Intensité du mistral et de la chaleur |
+| **Méditerranée et Corse** | Soleil généreux, chaleur, mistral assez fort, possible dégradation en fin de période | Maximales 27 à 32°C, minimales 16 à 20°C sur le littoral | moderee | GFS, ECMWF, Meteo-France, GEFS | Réalité et position d'une éventuelle medicane en Méditerranée |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 21 - Mardi 22 Septembre** : Temps chaud, sec et ensoleillé sur l'ensemble du pays, avec mistral en Méditerranée.
-- **Mercredi 23 - Jeudi 24 Septembre** : Chaleur qui se maintient mais commence à faiblir sur l'est, sous l'influence d'une possible goutte froide.
-- **Vendredi 25 - Samedi 26 Septembre** : Temps toujours sec, avec un fort dégradé thermique entre un ouest chaud et un est plus modéré.
-- **Dimanche 27 Septembre** : Journée de transition, avec des signaux d'une possible évolution vers une dégradation en Méditerranée.
+- **Lundi 21 et mardi 22 septembre** : Temps sec et ensoleillé, chaleur marquée, mistral assez fort en Méditerranée.
+- **Mercredi 23 et jeudi 24 septembre** : Poursuite du beau temps, températures toujours au-dessus des normales, vent faible à modéré.
+- **Vendredi 25 et samedi 26 septembre** : Soleil encore présent, mais tendance à l'amincissement de la dorsale, thermomètres en léger repli à l'est.
+- **Dimanche 27 septembre** : Blocage encore présent, mais la possibilité d'une évolution méditerranéenne se précise, sans certitude.
 
 **Points solides :**
-1. Temps sec et ensoleillé sur l'ensemble de la France jusqu'au 27 septembre.
-2. Chaleur supérieure aux normales de saison, plus marquée sur le sud et l'ouest.
-3. Sécheresse de surface et risque incendie en augmentation.
+- Temps sec et ensoleillé quasi généralisé jusqu'à jeudi 24 septembre.
+- Chaleur anormalement élevée pour la saison, surtout au sud-ouest.
+- Mistral sensible lundi et mardi en Méditerranée.
 
 **Points fragiles :**
-1. Extension exacte de la chaleur après le 23 septembre, avec un possible retrait sur l'est.
-2. Signaux de baisse des géopotentiels en fin de semaine, sans scénario précis.
-3. Éventuelle dégradation méditerranéenne en toute fin de période, à prendre avec de très grandes précautions.
+- Goutte froide ou dégradation en fin de semaine, encore mal calibrée.
+- Scénario de medicane entre le 27/09 et le 04/10, purement hypothétique.
+- Répartition exacte des fortes chaleurs, notamment entre l'ouest et l'est.
 
 **À surveiller (prochains runs) :**
-À surveiller : l'évolution de la goutte froide modélisée du Benelux aux Alpes et son impact sur les températures du nord-est en fin de semaine. Le potentiel de dégradation en Méditerranée (27 septembre - 4 octobre) est également à suivre de près.
+Prochaines échéances de GFS, ECMWF et AIFS pour évaluer la baisse des géopotentiels, les cartes de T850 à 180 h et les membres des ensembles pour la Méditerranée.
 
 
-## 🗓️ SEMAINE 2 : Du Lundi 28 Septembre au Dimanche 4 Octobre 2026
+## 🗓️ SEMAINE 2 : Du lundi 28 septembre au dimanche 4 octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Blocage encore présent ? : Le temps sec et anticyclonique pourrait se poursuivre, mais des signaux de changement apparaissent.
-2. Méditerranée à surveiller : des modélisations évoquent un possible épisode de type medicane, à confirmer.
-3. Sécheresse toujours au cœur des préoccupations : la fin de mois s'annonce très sèche sur une grande partie du pays.
+1. Méditerranée sous surveillance : Une possible medicane ou un épisode pluvieux est évoqué entre le 27/09 et le 04/10, très incertain.
+2. Blocage encore probable : Le temps sec et chaud pourrait se prolonger en début de semaine, surtout au nord et à l'ouest.
+3. Sécheresse qui dure : Les projections indiquent peu ou pas de précipitations, au moins jusqu'au 02/10, notamment au nord.
+4. Goutte froide possible : Une baisse des géopotentiels par l'est est modélisée, mais les scénarios restent divergents.
+5. Incertitudes majeures : La chronologie et l'intensité d'un éventuel changement de synoptique ne peuvent pas être précisées.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-1. Poursuite très probable d'un temps sec et anticyclonique sur la majeure partie du pays.
-2. Des signaux d'une baisse des géopotentiels apparaissent, mais sans scénario précis.
-3. Le sud-est de la France et la Méditerranée sont les zones les plus susceptibles de voir une évolution.
+- Le temps sec et chaud devrait se maintenir au moins en début de semaine.
+- Les projections s'accordent sur un affaiblissement progressif de l'anticyclone, mais pas sur sa chronologie.
+- La Méditerranée concentre les principaux signaux d'une possible dégradation.
 **Points de divergence :**
-1. Intensité et localisation exacte de la baisse des géopotentiels.
-2. Possibilité ou non d'un épisode méditerranéen significatif (type medicane ou dégradation orageuse).
-3. Impact sur les températures : maintien d'une chaleur anormale ou retour à des valeurs plus proches des normales.
+- Formation ou non d'une medicane en Méditerranée.
+- Passage d'une goutte froide sur l'est ou maintien du blocage.
+- Répartition des précipitations, si précipitations il y a.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS (Global Forecast System)** (Cité pour des échéances lointaines, avec de très fortes réserves.) | Maintien probable du temps sec, mais avec un signal pour une baisse des géopotentiels en Méditerranée. | Temps sec, chaleur modérée, possible dégradation orageuse en Méditerranée. | Méditerranée, sud-est, et dans une moindre mesure le reste du pays. | Modérée (65%) | Le déterminisme GFS modélise un possible épisode de type medicane en Méditerranée. Les membres insistent sur la très grande incertitude au-delà de 240h. |
-| **ECMWF (IFS / Ensemble européen)** (Évoqué via les ensembles pour les tendances à long terme.) | Poursuite probable du blocage anticyclonique, avec une possible érosion par l'est. | Sec et chaud, avec peut-être un peu plus de fraîcheur sur l'est. | France, avec un signal plus net sur l'est. | Faible (45%) | L'ensemble européen ne montre pas de déblocage franc, mais une tendance à une baisse des températures. |
-| **GEFS (Ensemble GFS)** (Cité pour illustrer l'absence de précipitations au nord jusqu'au 2 octobre.) | Très sec sur la plupart des régions, avec un signal pluvieux possible sur le sud-est en toute fin de mois. | Sec, chaud, pas de pluie significative au nord. | Nord et ouest très sec, sud-est potentiellement concerné. | Faible (45%) | Le diagramme GEFS sur Paris montre une absence quasi totale de précipitations jusqu'au 2 octobre, confirmant la tendance très sèche. |
+| **GFS (déterministe)** (Insuffisant) | Maintien probable de l'anticyclone en début de semaine, puis possible creusement méditerranéen ou medicane en toute fin de période. | Temps encore sec, puis risque d'orages ou de fortes pluies en Méditerranée. | Méditerranée, Corse, sud-est | Faible (45%) | Projection à plus de 240 h, à considérer avec de très grandes réserves. |
+| **ECMWF / IFS** (Insuffisant) | Blocage encore présent en début de semaine, avec une incertitude forte sur une éventuelle dégradation en Méditerranée et sur l'est. | Temps sec et chaud, possible évolution pluvieuse en fin de période. | France entière, surtout Méditerranée | Faible (45%) | Les projections long terme suggèrent un affaiblissement de la dorsale, mais aucun scénario net ne se dégage. |
+| **GEFS (ensemble GFS)** (Partiel) | Probabilité faible de précipitations sur le nord jusqu'au 02/10, signaux humides limités au sud. Aucun déblocage franc. | Temps sec, chaleur pouvant se maintenir. | Nord, Méditerranée | Modérée (65%) | Diagrammes montrant un tube très large, gage de fortes incertitudes. |
+| **AIFS** (Insuffisant) | Évoque une baisse des géopotentiels par l'est, avec possibilité de gouttes froides, mais peu soutenue par les ensembles. | Possible retour de précipitations, très incertain. | Est | Faible (45%) | Déterministe parfois en sortie de route, à replacer dans le contexte des ensembles. |
+| **GEM** (Insuffisant) | Approche de bas géopotentiels possible par l'est, cohérente avec GFS et AIFS, mais sans précision sur les effets. | Possible dégradation sur l'est. | Est | Faible (45%) | Cité comme l'un des modèles voyant une baisse des géopotentiels à 500 hPa. |
+| **Météo-France (bulletin J+7)** (Partiel) | Temps sec et ensoleillé au moins lundi 28, vent de sud modéré par endroits, températures en hausse sur le nord-est, stables ailleurs. | Beau temps, chaleur, quelques pluies possibles sur le relief pyrénéen lundi. | France entière | Élevée (85%) pour le 28, faible au-delà | Intègre les prévisions départementales jusqu'au 28/09 ; la suite reste du domaine des projections long terme. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec probable, ensoleillement dominant. | Températures non estimées à cette échéance. | faible | GFS, GEFS | Projections trop lointaines pour être fiables. |
-| **Nord** | Sec et probablement encore chaud. | Températures non estimées à cette échéance. | faible | GFS, GEFS | Le blocage pourrait se maintenir ou s'atténuer. |
-| **Nord-Est** | Possibilité d'une légère baisse des températures. | Températures non estimées à cette échéance. | faible | GFS, ECMWF | Influence possible d'une goutte froide, encore très incertaine. |
-| **Ouest et Façade Atlantique** | Temps sec et chaud probable. | Températures non estimées à cette échéance. | faible | GFS | Maintien de la chaleur ou début de changement ? |
-| **Centre** | Temps sec, ensoleillement dominant. | Températures non estimées à cette échéance. | faible | GFS | Pas de discussion spécifique pour cette zone. |
-| **Sud-Ouest** | Temps sec et chaud probable. | Températures non estimées à cette échéance. | faible | GFS, ECMWF | La chaleur pourrait persister plus longtemps qu'ailleurs. |
-| **Sud-Est et Vallée du Rhône** | Possible évolution vers de l'instabilité, mais très incertain. | Températures non estimées à cette échéance. | faible | GFS, ECMWF, GEM | Position et intensité de la baisse des géopotentiels. |
-| **Méditerranée et Corse** | Potentiel de dégradation méditerranéenne, possible medicane. | Températures non estimées à cette échéance. | faible | GFS, ECMWF, GEM, AIFS | Échéance très lointaine, les modèles changent énormément d'un run à l'autre. |
+| **Nord-Ouest** | Temps sec et chaud probable, aucune dégradation en vue | Maximales 22 à 27°C, minimales 9 à 14°C | faible | GEFS | Durée exacte du blocage |
+| **Nord** | Sec et chaud, très faible probabilité de pluie jusqu'au 02/10 | Maximales 23 à 27°C, minimales 11 à 15°C, en hausse possible lundi 28 | faible | GEFS, ECMWF, Meteo-France | Maintien de l'anticyclone |
+| **Nord-Est** | Possible baisse des températures, faible risque de précipitations | Maximales 22 à 27°C, minimales 8 à 13°C | faible | GFS, GEM, AIFS | Trajectoire de la goutte froide |
+| **Ouest et Façade Atlantique** | Temps sec et chaud persistant, soleil généreux | Maximales 26 à 30°C, minimales 11 à 17°C | faible | GFS, ECMWF, Meteo-France | Évolution de la dorsale en fin de période |
+| **Centre** | Ensoleillé et sec, chaleur modérée | Maximales 24 à 28°C, minimales 9 à 14°C | faible | GFS | Changement de masse d'air possible |
+| **Sud-Ouest** | Chaleur persistante, soleil dominant, pluie possible sur le relief pyrénéen lundi | Maximales 28 à 31°C, minimales 10 à 16°C | faible | GFS, ECMWF, Meteo-France | Maintien ou non des fortes chaleurs |
+| **Sud-Est et Vallée du Rhône** | Temps sec et chaud, vent de sud possible, dégradation incertaine en fin de période | Maximales 26 à 30°C, minimales 12 à 18°C | faible | GFS, ECMWF, Meteo-France | Influence de la medicane potentielle |
+| **Méditerranée et Corse** | Chaleur, mistral possible, épisode pluvieux ou medicane très incertain | Maximales 27 à 31°C, minimales 16 à 21°C | faible | GFS, ECMWF, GEFS, Meteo-France | Formation, position et intensité d'une medicane |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 28 - Mercredi 30 Septembre** : Poursuite très probable d'un temps sec et anticyclonique, avec une chaleur encore présente.
-- **Jeudi 1er - Dimanche 4 Octobre** : Possible évolution, notamment en Méditerranée, avec un risque de dégradation orageuse, mais très incertain.
+- **Lundi 28 et mardi 29 septembre** : Blocage probable, temps sec et chaud, incertitude limitée.
+- **Mercredi 30 septembre et jeudi 1er octobre** : Possible affaiblissement de l'anticyclone, mais aucun scénario fiable.
+- **Vendredi 2 et samedi 3 octobre** : Surveillance accrue en Méditerranée pour une éventuelle dégradation.
+- **Dimanche 4 octobre** : Tendance indéterminée, trop d'incertitudes pour trancher.
 
 **Points solides :**
-1. Le temps reste probablement sec et anticyclonique sur une grande partie de la France.
-2. Des signaux de baisse des géopotentiels sont présents, mais restent à confirmer.
-3. Le sud-est et la Méditerranée sont les zones les plus à risque d'une évolution.
+- Maintien probable du temps sec et chaud en début de semaine.
+- Très faible probabilité de pluie sur le nord jusqu'au 02/10.
+- Signaux de dégradation concentrés sur la Méditerranée.
 
 **Points fragiles :**
-1. Scénario de medicane très incertain, basé sur des échéances très lointaines.
-2. Aucun consensus sur la fin du blocage anticyclonique.
-3. Les températures pour la semaine restent très difficiles à estimer.
+- Scénario de medicane, purement hypothétique à cette échéance.
+- Chronologie de la baisse des géopotentiels et de l'arrivée d'une éventuelle goutte froide.
+- Répartition géographique des précipitations, si elles se confirment.
 
 **À surveiller (prochains runs) :**
-Les prochains runs de GFS et d'ECMWF sont cruciaux pour confirmer ou infirmer le scénario méditerranéen. L'ouverture du sujet forum Semaine 40 est également très attendue.
+Ouverture du sujet Semaine 40 et prochaines sorties GFS, ECMWF, AIFS et GEFS pour stabiliser le scénario méditerranéen.
 
 
 ========================================
@@ -128,38 +138,31 @@ Les prochains runs de GFS et d'ECMWF sont cruciaux pour confirmer ou infirmer le
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Blocage anticyclonique persistant sur les dix prochains jours, avec un temps sec, ensoleillé et anormalement chaud pour la saison. Une évolution pourrait se produire en toute fin de quinzaine, principalement en Méditerranée, mais reste très incertaine.
+Blocage anticyclonique très persistant avec un temps sec, ensoleillé et anormalement chaud pour la saison, au moins jusqu'au début de la semaine 40. Une évolution est possible en toute fin de quinzaine, principalement en Méditerranée, mais elle reste très incertaine.
 
 ### Période la plus fiable
-Semaine 1 (21-27 septembre) avec une confiance modérée, les projections à plus long terme étant encore très sujettes à caution.
+Semaine 1 (21-27 septembre), avec une confiance modérée à élevée pour le temps sec et chaud.
 
 ### Phénomènes récurrents
-- Forte chaleur diurne.
-- Nuits parfois fraîches, surtout à l'est.
-- Mistral en Méditerranée.
-- Absence quasi totale de précipitations.
+- Dorsales anticycloniques successives.
+- Sécheresse de surface et évapotranspiration élevée.
+- Scénarios de gouttes froides ou de medicane récurrents dans les modèles long terme, sans concrétisation.
 
 ### Principales incertitudes
-- Maintien ou non du blocage anticyclonique après le 27 septembre.
-- Possibilité d'un épisode méditerranéen (type medicane) en toute fin de quinzaine.
-- Évolution exacte des températures, avec un possible fort dégradé SO/NE.
+- Formation éventuelle d'une medicane entre le 27/09 et le 04/10.
+- Maintien ou rupture du blocage anticyclonique.
+- Répartition précise des fortes chaleurs et des éventuelles précipitations.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes.
-La date exacte de la possible baisse des géopotentiels et de l'arrivée d'une éventuelle dégradation reste très floue. Les modèles changent d'un run à l'autre, et la transition, si elle a lieu, pourrait se produire entre le 27 septembre et le 4 octobre.
-- **Localisation :** Doutes sur la localisation précise et les zones géographiques concernées.
-L'impact de la goutte froide modélisée sur l'est de la France est incertain. La zone la plus à risque pour une dégradation est la Méditerranée, mais le secteur exact (Golfe du Lion, Corse, large) n'est pas déterminé. L'extension de la chaleur en fin de semaine 1 est également sujette à caution.
-- **Intensité :** Doutes sur l'intensité (températures, force des orages, etc.).
-L'intensité de la chaleur après le 23 septembre est incertaine. Le scénario d'un fort dégradé SO/NE est possible, mais pas confirmé. En cas de dégradation méditerranéenne, son intensité (pluies, vent) est totalement inconnue.
-- **Informations manquantes :** Informations importantes non abordées ou manquantes dans les discussions.
-Aucune information précise sur l'humidité des sols, l'état des nappes phréatiques ou les risques de feux de forêt dans les discussions des membres. L'évolution des températures minimales est évoquée, mais les maximales précises pour chaque région ne sont pas détaillées.
-- **Modèles sous-documentés :** Modèles peu ou pas commentés par les membres.
-ARPEGE, ICON, UKMO et le modèle canadien GEM sont peu commentés en détail. Les discussions se concentrent principalement sur GFS, ECMWF et AIFS.
-- **Incertitudes images :** Incertitudes sur les graphiques et cartes du forum.
-Les liens vers les cartes de meteociel.fr (GEFS, ECMWF) sont mentionnés, mais les images ne sont pas incluses dans les messages. Il est donc impossible de vérifier les sorties graphiques évoquées.
+- **Timing/Chronologie :** La chronologie exacte de l'affaiblissement de l'anticyclone et de l'éventuelle dégradation méditerranéenne reste très incertaine, avec des écarts de plusieurs jours entre les modèles.
+- **Localisation :** Les zones exactes concernées par une possible goutte froide ou une medicane sont floues : Méditerranée, est ou littoral aquitain selon les runs.
+- **Intensité :** L'intensité de la chaleur en fin de semaine 1 est incertaine, avec un possible contraste fort entre un ouest très chaud et un est moins chaud. L'intensité de la medicane, si elle se forme, est inconnue.
+- **Informations manquantes :** Peu d'informations sur les températures en Bretagne, Normandie, Grand Est et Corse. Le vent est rarement documenté dans les discussions.
+- **Modèles sous-documentés :** ICON, ARPEGE et GEM ne sont que brièvement cités. Aucune analyse dédiée pour la semaine 2, faute de sujet ouvert.
+- **Incertitudes images :** Les cartes à 500 hPa et les diagrammes GEFS sont mentionnés mais peu décrits dans le détail ; les liens vers les images n'ont pas pu être analysés.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌞 Sécheresse et chaleur tardive : le blocage anticyclonique se prolonge sur la France. Les températures restent supérieures aux normales, avec des maximales de 30°C possibles au sud et à l'ouest. Les nuits sont parfois fraîches, surtout à l'est. Un possible changement se dessine pour le début octobre, mais il reste très incertain. Affaire à suivre ! #Météo #Sécheresse #Chaleur #France #Prévisions
+🔆 Blocage anticyclonique, chaleur remarquable et sécheresse : la France reste sous haute pression pour la semaine à venir. Les maximales atteignent encore 29 à 32°C au sud-ouest et en Méditerranée, avec des nuits parfois fraîches à l'est. 🌊 En fin de quinzaine, les modèles évoquent une possible dégradation méditerranéenne, voire une medicane, mais tout cela reste très incertain. À suivre de près ! #Météo #Anticyclone #Medicane #Sécheresse
