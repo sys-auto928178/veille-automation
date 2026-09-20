@@ -326,11 +326,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
+• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps &#xE0; Montréal
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -339,9 +339,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 20 Septembre 2026.
-Résumé général HDF précédent : Sur l'ensemble de la période (21 Septembre - 4 Octobre), les Hauts-de-France restent sous l'influence d'un vaste anticyclone garantissant un temps sec, largement ensoleillé et anormalement doux pour la saison. La première semaine est d'une fiabilité remarquable. La seconde semaine, bien que toujours dominée par le beau temps, pourrait voir s'ébaucher une dégradation en toute fin de période (autour du 2-4 Octobre), sans aucune certitude..
+Résumé général HDF précédent : Deux semaines dominées par un puissant anticyclone : temps sec, ensoleillé et anormalement doux pour la saison sur l'ensemble des Hauts-de-France. La première semaine bénéficie d'une excellente fiabilité. La seconde semaine est beaucoup plus incertaine : les modèles évoquent une possible érosion du blocage en toute fin de période, sans aucune certitude..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et ensoleillé. Pas de risque d'orages pour la région. Vent modéré de NW sur le littoral en début de semaine..
+Températures attendues précédemment : Soleil dominant, voile nuageux mercredi ; rafales NW 55 km/h en Flandre maritime mercredi soir..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -534,7 +534,7 @@ pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos 
 	cagnard, sec et sous l'influence de la botte lointaine de Patator ou directe de son excroissance...
 	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
 	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								1
 
 =======================
@@ -554,16 +554,17 @@ Il y a 8 heures, Jojobarbar a dit :
 	En fait la tendance est à l'amincissement de la puissante dorsale, très en forme en début de semaine...
 	Ce soir, cette tendance semble faire l'unanimité parmi les modèles (l'ensemble du pauvre : ARPEGE, ICON, GFS, ...)
 	Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
-								17
+								18
 
 =======================
 
 Auteur: Twister83
 Message:
 C'est très très fort comme performance.
-								1
+								3
 								2
-								4
+								8
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: Grahok73
@@ -755,7 +756,7 @@ pour l'extrême fin du topic et pour aller dans de sens de @Jojobarbar sur nos 
 	cagnard, sec et sous l'influence de la botte lointaine de Patator ou directe de son excroissance...
 	https://images.meteociel.fr/im/85/23128/graphe_ens4jod3.php.png
 	https://images.meteociel.fr/im/46/24984/ecmwfnh_0_144epx7.png
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								1
 
 =======================
@@ -775,13 +776,14 @@ Il y a 8 heures, Jojobarbar a dit :
 	En fait la tendance est à l'amincissement de la puissante dorsale, très en forme en début de semaine...
 	Ce soir, cette tendance semble faire l'unanimité parmi les modèles (l'ensemble du pauvre : ARPEGE, ICON, GFS, ...)
 	Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
-								17
+								18
 
 =======================
 
 Auteur: Twister83
 Message:
 C'est très très fort comme performance.
-								1
+								3
 								2
-								4
+								8
+								2
