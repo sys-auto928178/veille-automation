@@ -313,10 +313,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Dimanche 20 Septembre 2026.
-Résumé général HDF précédent : Les Hauts-de-France sont bloqués sous un puissant anticyclone. Le temps reste sec, ensoleillé et très doux pour la saison. Une dégradation est envisageable à partir du 30 septembre, mais elle est très hypothétique et les modèles peinent à s'accorder..
+Dernier bulletin HDF généré le Lundi 21 Septembre 2026.
+Résumé général HDF précédent : Anticyclone dominant et temps sec/très doux au moins jusqu’au 28-29 septembre. Ensuite, possible bascule en flux de sud-ouest à partir du 30, sans retour pluvieux franc garanti pour les Hauts-de-France..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps calme, sec et ensoleillé. Fraîcheurs matinales possibles jeudi/vendredi à l'est..
+Températures attendues précédemment : Soleil dominant, aucun risque d’orages, rafales possibles sur le littoral jeudi/vendredi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -517,7 +517,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 7 heures par giec 2100
+	Modifié il y a 9 heures par giec 2100
 								1
 
 =======================
@@ -531,7 +531,7 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 3 heures par Ciel d&#039;encre
+	Modifié il y a 5 heures par Ciel d&#039;encre
 								1
 								1
 								3
@@ -542,7 +542,7 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devront nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir ?
-	Modifié il y a 3 heures par fran39
+	Modifié il y a 5 heures par fran39
 								1
 
 =======================

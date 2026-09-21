@@ -319,10 +319,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Dimanche 20 Septembre 2026.
-Résumé général précédent : Sur l'ensemble de la période du 21 septembre au 4 octobre, un temps sec et anormalement chaud domine, mais une dégradation humide est de plus en plus plausible en toute fin d'échéance, sans certitude sur sa réalité..
+Dernier bulletin généré le Lundi 21 Septembre 2026.
+Résumé général précédent : Temps sec et anormalement chaud sur la France sous un blocage anticyclonique, avec une possible dégradation humide en toute fin d’échéance, très incertaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Tendance à la baisse des températures maximales à l'est, mais toujours très doux ailleurs. Sécheresse persistante. (max 120 caractères).
+Températures attendues précédemment : Chaleur soutenue au sud-ouest ; aucun épisode pluvieux significatif ; risque de medicane très incertain au-delà du 27..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -523,7 +523,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 7 heures par giec 2100
+	Modifié il y a 9 heures par giec 2100
 								1
 
 =======================
@@ -537,7 +537,7 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 3 heures par Ciel d&#039;encre
+	Modifié il y a 5 heures par Ciel d&#039;encre
 								1
 								1
 								3
@@ -548,7 +548,7 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devront nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir ?
-	Modifié il y a 3 heures par fran39
+	Modifié il y a 5 heures par fran39
 								1
 
 =======================
