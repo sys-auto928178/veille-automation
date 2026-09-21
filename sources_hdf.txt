@@ -301,12 +301,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : =30°C consécutives]]>
 • Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Le topic du Jardinage
-• Infoclimat Direct : &#x200B;&#x2728;&#x200B; &#x1D40B;&#x1D41A; &#x1D402;&#x1D428;&#x1D42E;&#x1D429;&#x1D41E; &#x1D41D;&#x1D41E; &#x1D405;&#x1D42B;&#x1D41A;&#x1D427;&#x1D41C;&#x1D41E; &#x1D41D;&#x1D41E;&#x1D42C; &#x1D402;&#x1D425;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D42C; &#x1D7D0;&#x1D7CE;&#x1D7D0;&#x1D7D4; &#x200B;&#x2728;&#x200B;&#x200B; Poule 7 : Ajaccio, Clermont Ferrand, Rodez, Nancy
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 21/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,9 +314,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 21 Septembre 2026.
-Résumé général HDF précédent : Anticyclone dominant et temps sec/très doux au moins jusqu’au 28-29 septembre. Ensuite, possible bascule en flux de sud-ouest à partir du 30, sans retour pluvieux franc garanti pour les Hauts-de-France..
+Résumé général HDF précédent : Temps sec et très doux pour la saison sur les Hauts-de-France, avec un anticyclone dominant au moins jusqu'au 29 septembre. Ensuite, possible bascule en flux de sud-ouest, mais sans retour pluvieux franc garanti..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Soleil dominant, aucun risque d’orages, rafales possibles sur le littoral jeudi/vendredi..
+Températures attendues précédemment : Aucun orage, aucune pluie, rafales possibles sur le littoral jeudi et vendredi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -517,7 +517,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 9 heures par giec 2100
+	Modifié il y a 11 heures par giec 2100
 								1
 
 =======================
@@ -531,7 +531,7 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 5 heures par Ciel d&#039;encre
+	Modifié il y a 7 heures par Ciel d&#039;encre
 								1
 								1
 								3
@@ -542,7 +542,7 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devront nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir ?
-	Modifié il y a 5 heures par fran39
+	Modifié il y a 7 heures par fran39
 								1
 
 =======================
