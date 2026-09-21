@@ -304,7 +304,7 @@ Températures minimales : en hausse.
 Températures maximales : en hausse sur le Laonnois ainsi que sur la moitié Sud du département.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 210415 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 21 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 21 septembre 2026 à 00H00 UTC, et évolution Système dépressionnaire en Scandinavie avec flux dynamique associé en Mer du Nord, s'évacuant progressivement vers l'est. Anticyclone 1030 hPa dans le golfe de Gascogne, se renforçant, et prévu 1032 hPa en Manche demain midi. 3 - Prévisions pour la journée du lundi 21 septembre VENT : Variable 1 à 3. MER : belle à peu agitée, s'atténuant belle en Manche le matin. HOULE : Ouest 0.5 m en Manche, devenant rapidement non significative. TEMPS : voilé, s'éclaircissant l'après-midi. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 21 septembre au mardi 22 septembre VENT : Variable 1 à 3. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du mardi 22 septembre VENT : Variable 1 à 3, s'établissant Nord à Nord-Est 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 22 au 23 et la journée du mercredi 23 septembre VENT : Est à Nord-Est 3 à 4, virant Sud-Est en milieu de nuit, puis au Sud à Sud-Ouest en début de matinée. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Jeudi 24 septembre Secteur Est faible. Indice de confiance : 4 sur 5 Vendredi 25 septembre Secteur Sud faible. Indice de confiance : 4 sur 5 Samedi 26 septembre Variable faible. Indice de confiance : 3 sur 5 Dimanche 27 septembre Variable faible. Indice de confiance : 3 sur 5 8 - Observations le lundi 21 septembre 2026 à 03H00 UTC Dunkerque : vent Sud-Sud-Ouest 4 noeuds, 1031 hPa en baisse. Cap Gris Nez : vent Sud-Sud-Ouest 4 noeuds. Boulogne : vent Sud-Est 4 noeuds, 1031 hPa en baisse. Bouée Sandettie : vent Nord 6 noeuds, creux 0,4 mètre, 1031 hPa en baisse, visibilité 5 milles. Prochain bulletin le lundi 21 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 211000 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 21 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 21 septembre 2026 à 06H00 UTC, et évolution Système dépressionnaire en Scandinavie avec flux dynamique associé de Nord-Ouest en Mer du Nord, s'évacuant progressivement vers l'est. Anticyclone 1033 hPa centré sur Manche, peu de changement. Mercredi, dépression relative à 1020 hPa sur le sud-ouest de la France, associée à un anticyclone à 1032 hPa au large de l'Irlande. 3 - Prévisions pour l'après-midi du lundi 21 septembre VENT : Variable 1 à 3. MER : belle à peu agitée, localement belle en Manche. HOULE : non significative. TEMPS : voilé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 21 septembre au mardi 22 septembre VENT : Variable 1 à 3. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux à nuageux vers la frontière belge, clair ailleurs. VISIBILITE : bonne. 5 - Prévisions pour la journée du mardi 22 septembre VENT : Variable 1 à 3, s'établissant Nord à Nord-Est 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 22 au 23 et la journée du mercredi 23 septembre VENT : Sud-Est 2 à 3, virant Sud-Ouest 3 à 4 le matin, et Nord-Ouest 4 à 5 à la fin. Rafales en mer du Nord à la fin. MER : belle, devenant peu agitée à la fin. HOULE : non significative. TEMPS : voilé, devenant nuageux en journée avec quelques gouttes à la fin. VISIBILITE : bonne, moyenne par pluies à la fin. 7 - Prévisions pour la nuit du 23 au 24 et la journée du jeudi 24 septembre VENT : Secteur Nord-Est fraîchissant 6, et mollissant 2 en cours de matinée. MER : belle à peu agitée, localement agitée en mer du nord. HOULE dominante de Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Vendredi 25 septembre Secteur Sud faible à modéré, devenant Variable. Indice de confiance : 4 sur 5 Samedi 26 septembre Variable faible à modéré, devenant secteur Sud sur la pointe bretonne. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Ouest faible à modéré. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Ouest faible à modéré. Indice de confiance : 3 sur 5 9 - Observations le lundi 21 septembre 2026 à 09H00 UTC Dunkerque : vent Nord 4 noeuds, mer peu agitée, 1033 hPa en hausse, nuageux avec éclaircies, visibilité 5 milles. Cap Gris Nez : vent Sud-Ouest 2 noeuds. Boulogne : vent Ouest 2 noeuds, 1033 hPa en hausse, nuageux avec éclaircies, visibilité 13 milles. Bouée Sandettie : vent Nord-Ouest 4 noeuds, creux 0,5 mètre, 1033 hPa en baisse, visibilité 5 milles. Prochain bulletin le lundi 21 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -326,12 +326,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
+• Infoclimat Direct : Projet vp2 Ascain - Sud ouest
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Tendance hiver 2026-2027
+• Infoclimat Direct : Climatologie 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 21/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -339,9 +339,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 21 Septembre 2026.
-Résumé général HDF précédent : Période de 15 jours (21/09 au 04/10) dominée par un puissant anticyclone. Temps sec, très ensoleillé et anormalement doux pour la saison. Les températures maximales seront fréquemment supérieures de 3 à 5°C aux normales. Aucune précipitation significative n'est attendue sur les HDF, avec un risque de sécheresse de surface qui s'accentue. Un changement de synoptique est possible en toute fin de période, mais il reste très incertain et ne devrait pas, dans l'état actuel des prévisions, apporter de pluies notables..
+Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France restent sous la domination d’un puissant anticyclone. Le temps est sec, très ensoleillé et anormalement doux pour la saison, avec des maximales souvent supérieures de 3 à 5°C aux normales. Le risque de pluies significatives est très faible, et la sécheresse de surface s’accentue. Un changement de synoptique est possible en toute fin de période, mais très incertain..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps calme, sec et lumineux. Vent faible à modéré de secteur Nord à Nord-Est en début de semaine, puis Sud en fin de semaine. (117 caractères).
+Températures attendues précédemment : Temps sec, ensoleillé, très doux; fraîcheur matinale possible; aucun risque d’orages..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -542,7 +542,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 15 heures par giec 2100
+	Modifié il y a 17 heures par giec 2100
 								1
 
 =======================
@@ -556,8 +556,8 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 11 heures par Ciel d&#039;encre
-								1
+	Modifié il y a 13 heures par Ciel d&#039;encre
+								2
 								1
 								4
 
@@ -567,8 +567,8 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devront nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir ?
-	Modifié il y a 11 heures par fran39
-								3
+	Modifié il y a 13 heures par fran39
+								4
 
 =======================
 
@@ -577,7 +577,7 @@ Message:
 il y a 2 minutes, fran39 a dit :
 			Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... 
 	Non, tu as eu raison d'apporter une nuance en l'argumentant. C'est aussi ce qui fait l'intérêt du forum. 
-								3
+								7
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: tao
@@ -589,6 +589,23 @@ Bonsoir,
 	Plus il restera en retrait sur l'océan plus l'absence de pluies se fera cruellement sentir, plus il sera mobile vers le continent plus la possibilité de pluies voire d'épisode méditerranéen sera d'actualité. 
 	En tout état de cause, il paraît presque acquis que la bascule en flux de sud sera effective et à même de maintenir des températures hautes pour la saison.
 	Si la voie de l'océan voulait bien prendre de l'ampleur, le changement de saison pourrait se confirmer au niveau de l'humidité, ce ne serait pas un luxe! 
-								18
+								21
 								1
-								6
+								7
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Effectivement la plupart des modèles voient une baisse des géopotentiels et un flux à dominante sud-ouest en début de topic au milieu de l'atlantique à l'image de CEP , ce flux doux pourrait perdurer tout le topic.
+	Mais il est possible que les hauts géopotentiels remontent assez rapidement sur l'atlantique et fassent à nouveau barrage aux perturbations.
+	Géopotentiels  pour mardi et jeudi :
+	Pour illustrer cette possible remontée des géopotentiols et des pressions sur l'atlantique, je poste le déterministe CEP qui est très lointain et donc à prendre comme un hypothèse seulement : 
+	Alors pour les possibilités de précipitations on est encore dans le noir et les modèles divergent avec pratiquement rien pour CEP et nettement plus pour
+	GEM par exemple.
+	CEP  et GEM:
+	Difficile encore de savoir si l'automne va commencer au cours de ce topic ou si l'été va encore jouer les prolongations.
+	Modifié il y a 52 minutes par petit âge glaciaire 11
+Modifié
+								1
+								5
