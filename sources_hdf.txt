@@ -326,11 +326,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Projet vp2 Ascain - Sud ouest
-• Infoclimat Direct : Incendies 2026
-• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Incendies 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -339,9 +339,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 21 Septembre 2026.
-Résumé général HDF précédent : Du 21 septembre au 4 octobre, les Hauts-de-France restent sous un puissant anticyclone jusqu'au 30/09: temps sec, ensoleillé, doux. Ensuite, un flux de sud-ouest pourrait s'installer, mais les pluies restent très incertaines; les températures devraient demeurer au-dessus des normales..
+Résumé général HDF précédent : Sur 15 jours, les Hauts-de-France restent sous l'influence d'un puissant anticyclone au moins jusqu'au 30 septembre, avec un temps sec, ensoleillé et doux. Ensuite, un flux de sud-ouest pourrait s'installer, mais les précipitations demeurent très incertaines. Les températures devraient rester au-dessus des normales..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, ensoleillé, doux; rafales de nord-ouest possibles mercredi; pas de pluie significative..
+Températures attendues précédemment : Temps sec et ensoleillé, vent modéré de nord, températures douces..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -542,7 +542,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								1
 
 =======================
@@ -556,7 +556,7 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 15 heures par Ciel d&#039;encre
+	Modifié il y a 17 heures par Ciel d&#039;encre
 								2
 								1
 								4
@@ -566,8 +566,9 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
-	Edit : finalement la seule question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devront nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir ?
-	Modifié il y a 15 heures par fran39
+	Edit : finalement la seule vraie question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devrons-nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir suite à ce possible "forçage papal" ?
+	Modifié il y a 1 heure par fran39
+orthographe
 								4
 
 =======================
@@ -589,9 +590,9 @@ Bonsoir,
 	Plus il restera en retrait sur l'océan plus l'absence de pluies se fera cruellement sentir, plus il sera mobile vers le continent plus la possibilité de pluies voire d'épisode méditerranéen sera d'actualité. 
 	En tout état de cause, il paraît presque acquis que la bascule en flux de sud sera effective et à même de maintenir des températures hautes pour la saison.
 	Si la voie de l'océan voulait bien prendre de l'ampleur, le changement de saison pourrait se confirmer au niveau de l'humidité, ce ne serait pas un luxe! 
-								21
+								22
 								1
-								7
+								8
 
 =======================
 
@@ -605,7 +606,16 @@ Effectivement la plupart des modèles voient une baisse des géopotentiels et un
 	GEM par exemple.
 	CEP  et GEM:
 	Difficile encore de savoir si l'automne va commencer au cours de ce topic ou si l'été va encore jouer les prolongations.
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 Modifié
 								1
 								8
+
+=======================
+
+Auteur: Hassan
+Message:
+Peut-être une porte de sortie pour la fin du mois au niveau des précipitations après un mois de septembre + chaud+ ensoleillé et + sec qu'un mois de juillet normal 🤢
+	On passerait d'une ambiance chaude et sèche à une ambiance + humide, cf diagramme de Bourges
+	Au niveau hémisphérique on a aussi ce changement avec  AO et NAO plus neutre voir négatif pour cette fin septembre.
+	Modifié il y a 2 minutes par Hassan
