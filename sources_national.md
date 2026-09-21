@@ -285,7 +285,7 @@ Températures minimales : stables.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 210935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 21 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 21 septembre 2026 à 06H00 UTC, et évolution Dépression relative 1020 hPa au large de Provence la côte, se décalant lentement vers le sud, prévue 1017 hPa à l'ouest immédiat de la Sardaigne demain matin. 3 - Prévisions pour l'après-midi du lundi 21 septembre VENT : - de Port Camargue au Cap Croisette : Nord 5 à 6. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 1 à 3. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 21 septembre au mardi 22 septembre VENT : - de Port Camargue au Cap Croisette : Nord 5 à 6, mollissant 4 à 5 en fin de nuit. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 1 à 3, d'Est dominant en deuxième partie de nuit. MER : belle à peu agitée, localement agitée vers le large du Delta du Rhône en soirée. HOULE : non significative. TEMPS : ciel clair à peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du mardi 22 septembre VENT : - de Port Camargue à Fos : Nord 4 à 5, devenant Variable 1 à 3 l'après-midi. - de Fos à Saint-Raphaël : Variable 1 à 3, de Nord-Est dominant le matin. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 22 au 23 et la journée du mercredi 23 septembre VENT : Nord-Est dominant 2 à 4, devenant Variable 1 à 3 l'après-midi. MER : belle à peu agitée HOULE : s'établissant Nord-Est 0.5 à 1 m l'après-midi à l'Est du cap Sicié. TEMPS : ciel clair à peu nuageux VISIBILITE : bonne. 7 - Prévisions pour la nuit du 23 au 24 et la journée du jeudi 24 septembre VENT : Variable 1 à 3 s'orientant Ouest à Nord-Ouest puis Ouest à Sud-Ouest 4 à 5 en cours de matinée. MER : belle à peu agitée. HOULE dominante de Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Vendredi 25 septembre Nord modéré au début sur le golfe du Lion, puis virant Sud-Est faible à modéré. Secteur Nord-Est modéré autour de la Corse. Indice de confiance : 4 sur 5 Samedi 26 septembre Secteur Sud faible à modéré sur le golfe du Lion. Secteur Nord-Est modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 27 septembre Sud-Est faible à modéré sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Lundi 28 septembre Sud-Est faible à modéré sur le golfe du Lion. Variable autour de la Corse. Indice de confiance : 3 sur 5 9 - Observations le lundi 21 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord-Nord-Est 10 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 10 noeuds, nuageux avec éclaircies, visibilité 10 milles. Le Levant : vent Est 10 noeuds, 1021 hPa en hausse. Porquerolles : vent Nord-Est 4 noeuds, rafales 16 noeuds. Cap Couronne : vent Nord 8 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le lundi 21 septembre 2026, vers 18H30 légales
+FQCT40 LFML 211620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 21 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 21 septembre 2026 à 12H00 UTC, et évolution Dépression relative 1020 hPa au large de la Provence, se décalant lentement vers le sud, prévue 1017 hPa au sud-ouest de la Sardaigne demain midi. 3 - Prévisions pour la nuit du lundi 21 septembre au mardi 22 septembre VENT : - de Port Camargue au Cap Croisette : Nord 5 à 6, mollissant 4 à 5 en fin de nuit. Rafales. - du Cap Croisette à Saint-Raphaël : Variable 1 à 3, d'Est dominant en deuxième partie de nuit. MER : belle à peu agitée, localement agitée vers le large du Delta du Rhône. HOULE : non significative. TEMPS : ciel clair à peu nuageux. VISIBILITE : bonne. 4 - Prévisions pour la journée du mardi 22 septembre VENT : - de Port Camargue à Fos : Nord 4 à 5, devenant Variable 1 à 3 l'après-midi. - de Fos à Saint-Raphaël : Variable 2 à 4, de Nord-Est dominant jusqu'en début d'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 5 - Tendance pour la nuit du 22 au 23, et la journée du mercredi 23 septembre VENT : Nord-Est dominant 2 à 4, devenant Variable 1 à 3 l'après-midi. MER : belle à peu agitée HOULE : s'établissant Nord-Est 0.5 à 1 m l'après-midi à l'Est du cap Sicié. TEMPS : ciel clair à peu nuageux VISIBILITE : bonne. 6 - Prévisions pour la nuit du 23 au 24 et la journée du jeudi 24 septembre VENT : Variable 1 à 3 s'orientant Ouest à Nord-Ouest puis Ouest à Sud-Ouest 4 à 5 en cours de matinée. MER : belle à peu agitée. HOULE dominante d'Est à Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Vendredi 25 septembre Nord modéré au début sur le golfe du Lion, puis virant Sud-Est faible à modéré. Secteur Nord-Est modéré autour de la Corse. Indice de confiance : 4 sur 5 Samedi 26 septembre Secteur Sud faible à modéré sur le golfe du Lion. Secteur Nord-Est modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 27 septembre Sud-Est faible à modéré sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Lundi 28 septembre Sud-Est faible à modéré sur le golfe du Lion. Variable autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le lundi 21 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Sud-Est 8 noeuds, clair ou peu nuageux. Cap Cepet : vent Sud-Sud-Ouest 6 noeuds. Le Levant : vent Sud-Est 6 noeuds, 1019 hPa en baisse. Porquerolles : vent Sud-Est 8 noeuds. Cap Couronne : vent Nord-Ouest 16 noeuds. Prochain bulletin le mardi 22 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -307,12 +307,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Le topic du Jardinage
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 21/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,9 +320,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 21 Septembre 2026.
-Résumé général précédent : Poursuite d'un temps sec et chaud sous anticyclone, avec une possible inflexion vers un flux de sud-ouest plus humide en toute fin de période, encore très incertaine..
+Résumé général précédent : Du 21 septembre au 4 octobre : blocage anticyclonique, chaleur et sécheresse persistent; une dégradation pluvieuse reste possible en semaine 2 mais très incertaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur persistante, absence de pluie, risque très incertain de medicane en fin de période..
+Températures attendues précédemment : Soleil, chaleur, pas de pluie; en fin de période, potentiel pluvieux/méditerranéen à confirmer..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -523,7 +523,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 16:40 par giec 2100
 								1
 
 =======================
@@ -537,7 +537,7 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 19 heures par Ciel d&#039;encre
+	Modifié il y a 21 heures par Ciel d&#039;encre
 								2
 								1
 								4
@@ -548,7 +548,7 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule vraie question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devrons-nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir suite à ce possible "forçage papal" ?
-	Modifié il y a 3 heures par fran39
+	Modifié il y a 5 heures par fran39
 orthographe
 								4
 
@@ -571,9 +571,9 @@ Bonsoir,
 	Plus il restera en retrait sur l'océan plus l'absence de pluies se fera cruellement sentir, plus il sera mobile vers le continent plus la possibilité de pluies voire d'épisode méditerranéen sera d'actualité. 
 	En tout état de cause, il paraît presque acquis que la bascule en flux de sud sera effective et à même de maintenir des températures hautes pour la saison.
 	Si la voie de l'océan voulait bien prendre de l'ampleur, le changement de saison pourrait se confirmer au niveau de l'humidité, ce ne serait pas un luxe! 
-								24
+								25
 								1
-								8
+								9
 
 =======================
 
@@ -587,10 +587,10 @@ Effectivement la plupart des modèles voient une baisse des géopotentiels et un
 	GEM par exemple.
 	CEP  et GEM:
 	Difficile encore de savoir si l'automne va commencer au cours de ce topic ou si l'été va encore jouer les prolongations.
-	Modifié il y a 6 heures par petit âge glaciaire 11
+	Modifié il y a 8 heures par petit âge glaciaire 11
 Modifié
 								1
-								10
+								11
 
 =======================
 
@@ -599,8 +599,8 @@ Message:
 Peut-être une porte de sortie pour la fin du mois au niveau des précipitations après un mois de septembre + chaud+ ensoleillé et + sec qu'un mois de juillet normal 🤢
 	On passerait d'une ambiance chaude et sèche à une ambiance + humide, cf diagramme de Bourges
 	Au niveau hémisphérique on a aussi ce changement avec  AO et NAO plus neutre voir négatif pour cette fin septembre.
-	Modifié il y a 2 heures par Hassan
-								2
+	Modifié il y a 4 heures par Hassan
+								3
 								1
 
 =======================
@@ -612,7 +612,8 @@ alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépres
 	entre celui de l'Atlantique qui fait le poireau et l'autre qui se trémousse et s'étire lubriquement entre Fennoscandie et Russie je ne distingue que blocage et rabotage du moindre minimum qui souhaiterait dire bonjour à l'Europe de l'W...
 	pour le reste suivez les isobares : 
 	flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
-	https://images.meteociel.fr/im/92/375/animjot5.gif
+	https://images.meteociel.fr/im/87/26716/animqqg7.gif
+	Modifié il y a 1 heure par giec 2100
 								1
 
 =======================
@@ -621,4 +622,30 @@ Auteur: tao
 Message:
 Bonjour,
 	@giec 2100, ton illustration s'arrête le 27, le topic commence le 28...
+								2
 								1
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a 16 minutes, giec 2100 a dit :
+			alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépressif... !
+			ben c'est sans doute mon cas, je ne vois sur la période qu'un jeu de copains comme cochons entre les patators qui adorent faire la chaîne autour du pôle : 
+			entre celui de l'Atlantique qui fait le poireau et l'autre qui se trémousse et s'étire lubriquement entre Fennoscandie et Russie je ne distingue que blocage et rabotage du moindre minimum qui souhaiterait dire bonjour à l'Europe de l'W...
+			pour le reste suivez les isobares : 
+			flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
+			https://images.meteociel.fr/im/92/375/animjot5.gif
+	Je ne peux pas être totalement d'accord avec toi : tu ne peux pas affirmer qu'il s'étire lubriquement. Il se trémousse peut-être de manière innocente et sans penser à mal.
+	Par contre, on est d'accord que pour les PP, on est mal pour le moment mais je commence à nourrir un léger espoir pour la fin du topic. Je me méfie parce qu'on a souvent été déçu mais pour le moment : 
+	Pour les températures, on est toujours très au-dessus des normes. En fait, ça irait si on était fin août ....
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a 41 minutes, tao a dit :
+			Bonjour,
+			@giec 2100, ton illustration s'arrête le 27, le topic commence le 28...
+	en effet... ! pas moyen de paramétrer, même en démarrant à la date du début : on se demande à quoi sert la fonction...

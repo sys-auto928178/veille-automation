@@ -301,12 +301,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Automne/hiver 2026-2027 dans les Pyrénées
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Le topic du Jardinage
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 21/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,9 +314,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 21 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France restent sous influence anticyclonique jusqu'au 30 septembre, avec un temps sec, ensoleillé et doux. Ensuite, un flux de sud-ouest pourrait s'installer, mais les précipitations demeurent très incertaines. Les températures devraient rester au-dessus des normales..
+Résumé général HDF précédent : Sur la période des 15 prochains jours, les Hauts-de-France connaîtront un temps encore largement anticyclonique et sec jusqu'au 30 septembre environ. Ensuite, le flux basculera progressivement au sud-ouest, avec un risque pluvieux principalement sur les zones côtières et l'ouest de la région. Les températures resteront constamment au-dessus des normales saisonnières, avec des maximales entre 21 et 26°C et des minimales entre 6 et 14°C. Les précipitations, si elles se produisent, resteront faibles et localisées, sans remédier significativement à la sécheresse..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, ensoleillé, doux ; vent faible à modéré..
+Températures attendues précédemment : Sec, ensoleillé, doux pour la saison. Minimales fraîches dans l'intérieur, maximales 21-26°C..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 21 au Dimanche 27 Septembre 2026) ===
@@ -517,7 +517,7 @@ Il y a 9 heures, Twister83 a dit :
 	pourtant lieu le plus proche des minimums qui littéralement évitent l'Europe, même le Royaume Uni,  avant de cingler vers le pôle en trajectoire méridienne... : on pourrait appeler ça "le ballet des cocus"... : 
 	https://images.meteociel.fr/im/10/23722/animnwj8.gif
 	no future...
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 16:40 par giec 2100
 								1
 
 =======================
@@ -531,7 +531,7 @@ Le 19/09/2026 à 18:22, fran39 a dit :
 			Encore une fois, cela ne remet pas en cause la sécheresse impitoyable, ni les fortes chaleurs dans le sud et l'ouest, ni le risque incendies. Mais, en même temps, permettrait des "sensations fraîches" (minimales à 1 chiffres) le matin sur un certain nombre de région. Réglages fins... Avec possiblement un fort dégradé SO/NE...
 	Quelques minimales "à 1 chiffre" (8 ou 9°c à 7h du matin en milieu de semaine dans l'Est) à la fin septembre, à la faveur d'une petite anomalie d'altitude et d'un léger flux continental qui restent des épiphénomènes à l'échelle synoptique, n'ont rien de "frais". C'est tout juste de saison, restreint géographiquement (s'agissant de la France, c'est peu représentatif), et largement compensé par des maximales partout supérieures (voire très nettement supérieures) aux moyennes saisonnières.    
 	En fin de semaine, à la faveur d'un courant de S à SO, la tendance lourde est à une extension vers l'Est de la chaleur. 
-	Modifié il y a 19 heures par Ciel d&#039;encre
+	Modifié il y a 21 heures par Ciel d&#039;encre
 								2
 								1
 								4
@@ -542,7 +542,7 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule vraie question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devrons-nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir suite à ce possible "forçage papal" ?
-	Modifié il y a 3 heures par fran39
+	Modifié il y a 5 heures par fran39
 orthographe
 								4
 
@@ -565,9 +565,9 @@ Bonsoir,
 	Plus il restera en retrait sur l'océan plus l'absence de pluies se fera cruellement sentir, plus il sera mobile vers le continent plus la possibilité de pluies voire d'épisode méditerranéen sera d'actualité. 
 	En tout état de cause, il paraît presque acquis que la bascule en flux de sud sera effective et à même de maintenir des températures hautes pour la saison.
 	Si la voie de l'océan voulait bien prendre de l'ampleur, le changement de saison pourrait se confirmer au niveau de l'humidité, ce ne serait pas un luxe! 
-								24
+								25
 								1
-								8
+								9
 
 =======================
 
@@ -581,10 +581,10 @@ Effectivement la plupart des modèles voient une baisse des géopotentiels et un
 	GEM par exemple.
 	CEP  et GEM:
 	Difficile encore de savoir si l'automne va commencer au cours de ce topic ou si l'été va encore jouer les prolongations.
-	Modifié il y a 6 heures par petit âge glaciaire 11
+	Modifié il y a 8 heures par petit âge glaciaire 11
 Modifié
 								1
-								10
+								11
 
 =======================
 
@@ -593,8 +593,8 @@ Message:
 Peut-être une porte de sortie pour la fin du mois au niveau des précipitations après un mois de septembre + chaud+ ensoleillé et + sec qu'un mois de juillet normal 🤢
 	On passerait d'une ambiance chaude et sèche à une ambiance + humide, cf diagramme de Bourges
 	Au niveau hémisphérique on a aussi ce changement avec  AO et NAO plus neutre voir négatif pour cette fin septembre.
-	Modifié il y a 2 heures par Hassan
-								2
+	Modifié il y a 4 heures par Hassan
+								3
 								1
 
 =======================
@@ -606,7 +606,8 @@ alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépres
 	entre celui de l'Atlantique qui fait le poireau et l'autre qui se trémousse et s'étire lubriquement entre Fennoscandie et Russie je ne distingue que blocage et rabotage du moindre minimum qui souhaiterait dire bonjour à l'Europe de l'W...
 	pour le reste suivez les isobares : 
 	flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
-	https://images.meteociel.fr/im/92/375/animjot5.gif
+	https://images.meteociel.fr/im/87/26716/animqqg7.gif
+	Modifié il y a 1 heure par giec 2100
 								1
 
 =======================
@@ -615,4 +616,30 @@ Auteur: tao
 Message:
 Bonjour,
 	@giec 2100, ton illustration s'arrête le 27, le topic commence le 28...
+								2
 								1
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a 16 minutes, giec 2100 a dit :
+			alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépressif... !
+			ben c'est sans doute mon cas, je ne vois sur la période qu'un jeu de copains comme cochons entre les patators qui adorent faire la chaîne autour du pôle : 
+			entre celui de l'Atlantique qui fait le poireau et l'autre qui se trémousse et s'étire lubriquement entre Fennoscandie et Russie je ne distingue que blocage et rabotage du moindre minimum qui souhaiterait dire bonjour à l'Europe de l'W...
+			pour le reste suivez les isobares : 
+			flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
+			https://images.meteociel.fr/im/92/375/animjot5.gif
+	Je ne peux pas être totalement d'accord avec toi : tu ne peux pas affirmer qu'il s'étire lubriquement. Il se trémousse peut-être de manière innocente et sans penser à mal.
+	Par contre, on est d'accord que pour les PP, on est mal pour le moment mais je commence à nourrir un léger espoir pour la fin du topic. Je me méfie parce qu'on a souvent été déçu mais pour le moment : 
+	Pour les températures, on est toujours très au-dessus des normes. En fait, ça irait si on était fin août ....
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a 41 minutes, tao a dit :
+			Bonjour,
+			@giec 2100, ton illustration s'arrête le 27, le topic commence le 28...
+	en effet... ! pas moyen de paramétrer, même en démarrant à la date du début : on se demande à quoi sert la fonction...
