@@ -286,7 +286,7 @@ Températures minimales : en baisse sur le Lauragais, sur le Cagire et le Luchon
 Températures maximales : en baisse dans l'Agglomération toulousaine ainsi que sur les coteaux de Gascogne.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 220935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 22 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 22 septembre 2026 à 06H00 UTC, et évolution Hautes pressions se renforçant 1018-1020 hPa, prévues 1021-1023 hPa demain matin. 3 - Prévisions pour l'après-midi du mardi 22 septembre VENT : - à l'ouest de Porquerolles : devenant Variable 1 à 3, mais temporairement Nord 2 à 4 en début d'après-midi à l'ouest de Fos. - à l'est de Porquerolles : Est à Nord-Est 2 à 3, parfois 4, virant Est à Sud-Est en fin d'après-midi. MER : belle à peu agitée. HOULE : non significative, puis s'établissant localement Est à Nord-Est 0.5 m à l'est du Cap Camarat en fin d'après-midi. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 22 septembre au mercredi 23 septembre VENT : - à l'ouest de Fos : fraîchissant Nord 3 à 4, parfois 5, puis virant Est à Nord-Est en fin de nuit. - à l'est de Fos : Variable 1 à 3, fraîchissant secteur Est 2 à 4 par l'est en seconde partie de nuit, localement 5 à l'est du Cap Camarat. MER : belle, localement peu agitée à l'est de Porquerolles. HOULE : non significative, mais temporairement Est à Nord-Est 0.5 m à l'est du Cap Camarat en début de nuit. TEMPS : ciel clair, quelques nuages en seconde partie de nuit à l'ouest de Cap Croisette. VISIBILITE : bonne. 5 - Prévisions pour la journée du mercredi 23 septembre VENT : - à l'ouest de Cap Croisette : secteur Nord-Est dominant 2 à 4, mollissant Variable 1 à 3 l'après-midi. - à l'est de Cap Croisette : Est à Nord-Est 3 à 5, mollissant Est à Sud-Est 2 à 4 l'après-midi, puis Variable 1 à 3 en fin de journée. MER : belle à l'ouest de Cap Croisette, mais belle à peu agitée à l'est. HOULE : s'établissant progressivement Est 0.5 à 1 m à l'est de Cap Croisette, non significative à l'ouest. TEMPS : ensoleillé, mais passagèrement nuageux vers la Camargue le matin. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 23 au 24 et la journée du jeudi 24 septembre VENT : Variable 1 à 3, fraîchissant secteur Ouest 2 à 4 en fin de nuit, puis 3 à 5 l'après-midi, parfois 6. MER : belle à peu agitée, devenant peu agitée à agitée à l'est de Cap Croisette l'après-midi. HOULE : s'amortissant la nuit, puis s'établissant localement Ouest à Sud-Ouest 0.5 à 1.5 m à l'est de Sicié l'après-midi. TEMPS : beau temps, quelques bancs nuageux la nuit à l'ouest de Sicié. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : Ouest 3 à 5, virant secteur Nord en début de nuit, puis au secteur Est en cours de matinée. Fortes rafales. MER : belle à peu agitée. HOULE de secteur Ouest inférieure à 1 m, s'orientant en milieu d'après-midi à l'Est. 8 - Tendance pour les jours suivants Samedi 26 septembre Variable faible à modéré, devenant secteur Sud-Est sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est autour de la Corse. Indice de confiance : 3 sur 5 9 - Observations le mardi 22 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est 4 noeuds. Le Levant : vent Est-Nord-Est 4 noeuds, 1020 hPa en hausse. Porquerolles : vent Nord-Nord-Ouest 2 noeuds. Cap Couronne : vent Nord 10 noeuds. Prochain bulletin le mardi 22 septembre 2026, vers 18H30 légales
+FQCT40 LFML 221620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 22 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 22 septembre 2026 à 12H00 UTC, et évolution Hautes pressions se renforçant 1018-1020 hPa, prévues 1021-1023 hPa demain matin sur le bassin. Flux d'Est fraîchissant temporairement cette nuit sur la Corse, entre hautes pressions se renforçant 1025 hPa au nord de l'Italie, et dépression relative 1018 hPa à l'ouest de la Sardaigne. 3 - Prévisions pour la nuit du mardi 22 septembre au mercredi 23 septembre VENT : - à l'ouest de Fos : fraîchissant Nord 3 à 4, parfois 5, puis virant secteur Nord-Est 2 à 4 en fin de nuit. - à l'est de Fos : Variable 1 à 3, fraîchissant secteur Est 2 à 4 par l'est en milieu de nuit, localement 5 à l'est du Levant. MER : belle, devenant localement peu agitée à l'est de Porquerolles en seconde partie de nuit. HOULE : non significative. TEMPS : ciel clair, quelques nuages bas en seconde partie de nuit à l'ouest de Sicié. VISIBILITE : bonne. 4 - Prévisions pour la journée du mercredi 23 septembre VENT : - à l'ouest de Cap Croisette : secteur Nord-Est 2 à 4, mollissant Variable 1 à 3 l'après-midi. - à l'est de Cap Croisette : secteur Est 3 à 5, mollissant Est à Sud-Est 2 à 4 l'après-midi, puis Variable 1 à 3 en fin de journée. MER : belle à l'ouest de Cap Croisette, mais belle à peu agitée à l'est. HOULE : s'établissant progressivement Est 0.5 à 1 m à l'est de Cap Croisette, mais non significative à l'ouest. TEMPS : ensoleillé, mais localement nuageux vers la Camargue le matin. VISIBILITE : bonne. 5 - Tendance pour la nuit du 23 au 24, et la journée du jeudi 24 septembre VENT : Variable 1 à 3, fraîchissant secteur Ouest 2 à 4 le matin, puis 3 à 5 l'après-midi, parfois 6 à l'est de Sicié. MER : belle à peu agitée, devenant peu agitée à agitée à l'est de Cap Croisette l'après-midi. HOULE : non significative, mais temporairement Est 0.5 à 1 m à l'est de Sicié en début de nuit. TEMPS : ciel voilé, quelques nuages bas en fin de nuit et le matin à l'ouest de Sicié. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : Ouest 3 à 5, virant secteur Nord en début de nuit, puis au secteur Est en cours de matinée. Fortes rafales. MER : belle à peu agitée. HOULE de secteur Ouest inférieure à 1 m, s'orientant en milieu d'après-midi à l'Est. 7 - Tendance pour les jours suivants Samedi 26 septembre Variable faible à modéré, devenant secteur Sud-Est sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le mardi 22 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Est 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Sud-Sud-Ouest 8 noeuds, clair ou peu nuageux, visibilité 13 milles. Le Levant : vent Est-Sud-Est 8 noeuds, 1018 hPa en baisse. Porquerolles : vent Sud-Sud-Est 6 noeuds. Cap Couronne : vent Ouest-Sud-Ouest 6 noeuds. Prochain bulletin le mercredi 23 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -316,12 +316,12 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps &#xE0; Montréal
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi des volcans islandais
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 22/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -329,9 +329,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 22 Septembre 2026.
-Résumé général précédent : Sur la quinzaine, la France reste sous influence anticyclonique avec un temps sec, très chaud pour la saison et un déficit de pluie marqué. Une possible évolution vers un flux de Sud-Ouest plus humide se dessine en toute fin de septembre/début octobre, mais sans aucune certitude....
+Résumé général précédent : Temps sec, très chaud et anticyclonique pour la première semaine, puis tentative de bascule vers un flux de Sud-Ouest plus humide et moins chaud en seconde semaine, sans aucune certitude..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et chaud persistant; minimales possibles à un chiffre dans l'Est, chaleur toujours forte à l'Ouest et au Sudira.
+Températures attendues précédemment : Chaleur soutenue, absence de pluie, risque incendie, brumes possibles près des côtes..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 22 au Dimanche 27 Septembre 2026) ===
@@ -622,7 +622,7 @@ alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépres
 	pour le reste suivez les isobares : 
 	flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
 	https://images.meteociel.fr/im/87/26716/animqqg7.gif
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 16:28 par giec 2100
 								1
 								1
 
@@ -668,7 +668,7 @@ Message:
 On se régale sur ces topics en ce moment, 2026 a décidé de faire de la France le paroxysme des chaleurs et des sécheresses 🙃
 	Aucun ouragan dans l’atlantique nord, jamais arrivé aussi tard dans la saison depuis 112 ans, peut être un lien
 	Je crois qu'on peut dire que 1976 est battu, il faut remonter à 1921 pour trouver (beaucoup) plus sévère 
-	Modifié il y a 20 heures par Nono34
+	Modifié il y a 22 heures par Nono34
 								1
 								1
 								1
@@ -691,7 +691,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 								4
 								5
 								1
@@ -703,7 +703,8 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 Auteur: Sebaas
 Message:
 En effet CEP commence à laisser espérer quelquechose dès lundi...
-								10
+								11
+								2
 								1
 
 =======================
@@ -715,7 +716,7 @@ Oui, j’aurais tendance à croire également à une évolution favorable grâce
 	Les HG toujours anormalement élevés en Europe vont venir renforcer cette barocline si bien que les creusements dépressionnaires Atlantique POURRAIENT enfin ressembler à quelque chose de saison. 
 	Maintenant, reste à préciser si l’activité dépressionnaire sera suffisamment forte pour bousculer les HG un peu plus au Sud et à l’Est de l’Europe. Certains signaux apparaissent en faveur d’un flux de sud-ouest de plus en plus dynamique voire cyclonique (ce qui serait déjà une étape…). On pourrait donc démarrer la semaine dans une masse d’air instable et orageuse (digne plutôt d’un mois d’août…) mais suivi d’une masse d’air moins chaude et surtout plus pluvieuse.
 	C’est une hypothèse, que j’aurais tendance à privilégier mais… les scénarios secs et chauds existent toujours dans le LT. A suivre donc 
-								16
+								21
 								1
 
 =======================
@@ -732,4 +733,43 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 20 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
+								2
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Quand on regarde certains déterministes de ce soir pour le tout début du topic on se dit qu'il va peut-être y avoir du changement sur l'atlantique. 
+	Icon et ukmo sont des copiés collés et GFS n'en est pas très loin.
+	Une tempête pourrait se former à l'ouest de la GB pour ces modèles. 
+	Les hautes pressions présentes sur l'Europe de l'ouest devrait dévier la dépression vers le nord mais c'est à suivre car il n'est pas complètement exclu que le nord de la France se trouve en marge de la dépression. 
+	Bon c'est loin mais ça bouge dans les modélisations. 
+	On va attendre l'européen pour voir ce qu'il va nous pondre. 
+	 Icon :
+	Ukmo :
+	GFS :
+	Modifié il y a 43 minutes par petit âge glaciaire 11
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS 12 maintient ses prévisions. C'est à prendre en compte.
+	ECMWF propose un autre scénario mais n'aura pas forcément raison.
+	Merci beaucoup, petit âge glaciaire, pour tes analyses objectives.
+								1
+
+=======================
+
+Auteur: tao
+Message:
+Bonsoir,
+	le coeur dépressionnaire attire l'œil voire focalise l'attention.
+	Il ne faudrait pas jeter aux orties la circulation générale et notamment le talweg qui y est associé.
+	C'est encore loin pour les déterministes mais au regard des ensembles du jour, on ne peut pas exclure son influence sur notre territoire.
+	L'enjeu de ce topic sera bien de mesurer celle-ci notamment dans la profondeur vers l'est et dans la durée.
+								1

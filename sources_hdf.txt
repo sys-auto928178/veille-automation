@@ -308,12 +308,12 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps &#xE0; Montréal
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi des volcans islandais
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 22/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -321,9 +321,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 22 Septembre 2026.
-Résumé général HDF précédent : Temps sec, ensoleillé et très doux pour la saison jusqu'à dimanche 27, puis bascule vers un flux de sud-ouest plus humide en début de semaine prochaine, sans garantie de précipitations abondantes. Les températures restent au-dessus des normales sur l'ensemble de la période..
+Résumé général HDF précédent : Sur 15 jours, blocage anticyclonique très résistant en semaine 1, puis bascule en flux de sud-ouest en semaine 2; l'automne ne s'installe pas franchement. Températures très douces à chaudes, sécheresse persistante, pluies incertaines..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Soleil généreux, chaleur modérée à forte l'après-midi, fraîcheur matinale possible à l'est..
+Températures attendues précédemment : Temps sec, ensoleillé, très doux; possible fraîcheur matinale à l'est, surtout Oise/Aisne..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 22 au Dimanche 27 Septembre 2026) ===
@@ -614,7 +614,7 @@ alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépres
 	pour le reste suivez les isobares : 
 	flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
 	https://images.meteociel.fr/im/87/26716/animqqg7.gif
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 16:28 par giec 2100
 								1
 								1
 
@@ -660,7 +660,7 @@ Message:
 On se régale sur ces topics en ce moment, 2026 a décidé de faire de la France le paroxysme des chaleurs et des sécheresses 🙃
 	Aucun ouragan dans l’atlantique nord, jamais arrivé aussi tard dans la saison depuis 112 ans, peut être un lien
 	Je crois qu'on peut dire que 1976 est battu, il faut remonter à 1921 pour trouver (beaucoup) plus sévère 
-	Modifié il y a 20 heures par Nono34
+	Modifié il y a 22 heures par Nono34
 								1
 								1
 								1
@@ -683,7 +683,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 								4
 								5
 								1
@@ -695,7 +695,8 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 Auteur: Sebaas
 Message:
 En effet CEP commence à laisser espérer quelquechose dès lundi...
-								10
+								11
+								2
 								1
 
 =======================
@@ -707,7 +708,7 @@ Oui, j’aurais tendance à croire également à une évolution favorable grâce
 	Les HG toujours anormalement élevés en Europe vont venir renforcer cette barocline si bien que les creusements dépressionnaires Atlantique POURRAIENT enfin ressembler à quelque chose de saison. 
 	Maintenant, reste à préciser si l’activité dépressionnaire sera suffisamment forte pour bousculer les HG un peu plus au Sud et à l’Est de l’Europe. Certains signaux apparaissent en faveur d’un flux de sud-ouest de plus en plus dynamique voire cyclonique (ce qui serait déjà une étape…). On pourrait donc démarrer la semaine dans une masse d’air instable et orageuse (digne plutôt d’un mois d’août…) mais suivi d’une masse d’air moins chaude et surtout plus pluvieuse.
 	C’est une hypothèse, que j’aurais tendance à privilégier mais… les scénarios secs et chauds existent toujours dans le LT. A suivre donc 
-								16
+								21
 								1
 
 =======================
@@ -724,4 +725,43 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 20 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
+								2
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Quand on regarde certains déterministes de ce soir pour le tout début du topic on se dit qu'il va peut-être y avoir du changement sur l'atlantique. 
+	Icon et ukmo sont des copiés collés et GFS n'en est pas très loin.
+	Une tempête pourrait se former à l'ouest de la GB pour ces modèles. 
+	Les hautes pressions présentes sur l'Europe de l'ouest devrait dévier la dépression vers le nord mais c'est à suivre car il n'est pas complètement exclu que le nord de la France se trouve en marge de la dépression. 
+	Bon c'est loin mais ça bouge dans les modélisations. 
+	On va attendre l'européen pour voir ce qu'il va nous pondre. 
+	 Icon :
+	Ukmo :
+	GFS :
+	Modifié il y a 43 minutes par petit âge glaciaire 11
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS 12 maintient ses prévisions. C'est à prendre en compte.
+	ECMWF propose un autre scénario mais n'aura pas forcément raison.
+	Merci beaucoup, petit âge glaciaire, pour tes analyses objectives.
+								1
+
+=======================
+
+Auteur: tao
+Message:
+Bonsoir,
+	le coeur dépressionnaire attire l'œil voire focalise l'attention.
+	Il ne faudrait pas jeter aux orties la circulation générale et notamment le talweg qui y est associé.
+	C'est encore loin pour les déterministes mais au regard des ensembles du jour, on ne peut pas exclure son influence sur notre territoire.
+	L'enjeu de ce topic sera bien de mesurer celle-ci notamment dans la profondeur vers l'est et dans la durée.
+								1
