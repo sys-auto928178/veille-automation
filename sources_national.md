@@ -316,12 +316,12 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 22/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -329,9 +329,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 22 Septembre 2026.
-Résumé général précédent : Temps sec, très chaud et anticyclonique pour la première semaine, puis tentative de bascule vers un flux de Sud-Ouest plus humide et moins chaud en seconde semaine, sans aucune certitude..
+Résumé général précédent : Temps majoritairement sec, chaud pour la saison, avec un léger fléchissement possible en deuxième semaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur soutenue, absence de pluie, risque incendie, brumes possibles près des côtes..
+Températures attendues précédemment : Temps sec, ensoleillé, chaleur modérée l’après-midi, fraîcheurs matinales localisées possibles..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 22 au Dimanche 27 Septembre 2026) ===
@@ -668,11 +668,11 @@ Message:
 On se régale sur ces topics en ce moment, 2026 a décidé de faire de la France le paroxysme des chaleurs et des sécheresses 🙃
 	Aucun ouragan dans l’atlantique nord, jamais arrivé aussi tard dans la saison depuis 112 ans, peut être un lien
 	Je crois qu'on peut dire que 1976 est battu, il faut remonter à 1921 pour trouver (beaucoup) plus sévère 
-	Modifié il y a 22 heures par Nono34
+	Modifié hier à 19:44 par Nono34
 								1
 								1
 								1
-								7
+								8
 
 =======================
 
@@ -691,7 +691,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 								4
 								5
 								1
@@ -706,6 +706,7 @@ En effet CEP commence à laisser espérer quelquechose dès lundi...
 								11
 								2
 								1
+								1
 
 =======================
 
@@ -716,7 +717,7 @@ Oui, j’aurais tendance à croire également à une évolution favorable grâce
 	Les HG toujours anormalement élevés en Europe vont venir renforcer cette barocline si bien que les creusements dépressionnaires Atlantique POURRAIENT enfin ressembler à quelque chose de saison. 
 	Maintenant, reste à préciser si l’activité dépressionnaire sera suffisamment forte pour bousculer les HG un peu plus au Sud et à l’Est de l’Europe. Certains signaux apparaissent en faveur d’un flux de sud-ouest de plus en plus dynamique voire cyclonique (ce qui serait déjà une étape…). On pourrait donc démarrer la semaine dans une masse d’air instable et orageuse (digne plutôt d’un mois d’août…) mais suivi d’une masse d’air moins chaude et surtout plus pluvieuse.
 	C’est une hypothèse, que j’aurais tendance à privilégier mais… les scénarios secs et chauds existent toujours dans le LT. A suivre donc 
-								21
+								22
 								1
 
 =======================
@@ -733,7 +734,7 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
 								1
 								2
 								1
@@ -751,7 +752,9 @@ Quand on regarde certains déterministes de ce soir pour le tout début du topic
 	 Icon :
 	Ukmo :
 	GFS :
-	Modifié il y a 43 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
+								2
+								1
 								1
 
 =======================
@@ -761,7 +764,7 @@ Message:
 GFS 12 maintient ses prévisions. C'est à prendre en compte.
 	ECMWF propose un autre scénario mais n'aura pas forcément raison.
 	Merci beaucoup, petit âge glaciaire, pour tes analyses objectives.
-								1
+								4
 
 =======================
 
@@ -772,4 +775,13 @@ Bonsoir,
 	Il ne faudrait pas jeter aux orties la circulation générale et notamment le talweg qui y est associé.
 	C'est encore loin pour les déterministes mais au regard des ensembles du jour, on ne peut pas exclure son influence sur notre territoire.
 	L'enjeu de ce topic sera bien de mesurer celle-ci notamment dans la profondeur vers l'est et dans la durée.
+								5
 								1
+
+=======================
+
+Auteur: Nico 14
+Message:
+Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
+	Modifié il y a 1 heure par Nico 14
+								2
