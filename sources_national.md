@@ -316,11 +316,11 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps au Saguenay, Québec (Canada)
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Quel est le nouveau sommet du Mont-Blanc ? &#xC0; vos pronostics !
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : &#xC9;té 2026 et éco-anxiété
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -329,9 +329,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 22 Septembre 2026.
-Résumé général précédent : Temps majoritairement sec, chaud pour la saison, avec un léger fléchissement possible en deuxième semaine..
+Résumé général précédent : Blocage anticyclonique très solide en première semaine, avec une chaleur remarquable pour la saison. La deuxième semaine s'annonce plus évolutive, avec un flux de sud-ouest capable d'amener de l'humidité, mais sans garantie de pluies abondantes. La tendance lourde reste à des températures supérieures aux normales sur l'ensemble de la quinzaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé, chaleur modérée l’après-midi, fraîcheurs matinales localisées possibles..
+Températures attendues précédemment : Chaleur persistante, ciel voilé jeudi, mistral fort à partir de jeudi en Méditerranée..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 22 au Dimanche 27 Septembre 2026) ===
@@ -691,12 +691,12 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 11 heures par petit âge glaciaire 11
+	Modifié il y a 13 heures par petit âge glaciaire 11
 								4
 								5
 								1
 								4
-								2
+								3
 
 =======================
 
@@ -704,7 +704,7 @@ Auteur: Sebaas
 Message:
 En effet CEP commence à laisser espérer quelquechose dès lundi...
 								11
-								2
+								3
 								1
 								1
 
@@ -717,7 +717,7 @@ Oui, j’aurais tendance à croire également à une évolution favorable grâce
 	Les HG toujours anormalement élevés en Europe vont venir renforcer cette barocline si bien que les creusements dépressionnaires Atlantique POURRAIENT enfin ressembler à quelque chose de saison. 
 	Maintenant, reste à préciser si l’activité dépressionnaire sera suffisamment forte pour bousculer les HG un peu plus au Sud et à l’Est de l’Europe. Certains signaux apparaissent en faveur d’un flux de sud-ouest de plus en plus dynamique voire cyclonique (ce qui serait déjà une étape…). On pourrait donc démarrer la semaine dans une masse d’air instable et orageuse (digne plutôt d’un mois d’août…) mais suivi d’une masse d’air moins chaude et surtout plus pluvieuse.
 	C’est une hypothèse, que j’aurais tendance à privilégier mais… les scénarios secs et chauds existent toujours dans le LT. A suivre donc 
-								22
+								23
 								1
 
 =======================
@@ -734,7 +734,7 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 								2
 								1
@@ -752,8 +752,8 @@ Quand on regarde certains déterministes de ce soir pour le tout début du topic
 	 Icon :
 	Ukmo :
 	GFS :
-	Modifié il y a 2 heures par petit âge glaciaire 11
-								2
+	Modifié il y a 4 heures par petit âge glaciaire 11
+								3
 								1
 								1
 
@@ -783,5 +783,5 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
-	Modifié il y a 1 heure par Nico 14
-								2
+	Modifié il y a 3 heures par Nico 14
+								3
