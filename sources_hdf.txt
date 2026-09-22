@@ -303,6 +303,9 @@ Jusqu'à jeudi à la mi-journée, vent de Sud à Sud-Ouest, modéré.
 Températures minimales : en hausse sur le Laonnois, sur le Vermandois et la Thiérache ainsi que sur la moitié Sud du département.
 Températures maximales : sans changement significatif.
 
+=== BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
+FQCT40 LFQQ 221000 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mardi 22 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 22 septembre 2026 à 06H00 UTC, et évolution Anticyclone 1031 hPa sur Manche, se déplaçant vers l'est. Dépression se creusant 1017 hPa en Mer du Nord demain matin, prévue 1013 hPa au sud de la Scandinavie en fin de journée, avec thalweg traversant la Manche l'après-midi. Nouvel anticyclone prévu 1030 hPa au sud-ouest immédiat de l'Irlande demain midi. 3 - Prévisions pour l'après-midi du mardi 22 septembre VENT : Variable 1 à 3, s'établissant Est à Nord-Est 2 à 4. MER : belle. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 22 septembre au mercredi 23 septembre VENT : Est 3 à 4, virant Sud-Est en milieu de nuit, puis mollissant Sud à Sud-Est 2 à 3 en fin de nuit. MER : belle. HOULE : non significative. TEMPS : ciel clair, devenant très nuageux en seconde partie de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du mercredi 23 septembre VENT : virant Sud-Ouest 3 à 4, parfois 5 l'après-midi, et virant Nord-Ouest 4 à 5 en fin de journée. MER : belle, devenant peu agitée l'après-midi. HOULE : non significative, puis Sud-Ouest 0.5 à 1 m temporairement en Manche à la fin. TEMPS : nuageux à très nuageux, quelques pluies en mer du Nord l'après-midi. VISIBILITE : bonne, parfois moyenne sous pluie. 6 - Prévisions pour la nuit du 23 au 24 et la journée du jeudi 24 septembre VENT : secteur Nord 4 à 5, parfois 6 en mer du Nord, mollissant Nord à Nord-Est 3 à 4 en deuxième partie de nuit, puis virant secteur Est dominant 2 à 4 le matin. MER : peu agitée, localement agitée en mer du Nord la nuit. HOULE : non significative en Manche, Nord 0.5 à 1 m en mer du nord. TEMPS : ciel voilé. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : Secteur Sud-Est 3 à 4, virant Sud-Ouest en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante de Nord à Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Samedi 26 septembre Secteur Nord faible à modéré devenant variable faible à modéré. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Ouest faible à modéré. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud modéré à assez fort. Indice de confiance : 3 sur 5 9 - Observations le mardi 22 septembre 2026 à 09H00 UTC Dunkerque : vent Sud 6 noeuds, mer belle, 1031 hPa en hausse, très nuageux à couvert, visibilité 5 milles. Cap Gris Nez : vent Sud 8 noeuds. Boulogne : vent Sud-Sud-Est 4 noeuds, 1031 hPa en hausse, nuageux avec éclaircies, visibilité 10 milles. Bouée Sandettie : vent Sud-Ouest 10 noeuds, creux 0,4 mètre, 1031 hPa en baisse, visibilité 5 milles. Prochain bulletin le mardi 22 septembre 2026, vers 18H00 légales
+
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
 
@@ -331,12 +334,12 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 22/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -344,9 +347,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 22 Septembre 2026.
-Résumé général HDF précédent : Temps sec et très doux pendant la majeure partie de la quinzaine, avec une bascule en flux de sud-ouest en semaine 2 ; les pluies restent incertaines et peu abondantes, les températures demeurent au-dessus des normales..
+Résumé général HDF précédent : Temps sec, ensoleillé et beaucoup trop chaud pour la saison dans les Hauts-de-France. Les 15 prochains jours devraient rester marqués par l’absence de précipitations durables, avec une possible dégradation, encore incertaine, en toute fin de période..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Ciel souvent clair, voile nuageux jeudi, vent de nord à nord-est en milieu de semaine. (75 caractères).
+Températures attendues précédemment : Chaleur modérée à élevée l’après-midi, fraîcheur matinale possible dans l’est, vent d’Est à Nord-Est faible à modéré. (120 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 22 au Dimanche 27 Septembre 2026) ===
@@ -572,7 +575,7 @@ Auteur: fran39
 Message:
 Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me suis donné du mal pour une nuance de température qui finalement est revue à la baisse... Vanité de la prévision météo... 
 	Edit : finalement la seule vraie question qui compte est est-ce que le Pape fera une prière pour la pluie le week-end prochain, bouleversé qu'il sera par l'état de la végétation française, et combien de temps devrons-nous attendre avant les pluies bibliques, qui ne manqueront pas d'advenir suite à ce possible "forçage papal" ?
-	Modifié il y a 23 heures par fran39
+	Modifié hier à 12:06 par fran39
 orthographe
 								5
 
@@ -623,7 +626,7 @@ Message:
 Peut-être une porte de sortie pour la fin du mois au niveau des précipitations après un mois de septembre + chaud+ ensoleillé et + sec qu'un mois de juillet normal 🤢
 	On passerait d'une ambiance chaude et sèche à une ambiance + humide, cf diagramme de Bourges
 	Au niveau hémisphérique on a aussi ce changement avec  AO et NAO plus neutre voir négatif pour cette fin septembre.
-	Modifié il y a 22 heures par Hassan
+	Modifié hier à 13:58 par Hassan
 								3
 								1
 
@@ -637,7 +640,7 @@ alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépres
 	pour le reste suivez les isobares : 
 	flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
 	https://images.meteociel.fr/im/87/26716/animqqg7.gif
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								1
 								1
 
@@ -683,7 +686,7 @@ Message:
 On se régale sur ces topics en ce moment, 2026 a décidé de faire de la France le paroxysme des chaleurs et des sécheresses 🙃
 	Aucun ouragan dans l’atlantique nord, jamais arrivé aussi tard dans la saison depuis 112 ans, peut être un lien
 	Je crois qu'on peut dire que 1976 est battu, il faut remonter à 1921 pour trouver (beaucoup) plus sévère 
-	Modifié il y a 16 heures par Nono34
+	Modifié il y a 18 heures par Nono34
 								1
 								1
 								1
@@ -706,8 +709,8 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 3 heures par petit âge glaciaire 11
-								3
+	Modifié il y a 5 heures par petit âge glaciaire 11
+								4
 								5
 								1
 								4
@@ -718,7 +721,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 Auteur: Sebaas
 Message:
 En effet CEP commence à laisser espérer quelquechose dès lundi...
-								3
+								9
 								1
 
 =======================
@@ -730,4 +733,4 @@ Oui, j’aurais tendance à croire également à une évolution favorable grâce
 	Les HG toujours anormalement élevés en Europe vont venir renforcer cette barocline si bien que les creusements dépressionnaires Atlantique POURRAIENT enfin ressembler à quelque chose de saison. 
 	Maintenant, reste à préciser si l’activité dépressionnaire sera suffisamment forte pour bousculer les HG un peu plus au Sud et à l’Est de l’Europe. Certains signaux apparaissent en faveur d’un flux de sud-ouest de plus en plus dynamique voire cyclonique (ce qui serait déjà une étape…). On pourrait donc démarrer la semaine dans une masse d’air instable et orageuse (digne plutôt d’un mois d’août…) mais suivi d’une masse d’air moins chaude et surtout plus pluvieuse.
 	C’est une hypothèse, que j’aurais tendance à privilégier mais… les scénarios secs et chauds existent toujours dans le LT. A suivre donc 
-								3
+								14
