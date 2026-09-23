@@ -304,7 +304,7 @@ Températures minimales : en baisse sur le Laonnois, sur le Vermandois et la Thi
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 230415 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 23 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 23 septembre 2026 à 00H00 UTC, et évolution Anticyclone 1031 hPa à 500 Nm au sud de l'Irlande, se décalant vers le nord-est, prévu 1028 hPa sur l'Angleterre la nuit prochaine, puis 1027 hPa sur la Belgique demain midi Dépression circulant au nord de la Mer du Nord cet après-midi. 3 - Prévisions pour la journée du mercredi 23 septembre VENT : Sud 3 à 4, virant Ouest à Sud-Ouest en fin de matinée. MER : belle, parfois peu agitée en fin de journée. HOULE : non significative. TEMPS : nuageux à très nuageux, quelques petites pluies en mer du Nord l'après-midi. VISIBILITE : bonne, parfois moyenne sous pluie. 4 - Prévisions pour la nuit du mercredi 23 septembre au jeudi 24 septembre VENT : virant Nord à Nord-Est 4 à 5, mollissant Est à Nord-Est 2 à 4 en deuxième partie de nuit. MER : peu agitée. HOULE : Nord 0.5 à 1 m en mer du Nord en fin de nuit. TEMPS : ciel nuageux. Quelques bancs de brume en fin de nuit vers la baie de Somme. VISIBILITE : bonne, parfois moyenne à mauvaise par brume. 5 - Prévisions pour la journée du jeudi 24 septembre VENT : secteur Est 2 à 4, temporairement Variable 1 à 3 à la mi-journée. MER : belle à peu agitée. HOULE : non significative en Manche, Nord 0.5 à 1 m en mer du nord. TEMPS : ciel voilé. Quelques bancs de brume en début de journée vers la baie de Somme. VISIBILITE : bonne, parfois moyenne à mauvaise par brume. 6 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : Sud-Est 3 à 5, revenant Est à Nord-Est 2 à 3 en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante de Nord à Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Samedi 26 septembre Secteur Nord faible à modéré devenant variable faible à modéré. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Ouest faible à modéré. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud modéré à assez fort. Indice de confiance : 3 sur 5 8 - Observations le mercredi 23 septembre 2026 à 03H00 UTC Dunkerque : vent Sud-Est 8 noeuds, mer belle, 1025 hPa en baisse, clair ou peu nuageux, visibilité 5 milles. Cap Gris Nez : vent Sud-Sud-Est 8 noeuds. Boulogne : vent Sud-Est 4 noeuds, 1025 hPa en baisse. Prochain bulletin le mercredi 23 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 230940 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 23 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 23 septembre 2026 à 06H00 UTC, et évolution Anticyclone 1031 hPa à 500 Nm au sud de l'Irlande, se décalant vers le nord-est, prévu 1028 hPa sur l'Angleterre la nuit prochaine, puis 1027 hPa sur la Belgique demain midi Dépression circulant au nord de la Mer du Nord cet après-midi. 3 - Prévisions pour l'après-midi du mercredi 23 septembre VENT : Ouest à Sud-Ouest 3 à 4. MER : belle, parfois peu agitée en fin de journée. HOULE : non significative. TEMPS : soleil et passages nuageux, quelques petites pluies en mer du Nord l'après-midi. VISIBILITE : bonne, parfois moyenne sous pluie. 4 - Prévisions pour la nuit du mercredi 23 septembre au jeudi 24 septembre VENT : virant Nord à Nord-Est 4 à 5, mollissant Est à Nord-Est 2 à 4 en deuxième partie de nuit. MER : peu agitée. HOULE : Nord 0.5 à 1 m en mer du Nord en deuxième partie de nuit. TEMPS : ciel nuageux. Quelques bancs de brume en fin de nuit vers la baie de Somme. VISIBILITE : bonne, parfois moyenne à mauvaise par brume. 5 - Prévisions pour la journée du jeudi 24 septembre VENT : secteur Est 2 à 4, temporairement Variable 1 à 3 à la mi-journée. MER : belle à peu agitée. HOULE : non significative en Manche, Nord 0.5 à 1 m en mer du nord. TEMPS : ciel voilé. Quelques bancs de brume en début de journée vers la baie de Somme. VISIBILITE : bonne, parfois moyenne à mauvaise par brume. 6 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : virant Sud-Est 3 à 4 en début de nuit, puis secteur Sud en deuxième partie de nuit, et mollissant 2 à 3 l'après-midi. MER : peu agitée. HOULE : non significative en Manche, Nord 0.5 à 1 m en mer du nord jusqu'au matin. TEMPS : voilé la nuit, ensoleillé en journée. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 25 au 26 et la journée du samedi 26 septembre VENT : Est à Sud-Est 3 à 5, revenant Nord à Nord-Est en seconde partie de nuit. MER : belle à peu agitée. HOULE dominante de Nord 0,5 à 1 m. 8 - Tendance pour les jours suivants Dimanche 27 septembre secteur Sud-Ouest faible à modéré. Indice de confiance : 4 sur 5 Lundi 28 septembre secteur Sud faible. Indice de confiance : 2 sur 5 Mardi 29 septembre secteur Sud modéré. Indice de confiance : 2 sur 5 Mercredi 30 septembre secteur Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le mercredi 23 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Sud-Est 4 noeuds, mer calme, 1025 hPa en baisse, très nuageux à couvert, visibilité 4 milles. Cap Gris Nez : vent Sud-Ouest 8 noeuds. Boulogne : vent Sud-Ouest 4 noeuds, 1025 hPa en hausse, nuageux avec éclaircies, visibilité 8 milles. Prochain bulletin le mercredi 23 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -334,12 +334,11 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Prévisions Centre-Est - Septembre 2026
+• Infoclimat Direct : logiciels    en  essais
+• Infoclimat Direct : Statistiques et anomalies climatiques globales
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 23/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -347,9 +346,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 23 Septembre 2026.
-Résumé général HDF précédent : Période sous blocage anticyclonique très chaud et sec jusqu'au 27/09, puis bascule progressive vers un flux de sud-ouest plus humide en semaine 40; la fin de période reste incertaine..
+Résumé général HDF précédent : Période d'abord sèche, très chaude et ensoleillée jusqu'au 27/09, puis dégradation progressive et incertaine en semaine 40 avec un flux de sud-ouest plus humide..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Sécheresse de surface, chaleur diurne, brouillards matinaux..
+Températures attendues précédemment : Aucune pluie; brouillards matinaux; températures 22-27°C; vent faible à modéré..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 23 au Dimanche 27 Septembre 2026) ===
@@ -578,6 +577,7 @@ Exact finalement mes messages d'hier apparaissent moins pertinents ce soir. Me s
 	Modifié lundi à 12:06 par fran39
 orthographe
 								5
+								1
 
 =======================
 
@@ -589,44 +589,6 @@ il y a 2 minutes, fran39 a dit :
 								8
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: nickdu77
-Message:
-il y a 16 minutes, giec 2100 a dit :
-			alors évidemment, quel paradoxe : quand les anticyclones vous ont rendu dépressif... !
-			ben c'est sans doute mon cas, je ne vois sur la période qu'un jeu de copains comme cochons entre les patators qui adorent faire la chaîne autour du pôle : 
-			entre celui de l'Atlantique qui fait le poireau et l'autre qui se trémousse et s'étire lubriquement entre Fennoscandie et Russie je ne distingue que blocage et rabotage du moindre minimum qui souhaiterait dire bonjour à l'Europe de l'W...
-			pour le reste suivez les isobares : 
-			flux chaud et sec de SW à gogo... les cactus sont à deux doigts (heu ça pique...) de devenir espèce invasive chez nous...
-			https://images.meteociel.fr/im/92/375/animjot5.gif
-	Je ne peux pas être totalement d'accord avec toi : tu ne peux pas affirmer qu'il s'étire lubriquement. Il se trémousse peut-être de manière innocente et sans penser à mal.
-	Par contre, on est d'accord que pour les PP, on est mal pour le moment mais je commence à nourrir un léger espoir pour la fin du topic. Je me méfie parce qu'on a souvent été déçu mais pour le moment : 
-	Pour les températures, on est toujours très au-dessus des normes. En fait, ça irait si on était fin août ....
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-il y a 41 minutes, tao a dit :
-			Bonjour,
-			@giec 2100, ton illustration s'arrête le 27, le topic commence le 28...
-	en effet... ! pas moyen de paramétrer, même en démarrant à la date du début : on se demande à quoi sert la fonction...
-
-=======================
-
-Auteur: Nono34
-Message:
-On se régale sur ces topics en ce moment, 2026 a décidé de faire de la France le paroxysme des chaleurs et des sécheresses 🙃
-	Aucun ouragan dans l’atlantique nord, jamais arrivé aussi tard dans la saison depuis 112 ans, peut être un lien
-	Je crois qu'on peut dire que 1976 est battu, il faut remonter à 1921 pour trouver (beaucoup) plus sévère 
-	Modifié lundi à 19:44 par Nono34
-								1
-								1
-								1
-								8
-
-=======================
-
 Auteur: Plancher
 Message:
 N'y aurait-il pas quelques signaux d'une amorce d'un changement ? GFS me le fait croire.
@@ -642,7 +604,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 23 heures par petit âge glaciaire 11
+	Modifié hier à 08:43 par petit âge glaciaire 11
 								4
 								5
 								1
@@ -654,7 +616,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 Auteur: Sebaas
 Message:
 En effet CEP commence à laisser espérer quelquechose dès lundi...
-								11
+								12
 								3
 								1
 								1
@@ -685,7 +647,7 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 								2
 								1
@@ -703,8 +665,8 @@ Quand on regarde certains déterministes de ce soir pour le tout début du topic
 	 Icon :
 	Ukmo :
 	GFS :
-	Modifié il y a 14 heures par petit âge glaciaire 11
-								4
+	Modifié il y a 16 heures par petit âge glaciaire 11
+								5
 								1
 								1
 
@@ -734,7 +696,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
-	Modifié il y a 13 heures par Nico 14
+	Modifié il y a 15 heures par Nico 14
 								3
 
 =======================
@@ -753,8 +715,7 @@ Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétre
 	Gfs est rentré dans le rang malheureusement.
 	A suivre
 								1
-								1
-								2
+								3
 
 =======================
 
@@ -773,8 +734,8 @@ Message:
 il y a 52 minutes, marée haute a dit :
 			Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
 	Tu as choisi le bon cheval pour avoir une analyse de qualité et qui a le recul nécessaire a l'exercice...
-								2
-								2
+								4
+								4
 
 =======================
 
@@ -804,7 +765,8 @@ Il y a 15 heures, giec 2100 a dit :
 			les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
 	Anomalie froide sur le centre du bassin arctique pour les 10 prochains jours
 	Le déterministe de ce matin est plutôt chaud et sec par rapport a son ensemble donc effectivement à remettre dans son contexte. Les signaux humides sont encore bien présents à partir de lundi par la sud ouest.
-	Modifié il y a 34 minutes par Hassan
+	Modifié il y a 2 heures par Hassan
+								1
 
 =======================
 
@@ -815,6 +777,7 @@ Il y a 2 heures, Tornado75 a dit :
 			Gfs est rentré dans le rang malheureusement.
 	c'est du Lar ou du cochon ? 
 	Je ne comprend pas, GFS n'est pourtant pas si mauvais que ça au matin du 5 quand on fera le cumul de la période en question, on n'en espérait pas autant il y a peu
+								2
 
 =======================
 
@@ -822,3 +785,45 @@ Auteur: Krholam
 Message:
 C'est pas grandiloquent mais ça a une meilleur tronche que ce qu'on a actuellement. Alors oui l'AR fait un peu de resistance ce qui nous donne peut être pas nécessairement de la pluie à la hauteur de notre espérance. Mais bon cette patate est tellement forte qu'elle est dur à déloger et je trouve personnellement que ce qui arrive commence à le mettre à mal.
 	Mais il faut bien commencer quelquepart
+
+=======================
+
+Auteur: Banleve7519
+Message:
+Il y a 3 heures, Tornado75 a dit :
+			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
+			Gfs est rentré dans le rang malheureusement.
+			A suivre
+	Du mal à comprendre ce post, sans illustration qui plus est…
+	Les signaux sont toujours là pour les derniers jours du mois, ça va être compliqué pour avoir un arrosage vraiment généralisé mais des salves pluvio-orageuses sont probables, ainsi qu’un risque de pluies orographiques sur les Cévennes notamment.
+	Le signal pluvieux est bien présent sur le det gfs, que tu cites:
+	Sur cep la dépression atlantique est vraiment proche de notre pays, plus que sur gfs:
+	Et concernant les ensemblistes, j’attends cep mais si on regarde gefs, les signaux pluvieux sont bien présents par exemple sur le relief cévenol:
+	Pour le nord, c’est plus compliqué mais les signaux humides existent aussi. Probablement rien de fou mais c’est déjà un premier pas vers des conditions plus humides (et probablement très chaudes pour la saison aussi), et puis on a le retour de flux plus méridiens qui ouvrent des portes pour la suite.
+								1
+
+=======================
+
+Auteur: Nico 14
+Message:
+Ce ne sont pas franchement les flux méridiens qui sont à souhaiter pour la suite si l'on attend des précipitations généreuses, à moins qu'un talweg ne vise dans le mille, et pourtant c'est bien ce qui est modélisé à LT avec le retour d'un BL+. C’est plutôt une NAO+ assez basse en latitude, mais on n'en voit pas franchement la tournure. Les diagrammes reflètent surtout des dégradations instables, donc rien de généralisé en termes de précipitations. Advections chaudes à très chaudes et humides en début de semaine sur un axe SO-&gt;NE avec donc un potentiel orageux qui se dégage, mais l'évolution du talweg vers l'est ne me semble pas assez franche pour bousculer les HG. Ensuite, probable baisse des températures, mais ça me semble toujours aussi sec ou peu humide, au choix, avec le retour d'un BL+.
+	L'ouverture océanique ne me semble pas au programme sur ce topic.
+	Modifié il y a 51 minutes par Nico 14
+								4
+								3
+
+=======================
+
+Auteur: tao
+Message:
+Bonjour,
+	@Nico 14
+	j'aurais une vision un peu différente de la tienne sans qu'elle soit en désaccord total.
+	La NAO+ comme on l'a connu en fin d'été début d'automne avec un jet septentrional, ce ne serait pas un cadeau.
+	Par contre le couple NAO+/BL+, à condition qu'il soit bien orienté et bien fixé sur nos régions (comme tu l'as dit), ne serait peut-être pas une si mauvaise nouvelle que cela:
+	Ensuite, j'avais évoqué la piste atlantique à l'ouverture du topic sur la base des ensembles, c'était il y a trois jours...
+	Les modélisations se précisent depuis, la possibilité que nous soyons (comme souvent) au carrefour de plusieurs influences prend du poids ce qui aurait au moins l'intérêt de donner une saveur aux prévisions. C'est quand même plus intéressant que de commenter un jet passant au nord de l'Ecosse ou un amas de hauts géopotentiels enracinés en Europe occidentale.
+	Enfin, c'est quand même, en automne, la conjonction de la circulation de talweg sur le tout proche Atlantique et l'installation d'un blocage sur les terres nordique qui peut devenir le ferment d'un agitation sur le secteur méditerranéen.
+	A ce titre, les ensembles ne sont pas fermés après le milieu de semaine, plusieurs hypothèses peuvent se dégager dans les mises à jours prochaines.
+								2
+								1
