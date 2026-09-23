@@ -316,22 +316,22 @@ orange pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Le topic du Jardinage
 • Infoclimat Direct : Suivi du temps-Centre du Quebec
 • Infoclimat Direct : Recensement des tornades en France
+• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Suivi du temps &#xE0;  Moscou et Russie
 • Infoclimat Direct : Suivi du temps au Saguenay, Québec (Canada)
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Quel est le nouveau sommet du Mont-Blanc ? &#xC0; vos pronostics !
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 23/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Mardi 22 Septembre 2026.
-Résumé général précédent : Sur l'ensemble de la quinzaine, un blocage anticyclonique très solide en première semaine, avec une chaleur remarquable pour la saison et une sécheresse marquée. La deuxième semaine reste plus évolutive : un flux de sud-ouest pourrait apporter de l'humidité, mais les modèles hésitent entre des pluies notables et un simple passage nuageux..
+Dernier bulletin généré le Mercredi 23 Septembre 2026.
+Résumé général précédent : Blocage anticyclonique très solide en première semaine, avec chaleur remarquable et sécheresse. En deuxième semaine, possible bascule vers un flux de sud-ouest avec un risque de pluies, mais incertitude forte..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, chaud au sud/ouest, fraîcheur relative possible à l'est; aucun cumul significatif..
+Températures attendues précédemment : Temps ensoleillé, chaud, sec ; pas de pluie..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 23 au Dimanche 27 Septembre 2026) ===
@@ -691,7 +691,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 15 heures par petit âge glaciaire 11
+	Modifié il y a 17 heures par petit âge glaciaire 11
 								4
 								5
 								1
@@ -734,7 +734,7 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 								2
 								1
@@ -752,7 +752,7 @@ Quand on regarde certains déterministes de ce soir pour le tout début du topic
 	 Icon :
 	Ukmo :
 	GFS :
-	Modifié il y a 6 heures par petit âge glaciaire 11
+	Modifié il y a 8 heures par petit âge glaciaire 11
 								3
 								1
 								1
@@ -783,5 +783,13 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
-	Modifié il y a 5 heures par Nico 14
+	Modifié il y a 7 heures par Nico 14
 								3
+
+=======================
+
+Auteur: giec 2100
+Message:
+souhaiterait-t-on avoir légèrement plus de chance que pile ou face pour recevoir plus de 10mm de précipitations avant la fin d'échéance du topic... ?
+	en tout cas pas avant le 1er octobre et je n'y mettrais pas un radis - du reste ils ne poussent plus... - pour le reste de la semaine pour une valeur à deux chiffres en millimètres...
+	https://images.meteociel.fr/im/31/18927/animnac1.gif
