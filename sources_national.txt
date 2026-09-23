@@ -286,7 +286,7 @@ Températures minimales : en baisse sur le Lauragais, sur le Cagire et le Luchon
 Températures maximales : en baisse dans l'Agglomération toulousaine ainsi que sur les coteaux de Gascogne.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 221620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 22 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 22 septembre 2026 à 12H00 UTC, et évolution Hautes pressions se renforçant 1018-1020 hPa, prévues 1021-1023 hPa demain matin sur le bassin. Flux d'Est fraîchissant temporairement cette nuit sur la Corse, entre hautes pressions se renforçant 1025 hPa au nord de l'Italie, et dépression relative 1018 hPa à l'ouest de la Sardaigne. 3 - Prévisions pour la nuit du mardi 22 septembre au mercredi 23 septembre VENT : - à l'ouest de Fos : fraîchissant Nord 3 à 4, parfois 5, puis virant secteur Nord-Est 2 à 4 en fin de nuit. - à l'est de Fos : Variable 1 à 3, fraîchissant secteur Est 2 à 4 par l'est en milieu de nuit, localement 5 à l'est du Levant. MER : belle, devenant localement peu agitée à l'est de Porquerolles en seconde partie de nuit. HOULE : non significative. TEMPS : ciel clair, quelques nuages bas en seconde partie de nuit à l'ouest de Sicié. VISIBILITE : bonne. 4 - Prévisions pour la journée du mercredi 23 septembre VENT : - à l'ouest de Cap Croisette : secteur Nord-Est 2 à 4, mollissant Variable 1 à 3 l'après-midi. - à l'est de Cap Croisette : secteur Est 3 à 5, mollissant Est à Sud-Est 2 à 4 l'après-midi, puis Variable 1 à 3 en fin de journée. MER : belle à l'ouest de Cap Croisette, mais belle à peu agitée à l'est. HOULE : s'établissant progressivement Est 0.5 à 1 m à l'est de Cap Croisette, mais non significative à l'ouest. TEMPS : ensoleillé, mais localement nuageux vers la Camargue le matin. VISIBILITE : bonne. 5 - Tendance pour la nuit du 23 au 24, et la journée du jeudi 24 septembre VENT : Variable 1 à 3, fraîchissant secteur Ouest 2 à 4 le matin, puis 3 à 5 l'après-midi, parfois 6 à l'est de Sicié. MER : belle à peu agitée, devenant peu agitée à agitée à l'est de Cap Croisette l'après-midi. HOULE : non significative, mais temporairement Est 0.5 à 1 m à l'est de Sicié en début de nuit. TEMPS : ciel voilé, quelques nuages bas en fin de nuit et le matin à l'ouest de Sicié. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : Ouest 3 à 5, virant secteur Nord en début de nuit, puis au secteur Est en cours de matinée. Fortes rafales. MER : belle à peu agitée. HOULE de secteur Ouest inférieure à 1 m, s'orientant en milieu d'après-midi à l'Est. 7 - Tendance pour les jours suivants Samedi 26 septembre Variable faible à modéré, devenant secteur Sud-Est sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le mardi 22 septembre 2026 à 15H00 UTC Cap Camarat : vent Sud-Est 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Sud-Sud-Ouest 8 noeuds, clair ou peu nuageux, visibilité 13 milles. Le Levant : vent Est-Sud-Est 8 noeuds, 1018 hPa en baisse. Porquerolles : vent Sud-Sud-Est 6 noeuds. Cap Couronne : vent Ouest-Sud-Ouest 6 noeuds. Prochain bulletin le mercredi 23 septembre 2026, vers 06H30 légales
+FQCT40 LFML 230335 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 23 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 23 septembre 2026 à 00H00 UTC, et évolution Hautes pressions 1021-1023 hPa sur le bassin. Dépression relative 1018 hPa à l'ouest de la Sardaigne, se comblant en soirée. Dépression se creusant 1016 hPa entre Corse et Continent demain après-midi. 3 - Prévisions pour la journée du mercredi 23 septembre VENT : - à l'ouest de Cap Croisette : Variable 1 à 3. - à l'est de Cap Croisette : secteur Est 3 à 4. MER : belle à peu agitée. HOULE : s'établissant progressivement Est à Nord-Est 0.5 à 1 m à l'est de Cap Croisette, mais non significative à l'ouest. TEMPS : ensoleillé, mais localement nuageux vers la Camargue le matin. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mercredi 23 septembre au jeudi 24 septembre VENT : Variable 1 à 3, se secteur Ouest dominant en fin de nuit. MER : belle à peu agitée, devenant belle en seconde partie de nuit. HOULE : Est à Nord-Est 0.5 à 1 m à l'est de Cap Croisette, s'amortissant en seconde partie de nuit. TEMPS : ciel voilé, quelques nuages bas en fin de nuit à l'ouest de Sicié. VISIBILITE : bonne. 5 - Prévisions pour la journée du jeudi 24 septembre VENT : Ouest à Nord-Ouest 3 à 4, localement Sud-Ouest à l'est de Porquerolles, fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi. MER : belle à peu agitée, devenant peu agitée à agitée à l'est de Cap Croisette l'après-midi. HOULE : non significative. TEMPS : ciel voilé, quelques nuages bas le matin à l'ouest de Sicié. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 24 au 25 et la journée du vendredi 25 septembre VENT : De Port Camargue à Fos secteur Nord-Ouest 5, fraîchissant 6 en milieu de nuit, puis mollissant pour devenir variable 1 à 3 en début de matinée. De Fos à la Ciotat Ouest à Nord-Ouest 4 à 6, virant Nord à Nord-Est en milieu de nuit, puis au Sud-Est en début de matinée. De la Ciotat à Camarat Ouest 5 à 7, virant Est à Nord-Est 4 à 6 en milieu de nuit. Rafales. De Camarat à St Raphaël Ouest à Sud-Ouest 7, virant Nord-Est 4 à 6 en début de nuit. MER : peu agitée, localement agitée de Fos à St Raphaël. HOULE de secteur Sud-Ouest inférieure à 2 m, s'orientant en milieu de nuit à l'Ouest à Nord-Ouest, puis à l'Est à Nord-Est. 7 - Tendance pour les jours suivants Samedi 26 septembre Variable faible à modéré, devenant secteur Sud-Est sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 4 sur 5 Dimanche 27 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Lundi 28 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud-Est modéré sur le golfe du Lion. Secteur Est autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le mercredi 23 septembre 2026 à 03H00 UTC Cap Camarat : vent Est 16 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est 8 noeuds. Le Levant : vent Est-Nord-Est 12 noeuds, 1020 hPa stationnaire. Porquerolles : vent Est-Nord-Est 6 noeuds, rafales 16 noeuds. Cap Couronne : vent Est-Nord-Est 6 noeuds. Prochain bulletin le mercredi 23 septembre 2026, vers 13H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -329,9 +329,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mercredi 23 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique très solide en première semaine, avec chaleur remarquable et sécheresse. En deuxième semaine, possible bascule vers un flux de sud-ouest avec un risque de pluies, mais incertitude forte..
+Résumé général précédent : Poursuite d'un temps anormalement chaud et sec, malgré une possible dégradation en semaine 2..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps ensoleillé, chaud, sec ; pas de pluie..
+Températures attendues précédemment : Chaleur modérée à forte, ciel dégagé, pas de précipitations, vent faible à modéré..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 23 au Dimanche 27 Septembre 2026) ===
@@ -691,7 +691,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 17 heures par petit âge glaciaire 11
+	Modifié il y a 19 heures par petit âge glaciaire 11
 								4
 								5
 								1
@@ -734,7 +734,7 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								1
 								2
 								1
@@ -752,7 +752,7 @@ Quand on regarde certains déterministes de ce soir pour le tout début du topic
 	 Icon :
 	Ukmo :
 	GFS :
-	Modifié il y a 8 heures par petit âge glaciaire 11
+	Modifié il y a 10 heures par petit âge glaciaire 11
 								3
 								1
 								1
@@ -783,7 +783,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
-	Modifié il y a 7 heures par Nico 14
+	Modifié il y a 9 heures par Nico 14
 								3
 
 =======================

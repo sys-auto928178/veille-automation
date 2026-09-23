@@ -322,9 +322,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 23 Septembre 2026.
-Résumé général HDF précédent : Temps très sec et chaud pour la saison sur HDF, avec pas de fraîcheur automnale durable; sécheresse renforcée, risque incendies au sud, bascule humide très incertaine en semaine 2..
+Résumé général HDF précédent : Un temps très sec, ensoleillé et anormalement chaud pour la saison domine au moins jusqu'au 27 septembre. La semaine suivante reste sous influence de sud-ouest, avec une possibilité de pluies réelles mais une confiance limitée..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Brumes, brouillards, rafales possibles; vigilance verte; indice 4/5 samedi, 3/5 dimanche..
+Températures attendues précédemment : Soleil dominant, voile nuageux jeudi, brumes locales; pas de pluie généralisée; rafales 55 km/h en Flandre maritime..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 23 au Dimanche 27 Septembre 2026) ===
@@ -684,7 +684,7 @@ on commence à entrevoir des signaux pluvieux pour ce topic  en lien avec une b
 	GEM :
 	CEP :
 	On croise les doigts ?
-	Modifié il y a 17 heures par petit âge glaciaire 11
+	Modifié il y a 19 heures par petit âge glaciaire 11
 								4
 								5
 								1
@@ -727,7 +727,7 @@ la glacière du pôle N paraît bien poussive pour reconstituer la réserve de f
 	vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
 	aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
 	les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								1
 								2
 								1
@@ -745,7 +745,7 @@ Quand on regarde certains déterministes de ce soir pour le tout début du topic
 	 Icon :
 	Ukmo :
 	GFS :
-	Modifié il y a 8 heures par petit âge glaciaire 11
+	Modifié il y a 10 heures par petit âge glaciaire 11
 								3
 								1
 								1
@@ -776,7 +776,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
-	Modifié il y a 7 heures par Nico 14
+	Modifié il y a 9 heures par Nico 14
 								3
 
 =======================
