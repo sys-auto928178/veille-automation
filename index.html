@@ -255,9 +255,9 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <h1 class="hero-title">Prévisions France</h1>
   </div>
   <div class="hero-dates-bar">
-    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du Mercredi 23 Septembre 2026 au Dimanche 27 Septembre 2026</div>
-    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du Lundi 28 Septembre au Dimanche 4 Octobre 2026</div>
-    <div class="date-chip gen-chip">⚡ <strong>Génération :</strong> Mercredi 23 Septembre 2026</div>
+    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Jeudi 24 Septembre 2026 au Dimanche 27 Septembre 2026 inclus.</div>
+    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Lundi 28 Septembre au Dimanche 4 Octobre 2026 inclus.</div>
+    <div class="date-chip gen-chip">⚡ <strong>Génération :</strong> Jeudi 24 Septembre 2026</div>
   </div>
 </header>
 
@@ -267,8 +267,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🔥</span>
     <div>
       <div class="kpi-pill-label">Situation dominante</div>
-      <div class="kpi-pill-val">Chaleur persistante, possible dégradation méditerranéenne</div>
-      <div class="kpi-pill-note">Scénario majoritaire : blocage résistant, pluies surtout localisées au sud-est.</div>
+      <div class="kpi-pill-val">Blocage persistant puis fléchissement progressif</div>
+      <div class="kpi-pill-note">Le scénario le plus probable est une poursuite du temps sec et chaud avec une dégradation limitée au sud-est.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -276,7 +276,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div>
       <div class="kpi-pill-label">Tendance</div>
       <div class="kpi-pill-val">Modéré</div>
-      <div class="kpi-pill-note">Consensus net sur le temps chaud et sec en semaine 1, mais fortes divergences sur la semaine 2.</div>
+      <div class="kpi-pill-note">Accord sur le temps sec et chaud en semaine 1, mais désaccords importants sur la semaine 2.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -291,8 +291,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🟢</span>
     <div>
       <div class="kpi-pill-label">Niveau de Confiance</div>
-      <div class="kpi-pill-val">Fin de blocage incertaine</div>
-      <div class="kpi-pill-note">Les modèles oscillent entre simple salve pluvio-orageuse et vraie porte de sortie.</div>
+      <div class="kpi-pill-val">Forte pour la seconde semaine</div>
+      <div class="kpi-pill-note">Les modèles divergent fortement à partir du 28 septembre, les scénarios allant d'un maintien sec à un épisode pluvieux méditerranéen.</div>
     </div>
   </div>
 </section>
@@ -313,14 +313,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Mercredi 23 et jeudi 24 septembre</strong>
-            <div class="day-short">Temps sec, ensoleillé et très chaud sur la moitié sud, chaleur déjà remarquable.</div>
+            <strong class="day-name">Jeudi 24 et vendredi 25 septembre</strong>
+            <div class="day-short">Ensoleillement maximal, chaleur très marquée surtout sur l'ouest et le sud, jusqu'à 35°C en Gironde.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Temps sec, ensoleillé et très chaud sur la moitié sud, chaleur déjà remarquable.</p>
+        <p>Ensoleillement maximal, chaleur très marquée surtout sur l'ouest et le sud, jusqu'à 35°C en Gironde.</p>
       </div>
     </details>
 
@@ -329,30 +329,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Vendredi 25 septembre</strong>
-            <div class="day-short">Nouvelle journée chaude et sèche, avec un petit risque de fraîcheur matinale à l'est.</div>
-          </div>
-        </div>
-        <span class="day-chevron">▼</span>
-      </summary>
-      <div class="day-accordion-body">
-        <p>Nouvelle journée chaude et sèche, avec un petit risque de fraîcheur matinale à l'est.</p>
-      </div>
-    </details>
-
-    <details class="day-accordion">
-      <summary class="day-summary">
-        <div class="day-summary-left">
-          <span class="day-picto">🗓️</span>
-          <div>
             <strong class="day-name">Samedi 26 septembre</strong>
-            <div class="day-short">Encore très ensoleillé, le soleil restant généreux sur la plupart des régions.</div>
+            <div class="day-short">Soleil encore généreux, mais températures en léger retrait sur les régions du nord.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Encore très ensoleillé, le soleil restant généreux sur la plupart des régions.</p>
+        <p>Soleil encore généreux, mais températures en léger retrait sur les régions du nord.</p>
       </div>
     </details>
 
@@ -362,13 +346,29 @@ function switchZoneTab(containerId, tabId, btnEl) {
           <span class="day-picto">🗓️</span>
           <div>
             <strong class="day-name">Dimanche 27 septembre</strong>
-            <div class="day-short">Possible bascule en soirée avec des pluies orageuses sur l'ouest et le sud-ouest.</div>
+            <div class="day-short">Arrivée de nuages par l'Atlantique, risque d'orages en soirée sur l'ouest et le sud-ouest.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Possible bascule en soirée avec des pluies orageuses sur l'ouest et le sud-ouest.</p>
+        <p>Arrivée de nuages par l'Atlantique, risque d'orages en soirée sur l'ouest et le sud-ouest.</p>
+      </div>
+    </details>
+
+    <details class="day-accordion">
+      <summary class="day-summary">
+        <div class="day-summary-left">
+          <span class="day-picto">🗓️</span>
+          <div>
+            <strong class="day-name">Lundi 28 septembre</strong>
+            <div class="day-short">Pluie possible sur le nord-ouest et le sud-ouest, transition vers une semaine 2 plus incertaine.</div>
+          </div>
+        </div>
+        <span class="day-chevron">▼</span>
+      </summary>
+      <div class="day-accordion-body">
+        <p>Pluie possible sur le nord-ouest et le sud-ouest, transition vers une semaine 2 plus incertaine.</p>
       </div>
     </details>
   </div>
@@ -384,7 +384,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     </div>
   </div>
   <div class="grid grid-2">
-    <div class="key"><i>🌡️</i><div><strong>Blocage tenace</strong>Puissant anticyclone et temps sec persistant sur l'essentiel du pays.</div></div><div class="key"><i>🌡️</i><div><strong>Chaleur remarquable</strong>Températures très supérieures aux normales, surtout au sud-ouest.</div></div><div class="key"><i>🌦️</i><div><strong>Sécheresse qui s'éternise</strong>Pas de pluie significative attendue avant dimanche soir sur l'ouest.</div></div><div class="key"><i>⛈️</i><div><strong>Fin de</strong>semaine agitée ? Risque de pluie ou d'orages dimanche, d'abord sur l'ouest.</div></div><div class="key"><i>🌡️</i><div><strong>Fraîcheur relative à l'est</strong>Possibilité de matinées plus fraîches en milieu de semaine, sans casser la chaleur.</div></div>
+    <div class="key"><i>🌡️</i><div><strong>Blocage anticyclonique</strong>Un anticyclone très puissant verrouille le temps, avec un ensoleillement généreux sur tout le pays.</div></div><div class="key"><i>🌡️</i><div><strong>Chaleur excessive</strong>Des températures de 25 à 35°C sont attendues, parfois très au-dessus des normales de saison.</div></div><div class="key"><i>⚠️</i><div><strong>Sécheresse préoccupante</strong>Aucune précipitation significative, les sols continuent de s'assécher et le risque incendie reste élevé.</div></div><div class="key"><i>💡</i><div><strong>Inflexion en vue</strong>Des signaux de baisse des géopotentiels apparaissent pour la toute fin de semaine, mais à confirmer.</div></div><div class="key"><i>⛈️</i><div><strong>Épisode méditerranéen potentiel</strong>Une dégradation pluvio-orageuse est évoquée sur le sud-est pour la semaine prochaine, loin dans les modèles.</div></div>
   </div>
 </section>
 
@@ -404,18 +404,32 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </div>
         <div class="zone-panels-wrapper">
             <div id="zones-nat-container-tab-0" class="zone-panel" style="display:block;">
-        <div class="zone zone-insufficient">
-          <div class="zone-head">
+    <details class="zone zone-accordion" open>
+      <summary class="zone-summary">
+        <div>
+          <span class="badge" style="margin-bottom:6px; font-size:10px; background:#fef3c7; color:#92400e;">Informations partielles</span>
+          <div class="zone-head" style="margin-bottom:2px;">
             <span class="zone-icon">🧭</span>
             <h3>Nord-Ouest</h3>
           </div>
-          <p class="zone-notice">Informations insuffisantes dans les messages analysés pour établir une tendance fiable sur cette zone.</p>
-          <div class="zone-foot">
-            <span class="chip-conf" style="background:#f1f5f9; color:#64748b;">Confiance : Non estimable</span>
-            <span class="chip-uncert" style="background:#f1f5f9; color:#64748b;">Données insuffisantes</span>
-          </div>
+          <div class="zone-short-desc">Temps sec et ensoleillé, chaleur modérée</div>
         </div>
-        </div><div id="zones-nat-container-tab-1" class="zone-panel" style="display:none;">
+        <div style="display:flex; align-items:center; gap:6px;">
+          <span class="chip-conf" style="font-size:10px;">Modérée</span>
+          <span class="zone-chevron">▼</span>
+        </div>
+      </summary>
+      <div class="zone-body">
+        <ul class="zone-details">
+          <li><b>Temps dominant :</b> Temps sec et ensoleillé, chaleur modérée</li><li><b>Températures :</b> Maximales 25-28°C, minimales 10-15°C</li><li><b>Pluie / Orages :</b> Aucune précipitation attendue</li><li><b>Vent :</b> Vent faible variable</li><li><b>Période sensible :</b> Aucun</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF • 2 mentions</li>
+        </ul>
+        <div class="zone-foot">
+          <span class="chip-conf">Confiance : Modérée</span>
+          <span class="chip-uncert">Incertitude : Précisions limitées pour cette zone dans les discussions</span>
+        </div>
+      </div>
+    </details>
+    </div><div id="zones-nat-container-tab-1" class="zone-panel" style="display:none;">
     <details class="zone zone-accordion" open>
       <summary class="zone-summary">
         <div>
@@ -424,7 +438,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">☁️</span>
             <h3>Nord</h3>
           </div>
-          <div class="zone-short-desc">Beau temps sec et chaud, dégradation pluvieuse possible dimanche soir.</div>
+          <div class="zone-short-desc">Ensoleillé et chaud, dégradation pluvieuse possible dimanche soir</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -433,11 +447,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Beau temps sec et chaud, dégradation pluvieuse possible dimanche soir.</li><li><b>Températures :</b> Maximales 25 à 29°C, minimales 11 à 15°C.</li><li><b>Pluie / Orages :</b> Pluie possible de dimanche soir à lundi.</li><li><b>Vent :</b> Vent faible, variable.</li><li><b>Période sensible :</b> Dimanche 27 en soirée</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Bulletin MF Paris • Secteurs : Île-de-France • 3 mentions</li>
+          <li><b>Temps dominant :</b> Ensoleillé et chaud, dégradation pluvieuse possible dimanche soir</li><li><b>Températures :</b> Maximales 25-29°C, minimales 11-15°C</li><li><b>Pluie / Orages :</b> Pluie possible dimanche 27 en soirée</li><li><b>Vent :</b> Vent faible variable</li><li><b>Période sensible :</b> Dimanche 27 au soir</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS • Secteurs : Île-de-France, Hauts-de-France • 3 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Heure exacte et intensité de la dégradation.</span>
+          <span class="chip-uncert">Incertitude : Intensité et durée de la dégradation de dimanche</span>
         </div>
       </div>
     </details>
@@ -450,7 +464,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌤️</span>
             <h3>Nord-Est</h3>
           </div>
-          <div class="zone-short-desc">Sec et chaud, fraîcheur matinale possible en milieu de semaine.</div>
+          <div class="zone-short-desc">Beau temps sec, matinées possiblement fraîches</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Modérée</span>
@@ -459,11 +473,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Sec et chaud, fraîcheur matinale possible en milieu de semaine.</li><li><b>Températures :</b> Maximales 25 à 28°C, minimales parfois à un chiffre.</li><li><b>Pluie / Orages :</b> Aucune pluie attendue.</li><li><b>Période sensible :</b> Mercredi 23 à vendredi 25</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, AIFS, ECMWF • Secteurs : Alsace, Lorraine, Franche-Comté • 3 mentions</li>
+          <li><b>Temps dominant :</b> Beau temps sec, matinées possiblement fraîches</li><li><b>Températures :</b> Maximales 25-29°C, minimales 8-12°C</li><li><b>Pluie / Orages :</b> Aucune précipitation</li><li><b>Période sensible :</b> Aucun</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, GFS • Secteurs : Alsace, Lorraine, Bourgogne • 2 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Évolution des températures à 850 hPa et extension de la chaleur.</span>
+          <span class="chip-uncert">Incertitude : Impact de la goutte froide sur les températures de vendredi</span>
         </div>
       </div>
     </details>
@@ -476,7 +490,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌊</span>
             <h3>Ouest & Atlantique</h3>
           </div>
-          <div class="zone-short-desc">Très ensoleillé et très chaud, possible orage dimanche soir.</div>
+          <div class="zone-short-desc">Chaud et ensoleillé, risque orageux dimanche soir</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -485,41 +499,27 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Très ensoleillé et très chaud, possible orage dimanche soir.</li><li><b>Températures :</b> Maximales 32 à 35°C jeudi, puis 24 à 29°C.</li><li><b>Pluie / Orages :</b> Risque de pluie et d'orage dimanche en soirée.</li><li><b>Vent :</b> Vent d'Ouest modéré vendredi, Nord-Ouest samedi soir.</li><li><b>Période sensible :</b> Jeudi 24 et dimanche 27 en soirée</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Bulletin MF Gironde • Secteurs : Gironde, littoral atlantique • 4 mentions</li>
+          <li><b>Temps dominant :</b> Chaud et ensoleillé, risque orageux dimanche soir</li><li><b>Températures :</b> Maximales 29-35°C, minimales 15-18°C</li><li><b>Pluie / Orages :</b> Risque d'orages dimanche soir à lundi</li><li><b>Vent :</b> Vent d'ouest modéré</li><li><b>Période sensible :</b> Dimanche 27</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, ICON • Secteurs : Aquitaine, Poitou-Charentes • 3 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Force de la dégradation orageuse et position exacte du littoral.</span>
+          <span class="chip-uncert">Incertitude : Position exacte de la perturbation en fin de week-end</span>
         </div>
       </div>
     </details>
     </div><div id="zones-nat-container-tab-4" class="zone-panel" style="display:none;">
-    <details class="zone zone-accordion" open>
-      <summary class="zone-summary">
-        <div>
-          <span class="badge" style="margin-bottom:6px; font-size:10px; background:#fef3c7; color:#92400e;">Informations partielles</span>
-          <div class="zone-head" style="margin-bottom:2px;">
+        <div class="zone zone-insufficient">
+          <div class="zone-head">
             <span class="zone-icon">🌥️</span>
             <h3>Centre</h3>
           </div>
-          <div class="zone-short-desc">Temps chaud et sec, soleil généreux.</div>
+          <p class="zone-notice">Informations insuffisantes dans les messages analysés pour établir une tendance fiable sur cette zone.</p>
+          <div class="zone-foot">
+            <span class="chip-conf" style="background:#f1f5f9; color:#64748b;">Confiance : Non estimable</span>
+            <span class="chip-uncert" style="background:#f1f5f9; color:#64748b;">Données insuffisantes</span>
+          </div>
         </div>
-        <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Modérée</span>
-          <span class="zone-chevron">▼</span>
-        </div>
-      </summary>
-      <div class="zone-body">
-        <ul class="zone-details">
-          <li><b>Temps dominant :</b> Temps chaud et sec, soleil généreux.</li><li><b>Températures :</b> Maximales 26 à 30°C, minimales douces.</li><li><b>Pluie / Orages :</b> Aucune pluie significative.</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF • 2 mentions</li>
-        </ul>
-        <div class="zone-foot">
-          <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Manque de détails régionaux dans les discussions.</span>
-        </div>
-      </div>
-    </details>
-    </div><div id="zones-nat-container-tab-5" class="zone-panel" style="display:none;">
+        </div><div id="zones-nat-container-tab-5" class="zone-panel" style="display:none;">
     <details class="zone zone-accordion" open>
       <summary class="zone-summary">
         <div>
@@ -528,7 +528,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌡️</span>
             <h3>Sud-Ouest</h3>
           </div>
-          <div class="zone-short-desc">Ensoleillé et très chaud, possible averses orageuses dimanche.</div>
+          <div class="zone-short-desc">Très chaud et ensoleillé, orages possibles en fin de période</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -537,11 +537,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Ensoleillé et très chaud, possible averses orageuses dimanche.</li><li><b>Températures :</b> Maximales 31 à 34°C, minimales 10 à 17°C.</li><li><b>Pluie / Orages :</b> Risque de pluie orageuse dimanche après-midi et soirée.</li><li><b>Vent :</b> Vent d'Ouest modéré vendredi, Autan possible lundi.</li><li><b>Période sensible :</b> Dimanche 27</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Bulletin MF Haute-Garonne • Secteurs : Haute-Garonne, Lauragais, piémont pyrénéen • 4 mentions</li>
+          <li><b>Temps dominant :</b> Très chaud et ensoleillé, orages possibles en fin de période</li><li><b>Températures :</b> Maximales 31-33°C, minimales 10-17°C</li><li><b>Pluie / Orages :</b> Risque orageux dimanche après-midi à lundi</li><li><b>Vent :</b> Vent d'ouest temporairement modéré</li><li><b>Période sensible :</b> Dimanche 27</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, ECMWF • Secteurs : Haute-Garonne, Lauragais, piémont pyrénéen • 3 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Déclenchement et intensité des orages.</span>
+          <span class="chip-uncert">Incertitude : Extension géographique des orages et cumuls associés</span>
         </div>
       </div>
     </details>
@@ -554,20 +554,20 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">☀️</span>
             <h3>Sud-Est & Rhône</h3>
           </div>
-          <div class="zone-short-desc">Beau temps sec et ensoleillé, chaleur modérée.</div>
+          <div class="zone-short-desc">Soleil et chaleur, possible dégradation en toute fin de période</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Élevée</span>
+          <span class="chip-conf" style="font-size:10px;">Modérée</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Beau temps sec et ensoleillé, chaleur modérée.</li><li><b>Températures :</b> Maximales 26 à 30°C, minimales 9 à 16°C.</li><li><b>Pluie / Orages :</b> Aucune pluie jusqu'à dimanche.</li><li><b>Vent :</b> Vent de Sud temporairement modéré dimanche.</li><li><b>Période sensible :</b> Dimanche 27</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Bulletin MF Rhône • Secteurs : Rhône, couloir rhodanien • 3 mentions</li>
+          <li><b>Temps dominant :</b> Soleil et chaleur, possible dégradation en toute fin de période</li><li><b>Températures :</b> Maximales 25-30°C, minimales 8-16°C</li><li><b>Pluie / Orages :</b> Risque pluie/averses mercredi 30</li><li><b>Vent :</b> Vent de sud temporairement modéré, risque de rafales</li><li><b>Période sensible :</b> Mercredi 30 septembre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, ECMWF • Secteurs : Rhône-Alpes, vallée du Rhône • 3 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Soulèvement orageux en fin de période non confirmé.</span>
+          <span class="chip-conf">Confiance : Modérée</span>
+          <span class="chip-uncert">Incertitude : Échéance de la dégradation et son intensité</span>
         </div>
       </div>
     </details>
@@ -580,7 +580,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🏖️</span>
             <h3>Méditerranée & Corse</h3>
           </div>
-          <div class="zone-short-desc">Soleil prédominant, chaleur marquée, quelques nuages élevés.</div>
+          <div class="zone-short-desc">Ensoleillé et chaud, possible épisode pluvieux la semaine suivante</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -589,11 +589,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Soleil prédominant, chaleur marquée, quelques nuages élevés.</li><li><b>Températures :</b> Maximales 26 à 31°C, minimales 12 à 20°C.</li><li><b>Pluie / Orages :</b> Aucune pluie, brumes côtières possibles le matin.</li><li><b>Vent :</b> Vent faible à modéré de Sud-Ouest puis Sud-Est.</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Bulletin MF Bouches-du-Rhône • Secteurs : Bouches-du-Rhône, littoral PACA • 4 mentions</li>
+          <li><b>Temps dominant :</b> Ensoleillé et chaud, possible épisode pluvieux la semaine suivante</li><li><b>Températures :</b> Maximales 26-31°C, minimales 16-21°C</li><li><b>Pluie / Orages :</b> Pas de pluie sur la période, signaux pour semaine 2</li><li><b>Vent :</b> Vent de sud-est faible à modéré</li><li><b>Période sensible :</b> Aucun</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GEM, GFS, ECMWF • Secteurs : Littoral PACA, Corse, Camargue • 4 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Évolution du vent et de l'humidité sur le littoral.</span>
+          <span class="chip-uncert">Incertitude : Risque d'épisode méditerranéen en tout début octobre</span>
         </div>
       </div>
     </details>
@@ -608,12 +608,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
   <div class="section-head">
     <div>
       <span class="badge badge-gray">Perspective J+8 à J+14</span>
-      <h2>🔮 Tendance Semaine 2 — Du Lundi 28 Septembre au Dimanche 4 Octobre 2026</h2>
+      <h2>🔮 Tendance Semaine 2 — Lundi 28 Septembre au Dimanche 4 Octobre 2026 inclus.</h2>
     </div>
   </div>
   
   <div class="grid grid-2" style="margin-top:12px;">
-    <div class="key"><i>🧭</i><div><strong>Réveil de</strong>l'Atlantique ? Une dépression pourrait se creuser à l'ouest de la Grande-Bretagne.</div></div><div class="key"><i>☀️</i><div><strong>Anticyclone résistant</strong>Le blocage pourrait limiter l'humidité, surtout au nord.</div></div><div class="key"><i>🌦️</i><div><strong>Signaux méditerranéens</strong>Des fortes pluies, voire un épisode méditerranéen, sont évoqués pour le sud-est.</div></div><div class="key"><i>🌡️</i><div><strong>Chaleur humide</strong>Des advections chaudes et humides du sud-ouest vers le nord-est.</div></div><div class="key"><i>🌦️</i><div><strong>Sortie de crise incertaine</strong>Les modèles oscillent entre simple dégradation et retour plus franc des pluies.</div></div>
+    <div class="key"><i>☀️</i><div><strong>Réveil atlantique possible</strong>Des dépressions pourraient se rapprocher, mais l'anticyclone résiste encore.</div></div><div class="key"><i>🌦️</i><div><strong>Risque méditerranéen</strong>Des signaux de fortes pluies apparaissent sur le sud-est, à confirmer.</div></div><div class="key"><i>🌡️</i><div><strong>Chaleur persistante</strong>Les températures restent élevées, surtout au sud, avec une baisse attendue en fin de semaine.</div></div><div class="key"><i>☀️</i><div><strong>Anticyclone coriace</strong>Le blocage de hautes pressions limite l'arrivée des perturbations océaniques.</div></div><div class="key"><i>💡</i><div><strong>Incertitude majeure</strong>Les modèles divergent nettement sur l'évolution après le 28 septembre.</div></div>
   </div>
 </section>
 
@@ -640,18 +640,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GFS / GEFS</div>
-              <span class="status-badge status-main">Documenté</span>
+              <div class="model-name">GFS (Global Forecast System)</div>
+              <span class="status-badge status-main">Détaillé, commenté avec cartes et ensembles</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">9</span>
-              <span class="chip">Runs cités : 06Z, 12Z, 00Z</span>
-              <span class="chip">Jusqu'au 27 septembre, signaux lointains au-delà de 240h.</span>
+              <span class="chip">6 mentions</span>
+              <span class="chip">Runs cités : 06Z, 00Z, 12Z</span>
+              <span class="chip">Du jeudi 24 au dimanche 27 septembre, échéances au-delà pour les signaux.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Maintien d'un blocage anticyclonique, chaleur sèche, avec quelques signaux de baisse des géopotentiels en toute fin de période. (127 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps très sec et chaud, possible inflexion en fin de semaine. (65 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Large quart nord-est, ouest atlantique, sud-ouest, Méditerranée en fin d'échéance.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario majoritaire : blocage anticyclonique solide jusqu'au 27 septembre, chaleur sèche, puis signaux de dégradation en fin de période sur le sud-est.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Chaleur importante (30-35°C sur l'ouest et le sud), aucune pluie, sécheresse renforcée.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière, avec les températures les plus élevées sur l'Aquitaine et l'Occitanie.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
@@ -661,7 +661,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Les membres s'appuient sur les cartes GFS, les diagrammes GEFS et les cumuls : aucune pluie ou presque jusqu'au 27, températures très élevées, scénarios de « porte de sortie » encore très incertains.
+                Le déterministe GFS a montré des évolutions marquées, d'abord avec une chaleur intense, puis des scénarios plus frais à l'est. Les ensembles GEFS indiquent une grande incertitude en fin de semaine, avec un signal pluvieux qui se renforce sur le relief cévenol. Certains membres suggèrent une dégradation orageuse, mais le scénario majoritaire reste anticyclonique.
               </div>
             </details>
           </td>
@@ -671,28 +671,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">ECMWF / CEP (IFS)</div>
-              <span class="status-badge status-main">Documenté</span>
+              <div class="model-name">ECMWF / AIFS / CEP</div>
+              <span class="status-badge status-main">Très bien documenté, plusieurs analyses de runs déterministes et ensembles</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">4</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Jusqu'au 27 septembre inclus.</span>
+              <span class="chip">5 mentions</span>
+              <span class="chip">Runs cités : 00Z, 12Z</span>
+              <span class="chip">Échéances 24-27 septembre, avec des projections jusqu'à début octobre.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario proche de GFS : blocage solide, chaleur durable, mais un amincissement de la dorsale est noté en seconde partie de semaine. (123 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps chaud et sec, extension possible de la chaleur vers l'est. (66 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière, en particulier façade atlantique et quart sud-est.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Anticyclone massif et chaleur excessive jusqu'au 27, puis possible amincissement de la dorsale avec fraîcheur relative sur l'est de la France en fin de semaine.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps très sec, chaleur surtout à l'ouest et au sud, minimales fraîches possibles sur le quart nord-est.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Ouest, sud, et est de la France de manière contrastée.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
-              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
+              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
+              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
               <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                L'IFS est cité pour ses températures à 850 hPa : la poche très chaude tend à se limiter à l'ouest, puis au littoral aquitain, avant une possible remontée de la chaleur en fin de semaine. Les ensembles restent toutefois très écartés.
+                Les déterministes AIFS ont fortement évolué : la poche de chaleur en T850 hPa s'est progressivement réduite, se limitant finalement au littoral aquitain. Le CEP (ensemble européen) montre une incertitude accrue en fin de semaine, avec des scénarios de goutte froide sur l'est. La tendance lourde reste à la sécheresse, mais la chaleur pourrait être moins généralisée qu'initialement prévu.
               </div>
             </details>
           </td>
@@ -702,18 +702,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">AIFS</div>
-              <span class="status-badge status-main">Documenté</span>
+              <div class="model-name">ICON (DWD)</div>
+              <span class="status-badge status-main">Documenté, mentionné dans une analyse comparative</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">3</span>
-              <span class="chip">Run : Runs cités : non déterminable</span>
-              <span class="chip">Fin de semaine 1.</span>
+              <span class="chip">2 mentions</span>
+              <span class="chip">Run : Run du scénario : non déterminable</span>
+              <span class="chip">Utilisé pour les projections à 180h, avec une possible dépression atlantique.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Déterministe parfois chaud et sec, mais souvent en sortie de route par rapport à son ensemble. (90 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Chaleur, sécheresse, possible fraîcheur matinale à l'est. (58 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Est et quart nord-est, puis tout le pays.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Positionné sur le scénario anticyclonique sec et chaud, avec des signaux de changement synoptique en fin de semaine.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps chaud et sec, possible évolution orageuse à très long terme.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière, surtout l'est et le sud pour les évolutions.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
@@ -723,7 +723,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Les membres notent une évolution nette des runs d'AIFS sur les températures à 850 hPa pour vendredi : la plage orange de chaleur se rétracte vers l'Aquitaine, avant un possible retour vers l'est en fin de semaine.
+                ICON, comme UKMO, montre des signaux de creusement dépressionnaire à l'ouest des îles britanniques en début de semaine prochaine. L'anticyclone pourrait dévier cette dépression vers le nord, mais une influence sur le nord de la France n'est pas exclue.
               </div>
             </details>
           </td>
@@ -733,49 +733,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GEM</div>
-              <span class="status-badge status-main">Partiellement documenté</span>
+              <div class="model-name">UKMO (Unified Model)</div>
+              <span class="status-badge status-main">Peu documenté, une mention dans une comparaison des déterministes</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
+              <span class="chip">1 mention</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Au-delà de 180h.</span>
+              <span class="chip">Projections à 180h pour le début de semaine 2.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Proche de GFS et AIFS pour illustrer une possible approche de bas géopotentiels par l'est. (85 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pas de changement majeur attendu cette semaine. (49 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Est de la France, puis ensemble du territoire.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
-              <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                GEM est cité dans une comparaison à 500 hPa avec GFS et AIFS, montrant des bas géopotentiels susceptibles de s'approcher de l'est du pays, sans certitude sur les effets.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">ARPEGE</div>
-              <span class="status-badge status-main">Partiellement documenté</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">1</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Fin de semaine 1.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>S'alignerait sur la tendance à un amincissement de la dorsale chaude, sans remise en cause de la sécheresse. (102 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Chaleur atténuée à l'est, toujours sec. (42 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Est et moitié nord-est.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Proche d'ICON, avec un scénario de tempête atlantique potentielle, mais l'anticyclone reste dominant.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pas de changement majeur avant le 27 septembre.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non précisé</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
@@ -785,7 +754,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                ARPEGE est mentionné comme faisant partie de « l'ensemble du pauvre » avec ICON et GFS pour une évolution commune vers une réduction de la masse d'air très chaude en seconde partie de semaine.
+                UKMO est cité comme étant un "copié-collé" d'ICON dans la modélisation d'une dépression à l'ouest du Royaume-Uni. Ce scénario indiquerait un possible changement de régime, mais les échéances sont lointaines et incertaines.
               </div>
             </details>
           </td>
@@ -795,28 +764,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">ICON</div>
-              <span class="status-badge status-main">Insuffisant</span>
+              <div class="model-name">GEM (Global Environmental Multiscale Model)</div>
+              <span class="status-badge status-main">Documenté, avec une référence à l'ensemble GEM pour Nîmes</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">0</span>
+              <span class="chip">1 mention</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Non déterminable.</span>
+              <span class="chip">Pour la semaine 2 (28 septembre - 4 octobre).</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Non détaillé cette semaine, seulement évoqué dans la convergence vers une baisse de l'intensité de la chaleur. (104 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pas d'élément spécifique. (28 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non déterminable.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Ensemble montrant des signaux de précipitations sur le sud-est pour le début du mois d'octobre.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Possible épisode pluvieux méditerranéen, mais très incertain.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Sud-Est, Cévennes, Languedoc.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Non estimable</strong></div>
-              <div class="bar" style="background:#e2e8f0;"></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Non déterminable</strong></div>
+              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
+              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                ICON est cité en passant comme aligné sur la tendance commune, mais sans analyse dédiée.
+                L'ensemble GEM est l'un des premiers à avoir évoqué des cumuls de pluie significatifs sur le Gard et les Cévennes pour la fin de semaine prochaine. Ce signal est à surveiller, mais il reste isolé parmi les autres modèles.
               </div>
             </details>
           </td>
@@ -829,26 +798,26 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>🤝 Convergences & Divergences des Scénarios</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Ce qui converge</h3><p>- Net consensus sur le maintien d'un temps chaud et très sec jusqu'au 27 septembre.
-- La sécheresse superficielle se renforce, avec un risque incendie toujours présent.
-- Les signaux de changement restent lointains, fragiles, et ne font pas consensus.</p></div>
-        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>- Possibilité de matinées plus fraîches à l'est en milieu de semaine, puis révision à la hausse des températures.
-- Le risque de pluie ou d'orages dimanche soir est documenté par les bulletins officiels sur l'ouest, mais peu présent dans les discussions de long terme.
-- L'ampleur géographique de la poche de chaleur en fin de semaine divise encore les modèles.</p></div>
+        <div class="card card-solid"><h3>Ce qui converge</h3><p>- Convergence 1 : Tous les modèles s'accordent sur un temps sec et très chaud jusqu'au 27 septembre, avec un anticyclone très robuste.
+- Convergence 2 : La sécheresse de surface se renforce, avec un risque incendie élevé sur une grande moitié sud.
+- Convergence 3 : Des signaux de dégradation atlantique et méditerranéenne apparaissent pour la toute fin de septembre, sans consensus sur leur ampleur.</p></div>
+        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>- Divergence 1 : L'intensité de la chaleur en fin de semaine varie fortement selon les modèles, notamment sur l'est (32°C possibles à Paris pour certains, 25°C pour d'autres).
+- Divergence 2 : La position et la profondeur de la goutte froide ou du talweg qui pourrait concerner l'est de la France divergent entre GFS et CEP.
+- Divergence 3 : Le potentiel d'épisode méditerranéen est présent dans certains ensembles (GEM, GEFS) mais absent chez d'autres (CEP).</p></div>
       </div>
     </div>
 
     <div class="tech-block">
       <h4>🛡️ Fiabilité & Éléments à surveiller</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Points solides</h3><p>- Blocage anticyclonique très solide, temps sec et chaud sur l'essentiel du pays jusqu'à dimanche.
-- Des températures très supérieures aux normales sur la moitié sud et le quart nord-ouest.
-- Sécheresse de surface qui s'accentue nettement.</p></div>
-        <div class="card card-fragile"><h3>Points fragiles</h3><p>- Les scénarios de gouttes froides ou de déblocage restent très incertains.
-- Le risque d'orages dimanche soir sur l'ouest est encore fragile.
-- L'évolution des températures à l'est a été revue plusieurs fois.</p></div>
+        <div class="card card-solid"><h3>Points solides</h3><p>- Solidité 1 : Le blocage anticyclonique est bien établi jusqu'au 27 septembre, avec un temps sec et ensoleillé.
+- Solidité 2 : Les températures seront nettement au-dessus des normales sur la majeure partie du pays.
+- Solidité 3 : Aucune précipitation généralisée n'est attendue avant dimanche soir au plus tôt.</p></div>
+        <div class="card card-fragile"><h3>Points fragiles</h3><p>- Fragilité 1 : La dégradation pluvieuse de dimanche 27 sur l'ouest reste incertaine, avec des scénarios allant de simples nuages à de vraies pluies orageuses.
+- Fragilité 2 : Les signaux de goutte froide sur l'est sont encore très variables d'un run à l'autre.
+- Fragilité 3 : L'évolution vers un épisode méditerranéen en début octobre est possible, mais tous les modèles ne la reproduisent pas.</p></div>
       </div>
-      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : À surveiller : les runs de GFS et d'ECMWF sur l'évolution du talweg atlantique, les diagrammes GEFS, et la possible fenêtre pluvieuse pour le début de la semaine 2.</div>
+      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : Surveiller les runs de GFS et du CEP de jeudi et vendredi pour confirmer la dégradation de dimanche soir, ainsi que l'évolution des signaux méditerranéens pour la semaine suivante. Les sorties d'AIFS seront particulièrement importantes pour évaluer la position de la goutte froide sur l'est.</div>
     </div>
 
     <div class="tech-block">
@@ -884,49 +853,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GFS / GEFS</div>
-              <span class="status-badge status-main">Documenté</span>
+              <div class="model-name">GFS (Global Forecast System)</div>
+              <span class="status-badge status-main">Documenté, avec des références aux ensembles GEFS et aux diagrammes</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">8</span>
-              <span class="chip">Runs cités : 06Z, 12Z, 00Z</span>
-              <span class="chip">Du 28 septembre au 4 octobre, signaux jusqu'au 9 octobre.</span>
+              <span class="chip">4 mentions</span>
+              <span class="chip">Runs cités : 06Z, 00Z, 12Z</span>
+              <span class="chip">À partir du lundi 28 septembre, avec une possible fenêtre humide vers le 1er-4 octobre.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Maintien d'un blocage avec flux de sud à sud-est, mais signaux pluvieux sur le relief cévenol et possible talweg influent. (120 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps chaud, humide, orages possibles, notamment au sud-est. (62 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Sud-est, Cévennes, Méditerranée, plus marginalement nord et ouest.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
-              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Les membres notent une évolution des cumuls de 8-10 mm vers 20-25 mm sur 10 jours, une résistance de l'anticyclone, mais des salves pluvio-orageuses probables sur le sud-est, avec des signaux sur GEFS pour les Cévennes.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">ECMWF / CEP (IFS)</div>
-              <span class="status-badge status-main">Documenté</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">5</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Fin de semaine 2 et début octobre.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Dépression atlantique plus proche du pays que GFS, avec un talweg susceptible d'influencer la France. (101 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Advection chaude et humide, orages, possible baisse des températures ensuite. (82 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Ouest, sud-ouest, puis quart sud-est et centre-est.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario d'une dégradation pluvio-orageuse sur le sud-est en début d'octobre, avec un anticyclone qui s'affaiblit mais ne cède pas sur le nord.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Possibilité d'averses orageuses sur le quart sud-est, temps encore doux ailleurs.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Sud-Est, Cévennes, puis peut-être remontées instables vers le centre-est.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
@@ -936,7 +874,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Les ensembles CEP montrent des signaux de fortes pluies sur Nîmes, et le déterministe est parfois écarté de son ensemble, jugé trop chaud et sec. L'ouverture océanique n'est pas acquise.
+                GFS a montré des signaux de précipitations non négligeables sur le sud-est, avec des cumuls possibles de 20 à 25 mm sur 8-10 jours. Certains déterministes ont proposé des scénarios de dégradation plus marqués, mais les derniers runs sont revenus à un schéma plus anticyclonique. Les ensembles GEFS indiquent une probabilité de pluie sur le relief cévenol, mais le signal est encore hésitant.
               </div>
             </details>
           </td>
@@ -946,28 +884,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GEM</div>
-              <span class="status-badge status-main">Partiellement documenté</span>
+              <div class="model-name">ECMWF / CEP / AIFS</div>
+              <span class="status-badge status-main">Documenté, analyses de diagrammes et de déterminismes</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">En milieu de semaine 2.</span>
+              <span class="chip">3 mentions</span>
+              <span class="chip">Runs cités : 00Z, 12Z</span>
+              <span class="chip">Échéances lointaines du 28 septembre au 4 octobre.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Signaux de fortes pluies possibles sur le sud-est, cohérents avec CEP. (70 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Risque d'averses orageuses méditerranéennes. (45 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Gard, Cévennes, sud-est.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario plus sec que GFS, avec un blocage qui se reforme après une courte dégradation méditerranéenne.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Chaleur qui se maintient sur l'ouest et le sud, risque d'orages isolés sur l'est.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Sud-Est principalement, avec un possible contraste nord-ouest/sud-est.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
               <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                L'ensemble GEM pour Nîmes est cité comme un signal à surveiller pour de possibles fortes pluies, sans certitude.
+                Le déterministe CEP est souvent plus chaud et plus sec que son ensemble, ce qui suggère une incertitude sur la réalité de la dégradation. Les diagrammes montrent une baisse des températures en fin de période, mais les précipitations restent faibles dans la plupart des scénarios. Une influence du talweg atlantique est possible, mais son extension vers la France est loin d'être acquise.
               </div>
             </details>
           </td>
@@ -977,90 +915,59 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">ICON</div>
-              <span class="status-badge status-main">Partiellement documenté</span>
+              <div class="model-name">ICON (DWD)</div>
+              <span class="status-badge status-main">Peu documenté, une mention dans le cadre d'une comparaison de déterministes</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
+              <span class="chip">1 mention</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Début de semaine 2.</span>
+              <span class="chip">Pour le début de la semaine 2 (28-30 septembre).</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Copie quasi conforme de UKMO pour une tempête à l'ouest de la Grande-Bretagne, déviée vers le nord par les hautes pressions. (128 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Vent possible sur le nord en marge de la dépression. (52 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord de la France, Manche, éventuellement ouest.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
-              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                ICON et UKMO sont présentés comme très proches pour un creusement dépressionnaire à l'ouest de la Grande-Bretagne, mais la France ne serait pas directement concernée.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">UKMO</div>
-              <span class="status-badge status-main">Partiellement documenté</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Lundi 28 et mardi 29 septembre.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Même scénario de creusement que ICON, dépression déviée vers le nord. (73 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Possibles conditions agitées en marge nord. (43 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord et nord-ouest en marge.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
-              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                UKMO est vu comme un scénario copié-collé d'ICON, avec une tempête possible sur les îles Britanniques, mais un impact français très incertain.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">AIFS</div>
-              <span class="status-badge status-main">Partiellement documenté</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">1</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Semaine 2.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Mentionné pour la tendance générale, avec un déterministe souvent chaud et sec. (81 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Chaleur et sécheresse possibles, orages localisés. (51 caractères)</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non déterminable.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario d'une dépression atlantique qui pourrait s'approcher des îles britanniques, avec une possible marge d'influence sur le nord de la France.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Vent possible sur les côtes de la Manche, pluies faibles, sinon temps calme.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord de la France, Manche, Atlantique.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
               <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                AIFS est cité à propos de l'évolution des runs et de la difficulté à replacer les déterministes dans leur ensemble.
+                ICON et UKMO modélisent une dépression creusée à l'ouest de la Grande-Bretagne. Si elle devait se confirmer, elle pourrait apporter un coup de vent et quelques pluies sur les régions du nord. L'anticyclone présent sur l'Europe de l'Ouest devrait toutefois limiter son impact.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">GEM (Global Environmental Multiscale Model)</div>
+              <span class="status-badge status-main">Documenté, avec une référence à l'ensemble pour Nîmes</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">1 mention</span>
+              <span class="chip">Run : Run du scénario : non déterminable</span>
+              <span class="chip">En fin de période, vers le 3-4 octobre.</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Propose un scénario pluvieux plus marqué sur le sud-est, avec des cumuls significatifs sur le Gard et les Cévennes.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Épisode pluvio-orageux potentiel, à surveiller de près.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Languedoc, Cévennes, Provence.</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
+              <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                L'ensemble GEM est le seul à montrer un signal aussi franc de précipitations sur le Languedoc. Ce type de scénario est fréquent en période de blocage, mais il doit être confirmé par les autres modèles pour être crédible.
               </div>
             </details>
           </td>
@@ -1069,12 +976,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </tbody>
       </table>
       <div class="compare" style="margin-top:12px;">
-        <div class="card"><h3>Convergences S2</h3><p>- Un possible réveil atlantique en début de semaine 2, mais sans garantie d'ouverture océanique durable.
-- Des signaux pluvieux plus nets sur le sud-est, notamment les Cévennes.
-- Des températures encore chaudes pour la saison, avec une baisse possible en fin de période.</p></div>
-        <div class="card"><h3>Divergences S2</h3><p>- L'intensité et la position du talweg atlantique divergent fortement entre GFS et ECMWF.
-- La possibilité d'un épisode méditerranéen est évoquée, mais très incertaine.
-- La persistance du blocage après le passage du talweg est débattue.</p></div>
+        <div class="card"><h3>Convergences S2</h3><p>- Convergence 1 : Une baisse des températures est attendue en deuxième partie de semaine, surtout sur le nord-est.
+- Convergence 2 : Des précipitations semblent probables sur le sud-est, mais leur intensité et leur localisation restent floues.
+- Convergence 3 : L'anticyclone devrait rester influent, empêchant tout retour durable d'un temps perturbé océanique.</p></div>
+        <div class="card"><h3>Divergences S2</h3><p>- Divergence 1 : GFS est plus offensif avec une dégradation orageuse, tandis que le CEP reste plus sec, surtout à l'ouest.
+- Divergence 2 : L'influence de la dépression atlantique sur le nord de la France est très incertaine : certains modèles l'envoient vers le Groenland, d'autres vers les îles britanniques.
+- Divergence 3 : L'intensité des pluies méditerranéennes varie de 5 à plus de 50 mm selon les scénarios et les modèles.</p></div>
       </div>
       <div class="cards3" style="margin-top:12px;">
         
@@ -1101,18 +1008,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>📊 Transparence Méthodologique & Tableau des Doutes</h4>
       <div class="grid grid-2">
-        <div class="card"><h3>Calendrier</h3><p>Doutes sur la chronologie et le timing des phénomènes.
-Le passage du talweg atlantique est encore flottant entre le 28 septembre et le 2 octobre. Les bulletins officiels évoquent des pluies dimanche soir, tandis que les modèles longue échéance les repoussent parfois plus tard. La fenêtre d'un épisode méditerranéen est encore incertaine.</p></div>
-        <div class="card"><h3>Localisation</h3><p>Doutes sur la localisation précise et les zones géographiques concernées.
-La position exacte de la dépression à l'ouest de la Grande-Bretagne et son influence sur le nord de la France restent très variables. L'emplacement des fortes pluies méditerranéennes (Gard, Cévennes, PACA) est encore mal cerné.</p></div>
-        <div class="card"><h3>Intensité</h3><p>Doutes sur l'intensité (températures, force des orages, etc.).
-L'intensité de la chaleur en fin de semaine 1 a été revue plusieurs fois. La force des orages, les cumuls de pluie et le caractère potentiellement méditerranéen de l'épisode restent très incertains.</p></div>
-        <div class="card"><h3>Données manquantes</h3><p>Informations importantes non abordées ou manquantes dans les discussions.
-Peu de détails sur les températures minimales, le vent dans l'intérieur des terres, les conditions en Corse, et l'évolution de la sécheresse des sols. Les bulletins officiels comblent une partie de ces manques, mais pas pour toutes les régions.</p></div>
-        <div class="card"><h3>Modèles peu documentés</h3><p>Modèles peu ou pas commentés par les membres.
-ARPEGE, ICON, UKMO et AIFS sont peu détaillés. GEM n'est évoqué que pour les ensembles du sud-est.</p></div>
-        <div class="card"><h3>Images incertaines</h3><p>Incertitudes sur les graphiques et cartes du forum.
-Certaines images postées (cumuls, diagrammes) sont issues de sites automatiques comme wetter.com, dont la fiabilité est questionnée par les membres. Les sorties au-delà de 240h sont à considérer avec précaution.</p></div>
+        <div class="card"><h3>Calendrier</h3><p>La date exacte de la fin du blocage anticyclonique est incertaine : certains modèles évoquent une dégradation dès le 28 septembre, d'autres la repoussent après le 4 octobre. La chronologie des précipitations méditerranéennes est également floue, avec des scénarios allant du 30 septembre au 4 octobre.</p></div>
+        <div class="card"><h3>Localisation</h3><p>La localisation des précipitations en semaine 2 est très incertaine : le sud-est est favorisé par la plupart des modèles, mais l'ampleur géographique de la dégradation reste à préciser (simple Languedoc ou quart sud-est entier ?). L'impact de la dépression atlantique sur le nord de la France est également très variable selon les modèles.</p></div>
+        <div class="card"><h3>Intensité</h3><p>L'intensité des orages et des pluies méditerranéennes est très loin d'être déterminée. Les cumuls varient de quelques millimètres à plus de 50 mm selon les scénarios. Les températures en semaine 2 sont également soumises à une forte incertitude, notamment sur l'est de la France où une fraîcheur relative pourrait succéder à la chaleur.</p></div>
+        <div class="card"><h3>Données manquantes</h3><p>Les discussions ne fournissent pas de détails précis sur les vents attendus en semaine 1 et 2, en dehors des bulletins départements. La nébulosité, les phénomènes de brume ou de brouillard, ainsi que l'évolution du risque incendie en fonction des conditions météorologiques précises (humidité, vent) ne sont que partiellement abordés.</p></div>
+        <div class="card"><h3>Modèles peu documentés</h3><p>Les modèles UKMO et ICON sont peu documentés, avec seulement une mention dans une analyse comparative pour la semaine 2. GEM n'est commenté qu'une fois, à propos des signaux méditerranéens. ARPEGE n'a pas été mentionné dans les discussions analysées.</p></div>
+        <div class="card"><h3>Images incertaines</h3><p>Les cartes et diagrammes partagés sur le forum sont peu nombreux dans les extraits analysés. Les membres se réfèrent à des graphiques d'ensembles (GEFS, CEP) et à des cartes de précipitations, mais leur lecture est soumise à interprétation. Les animations de trajectoires de dépressions évoquées sont également sources d'incertitude.</p></div>
       </div>
     </div>
   </div>
@@ -1129,31 +1030,40 @@ Certaines images postées (cumuls, diagrammes) sont issues de sites automatiques
 <div class="sparkline-row"><span>23/09 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>23/09 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>23/09 :</span> <span>███████░░░ Modérée</span></div>
-<div class="sparkline-row"><span>23/09 :</span> <span>███████░░░ Modérée</span></div></div>
+<div class="sparkline-row"><span>24/09 :</span> <span>███████░░░ Modérée</span></div></div>
     </div>
     <div class="card">
       <h3>🌡️ Évolution des températures</h3>
       <div class="sparkline">
-            <div class="sparkline-row"><span>Précédent run :</span> <span>Chaleur marquée, sécheresse, puis possible dégradation orageuse en Méditerranée en début octobre. (110 caractères)</span></div>
-            <div class="sparkline-row"><span>Run actuel :</span> <span>Temps très sec et chaud, possible inflexion en fin de semaine. (65 caractères)</span></div>
-            <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">⬆ Renforcement</span></span></div>
+            <div class="sparkline-row"><span>Précédent run :</span> <span>Temps très sec et chaud, possible inflexion en fin de semaine. (65 caractères)</span></div>
+            <div class="sparkline-row"><span>Run actuel :</span> <span>Chaleur importante (30-35°C sur l'ouest et le sud), aucune pluie, sécheresse renforcée.</span></div>
+            <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">➡️ Évolution</span></span></div>
             </div>
     </div>
   </div>
 
   <div class="grid grid-2" style="margin-top:14px;">
-    <div class="card"><h3>Évolution générale</h3><p>Blocage anticyclonique très solide jusqu'au 27 septembre, puis possible inflexion fragile en semaine 2 : réveil atlantique, signaux pluvieux sur le sud-est, mais sans garantie de fin de la sécheresse.</p></div>
-    <div class="card"><h3>Semaine la plus fiable</h3><p>Semaine 1, du 23 au 27 septembre, avec une confiance plus élevée sur le maintien du temps chaud et sec.</p></div>
-    <div class="card"><h3>Phénomènes récurrents</h3><p>Chaleur diurne très supérieure aux normales, sécheresse des sols, orages localisés possibles sur les reliefs, signaux d'épisode méditerranéen en toute fin de période.</p></div>
-    <div class="card"><h3>Incertitude majeure</h3><p>- La trajectoire et l'impact du talweg atlantique en semaine 2.
-- La possibilité d'un épisode méditerranéen.
-- La durée réelle du blocage après le 4 octobre.</p></div>
+    <div class="card"><h3>Évolution générale</h3><p>Un blocage anticyclonique exceptionnellement solide maintient un temps sec, ensoleillé et très chaud pour la saison jusqu'au 27 septembre. Ensuite, un possible fléchissement s'amorce avec des signaux de dégradation orageuse, notamment sur le sud-est. Le retour de précipitations significatives reste toutefois incertain, la sécheresse pourrait se prolonger malgré quelques épisodes pluvieux localisés.</p></div>
+    <div class="card"><h3>Semaine la plus fiable</h3><p>La semaine 1 (24-27 septembre) est la plus fiable, avec un scénario anticyclonique bien établi et des températures au-dessus des normales. La semaine 2 (28 septembre-4 octobre) présente une fiabilité moindre, les modèles divergeant fortement sur l'évolution du blocage.</p></div>
+    <div class="card"><h3>Phénomènes récurrents</h3><p>Blocage anticyclonique, chaleur excessive pour la saison, sécheresse des sols, orages possibles sur le relief, risque de feux de forêt.</p></div>
+    <div class="card"><h3>Incertitude majeure</h3><p>L'évolution exacte du blocage anticyclonique (maintien ou effondrement), la localisation des précipitations (sud-est ou atlantique), et l'intensité des orages méditerranéens restent les principales incertitudes pour la période allant du 28 septembre au 4 octobre.</p></div>
   </div>
 
   <div style="margin-top:16px;">
     <h3>📱 Post LinkedIn</h3>
     <div class="linkedin-box">
-      <div id="linkedin" class="linkedin">Après des semaines de blocage anticyclonique, la France reste sous l'emprise d'une chaleur remarquable pour la saison, avec une sécheresse de surface qui s'accentue. 📊 Les modèles entrevoient enfin une possible inflexion en début octobre : réveil atlantique, signaux pluvieux sur les Cévennes, voire épisode méditerranéen. Rien n'est encore joué, mais la tendance lourde pourrait enfin vaciller. Prudence et conditionnel restent de mise. 🌍🔍 #Météo #Climat #Prévisions #Sécheresse #Automne</div>
+      <div id="linkedin" class="linkedin">🧭 FRANCE : UNE FIN DE SEPTEMBRE ENTRE CHALEUR EXCEPTIONNELLE ET SIGNAUX D'INFLEXION
+
+Le blocage anticyclonique qui verrouille le temps sur l'Europe de l'Ouest depuis plusieurs semaines ne montre aucun signe d'essoufflement pour cette première partie de la semaine. Résultat : un soleil généreux, des températures très au-dessus des normales, avec des pointes à 35°C attendues en Gironde, mais aussi une sécheresse de surface qui s'aggrave.
+
+🔎 Les points clés :
+• Jusqu'à ce week-end : temps sec, chaud, minéral. Les maximales dépassent largement les moyennes de saison.
+• Dimanche : possible dégradation orageuse par l'Atlantique sur l'ouest.
+• Semaine prochaine : les modèles évoquent un réveil de l'Atlantique et un risque d'épisode méditerranéen sur le sud-est, mais l'incertitude reste très forte.
+
+⚠️ Le verrouillage devrait progressivement se desserrer, mais les pluies risquent de rester bien insuffisantes pour mettre un terme à la sécheresse. Il faudra probablement attendre la mi-octobre pour un changement de régime plus franc.
+
+#Météo #Prévisions #Climat #Sécheresse #Automne2026 #CaniculeSeptembre #Infoclimat</div>
     </div>
   </div>
 </section>
