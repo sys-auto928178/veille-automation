@@ -310,12 +310,12 @@ passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Prévisions Automne-hiver dans les massifs de l'est
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : la température de votre habitat aux 4 saisons
+• Infoclimat Direct : Glaciers alpins
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Vos meilleurs photos de phénomènes lumineux
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 24/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -323,9 +323,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 24 Septembre 2026.
-Résumé général précédent : Sur 15 jours : blocage anticyclonique atténué, chaleur encore marquée en début de période, puis tentative de dégradation pluvieuse très incertaine. Le risque méditerranéen est à surveiller après le 27/28..
+Résumé général précédent : Sur 15 jours, blocage anticyclonique qui s'atténue progressivement. La première semaine reste très chaude et sèche, la seconde semaine voit un retour de l'instabilité, notamment sur le sud-est, sans certitude sur un déblocage durable. Les températures devraient rester au-dessus des normales..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sécheresse de surface, fortes chaleurs au sud-ouest, fraîcheurs matinales possibles à l’est..
+Températures attendues précédemment : Temps sec, chaleur marquée, aucune précipitation significative jusqu'à dimanche..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -752,7 +752,7 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 14 heures par Krholam
+	Modifié il y a 16 heures par Krholam
 								2
 
 =======================
@@ -770,7 +770,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 2 heures par waingro
+	Modifié il y a 4 heures par waingro
 
 =======================
 
@@ -778,6 +778,8 @@ Auteur: Plancher
 Message:
 Je suis peu enthousiaste ce soir. Je trouve que ça n'évolue pas dans le bon sens. GFS nous sort un run avec un flux de Sud de plus en plus atténué et de moins en moins humide.
 	Quant au topic suivant, il nous propose encore de la chaleur...  C'est HS, mais faudra-t-il attendre novembre pour avoir des températures de saison ?
+								2
+								1
 								1
 
 =======================
@@ -794,4 +796,6 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 26 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
+								1
