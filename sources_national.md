@@ -335,11 +335,11 @@ passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi ensoleillement 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -348,9 +348,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 24 Septembre 2026.
-Résumé général précédent : Sur les 15 prochains jours, la tendance est à une lente érosion du blocage anticyclonique, avec une possible transition vers un temps plus humide et plus frais, mais avec de fortes incertitudes sur le timing et l'intensité..
+Résumé général précédent : Sur 15 jours, la tendance est à une lente érosion du blocage anticyclonique, avec une possible transition vers un temps plus humide et plus frais, mais les incertitudes restent fortes..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur persistante, aucun risque de pluie avant le week-end..
+Températures attendues précédemment : Temps sec et chaud ; aucun phénomène dangereux attendu jusqu'à dimanche..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -384,7 +384,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié vendredi à 13:38 par Sky blue
+	Modifié 18 septembre par Sky blue
 								1
 								1
 
@@ -814,4 +814,4 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 6 heures par Krholam
+	Modifié il y a 8 heures par Krholam

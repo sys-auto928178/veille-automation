@@ -327,12 +327,12 @@ passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Mesure de la hauteur de neige
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : La météo &#xE0; La Réunion
-• Infoclimat Direct : Rencontre Sud-Ouest - Automne 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi ensoleillement 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 24/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,9 +340,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 24 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours, blocage anticyclonique dominant, temps sec et anormalement chaud, entrecoupé de passages pluvieux limités lundi 28 et autour du 30/09-01/10. Pas de retour durable des pluies..
+Résumé général HDF précédent : Sur 15 jours, blocage anticyclonique dominant avec temps sec et anormalement chaud, entrecoupé de passages pluvieux limités lundi 28 et autour du 30 septembre-1er octobre. Pas de retour durable des pluies..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Aucune précipitation, ciel clair à voilé, maximales 20-28°C, minimales 7-15°C..
+Températures attendues précédemment : Soleil dominant, aucun cumul de pluie notable sur les Hauts-de-France, températures maximales de 19 à 28°C..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -376,7 +376,7 @@ Nous ne voyons pas encore la sortie de crise. Sec et incroyablement chaud comme 
 Auteur: Sky blue
 Message:
 C'est encore trop loin certes, mais une fenêtre ou lucarne pluvieuse semble s'amorcer pour finir septembre. A confirmer bien évidemment. Peut être le prochain topic.???
-	Modifié vendredi à 13:38 par Sky blue
+	Modifié 18 septembre par Sky blue
 								1
 								1
 
@@ -806,4 +806,4 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 6 heures par Krholam
+	Modifié il y a 8 heures par Krholam
