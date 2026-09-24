@@ -323,10 +323,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Mercredi 23 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique très solide jusqu'au 27 septembre, puis possible inflexion fragile en semaine 2 : réveil atlantique, signaux pluvieux sur le sud-est, mais sans garantie de fin de la sécheresse..
+Dernier bulletin généré le Jeudi 24 Septembre 2026.
+Résumé général précédent : Un blocage anticyclonique exceptionnellement solide maintient un temps sec, ensoleillé et très chaud pour la saison jusqu'au 27 septembre. Ensuite, un possible fléchissement s'amorce avec des signaux de dégradation orageuse, notamment sur le sud-est. Le retour de précipitations significatives reste toutefois incertain, la sécheresse pourrait se prolonger malgré quelques épisodes pluvieux localisés..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps très sec et chaud, possible inflexion en fin de semaine. (65 caractères).
+Températures attendues précédemment : Chaleur importante (30-35°C sur l'ouest et le sud), aucune pluie, sécheresse renforcée..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -680,7 +680,7 @@ Il y a 15 heures, giec 2100 a dit :
 			les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
 	Anomalie froide sur le centre du bassin arctique pour les 10 prochains jours
 	Le déterministe de ce matin est plutôt chaud et sec par rapport a son ensemble donc effectivement à remettre dans son contexte. Les signaux humides sont encore bien présents à partir de lundi par la sud ouest.
-	Modifié il y a 16 heures par Hassan
+	Modifié il y a 18 heures par Hassan
 								1
 
 =======================
@@ -727,8 +727,9 @@ Auteur: Nico 14
 Message:
 Ce ne sont pas franchement les flux méridiens qui sont à souhaiter pour la suite si l'on attend des précipitations généreuses, à moins qu'un talweg ne vise dans le mille, et pourtant c'est bien ce qui est modélisé à LT avec le retour d'un BL+. C’est plutôt une NAO+ assez basse en latitude, mais on n'en voit pas franchement la tournure. Les diagrammes reflètent surtout des dégradations instables, donc rien de généralisé en termes de précipitations. Advections chaudes à très chaudes et humides en début de semaine sur un axe SO-&gt;NE avec donc un potentiel orageux qui se dégage, mais l'évolution du talweg vers l'est ne me semble pas assez franche pour bousculer les HG. Ensuite, probable baisse des températures, mais ça me semble toujours aussi sec ou peu humide, au choix, avec le retour d'un BL+.
 	L'ouverture océanique ne me semble pas au programme sur ce topic.
-	Modifié il y a 14 heures par Nico 14
+	Modifié il y a 16 heures par Nico 14
 								6
+								1
 								4
 
 =======================
@@ -754,7 +755,7 @@ Bonjour,
 	Les modélisations se précisent depuis, la possibilité que nous soyons (comme souvent) au carrefour de plusieurs influences prend du poids ce qui aurait au moins l'intérêt de donner une saveur aux prévisions. C'est quand même plus intéressant que de commenter un jet passant au nord de l'Ecosse ou un amas de hauts géopotentiels enracinés en Europe occidentale.
 	Enfin, c'est quand même, en automne, la conjonction de la circulation de talweg sur le tout proche Atlantique et l'installation d'un blocage sur les terres nordiques qui peut devenir le ferment d'une agitation sur le secteur méditerranéen.
 	A ce titre, les ensembles ne sont pas fermés après le milieu de semaine, plusieurs hypothèses peuvent se dégager dans les mises à jours prochaines.
-	Modifié il y a 12 heures par tao
+	Modifié il y a 14 heures par tao
 								5
 								2
 
@@ -766,7 +767,7 @@ On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commenc
 	Ensemble CEP  pour Nîmes:
 	Ensemble GEM pour Nîmes :
 	Pour le moment ce ne sont que des signaux à surveiller rien de plus je le précise. 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 								1
 								1
 
