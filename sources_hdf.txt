@@ -304,7 +304,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 240415 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 24 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 24 septembre 2026 à 00H00 UTC, et évolution Dépression entre îles britanniques et Islande, se décalant vers le nord. Anticyclone 1027 hPa sur l'Angleterre, se décalant vers l'Allemagne, puis dorsale atlantique. 3 - Prévisions pour la journée du jeudi 24 septembre VENT : secteur Est 2 à 4, temporairement Variable 1 à 3 à la mi-journée, fraîchissant 3 à 4 en fin de journée. MER : belle à peu agitée. HOULE : non significative en Manche, Nord 0.5 à 1 m en mer du nord. TEMPS : ciel voilé. Quelques bancs de brume en début de journée vers la baie de Somme. VISIBILITE : bonne, parfois moyenne à mauvaise par brume. 4 - Prévisions pour la nuit du jeudi 24 septembre au vendredi 25 septembre VENT : Est 3 à 4, parfois 5, virant Sud-Est en milieu de nuit, puis virant Sud à Sud-Est en fin de nuit. MER : belle à peu agitée. HOULE : non significative en Manche, Nord 0.5 à 1 m en mer du nord . TEMPS : voilé. VISIBILITE : bonne. 5 - Prévisions pour la journée du vendredi 25 septembre VENT : Sud 3 à 4, virant Ouest à Sud-Ouest l'après-midi, puis devenant Variable 1 à 3 en fin de journée. MER : belle à peu agitée. HOULE : non significative, localement Nord 0.5 à 1 m en mer du nord jusqu'en mi-journée. TEMPS : ensoleillé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 25 au 26 et la journée du samedi 26 septembre VENT : Est à Sud-Est 2 à 4, fraîchissant 6 en milieu de nuit en revenant Nord. MER : belle, devenant peu agitée à agitée en milieu d'après-midi. HOULE dominante d'Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Dimanche 27 septembre secteur Sud-Ouest faible à modéré. Indice de confiance : 4 sur 5 Lundi 28 septembre secteur Sud faible. Indice de confiance : 2 sur 5 Mardi 29 septembre secteur Sud modéré. Indice de confiance : 2 sur 5 Mercredi 30 septembre secteur Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le jeudi 24 septembre 2026 à 03H00 UTC Dunkerque : vent Nord 8 noeuds, 1025 hPa stationnaire. Cap Gris Nez : vent Nord-Est 14 noeuds. Boulogne : vent Est-Nord-Est 6 noeuds, 1025 hPa stationnaire. Bouée Sandettie : vent Nord-Nord-Est 12 noeuds, creux 0,5 mètre, 1026 hPa en baisse, visibilité 10 milles. Prochain bulletin le jeudi 24 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 240950 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 24 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 24 septembre 2026 à 06H00 UTC, et évolution Dépression 961 hPa au sud de l'Islande, se décalant vers le nord en se comblant, prévue 972 hPa au nord-est de l'Islande vendredi matin. Anticyclone 1027 hPa sur l'Angleterre, se décalant lentement vers l'est, puis dorsale atlantique vendredi matin. 3 - Prévisions pour l'après-midi du jeudi 24 septembre VENT : Variable 1 à 3, fraîchissant secteur Est 3 à 4 à la fin. MER : belle à peu agitée. HOULE : Nord 0.5 à 1 m en Mer du Nord, non significative en Manche. TEMPS : voilé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du jeudi 24 septembre au vendredi 25 septembre VENT : secteur Est 3 à 4, parfois 5, virant progressivement Sud. MER : belle à peu agitée. HOULE : Nord 0.5 à 1 m en Mer du Nord, s'amortissant à la fin. TEMPS : voilé, s'éclaircissant en seconde partie de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du vendredi 25 septembre VENT : secteur Sud 3 à 4, mollissant Variable 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 25 au 26 et la journée du samedi 26 septembre VENT : Variable 1 à 3, fraîchissant Nord à Nord-Est 3 à 4 le soir, parfois 5. MER : belle à peu agitée. HOULE : non significative. TEMPS : devenant nuageux, parfois bruine. VISIBILITE : bonne, parfois mauvaise sous bruine. 7 - Prévisions pour la nuit du 26 au 27 et la journée du dimanche 27 septembre VENT : Secteur Est 3 à 4, virant Sud à Sud-Est en cours de matinée. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Lundi 28 septembre Est faible à modéré sur la partie ouest du domaine, Sud-Ouest faible à modéré ailleurs. Indice de confiance : 3 sur 5 Mardi 29 septembre Secteur Sud modéré à assez fort. Indice de confiance : 2 sur 5 Mercredi 30 septembre Sud faible à modéré. Indice de confiance : 2 sur 5 Jeudi 1 octobre Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le jeudi 24 septembre 2026 à 09H00 UTC Dunkerque : vent Sud 4 noeuds, 1026 hPa en hausse. Cap Gris Nez : vent Est-Sud-Est 4 noeuds. Boulogne : vent Est 4 noeuds, 1026 hPa en hausse, très nuageux à couvert, visibilité 13 milles. Prochain bulletin le jeudi 24 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -329,12 +329,11 @@ est néanmoins faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Prévisions Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 24/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -342,9 +341,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 24 Septembre 2026.
-Résumé général HDF précédent : Sur l'ensemble des 15 jours, temps sec, chaud et anticyclonique, avec une faible dégradation transitoire en début de semaine 2 et une tendance à la baisse des températures en fin de période..
+Résumé général HDF précédent : Sur 15 jours (24/09-04/10), blocage anticyclonique persistant, temps sec et anormalement chaud jusqu'au 27/09; dégradation transitoire lundi 28; regain de chaleur mardi-mercredi; baisse thermique et amélioration relative en fin de période. Sécheresse de surface accentuée..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, ensoleillé, très doux ; aucune pluie sur les HDF..
+Températures attendues précédemment : Large ensoleillement, maximales 20-28°C, minimales 7-15°C, vent faible à modéré..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -727,7 +726,7 @@ Auteur: Nico 14
 Message:
 Ce ne sont pas franchement les flux méridiens qui sont à souhaiter pour la suite si l'on attend des précipitations généreuses, à moins qu'un talweg ne vise dans le mille, et pourtant c'est bien ce qui est modélisé à LT avec le retour d'un BL+. C’est plutôt une NAO+ assez basse en latitude, mais on n'en voit pas franchement la tournure. Les diagrammes reflètent surtout des dégradations instables, donc rien de généralisé en termes de précipitations. Advections chaudes à très chaudes et humides en début de semaine sur un axe SO-&gt;NE avec donc un potentiel orageux qui se dégage, mais l'évolution du talweg vers l'est ne me semble pas assez franche pour bousculer les HG. Ensuite, probable baisse des températures, mais ça me semble toujours aussi sec ou peu humide, au choix, avec le retour d'un BL+.
 	L'ouverture océanique ne me semble pas au programme sur ce topic.
-	Modifié il y a 22 heures par Nico 14
+	Modifié hier à 09:10 par Nico 14
 								6
 								1
 								4
@@ -755,7 +754,7 @@ Bonjour,
 	Les modélisations se précisent depuis, la possibilité que nous soyons (comme souvent) au carrefour de plusieurs influences prend du poids ce qui aurait au moins l'intérêt de donner une saveur aux prévisions. C'est quand même plus intéressant que de commenter un jet passant au nord de l'Ecosse ou un amas de hauts géopotentiels enracinés en Europe occidentale.
 	Enfin, c'est quand même, en automne, la conjonction de la circulation de talweg sur le tout proche Atlantique et l'installation d'un blocage sur les terres nordiques qui peut devenir le ferment d'une agitation sur le secteur méditerranéen.
 	A ce titre, les ensembles ne sont pas fermés après le milieu de semaine, plusieurs hypothèses peuvent se dégager dans les mises à jours prochaines.
-	Modifié il y a 20 heures par tao
+	Modifié il y a 22 heures par tao
 								5
 								2
 
@@ -767,7 +766,7 @@ On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commenc
 	Ensemble CEP  pour Nîmes:
 	Ensemble GEM pour Nîmes :
 	Pour le moment ce ne sont que des signaux à surveiller rien de plus je le précise. 
-	Modifié il y a 21 heures par petit âge glaciaire 11
+	Modifié il y a 23 heures par petit âge glaciaire 11
 								1
 								1
 
@@ -808,4 +807,4 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 2 heures par Krholam
+	Modifié il y a 4 heures par Krholam

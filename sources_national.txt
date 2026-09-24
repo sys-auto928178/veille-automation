@@ -311,7 +311,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 240420 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 24 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 24 septembre 2026 à 00H00 UTC, et évolution Conditions anticycloniques proche de 1021 à 1023 hPa sur le bassin, évoluant peu. Dépression relative se creusant 1016 hPa au large de la Côte d'Azur ce soir, se décalant sud et prévue 1015 hPa au large de la Corse occidentale vendredi après-midi. 3 - Prévisions pour la journée du jeudi 24 septembre VENT : - à l'ouest de Sicié : Ouest à Nord-Ouest 3 à 4, revenant Ouest à Sud-Ouest l'après-midi, parfois 5 à l'est du Cap Croisette à la fin. - à l'est de Sicié : Ouest à Sud-Ouest 2 à 4, fraîchissant 4 à 5 l'après-midi, passagèrement 6 vers les îles d'Hyères. MER : belle, devenant belle à peu agitée l'après-midi, localement agitée à l'est de Porquerolles en fin de journée. HOULE : non significative. TEMPS : peu nuageux, devenant voilé l'après-midi. VISIBILITE : bonne. 4 - Prévisions pour la nuit du jeudi 24 septembre au vendredi 25 septembre VENT : - à l'ouest de Sicié : virant Ouest à Nord-Ouest 4 à 5, parfois 6 à l'est du Cap Croisette jusqu'en milieu de nuit puis Nord à Nord-Est 3 à 4 en fin de nuit, - à l'est de Sicié : Ouest à Sud-Ouest 5 à 6, mollissant secteur Nord-Est 4 à 5 en milieu de nuit, parfois 6 à la fin. MER : peu agitée à agitée, mais belle à peu agitée à l'ouest de Marseille. HOULE : s'établissant Ouest à Sud-Ouest 0.5 à 1 m à l'est du Cap Croisette en milieu de nuit. TEMPS : voilé, devenant peu nuageux en soirée. VISIBILITE : bonne. 5 - Prévisions pour la journée du vendredi 25 septembre VENT : - à l'ouest de Cap croisette : Nord à Nord-Est 2 à 4, s'orientant secteur Sud l'après-midi. - à l'est de Cap Croisette : Est à Nord-Est 4 à 5, parfois 6 jusqu'en fin de matinée. MER : belle à peu agitée, temporairement agitée au large de Sicié au Levant jusqu'en milieu d'après-midi. HOULE : devenant non significative en matinée, puis s'établissant Nord-Est 0.5 à 1 m à l'est de Sicié en fin de journée. TEMPS : peu nuageux à voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 25 au 26 et la journée du samedi 26 septembre VENT : De Port Camargue à Fos variable 1 à 3, s'orientant Sud à Sud-Est en fraîchissant rapidement 4 en milieu d'après-midi. De Fos à St Raphaël Est à Sud-Est 2 à 4 revenant Nord-Est 2 à 4. MER : belle à peu agitée. HOULE dominante d'Est à Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Dimanche 27 septembre secteur Sud-Est faible à modéré sur le golfe du Lion, secteur Nord-Est faible entre Corse et continent. Indice de confiance : 4 sur 5 Lundi 28 septembre secteur Sud-Est faible à modéré sur le golfe du Lion, secteur Nord-Est faible entre Corse et continent. Indice de confiance : 2 sur 5 Mardi 29 septembre secteur Sud-Est faible à modéré sur le golfe du Lion, secteur Nord-Est faible entre Corse et continent. Indice de confiance : 2 sur 5 Mercredi 30 septembre secteur Sud-Est faible à modéré sur le golfe du Lion, secteur Nord-Est faible entre Corse et continent. Indice de confiance : 2 sur 5 8 - Observations le jeudi 24 septembre 2026 à 03H00 UTC Cap Camarat : vent Nord-Nord-Ouest 4 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Nord-Nord-Est 2 noeuds, clair ou peu nuageux, visibilité 11 milles. Le Levant : vent Est-Nord-Est 2 noeuds, 1022 hPa en baisse. Porquerolles : vent Est 2 noeuds. Cap Couronne : vent Nord-Ouest 6 noeuds. Prochain bulletin le jeudi 24 septembre 2026, vers 13H00 légales
+FQCT40 LFML 240935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 24 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 24 septembre 2026 à 06H00 UTC, et évolution Conditions anticycloniques proche de 1021 à 1023 hPa sur le bassin, évoluant peu. Dépression relative se creusant 1016 hPa au large de la Côte d'Azur ce soir, se décalant sud et prévue 1015 hPa au large de la Corse occidentale vendredi après-midi. 3 - Prévisions pour l'après-midi du jeudi 24 septembre VENT : - à l'ouest du Cap Croisette : Ouest à Nord-Ouest 3 à 4. - à l'est du Cap Croisette : Ouest à Sud-Ouest fraîchissant 4 à 5, puis 5 à 6 à l'est de Sicié en fin d'après-midi. Rafales. MER : belle à peu agitée, devenant agitée à l'est de Porquerolles en fin de journée. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du jeudi 24 septembre au vendredi 25 septembre VENT : - à l'ouest de Sicié : Ouest à Nord-Ouest 4 à 5, parfois 6 à l'est du Cap Croisette jusqu'en milieu de nuit, puis virant Nord à Nord-Ouest en deuxième partie de nuit. Rafales. - à l'est de Sicié : Ouest à Sud-Ouest 5 à 6, virant Nord-Est en milieu de nuit. Rafales. MER : peu agitée à agitée, mais belle à peu agitée à l'ouest de Marseille. HOULE : s'établissant temporairement Ouest à Sud-Ouest 0.5 à 1 m à l'est du Cap Croisette en deuxième partie de nuit. TEMPS : ciel clair, devenant nuageux et brumeux à l'est de Giens en fin de nuit. VISIBILITE : bonne, localement moyenne à mauvaise en fin de nuit. 5 - Prévisions pour la journée du vendredi 25 septembre VENT : - à l'ouest de Cap croisette : secteur Nord 4 à 5, mollissant 2 à 4 le matin, puis virant secteur Sud l'après-midi. - à l'est de Cap Croisette : Est à Nord-Est 4 à 5, localement 6 à l'est de Sicié jusqu'en fin de matinée, mollissant 3 à 4 en fin de journée. MER : belle à peu agitée, localement peu agitée à agitée à l'est de Sicié jusqu'en milieu d'après-midi. HOULE : non significative, puis s'établissant Nord-Est 0.5 à 1 m à l'est de Sicié en fin de journée. TEMPS : ensoleillé, localement nuageux à l'est de Giens en matinée. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 25 au 26 et la journée du samedi 26 septembre VENT : secteur Est 1 à 3, virant Sud-Est l'après-midi. MER : belle à peu agitée. HOULE : secteur Est 0.5 à 1 m, s'amortissant en milieu de nuit. TEMPS : beau temps. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 26 au 27 et la journée du dimanche 27 septembre VENT : Variable 2 à 3. MER : belle. Pas de houle significative. 8 - Tendance pour les jours suivants Lundi 28 septembre Sud-Est modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mardi 29 septembre Sud-Est modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Mercredi 30 septembre Sud-Est modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Jeudi 1 octobre Sud-Est faible modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 9 - Observations le jeudi 24 septembre 2026 à 09H00 UTC Cap Camarat : vent Sud-Est 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Sud-Sud-Ouest 4 noeuds, clair ou peu nuageux, visibilité 11 milles. Le Levant : vent Sud-Ouest 6 noeuds, 1022 hPa en hausse. Porquerolles : vent Sud-Sud-Ouest 8 noeuds. Cap Couronne : vent Ouest 8 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le jeudi 24 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -336,12 +336,11 @@ est néanmoins faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi ensoleillement 2026
-• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Prévisions Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 24/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -351,7 +350,7 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 Dernier bulletin généré le Jeudi 24 Septembre 2026.
 Résumé général précédent : Blocage anticyclonique qui s'atténue progressivement, avec une amorce de déstabilisation surtout visible sur le sud-est en seconde semaine. Les températures restent supérieures aux normales, mais l'écart pourrait se réduire en fin de période..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps chaud et sec dominant, avec un risque orageux très incertain en fin de période. (100 caractères max).
+Températures attendues précédemment : Chaleur marquée au sud-ouest, absence quasi totale de précipitations. (77 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -734,7 +733,7 @@ Auteur: Nico 14
 Message:
 Ce ne sont pas franchement les flux méridiens qui sont à souhaiter pour la suite si l'on attend des précipitations généreuses, à moins qu'un talweg ne vise dans le mille, et pourtant c'est bien ce qui est modélisé à LT avec le retour d'un BL+. C’est plutôt une NAO+ assez basse en latitude, mais on n'en voit pas franchement la tournure. Les diagrammes reflètent surtout des dégradations instables, donc rien de généralisé en termes de précipitations. Advections chaudes à très chaudes et humides en début de semaine sur un axe SO-&gt;NE avec donc un potentiel orageux qui se dégage, mais l'évolution du talweg vers l'est ne me semble pas assez franche pour bousculer les HG. Ensuite, probable baisse des températures, mais ça me semble toujours aussi sec ou peu humide, au choix, avec le retour d'un BL+.
 	L'ouverture océanique ne me semble pas au programme sur ce topic.
-	Modifié il y a 22 heures par Nico 14
+	Modifié hier à 09:10 par Nico 14
 								6
 								1
 								4
@@ -762,7 +761,7 @@ Bonjour,
 	Les modélisations se précisent depuis, la possibilité que nous soyons (comme souvent) au carrefour de plusieurs influences prend du poids ce qui aurait au moins l'intérêt de donner une saveur aux prévisions. C'est quand même plus intéressant que de commenter un jet passant au nord de l'Ecosse ou un amas de hauts géopotentiels enracinés en Europe occidentale.
 	Enfin, c'est quand même, en automne, la conjonction de la circulation de talweg sur le tout proche Atlantique et l'installation d'un blocage sur les terres nordiques qui peut devenir le ferment d'une agitation sur le secteur méditerranéen.
 	A ce titre, les ensembles ne sont pas fermés après le milieu de semaine, plusieurs hypothèses peuvent se dégager dans les mises à jours prochaines.
-	Modifié il y a 20 heures par tao
+	Modifié il y a 22 heures par tao
 								5
 								2
 
@@ -774,7 +773,7 @@ On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commenc
 	Ensemble CEP  pour Nîmes:
 	Ensemble GEM pour Nîmes :
 	Pour le moment ce ne sont que des signaux à surveiller rien de plus je le précise. 
-	Modifié il y a 21 heures par petit âge glaciaire 11
+	Modifié il y a 23 heures par petit âge glaciaire 11
 								1
 								1
 
@@ -815,4 +814,4 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 2 heures par Krholam
+	Modifié il y a 4 heures par Krholam
