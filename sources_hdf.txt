@@ -302,12 +302,12 @@ passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Vos meilleurs photos de phénomènes lumineux
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 24/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -315,9 +315,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 24 Septembre 2026.
-Résumé général HDF précédent : Blocage anticyclonique tenace la première semaine, puis léger fléchissement avec dégradations orageuses localisées ; chaleur toujours au-dessus des normales..
+Résumé général HDF précédent : Blocage anticyclonique tenace et chaleur très marquée (25-31°C) jusqu'à mardi 29, puis dégradation pluvio-orageuse incertaine mercredi-jeudi et rafraîchissement en fin de semaine ; ITN proche du seuil de canicule (25.3°C) et risque de vague de chaleur à 70% entre J+6 et J+14. La sécheresse de surface reste préoccupante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Aucun phénomène dangereux ; brumes possibles ; chaleur marquée en journée..
+Températures attendues précédemment : Sec et ensoleillé, voile nuageux samedi-dimanche, minimales fraîches dans l'intérieur..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 24 au Dimanche 27 Septembre 2026) ===
@@ -421,7 +421,7 @@ Message:
 	donc plutôt scénario de chaleur sèche, en marais barométrique mal structuré (!) comme d'habitude?...
 	et le pilote dans cette affaire ne se trouverait-il pas plutôt du côté de l'Atlantique N tropical... ?
 	https://www.meteociel.fr/modeles/gfse_3d.php?gfs=1&amp;lat=21.1&amp;lon=-46.53&amp;ech=210&amp;zoom=5.28&amp;mode=0
-	Modifié vendredi à 18:45 par giec 2100
+	Modifié 18 septembre par giec 2100
 								1
 
 =======================
@@ -558,34 +558,6 @@ il y a 2 minutes, fran39 a dit :
 								8
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: tao
-Message:
-Bonsoir,
-	le coeur dépressionnaire attire l'œil voire focalise l'attention.
-	Il ne faudrait pas jeter aux orties la circulation générale et notamment le talweg qui y est associé.
-	C'est encore loin pour les déterministes mais au regard des ensembles du jour, on ne peut pas exclure son influence sur notre territoire.
-	L'enjeu de ce topic sera bien de mesurer celle-ci notamment dans la profondeur vers l'est et dans la durée.
-								5
-								1
-
-=======================
-
-Auteur: Nico 14
-Message:
-Pour l'humidité, je vois plus la progression de ce talweg suffisante pour nous influencer sous forme de salves pluvio-instables.Sa progression vers l'est me semble quand même assez ténue pour ouvrir la voie océanique. On pourrait repartir ensuite sur un régime BL+. En attendant,entre mardi et mercredi l'advection chaude et humide nous vaudrait des Tx qui s'étaleraient entre le seuil de chaleur à forte chaleur du SO au NE du pays,c'est en tout cas visible sur GFS,CEP et ICON ce soir. 
-	Modifié mardi à 18:58 par Nico 14
-								4
-
-=======================
-
-Auteur: giec 2100
-Message:
-souhaiterait-t-on avoir légèrement plus de chance que pile ou face pour recevoir plus de 10mm de précipitations avant la fin d'échéance du topic... ?
-	en tout cas pas avant le 1er octobre et je n'y mettrais pas un radis - du reste ils ne poussent plus... - pour le reste de la semaine pour une valeur à deux chiffres en millimètres...
-	https://images.meteociel.fr/im/31/18927/animnac1.gif
-
-=======================
-
 Auteur: Tornado75
 Message:
 Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
@@ -772,7 +744,7 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 12 heures par Krholam
+	Modifié il y a 14 heures par Krholam
 								2
 
 =======================
@@ -780,6 +752,38 @@ Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 Auteur: Pervanche7
 Message:
 L'image satellite du jour (avec le duo dépression/ tempête tropicale Fay) résume bien l'incertitude sur la suite niveau précipitation. Un gros ?
-								2
+								3
 								1
 								1
+
+=======================
+
+Auteur: waingro
+Message:
+Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
+	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
+	Modifié il y a 2 heures par waingro
+
+=======================
+
+Auteur: Plancher
+Message:
+Je suis peu enthousiaste ce soir. Je trouve que ça n'évolue pas dans le bon sens. GFS nous sort un run avec un flux de Sud de plus en plus atténué et de moins en moins humide.
+	Quant au topic suivant, il nous propose encore de la chaleur...  C'est HS, mais faudra-t-il attendre novembre pour avoir des températures de saison ?
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Pervanche7 oui c'est très beau... et ça promet...
+	mais tellement échaudé (!) depuis si longtemps que je fais comme le chat désormais, à l'affût des mirages qui me rongent...
+	et puis pour corroborer tout ça je fais ce qu'on m'a interdit de faire, c'est-à-dire le "run sur run", en rétrograde... et là on a toujours une prévision qui vient doucher ce qu'il ne faudrait pas : l'espoir...
+	alors on engueule l'Américain, qui nous laisse en panne sèche en fin d'échéance pour ce beau voyage... : https://images.meteociel.fr/im/16/5447/gfseuw_25_246tfu5.png
+	... ou alors on menace l'Européen d'être auteur de harcèlement psychologique, après avoir sauvagement rogné les zones significativement arrosées à deux jours de distance, en craignant fort la portion congrue dans 48h,  avec ça... : 
+	https://images.meteociel.fr/im/83/22103/ecmwffr_25_258smp6.png
+	https://images.meteociel.fr/im/99/5342/ecmwffr_25_312rsg8.png
+	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
+	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
+	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
+	Modifié il y a 26 minutes par giec 2100
