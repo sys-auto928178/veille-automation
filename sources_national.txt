@@ -322,10 +322,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Jeudi 24 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique qui s’atténue progressivement. Semaine 1 très chaude et sèche ; semaine 2 plus instable avec un retour probable des pluies, surtout sur le sud-est et l’ouest. Les températures devraient rester au-dessus des normales..
+Dernier bulletin généré le Vendredi 25 Septembre 2026.
+Résumé général précédent : Poursuite d'une période très douce à chaude, avec un affaiblissement progressif de l'anticyclone et un retour probable de pluies, surtout sur le sud-est et l'ouest, à partir de la fin de semaine 1. Aucun grand défilé océanique ne se dessine clairement..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, ensoleillé, très chaud ; aucun risque de pluie notable avant dimanche soir..
+Températures attendues précédemment : Pluies orageuses, chaleur humide, flux de sud-ouest, risque d'orages isolés..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -515,7 +515,7 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 18 heures par Krholam
+	Modifié il y a 20 heures par Krholam
 								2
 
 =======================
@@ -533,7 +533,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 6 heures par waingro
+	Modifié il y a 8 heures par waingro
 
 =======================
 
@@ -559,7 +559,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								2
 								1
 
@@ -750,7 +750,7 @@ Auteur: Krholam
 Message:
 Pas comme ça GFS pas comme ça. Hier tu nous mettais un beau signal.
 	Et maintenant ton 18Z est pas beau tu nous as tout attenué 
-	Modifié il y a 18 heures par Krholam
+	Modifié il y a 20 heures par Krholam
 								2
 
 =======================
@@ -768,7 +768,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 6 heures par waingro
+	Modifié il y a 8 heures par waingro
 
 =======================
 
@@ -794,6 +794,6 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								2
 								1
