@@ -302,11 +302,11 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Les Kitoutou ( chiens_nes ) des Icéens !
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -315,32 +315,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 25 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours : chaleur remarquable en fin septembre (26-29°C mardi/mercredi), nette baisse jeudi/vendredi (19-20°C), week-end mitigé; semaine 41 très incertaine entre regain de chaleur et réveil atlantique, avec des pluies encore peu fiables..
+Résumé général HDF précédent : Sur 15 jours : chaleur remarquable en fin septembre (26-29°C), nette baisse jeudi/vendredi (19-20°C), week-end mitigé ; semaine 41 très incertaine entre regain de chaleur et réveil atlantique..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Maximales 26-29°C mardi/mercredi, pluies jeudi/vendredi, retour à 19-20°C..
+Températures attendues précédemment : Fortes chaleurs mardi/mercredi (26-29°C), orages possibles jeudi sur l'ouest..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: bill43
-Message:
-Il y a 2 heures, Tornado75 a dit :
-			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
-			Gfs est rentré dans le rang malheureusement.
-	c'est du Lar ou du cochon ? 
-	Je ne comprend pas, GFS n'est pourtant pas si mauvais que ça au matin du 5 quand on fera le cumul de la période en question, on n'en espérait pas autant il y a peu
-								4
-
-=======================
-
-Auteur: Krholam
-Message:
-C'est pas grandiloquent mais ça a une meilleur tronche que ce qu'on a actuellement. Alors oui l'AR fait un peu de resistance ce qui nous donne peut être pas nécessairement de la pluie à la hauteur de notre espérance. Mais bon cette patate est tellement forte qu'elle est dur à déloger et je trouve personnellement que ce qui arrive commence à le mettre à mal.
-	Mais il faut bien commencer quelquepart
-								1
-								1
-
-=======================
-
 Auteur: Banleve7519
 Message:
 Il y a 3 heures, Tornado75 a dit :
@@ -489,7 +469,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 19:34 par giec 2100
 								3
 								1
 								1
@@ -512,7 +492,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 10 heures par nickdu77
+	Modifié il y a 12 heures par nickdu77
 
 =======================
 
@@ -522,7 +502,7 @@ La dépression atlantique qui va se former va naître d'un puissant talweg mais 
 	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
 	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
 	Je pense qu'il y a beaucoup d'incertitudes. 
-								3
+								4
 								1
 
 =======================
@@ -536,7 +516,7 @@ Oui, ce possible "plat" apparait sur l'ensembliste GEFS avec une absence de RR e
 	Pour finir, et pour notre semaine, je trouve qu'il y a un signal non négligeable d'épisode cévenol qui a l'air bien cerné par ECMWF
 	L'incertitude, à mon sens, viens sans doute de l'étendu de cette épisode, mais il y a un signal net je trouve.
 	(Et sinon sortez vos laines)
-								2
+								3
 
 =======================
 
@@ -548,30 +528,37 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
-								6
+								7
+								1
 								4
+
+=======================
+
+Auteur: tao
+Message:
+Bonsoir,
+	c'est bien ce fond de talweg, ce cul de bout de zone d'anomalie négative qui va dicter le ressenti, en terme d'humidité, dans la semaine concernée.
+	Je pense vraiment que se focaliser sur des cartes de cumuls à très long terme, qui sont remises en cause à chaque sortie, n'est pas bon pour la santé mentale et la stabilité psychique en ces temps de disette.
+	L'exemple type est le modèle canadien, pas le plus mauvais, qui en fonction de l'orientation du talweg, sa profondeur déterminant son alimentation humide propose en 12 heures d'intervalle des situations bien différentes sur notre territoire:
+	La différence n'est pas flagrante et pourtant:
+	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
+	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
+								3
+								2
+								1
+								1
+
+=======================
+
+Auteur: symaski62
+Message:
+salut     🤔🌧️   
+	20:00 30 septembre à 8:00 1 octobre
+	+30 mm / 6 heure  
+	---
+	50 et 72 mm   juste    8:00 1 octobre +138h
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: bill43
-Message:
-Il y a 2 heures, Tornado75 a dit :
-			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
-			Gfs est rentré dans le rang malheureusement.
-	c'est du Lar ou du cochon ? 
-	Je ne comprend pas, GFS n'est pourtant pas si mauvais que ça au matin du 5 quand on fera le cumul de la période en question, on n'en espérait pas autant il y a peu
-								4
-
-=======================
-
-Auteur: Krholam
-Message:
-C'est pas grandiloquent mais ça a une meilleur tronche que ce qu'on a actuellement. Alors oui l'AR fait un peu de resistance ce qui nous donne peut être pas nécessairement de la pluie à la hauteur de notre espérance. Mais bon cette patate est tellement forte qu'elle est dur à déloger et je trouve personnellement que ce qui arrive commence à le mettre à mal.
-	Mais il faut bien commencer quelquepart
-								1
-								1
-
-=======================
-
 Auteur: Banleve7519
 Message:
 Il y a 3 heures, Tornado75 a dit :
@@ -720,7 +707,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 19:34 par giec 2100
 								3
 								1
 								1
@@ -743,7 +730,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 10 heures par nickdu77
+	Modifié il y a 12 heures par nickdu77
 
 =======================
 
@@ -753,7 +740,7 @@ La dépression atlantique qui va se former va naître d'un puissant talweg mais 
 	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
 	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
 	Je pense qu'il y a beaucoup d'incertitudes. 
-								3
+								4
 								1
 
 =======================
@@ -767,7 +754,7 @@ Oui, ce possible "plat" apparait sur l'ensembliste GEFS avec une absence de RR e
 	Pour finir, et pour notre semaine, je trouve qu'il y a un signal non négligeable d'épisode cévenol qui a l'air bien cerné par ECMWF
 	L'incertitude, à mon sens, viens sans doute de l'étendu de cette épisode, mais il y a un signal net je trouve.
 	(Et sinon sortez vos laines)
-								2
+								3
 
 =======================
 
@@ -779,5 +766,32 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
-								6
+								7
+								1
 								4
+
+=======================
+
+Auteur: tao
+Message:
+Bonsoir,
+	c'est bien ce fond de talweg, ce cul de bout de zone d'anomalie négative qui va dicter le ressenti, en terme d'humidité, dans la semaine concernée.
+	Je pense vraiment que se focaliser sur des cartes de cumuls à très long terme, qui sont remises en cause à chaque sortie, n'est pas bon pour la santé mentale et la stabilité psychique en ces temps de disette.
+	L'exemple type est le modèle canadien, pas le plus mauvais, qui en fonction de l'orientation du talweg, sa profondeur déterminant son alimentation humide propose en 12 heures d'intervalle des situations bien différentes sur notre territoire:
+	La différence n'est pas flagrante et pourtant:
+	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
+	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
+								3
+								2
+								1
+								1
+
+=======================
+
+Auteur: symaski62
+Message:
+salut     🤔🌧️   
+	20:00 30 septembre à 8:00 1 octobre
+	+30 mm / 6 heure  
+	---
+	50 et 72 mm   juste    8:00 1 octobre +138h
