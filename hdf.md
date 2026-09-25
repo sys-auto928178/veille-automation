@@ -1,128 +1,124 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
-**Généré le :** Jeudi 24 Septembre 2026
-**Période :** Semaine 1 (Du jeudi 24 au dimanche 27 septembre 2026) & Semaine 2 (Du lundi 28 septembre au dimanche 4 octobre 2026)
+**Généré le :** Vendredi 25 Septembre 2026
+**Période :** Semaine 1 (Du lundi 28 septembre au dimanche 4 octobre 2026 (Semaine 40)) & Semaine 2 (Du lundi 5 au dimanche 11 octobre 2026 (Semaine 41))
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Consensus fort pour le temps sec et chaud jusqu'à mardi, mais désaccord sur la suite.*
-- **Fiabilité du scénario majoritaire :** Chaleur sèche puis dégradation incertaine — *L'anticyclone reste solide, la porte de sortie n'est pas franche.*
-- **Stabilité des cartes/scénarios :** 6 / 96 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Forte — *Les modèles divergent nettement pour la fin de semaine 2.*
+- **Consensus des modèles :** Modéré — *Accord sur la chaleur, désaccord sur l'ampleur de la dégradation.*
+- **Fiabilité du scénario majoritaire :** Chaud et sec, dégradation modérée — *Scénario le plus probable: pas de retour durable de la pluie.*
+- **Stabilité des cartes/scénarios :** 6 / 84 — *6 cartes analysées*
+- **Niveau d'incertitude global :** Forte — *Semaine 2 très incertaine, sujet forum non ouvert.*
 
-## 🗓️ SEMAINE 1 : Du jeudi 24 au dimanche 27 septembre 2026
+## 🗓️ SEMAINE 1 : Du lundi 28 septembre au dimanche 4 octobre 2026 (Semaine 40)
 ### 💡 Points clés de la semaine 1
-1. Chaleur exceptionnelle : Temps sec et très chaud, maximales 25-28°C, bien au-dessus des normales.
-2. Sécheresse préoccupante : Aucune pluie, sols très secs, évapotranspiration élevée.
-3. Voile nuageux : Ciel voilé samedi et dimanche, mais sans précipitations.
-4. Vent variable : Flux d'est puis nord-est, parfois modéré, surtout sur le littoral.
-5. Nuits fraîches : Minimales 7-13°C dans l'intérieur, plus douces en bord de mer.
+1. Chaleur tardive : Flux de sud à sud-est maintenant 27-31°C lundi-mardi, très au-dessus des normales.
+2. Dégradation mercredi-jeudi : Risque de pluies ou d'averses à partir de mercredi, surtout sur les trois quarts ouest.
+3. Sécheresse de surface : Pas d'arrosage généralisé durable; déficit hydrique et sols secs préoccupants sur toute la région.
+4. Vent de sud-ouest : Vent modéré de sud à sud-ouest, rafales possibles près des côtes, surtout mercredi-jeudi.
+5. Blocage anticyclonique : L'anticyclone russe résiste, limitant l'arrivée des perturbations atlantiques et la pluie.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-1. Temps sec et ensoleillé jusqu'à dimanche, aucune précipitation significative.
-2. Températures maximales très au-dessus des normales (25-28°C).
-3. Vent faible à modéré, orienté est puis nord-est.
+- Chaleur très au-dessus des normales lundi 28 et mardi 29, avec 27-31°C en intérieur.
+- Dégradation pluvio-orageuse probable mercredi 30/jeudi 1er, surtout sur les trois quarts ouest; pas de retour durable au temps frais.
+- Aucun scénario d'arrosage généralisé et durable; sécheresse de surface persistante.
 **Points de divergence :**
-1. L'ampleur de la chaleur dimanche : voile nuageux plus ou moins épais selon les modèles.
-2. L'arrivée de la dégradation : GFS la voit dès lundi, ECMWF la repousse à mardi.
-3. Les températures minimales : plus ou moins fraîches selon la couverture nuageuse nocturne.
+- Maintien ou non de l'anticyclone russe après jeudi: certains voient une baisse plus nette, d'autres un blocage qui se reconstitue.
+- Cumuls attendus: GFS/CEP oscillent entre scénario sec et scénario avec pluies orageuses modérées; incertitude sur l'ouest HDF.
+- Timing exact de la dégradation: lundi soir/mardi selon les runs, ou seulement mercredi.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS (Global Forecast System)** (Confirmé pour la semaine 1, incertitude pour la suite.) | Maintien d'un puissant anticyclone sur l'Europe du Nord, temps sec et très chaud jusqu'à dimanche, début de dégradation lundi. (110 caractères) | Soleil dominant, températures 25-28°C, aucun risque de pluie sur la période. (76 caractères) | Toute la région Hauts-de-France | Modérée (60-70%) : modèle cité avec tendance générale, pas de détails HDF spécifiques. | Anomalie de géopotentiels très forte, températures à 850 hPa de 15-18°C, expliquant la chaleur. |
-| **ECMWF (IFS/CEP)** (Confirmé.) | Même régime de blocage, températures très élevées, possible léger fléchissement en fin de semaine. (100 caractères) | Temps sec et ensoleillé, voile nuageux samedi/dimanche. (58 caractères) | Toute la région | Modérée (60-70%) : modèle évoqué, pas de spécificité HDF. | Maximales 25-28°C, nuits fraîches 7-10°C dans l'intérieur. |
-| **GEM (Global Environmental Multiscale)** (Non confirmé pour HDF.) | Approche de bas géopotentiels par l'est en toute fin de semaine, sans effet sur la région avant lundi. (105 caractères) | Temps sec et chaud, voile nuageux. (39 caractères) | Toute la région | Faible (40-50%) : brièvement cité, pas de détail HDF. | GEM suggère un possible fléchissement du blocage en début de semaine suivante. |
-| **AIFS (ECMWF AIFS)** (Incertain.) | Températures en baisse par rapport aux runs précédents, chaleur moins extrême sur l'est. (93 caractères) | Soleil et chaleur, mais moins accablant. (42 caractères) | Est de la région (Aisne) potentiellement moins chaud | Faible (40-50%) : cité pour les températures, pas de spécificité HDF. | AIFS a réduit l'ampleur de la masse d'air très chaud, mais reste dans le scénario sec. |
+| **ECMWF / CEP** (Commenté en fil, pas de consensus net sur la durée de la dégradation.) | Blocage anticyclonique persistant lundi-mardi, flux de sud très chaud; dégradation pluvio-orageuse possible mercredi-jeudi puis nette baisse des températures en fin de semaine. | Temps chaud et instable: averses orageuses mercredi-jeudi, puis soleil et fraîcheur relative vendredi-samedi. | Hauts-de-France: Nord, Pas-de-Calais, Somme, Oise, Aisne; dégradation plus marquée à l'ouest. | Modérée (60% à 70%) | L'ensemble CEP conserve des signaux humides par le sud-ouest à partir de lundi, tandis que le déterminisme CEP semble plus chaud et sec. Pour le Nord, les signaux pluvieux existent mais restent modestes et incertains. |
+| **GFS** (Évolution non linéaire; les runs successifs ont atténué puis rehaussé les cumuls, d'où une fiabilité limitée.) | Flux de sud à sud-est chaud lundi-mardi, passages pluvio-orageux faibles à modérés sur l'ouest, tendance à l'atténuation ensuite. | Chaleur lundi-mardi (27-31°C), averses orageuses possibles mardi/mercredi, nette baisse thermique en fin de semaine. | Ouest des Hauts-de-France (Somme, Oise, Pas-de-Calais) plus exposé aux passages pluvio-orageux. | Modérée (60% à 70%) | GFS a d'abord proposé un signal pluvieux plus marqué, avant de « rentrer dans le rang » selon certains membres. Le flux de sud devient moins humide, limitant les cumuls sur le Nord. Salves pluvio-orageuses probables, mais arrosage généralisé peu probable. |
+| **GEFS (ensemble GFS)** (Mentionné à travers les cumuls et les diagrammes, pas de détail départemental HDF.) | Cumuls faibles à modérés, plutôt 5-15 mm sur le Nord d'ici le 8-9 octobre; aucun scénario franchement humide. | Temps souvent sec, passages pluvio-orageux limités, chaleur atténuée en fin de semaine. | France principalement; Nord/HDF en marge des fortes pluies. | Faible (40% à 50%) | Les diagrammes GEFS montrent 20-25 mm cumulés au 8-9/10 pour certaines villes françaises, mais pour le Nord les signaux sont qualifiés de « compliqués » et « probablement rien de fou ». Un scénario sec reste majoritaire. |
+| **GEM (ensemble canadien)** (Mentionné une fois pour Nîmes, hors zone HDF.) | Non estimable pour les Hauts-de-France; pas de discussion spécifique sur la région. | Néant pour HDF. | Sud-Est de la France uniquement évoqué. | Non estimable | Aucune information exploitable pour les Hauts-de-France. À surveiller seulement. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Temps sec et très ensoleillé vendredi, ciel voilé samedi et dimanche. | Min 9-13°C, Max 20-27°C selon les jours. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Températures plus fraîches sur le littoral (Dunkerque 19-22°C). |
-| **Pas-de-Calais (62)** | Soleil dominant vendredi, ciel voilé samedi, lumineux dimanche. | Min 9-15°C, Max 19-28°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Littoral plus frais avec brises marines (22°C à Boulogne dimanche). |
-| **Somme (80)** | Ensoleillé vendredi, voile nuageux samedi/dimanche, toujours sec. | Min 8-15°C, Max 20-28°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brumes possibles en fin de nuit sur le Doullennais. |
-| **Oise (60)** | Temps ensoleillé et chaud vendredi, voile nuageux samedi, soleil voilé dimanche. | Min 8-14°C, Max 22-29°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brouillards matinaux possibles vendredi sur le pays de Bray. |
-| **Aisne (02)** | Soleil sans interruption vendredi, voile nuageux samedi, soleil voilé dimanche. | Min 7-14°C, Max 24-28°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Nuits fraîches, minimales 7°C sur la Champagne crayeuse. |
+| **Nord (59)** | Beau temps chaud lundi-mardi, risque d'averses mercredi-jeudi, puis éclaircies et températures en baisse. | Min 14-15°C, max 27-31°C en intérieur, 27°C en Flandre maritime (lun-mar); max 25-27°C mercredi-jeudi; baisse vendredi-samedi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité et position exactes des pluies mercredi-jeudi encore incertaines; Avesnois potentiellement plus arrosé. |
+| **Pas-de-Calais (62)** | Chaud et sec lundi-mardi, dégradation pluvieuse mercredi-jeudi, puis amélioration avec passages nuageux. | Min 14-16°C, max 27-30°C (lun-mar); min 14-16°C, max 24-26°C mercredi-jeudi; baisse vendredi-samedi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Côtes de la Manche souvent moins chaudes; la répartition des pluies mercredi-jeudi reste à affiner. |
+| **Somme (80)** | Ensoleillé et très chaud lundi-mardi, dégradation pluvieuse mercredi-jeudi, puis éclaircies et températures en baisse. | Min 14°C, max 28°C (lun-mar); min 15°C, max 24°C mercredi-jeudi; baisse vendredi-samedi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité des pluies sur l'ouest en fin de semaine; brumes nocturnes possibles. |
+| **Oise (60)** | Très chaud lundi-mardi, pluie lundi sur l'est du département, risque d'averses mercredi-jeudi, fin de semaine plus fraîche. | Min 14°C, max 27-29°C (lun-mar); min 14-16°C, max 24°C mercredi-jeudi; baisse vendredi-samedi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des pluies lundi (Valois, Vexin) et cumuls à confirmer. |
+| **Aisne (02)** | Beau temps chaud lundi-mardi, risque pluvieux mercredi soir-jeudi, puis alternance d'éclaircies et petites pluies en fin de semaine. | Min 14°C, max 28-30°C (lun-mar); min 15°C, max 24-27°C mercredi-jeudi; baisse vendredi-samedi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Thiérache et Vermandois plus exposés; le reste du département pourrait rester sec. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Nuit du 24 au 25 septembre** : Ciel dégagé, températures fraîches (8-11°C), vent faible.
-- **Vendredi 25 septembre** : Ensoleillement maximal, chaleur estivale (25-28°C), ciel limpide.
-- **Samedi 26 septembre** : Voile nuageux en cours de journée, maximales en baisse (19-24°C), vent de nord-est.
-- **Dimanche 27 septembre** : Soleil voilé, températures encore douces (22-28°C), vent de sud-ouest modéré.
+- **Lundi 28 et mardi 29 septembre** : Flux de sud à sud-est très chaud, ciel souvent ensoleillé, passages nuageux, risque d'averses localisées sur l'ouest.
+- **Mercredi 30 septembre et jeudi 1er octobre** : Dégradation pluvio-orageuse par l'ouest, nette baisse des températures, vent de sud-ouest modéré.
+- **Vendredi 2 et samedi 3 octobre** : Temps plus frais, alternance d'éclaircies et d'averses, surtout sur la moitié ouest; mieux en allant vers l'est.
+- **Dimanche 4 octobre** : Risque résiduel d'averses sur l'est, éclaircies ailleurs, températures de saison.
 
 **Points solides :**
-1. Aucune précipitation sur les 4 jours.
-2. Températures nettement au-dessus des normales.
-3. Vent faible à modéré.
+- Chaleur très au-dessus des normales lundi-mardi, avec 27-31°C dans l'intérieur.
+- Risque de pluies/averses mercredi 30/jeudi 1er, d'ouest en est, sans garantie de cumuls importants.
+- Baisse des températures vendredi et samedi, surtout après le passage du front.
 
 **Points fragiles :**
-1. Voile nuageux samedi-dimanche pourrait freiner la hausse des températures.
-2. Brumes matinales vendredi et samedi sur certains secteurs.
-3. Incertitude sur le début de la dégradation lundi.
+- Cumuls exacts des pluies de mercredi-jeudi: modèles divisés entre sec et légèrement arrosé.
+- Repli de l'anticyclone russe: certains scénarios le voient se reconstituer rapidement.
+- Position des passages pluvio-orageux lundi-mardi: tiers ouest ou moitié ouest? Incertain.
 
 **À surveiller (prochains runs) :**
-- Le run de GFS 00Z de samedi pour affiner l'arrivée des pluies de lundi.
-- Les sorties CEP à haute résolution pour la journée de lundi.
-- La trajectoire de la goutte froide pour la semaine suivante.
+- Évolution du CEP et de GFS 00Z/12Z lundi 28 et mardi 29 pour le timing de la dégradation.
+- Sorties ensemblistes GEFS/CEP sur les cumuls cumulés au 4 octobre.
+- Cartes de risque d'orages (Keraunos/Blitzortung) pour la journée de mardi.
 
 
-## 🗓️ SEMAINE 2 : Du lundi 28 septembre au dimanche 4 octobre 2026
+## 🗓️ SEMAINE 2 : Du lundi 5 au dimanche 11 octobre 2026 (Semaine 41)
 ### 💡 Points clés de la semaine 2
-1. Lundi instable : Risque de pluie ou averses en début de semaine, surtout sur l'ouest.
-2. Pic de chaleur mardi : Températures très élevées (29-31°C) avant la dégradation.
-3. Dégradation mercredi/jeudi : Passage pluvieux possible, mais incertain dans son intensité.
-4. Baisse des températures : En fin de semaine, retour à des valeurs plus proches des normales.
-5. Sécheresse persistante : Les pluies attendues pourraient être insuffisantes pour recharger les sols.
+1. Chaleur prolongée probable : Les projections long terme suggèrent un début de semaine 2 encore doux à chaud, sans certitude.
+2. Pluies toujours incertaines : Signaux humides modérés possibles vers le 8-9 octobre, mais aucun scénario d'arrosage généralisé.
+3. Anticyclone tenace : Le blocage pourrait se reformer, maintenant un temps sec et très doux.
+4. Sécheresse préoccupante : Les cumuls attendus restent faibles; le déficit hydrique devrait persister.
+5. À suivre de près : L'ouverture du sujet Semaine 41 sera nécessaire pour préciser ces tendances.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-1. Lundi avec risque de pluie ou averses sur la région.
-2. Mardi très chaud et sec, maximales 29-31°C.
-3. Dégradation possible mercredi/jeudi, avec une baisse des températures.
+- Températures probablement encore au-dessus des normales, au moins en début de semaine 2.
+- Pas de signal fiable pour un retour d'un flux océanique perturbé et durable.
+- Cumuls faibles à modérés sur les Hauts-de-France, sans scénario d'arrosage généralisé.
 **Points de divergence :**
-1. Importance de la dégradation : pluies notables vs averses éparses.
-2. Timing : mercredi ou jeudi pour le passage pluvieux.
-3. Après la dégradation, retour de l'anticyclone ou temps plus frais et humide.
+- Rythme de la dégradation: possible autour du 8-9 octobre, ou pas de dégradation du tout.
+- Reconstitution de l'anticyclone après le 10 octobre: très incertaine.
+- Températures: 25-28°C ou plus frais 20-23°C selon la position du talweg.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS** (Incertain.) | Temps très chaud lundi/mardi, puis dégradation orageuse mercredi, mais les runs varient. (92 caractères) | Soleil et chaleur mardi, averses possibles mercredi/jeudi. (53 caractères) | Toute la région | Modérée (60-70%) : modèle cité avec tendance générale. | GFS alterne entre scénarios secs et humides, la confiance est faible pour la fin de semaine. |
-| **ECMWF (IFS/CEP)** (Incertain.) | Mardi très chaud, dégradation plus marquée mercredi/jeudi, puis temps variable. (84 caractères) | Averses orageuses possibles, températures en baisse en fin de semaine. (67 caractères) | Toute la région | Modérée (60-70%) : évoqué, pas de détail HDF. | ECMWF voit une faiblesse de l'anticyclone, mais la localisation des pluies reste floue pour le nord. |
-| **GEM** (Non confirmé.) | Signaux de fortes pluies dans le sud-est, pour le nord incertitude, mais possibilité d'averses. (103 caractères) | Temps variable, averses possibles en milieu de semaine. (49 caractères) | Sud de la région (Oise, Aisne) potentiellement plus exposés | Faible (40-50%) : brièvement cité. | GEM suggère une dégradation plus active sur le sud-est, avec des répercussions possibles sur l'est de la région. |
-| **AIFS** (Incertain.) | Tendance chaude et sèche, mais signaux humides pour la fin de semaine. (73 caractères) | Soleil et chaleur, averses possibles en fin de période. (53 caractères) | Toute la région | Faible (40-50%) : cité, pas de détail HDF. | AIFS alterne entre des scénarios secs et des scénarios plus humides, sans consensus net. |
+| **ECMWF (projections long terme)** (Projection à long terme, non validée par les membres pour la semaine 41.) | Tendance à un temps encore chaud et sec en début de semaine 2, possible dégradation pluvio-orageuse vers le 8-9 octobre, puis reconstitution possible d'un anticyclone. | Temps souvent sec et doux, averses orageuses possibles à la mi-semaine, pas de froid durable. | Hauts-de-France, surtout moitié ouest; incertitude forte. | Faible (40% à 50%) - hors sujet dédié | Les discussions de la semaine 40 évoquent une persistance de la chaleur au-delà du 4 octobre, mais aussi un possible réveil atlantique. Pour le Nord, les signaux pluvieux sont qualifiés de modestes. Aucune précision fiable n'est disponible sur les températures et les cumuls. |
+| **GFS (projections long terme)** (Projection à long terme, sujette à de fortes variations run-to-run.) | Flux de sud atténué, temps sec et chaud la plupart du temps; passages pluvio-orageux possibles mais limités sur le Nord. | Chaleur moins marquée qu'en semaine 1, quelques averses orageuses, pas de dégradation durable. | Nord et ouest des Hauts-de-France en marge des pluies. | Faible (40% à 50%) - hors sujet dédié | GFS a un temps proposé un signal pluvieux plus marqué avant de revenir à un flux de sud plus sec. La tendance pour la semaine 2 est donc à des conditions souvent sèches, avec une incertitude forte sur le passage d'un talweg vers le 8-9 octobre. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Lundi risque d'averses, puis très chaud mardi, dégradation mercredi/jeudi, temps variable ensuite. | Min 14-16°C, Max 24-31°C selon les jours. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des averses incertaine, littoral plus frais. |
-| **Pas-de-Calais (62)** | Lundi pluvieux possible, mardi chaud, mercredi/jeudi dégradation, puis éclaircies. | Min 14-16°C, Max 24-30°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité des pluies variable selon les modèles. |
-| **Somme (80)** | Lundi risque de pluie sur l'ouest, mardi très chaud, mercredi/jeudi dégradation, puis amélioration. | Min 14-15°C, Max 24-28°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls de pluie incertains, surtout sur le littoral. |
-| **Oise (60)** | Lundi pluvieux sur l'est, mardi chaud, mercredi/jeudi dégradation, puis variable. | Min 14-16°C, Max 24-29°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque orageux plus marqué en fin de semaine. |
-| **Aisne (02)** | Beau temps lundi avec passages nuageux, mardi très chaud, dégradation mercredi/jeudi, puis amélioration. | Min 14-15°C, Max 24-30°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Incertitude sur le passage pluvieux, plus à l'est. |
+| **Nord (59)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Pas-de-Calais (62)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Somme (80)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Oise (60)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Aisne (02)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 28 septembre** : Risque de pluie ou averses, surtout sur l'ouest, températures douces.
-- **Mardi 29 septembre** : Soleil et chaleur marquée, maximales 29-31°C, vent de sud-est.
-- **Mercredi 30 septembre - Jeudi 1er octobre** : Dégradation pluvieuse, averses orageuses possibles, températures en baisse.
-- **Vendredi 2 - Dimanche 4 octobre** : Temps variable, éclaircies et averses, fraîchissement progressif.
+- **Lundi 5 et mardi 6 octobre** : Temps probablement encore sec et doux, chaleur moins forte qu'en semaine 1.
+- **Mercredi 7 au vendredi 9 octobre** : Possible dégradation pluvio-orageuse, mais les modèles divergent fortement sur son intensité.
+- **Samedi 10 et dimanche 11 octobre** : Retour probable d'un temps calme et anticyclonique, avec des températures près ou au-dessus des normales.
 
 **Points solides :**
-1. Mardi très chaud et sec sur toute la région.
-2. Passage pluvieux probable en milieu de semaine.
-3. Baisse des températures en fin de semaine.
+- Aucun scénario ne propose un refroidissement durable et marqué sur le Nord à cette échéance.
+- La sécheresse de surface demeure le paramètre le plus robuste.
+- Le sujet Semaine 41 devra être ouvert pour affiner la prévision.
 
 **Points fragiles :**
-1. Localisation précise des pluies (ouest vs est).
-2. Intensité des orages.
-3. Durée de la dégradation et retour d'un temps sec.
+- Tout le détail de la semaine 2 est fragile à cette échéance.
+- Les signaux humides du CEP/GFS peuvent s'estomper ou se renforcer d'ici là.
 
 **À surveiller (prochains runs) :**
-- Les sorties GFS et CEP de vendredi pour affiner le passage pluvieux.
-- L'évolution de la goutte froide sur l'Europe centrale.
-- Les indices d'instabilité pour d'éventuels orages.
+- Évolution des ensembles CEP/GFS sur les cumuls au 11 octobre.
+- Ouverture du sujet Infoclimat Semaine 41 par les membres.
+- ITN et risque de vague de chaleur ou d'orages de masse d'air chaud.
 
 
 ========================================
@@ -130,26 +126,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Blocage anticyclonique persistant avec chaleur exceptionnelle jusqu'au 29 septembre, puis tentative de dégradation en fin de semaine, mais sans retour durable à un temps frais et humide. Sécheresse de surface préoccupante sur toute la région.
+Temps plus chaud et plus sec que la normale, avec une dégradation pluvio-orageuse limitée en fin de semaine 1, puis forte incertitude en semaine 2; l'anticyclone russe limite le retour des perturbations atlantiques.
+
+### Période la plus fiable
+Semaine 1 (28/09-04/10), car les bulletins Météo-France départementaux et les modèles sont plus convergents jusqu'à jeudi.
 
 ### Phénomènes récurrents
-Anticyclone sur l'Europe du Nord, flux de sud à sud-est, advection d'air chaud, sécheresse des sols, risque d'orages en fin de semaine.
+Blocage anticyclonique, flux de sud/sud-est chaud, déficit pluviométrique, températures très au-dessus des normales.
 
 ### Principales incertitudes
-- Réalité et intensité de la dégradation pluvieuse de la semaine 2.
-- Localisation précise des averses (ouest ou est).
-- Durée de la séquence chaude et sèche.
+Cumuls réels des pluies de mercredi-jeudi; maintien ou effondrement de l'anticyclone en semaine 2; trajectoire exacte des perturbations.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur l'arrivée exacte des pluies : lundi ou mardi ? La fin de la dégradation est aussi incertaine.
-- **Localisation :** Les averses concerneront-elles le littoral ou l'intérieur ? Les cartes divergent sur la répartition géographique.
-- **Intensité :** Les pluies seront-elles significatives (10-20 mm) ou de simples averses (1-5 mm) ? L'intensité orageuse est inconnue.
-- **Informations manquantes :** Pas de détail sur les risques de coup de vent ou de fortes rafales en fin de semaine. La durée exacte de la sécheresse reste à préciser.
-- **Modèles sous-documentés :** ICON et ARPEGE sont peu ou pas commentés par les membres, leur fiabilité pour cette situation n'est pas évaluée.
-- **Incertitudes images :** Les cartes de précipitations des modèles sont très différentes d'un run à l'autre, ce qui rend les graphiques difficiles à interpréter.
+- **Timing/Chronologie :** Le moment précis de la dégradation mercredi-jeudi est incertain: elle pourrait arriver dès mardi soir ou seulement jeudi.
+- **Localisation :** La localisation exacte des pluies en HDF est floue: plutôt sur les 3/4 ouest (Somme, Oise, Pas-de-Calais) ou plus limitée au littoral?
+- **Intensité :** Cumuls très variables: les modèles oscillent entre 5 et 25 mm; le potentiel orageux dépendra de la chaleur résiduelle.
+- **Informations manquantes :** Pas de prévision détaillée pour la semaine 2 (5-11 octobre), pas de discussion spécifique sur le risque de coup de vent, ni sur l'évolution précise de la sécheresse.
+- **Modèles sous-documentés :** GEM et ICON peu ou pas commentés pour HDF; la version IA du CEP n'est évoquée que sur les températures arctiques.
+- **Incertitudes images :** Les cartes de cumuls GFS/CEP montrent des différences importantes selon les runs; les cartes ensemblistes sont plus stables mais manquent de précision locale.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌡️ #HautsDeFrance : jusqu'à 31°C prévus mardi ! Le blocage anticyclonique se prolonge, avec une sécheresse préoccupante. Une dégradation orageuse est possible en fin de semaine mais reste incertaine. Restons prudents ! #Météo #Chaleur #Sécheresse
+🌦️ Bulletin Hauts-de-France: chaleur exceptionnelle lundi-mardi (28-31°C), dégradation incertaine mercredi-jeudi, sécheresse toujours préoccupante. Semaine 2 très incertaine, sujet forum pas encore ouvert. Restons prudents! #Météo #HautsdeFrance #Prévisions

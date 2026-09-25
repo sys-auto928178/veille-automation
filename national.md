@@ -1,136 +1,131 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
-**Généré le :** Jeudi 24 Septembre 2026
-**Période :** Semaine 1 (Du jeudi 24 au dimanche 27 septembre 2026) & Semaine 2 (Du lundi 28 septembre au dimanche 4 octobre 2026)
+**Généré le :** Vendredi 25 Septembre 2026
+**Période :** Semaine 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) & Semaine 2 (Du Lundi 5 au Dimanche 11 Octobre 2026)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Semaine 1 consensuelle, semaine 2 partagée entre scénarios humide et sec.*
-- **Fiabilité du scénario majoritaire :** Chaud puis instable — *Scénario majoritaire : blocage d’abord, puis dégradation par le sud-ouest avec pluies méditerranéennes possibles.*
-- **Stabilité des cartes/scénarios :** 6 / 96 — *6 cartes sur 96 analysées*
-- **Niveau d'incertitude global :** Forte en semaine 2 — *Les runs varient fortement d’un jour à l’autre ; prudence sur l’ampleur des précipitations.*
+- **Consensus des modèles :** Modéré — *Accord sur la douceur et le retour de l'humidité, désaccord sur l'ampleur et la localisation.*
+- **Fiabilité du scénario majoritaire :** Blocage qui cède progressivement — *Les modèles privilégient des salves orageuses plutôt qu'une pluie généralisée et durable.*
+- **Stabilité des cartes/scénarios :** 6 / 84 — *6 cartes sur 84 analysées*
+- **Niveau d'incertitude global :** Incertitude forte — *Les runs varient fortement d'un jour à l'autre, surtout pour la semaine 2.*
 
-## 🗓️ SEMAINE 1 : Du jeudi 24 au dimanche 27 septembre 2026
+## 🗓️ SEMAINE 1 : Du Lundi 28 Septembre au Dimanche 4 Octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Blocage anticyclonique : Temps sec, ensoleillé et très chaud jusqu’à dimanche, aucune pluie attendue.
-2. Chaleur marquée : Maximales de 25 à 34 degrés, surtout dans le sud-ouest et en Gironde.
-3. Sécheresse renforcée : Sols très secs, évapotranspiration forte, risques d’incendie à ne pas négliger.
-4. Signaux lointains : Une dégradation pourrait survenir après le 27, mais reste très incertaine.
-5. Fraîcheurs relatives : Minimales à un chiffre possibles dans l’est, sans casser la chaleur.
+1. Blocage tenace : L'anticyclone des Açores résiste encore, limitant la pénétration des perturbations atlantiques.
+2. Retour humide possible : Des passages pluvio-orageux se dessineraient surtout sur l'ouest et le relief du sud-est.
+3. Chaleur persistante : Les températures resteraient très au-dessus des normales, avec des maximales souvent comprises entre 28 et 31°C.
+4. Modèles hésitants : GFS et CEP divergent sur l'ampleur et la localisation des pluies, avec des runs qui évoluent fortement.
+5. Méditerranée à surveiller : Des signaux de fortes pluies, voire d'épisode méditerranéen, émergent pour les Cévennes en fin de semaine.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Maintien d’un anticyclone solide jusqu’à dimanche.
-- Temps sec et chaud, en particulier sur l’ouest et le sud.
-- Aucune précipitation significative avant lundi.
+- Affaiblissement progressif de l'anticyclone en cours de semaine.
+- Retour de passages pluvio-orageux, surtout sur l'ouest et le relief du sud-est.
+- Températures très au-dessus des normales, au moins jusqu'à mercredi ou jeudi.
 **Points de divergence :**
-- Évolution après le 27 : goutte froide possible ou retour de la dorsale ?
-- Intensité de la chaleur dans l’est vendredi, avec des écarts entre runs et ensembles.
-- Scénario de medicane en Méditerranée, très lointain et non fiable.
+- Localisation et intensité réelles des pluies : Cévennes très arrosées ou simples salves.
+- Pénétration de l'humidité vers le nord et le nord-est : généralisée ou limitée à l'ouest.
+- Timing de la dégradation : lundi-mardi ou plus tardif, mercredi-jeudi.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS / GEFS** (Confirmé pour le blocage, à confirmer pour le signal humide) | Blocage anticyclonique, temps sec et chaud jusqu’au 27 ; possible amorce de dégradation en Méditerranée ensuite, à confirmer. | Sec, ensoleillé, très chaud ; aucun risque de pluie notable avant dimanche soir. | Toutes les zones ; chaleur maximale sur le sud-ouest et l’ouest ; fraîcheurs relatives possibles à l’est. | Élevée (85%) | GFS modélise un possible « medicane » au-delà de 240 h, sans fiabilité. Sur la semaine, il reste sec et anticyclonique, avec GEFS confirmant très peu de pluie sur le nord. |
-| **ECMWF / CEP / IFS / AIFS** (Confirmé pour la chaleur, à confirmer pour l’évolution de la goutte froide) | Poursuite de la chaleur sèche, avec un amincissement de la dorsale et des nuits potentiellement plus fraîches dans l’est. | Soleil dominant, chaleur surtout à l’ouest et au sud ; quelques fraîcheurs matinales à l’est. | Toutes les zones ; dégradé thermique possible entre le sud-ouest très chaud et l’est moins chaud. | Élevée (85%) | IFS/AIFS ont affiné les températures à 850 hPa : la poche de chaleur se limite progressivement à l’ouest. Les scénarios de goutte froide sur l’est sont présents mais deviennent minoritaires dans les ensembles. |
-| **ARPEGE** (Cohérent avec le consensus) | Anticyclone solide, chaleur marquée, aucune précipitation significative jusqu’à dimanche. | Sec, très chaud, ensoleillé ; aucun risque pluvieux notable. | Toutes les zones ; détails dans les bulletins départementaux. | Modérée (65%) | Citée comme confirmant la tendance à l’amincissement de la dorsale, tout en restant sur un temps sec et chaud. |
-| **ICON** (Peu documenté) | Tendance anticyclonique et sèche, sans signal pluvieux notable pour la semaine. | Sec et ensoleillé, chaleur de saison largement dépassée. | Toutes les zones, principalement moitié ouest. | Faible (45%) | Seulement cité comme confirmant la tendance à l’amincissement de la dorsale. |
-| **GEM** (Signal à surveiller) | Approche possible de bas géopotentiels par l’est en toute fin de période, sans conséquence immédiate. | Temps sec et chaud ; signal de changement synoptique à long terme. | Est et quart nord-est potentiellement concernés en fin d’échéance. | Modérée (65%) | Avec GFS et AIFS, GEM modélise l’approche de bas géopotentiels par l’est, mais les effets restent très incertains. |
+| **GFS** (documenté) | Scénario d'un affaiblissement de l'anticyclone avec passages pluvio-orageux sur l'ouest lundi-mardi, puis tendance à l'atténuation sur certains runs. | Pluies orageuses, chaleur humide, flux de sud-ouest, risque d'orages isolés. | Ouest, Sud-Ouest, Massif central, Cévennes ; nord plus incertain. | Élevée (85%) | Le run 18Z a atténué le signal humide, provoquant des réactions contrastées. D'autres runs montrent des cumuls de 20-25 mm au 8-9 octobre, notamment sur le relief cévenol. La fiabilité reste limitée à cette échéance. |
+| **ECMWF / CEP** (documenté) | Dépression atlantique proche de la France, signaux humides sur le sud-est et l'ouest ; le déterminisme apparaît toutefois plus chaud et plus sec que son ensemble. | Pluies orageuses, risque méditerranéen, chaleur maintenue en début de semaine. | Ouest, Sud-Ouest, Sud-Est, Cévennes, Île-de-France selon les diagrammes. | Élevée (85%) | L'ensemble CEP maintient des signaux pluvieux sur le pourtour méditerranéen et une dégradation proche du pays. Le déterminisme, plus chaud et sec, invite à la prudence. La version IA (AIFS) a été évoquée de façon tangentielle. |
+| **GEFS (ensemble GFS)** (documenté) | Signaux pluvieux présents, notamment sur le relief cévenol, mais cumuls modestes ailleurs et forte variabilité d'un run à l'autre. | Averses orageuses, pluies faibles à modérées, chaleur douce. | Cévennes, Sud-Est, Ouest, Île-de-France de façon plus éparse. | Modérée (65%) | Les membres soulignent que les signaux humides existent mais qu'il faudra surveiller leur consistance. Les scénarios les plus secs envisagent malgré tout quelques millimètres sur une large partie du territoire. |
+| **GEM (ensemble canadien)** (partiel) | Signaux de fortes pluies, voire d'épisode méditerranéen, sur le secteur de Nîmes ; simple piste à confirmer. | Fortes pluies possibles, orages, risque méditerranéen. | Sud-Est, Cévennes, Languedoc. | Modérée (65%) | Modèle cité une seule fois par un membre, qui précise qu'il ne s'agit pour l'instant que de signaux à surveiller. Aucune certitude sur le déclenchement ou non d'un épisode méditerranéen. |
+| **ECMWF AIFS (version IA)** (insuffisant) | Réchauffement de la poche froide arctique modélisée, sans impact direct documenté sur la France. | Non applicable au territoire français à courte échéance. | Aucune zone française directement concernée. | Faible (45%) | Mentionné dans une digression sur la réserve de froid hivernal de l'hémisphère nord. Aucune exploitation prévisionnelle pour la semaine 1. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec et ensoleillé, chaleur modérée à forte. | Maximales 25-30°C, minimales 10-15°C, détails régionaux limités. | moderee | GFS, ECMWF | Précisions locales limitées pour la Bretagne et la Normandie. |
-| **Nord** | Soleil généreux, ciel clair, chaleur estivale. | Maximales 25-29°C, minimales 11-15°C. | elevee | ARPEGE, GFS, ECMWF | Transposition à l’ensemble de la zone nord. |
-| **Nord-Est** | Temps sec et ensoleillé, chaleur possible avec fraîcheurs matinales. | Maximales 26-30°C, minimales 8-12°C selon scénarios. | moderee | GFS, ECMWF, GEM | Influence d’une possible goutte froide sur les maximales de l’est. |
-| **Ouest et Façade Atlantique** | Ensoleillé, chaleur marquée, voile nuageux dimanche. | Maximales 25-33°C, 20-22°C sur le littoral ; minimales 11-17°C. | elevee | ARPEGE, GFS, ECMWF | Écarts thermiques littoral / intérieur. |
-| **Centre** | Temps sec, ensoleillé et chaud pour la saison. | Maximales 26-31°C, minimales 10-15°C. | moderee | GFS, ECMWF | Données locales limitées pour le Massif central. |
-| **Sud-Ouest** | Soleil radieux, très chaud, rafales d’autan possibles dimanche. | Maximales 26-33°C, minimales 10-18°C selon le relief. | elevee | ARPEGE, GFS, ECMWF | Force et localisation exacte de l’autan. |
-| **Sud-Est et Vallée du Rhône** | Soleil généreux, temps très chaud et sec. | Maximales 26-30°C, minimales 8-17°C, 8°C possibles en Val de Saône. | elevee | ARPEGE, GFS, ECMWF | Nuits fraîches possibles localement. |
-| **Méditerranée et Corse** | Beau temps sec et très ensoleillé, chaleur modérée. | Maximales 26-31°C, 26°C à Marseille et dans les Calanques ; minimales 11-20°C. | elevee | ARPEGE, GFS, ECMWF | Vent de secteur est à l’est de Sicié, rafales possibles. |
+| **Nord-Ouest** | Passages pluvio-orageux possibles en début de semaine, puis éclaircies. | Maximales 21-28°C, douces pour la saison. | moderee | GFS, ECMWF | Pénétration réelle des pluies vers la Bretagne et la Normandie incertaine. |
+| **Nord** | Nuageux avec risque d'averses lundi-mardi, puis éclaircies et soleil généreux. | Minimales 14-16°C, maximales 26-29°C, en baisse en fin de semaine. | elevee | GFS, ECMWF, GEFS | Localisation exacte des averses et intensité des pluies de fin de semaine. |
+| **Nord-Est** | Temps chaud et sec, risque d'orages isolés en milieu de semaine. | Maximales 27-30°C, minimales 12-15°C. | faible | GFS | Peu de messages dédiés à cette zone ; comportement du talweg incertain. |
+| **Ouest et Façade Atlantique** | Soleil entrecoupé, passages pluvio-orageux probables lundi-mardi, pluies possibles en fin de semaine. | Maximales 26-33°C, très au-dessus des normales, en baisse vendredi. | elevee | GFS, ECMWF, GEFS | Intensité et localisation précise des orages. |
+| **Centre** | Temps chaud et sec, possible dégradation orageuse en seconde partie de semaine. | Maximales 27-30°C, très douces. | faible | GFS, ECMWF | Zone peu commentée directement ; extension des pluies depuis l'ouest incertaine. |
+| **Sud-Ouest** | Beau temps chaud, risque d'orages sur le relief, dégradation possible en milieu de semaine. | Maximales 28-31°C, localement très au-dessus des normales. | elevee | GFS, ECMWF, GEM | Localisation des orages et évolution du thalweg atlantique. |
+| **Sud-Est et Vallée du Rhône** | Beau temps chaud lundi-mardi, puis risque d'orages et d'averses en seconde partie de semaine. | Maximales 27-30°C, minimales 12-17°C. | moderee | ECMWF, GEM, GFS | Intensité des précipitations orageuses et passage ou non d'un épisode méditerranéen. |
+| **Méditerranée et Corse** | Soleil dominant, risque de fortes pluies orageuses en fin de semaine sur les Cévennes. | Maximales 26-30°C, minimales 13-19°C. | moderee | GEFS, GEM, ECMWF, GFS | Déclenchement ou non d'un épisode méditerranéen, cumuls très variables selon les modèles. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Jeudi 24 - vendredi 25 septembre** : Temps sec, ensoleillé et très chaud pour la saison.
-- **Samedi 26 septembre** : Nuages matinaux puis soleil éclatant ; vent de nord modéré sur une partie est.
-- **Dimanche 27 septembre** : Voile nuageux possible mais ambiance lumineuse, chaleur persistante.
-- **Dimanche 27 - lundi 28 septembre** : Transition surveillée : dégradation instable possible dès lundi, surtout au sud-ouest.
+- **Lundi 28 - Mardi 29 septembre** : Anticyclone résistant mais flux de sud-ouest : chaleur maintenue et premières salves orageuses possibles sur l'ouest.
+- **Mercredi 30 - Jeudi 1er octobre** : Dégradation plus nette possible : pluies orageuses, risque méditerranéen, chaleur encore bien présente.
+- **Vendredi 2 - Dimanche 4 octobre** : Temps variable, averses possibles par endroits, températures en baisse mais toujours douces.
+- **Au-delà** : Incertitudes fortes ; retour probable de conditions plus humides selon les ensembles, à confirmer.
 
 **Points solides :**
-- Anticyclone dominant jusqu’à dimanche.
-- Chaleur supérieure aux normales de saison.
-- Pas de pluie significative sur la France.
+- Températures très au-dessus des normales en début de semaine.
+- Retour d'un flux de sud-ouest avec passages pluvio-orageux, surtout sur l'ouest.
+- Pas de fin radicale de la sécheresse en vue.
 
 **Points fragiles :**
-- Dégradation annoncée pour le début de la semaine suivante.
-- Températures minimales à l’est.
-- Éventuel épisode méditerranéen.
+- Cumuls de pluie et localisation exacte des orages.
+- Évolution du talweg vers l'est : dégradation généralisée ou non.
+- Risque d'épisode méditerranéen, encore très incertain.
 
 **À surveiller (prochains runs) :**
-- Surveiller la position de la dorsale et l’approche du talweg atlantique.
-- Évolution des ensembles GEFS et CEP pour le week-end prochain.
-- Risque de fortes pluies en Méditerranée dès les prochains runs.
+À surveiller : les runs GFS 00Z et 12Z, le CEP 00Z et 12Z, les ensembles GEFS et GEM pour les signaux pluvieux des 30 septembre - 4 octobre, ainsi que l'ouverture du sujet Semaine 41 sur le forum.
 
 
-## 🗓️ SEMAINE 2 : Du lundi 28 septembre au dimanche 4 octobre 2026
+## 🗓️ SEMAINE 2 : Du Lundi 5 au Dimanche 11 Octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Retour des pluies : Des salves pluvio-orageuses sont probables lundi-mardi sur l’ouest.
-2. Chaleur humide : Flux de sud à sud-ouest, journées encore très chaudes mardi et mercredi.
-3. Méditerranée à surveiller : Des signaux de fortes pluies se renforcent sur le sud-est.
-4. Incertitude persistante : L’anticyclone russe pourrait limiter l’extension des pluies.
-5. Baisse thermique : Une baisse des températures semble se dessiner pour vendredi et samedi.
+1. Sujet non ouvert : Analyse basée sur les projections long terme du sujet Semaine 40, avec prudence renforcée.
+2. Humidité en vue ? : Des cumuls de 20-25 mm sont envisagés au 8-9 octobre sur une partie du territoire.
+3. Chaleur à confirmer : Certains runs prolongent la douceur, d'autres prévoient une baisse plus nette.
+4. Méditerranée sous surveillance : Des signaux de fortes pluies, voire d'épisode méditerranéen, restent possibles.
+5. Prudence maximale : Aucune prévision ferme ne peut être dégagée à cette échéance.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Changement de temps probable en début de semaine : salves pluvio-orageuses sur l’ouest.
-- Flux de sud à sud-ouest chaud et humide mardi et mercredi.
-- Signaux de précipitations en Méditerranée et sur les Cévennes, à confirmer.
+- Les modèles long terme s'accordent sur une douceur encore marquée pour la période.
+- Un signal humide existe, plus net sur le sud-est et l'ouest.
+- Le blocage actuel devrait faiblir, sans disparaître complètement.
 **Points de divergence :**
-- GFS plus sec que CEP selon les runs, notamment sur l’intérieur.
-- Résistance de l’anticyclone russe : blocage partiel ou érosion franche ?
-- Intensité de l’épisode méditerranéen : simple orage ou épisode pluvieux durable ?
+- Maintien d'un blocage résiduel ou ouverture océanique plus franche.
+- Pluies généralisées ou limitées au relief et à la Méditerranée.
+- Niveau thermique : simple douceur ou chaleur encore prononcée.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS / GEFS** (Confirmé pour un changement de régime, incertain sur l’ampleur) | Passage pluvio-orageux possible lundi-mardi sur une partie ouest, puis hésitation entre retour sec et pluies méditerranéennes. | Chaud et humide en début de semaine, averses possibles, nette incertitude ensuite. | Ouest, sud-ouest, quart sud-est et Cévennes. | Élevée (85%) | Les membres notent d’importantes variations de runs : un run propose de belles pluies, le suivant les atténue. GFS est souvent « rentré dans le rang », mais les signaux pluvieux sur l’ouest et les Cévennes restent présents. |
-| **ECMWF / CEP / AIFS** (Majoritaire dans les discussions, mais à confirmer) | Dégradation instable plus nette avec une dépression atlantique proche, flux de sud, possible épisode méditerranéen. | Averses orageuses possibles sur l’ouest et le sud-est, chaleur encore présente. | Moitié ouest, puis décalage vers l’est et le sud-est. | Élevée (85%) | Le CEP est vu comme plus humide que GFS sur plusieurs runs, avec une dépression atlantique proche de la France. L’ensemble CEP montre des signaux de fortes pluies sur Nîmes, mais les cartes de cumuls ont été rognées d’un run à l’autre. |
-| **GEM** (Signal à surveiller) | Signaux de fortes pluies possibles dans le sud-est, notamment sur le secteur de Nîmes. | Pluies méditerranéennes potentielles, à confirmer. | Sud-est, Cévennes, littoral méditerranéen. | Modérée (65%) | Peu cité, mais l’ensemble GEM pour Nîmes est en phase avec le CEP pour un potentiel de fortes pluies. |
-| **ARPEGE** (Utilisé via les bulletins Météo-France) | Temps encore chaud lundi-mardi, puis risque de pluie ou d’averses plus fréquent en milieu de semaine. | Soleil et chaleur, puis dégradation pluvio-orageuse possible. | Ouest, sud-ouest, vallée du Rhône, Méditerranée. | Faible (45%) | Utilisée via les bulletins officiels : risque de pluie ou d’averses lundi, puis mercredi-jeudi, avec une baisse des températures attendue vendredi-samedi. |
-| **ICON** (Non documenté) | Non déterminable, modèle absent des discussions de la semaine 2. | Non documenté. | Non déterminé. | Non estimable | Absent des discussions applicables à la semaine 2. |
+| **GFS (projection long terme)** (partiel) | Un thalweg pourrait balayer une partie du pays en début de semaine 2, avec des cumuls possibles de 20-25 mm au 8-9 octobre ; d'autres runs atténuent nettement le signal. | Pluies orageuses, chaleur encore possible avant une baisse. | Ouest, Sud-Ouest, Centre-Est, Cévennes. | Modérée (65%) | Les membres notent une amélioration progressive des signaux humides sur le long terme, mais GFS a déjà montré une forte variabilité d'un run à l'autre. La prudence reste de mise. |
+| **ECMWF / CEP (projection long terme)** (partiel) | Ensemble plutôt humide sur le sud-est et l'ouest, tandis que le déterminisme apparaît plus chaud et plus sec. Évolution à confirmer. | Pluies orageuses, risque méditerranéen, douceur persistante. | Sud-Est, Cévennes, Ouest, Île-de-France. | Modérée (65%) | Les diagrammes long terme montrent des signaux pluvieux mais non généralisés. La position du blocage scandinave et de l'anticyclone atlantique sera décisive. |
+| **GEFS (projection long terme)** (partiel) | Signaux pluvieux présents sur le relief cévenol et une partie de l'ouest ; cumuls modestes dans les scénarios les plus secs. | Averses, pluies faibles à modérées, douceur. | Cévennes, Sud-Est, Ouest, Grand Ouest. | Modérée (65%) | L'ensemble américain confirme un léger réveil atlantique, mais sans garantie d'un arrosage généralisé. Aucun scénario de sortie de sécheresse franc et durable ne se dégage pour l'instant. |
+| **GEM (projection long terme)** (insuffisant) | Signal de fortes pluies, voire d'épisode méditerranéen, sur Nîmes et le sud-est. | Fortes pluies possibles, orages, risque méditerranéen. | Sud-Est, Languedoc, Cévennes. | Faible (45%) | Simple piste évoquée par un membre. Le modèle canadien est isolé et ne permet aucune conclusion ferme. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Possibles salves pluvio-orageuses en début de semaine, puis éclaircies. | Maximales 25-30°C, minimales 14-18°C, à confirmer. | moderee | GFS, ECMWF | Extension exacte des pluies sur la façade nord-ouest. |
-| **Nord** | Nuageux lundi avec pluies possibles, puis éclaircies et chaleur ; dégradation localisée vendredi. | Maximales 29°C lundi/mardi, 26°C mercredi/jeudi, en baisse vendredi ; minimales 16°C environ. | elevee | ARPEGE, GFS, ECMWF | Localisation des pluies de vendredi sur la petite couronne. |
-| **Nord-Est** | Temps sec et chaud en début de semaine, risque d’averses en milieu de semaine. | Maximales 26-30°C, minimales 10-16°C, baisse ensuite. | faible | GFS, ECMWF | Comportement de l’anticyclone russe et passage du talweg. |
-| **Ouest et Façade Atlantique** | Chaleur maintenue lundi/mardi avec risque orageux, puis pluies plus probables mercredi/jeudi. | Maximales 30-33°C lundi/mardi, 26-29°C ensuite, littoral 20-25°C ; minimales 15-19°C. | elevee | ARPEGE, GFS, ECMWF | Intensité orageuse et cumuls exacts. |
-| **Centre** | Encore sec et chaud lundi, dégradation pluvio-orageuse possible en cours de semaine. | Maximales 28-31°C en début de semaine, baisse ensuite ; minimales 13-18°C. | faible | GFS, ECMWF | Manque de données locales ; évolution du talweg incertaine. |
-| **Sud-Ouest** | Beau temps très chaud lundi/mardi, risque orageux en montagne, dégradation mercredi/jeudi. | Maximales 28-31°C, puis 26-29°C ; minimales 12-19°C selon le relief. | elevee | ARPEGE, GFS, ECMWF | Risque orageux sur le relief et force de l’autan. |
-| **Sud-Est et Vallée du Rhône** | Soleil et chaleur lundi/mardi, puis risque d’averses mercredi/jeudi, baisse vendredi. | Maximales 28-30°C lundi/mardi, 26-28°C mercredi, en baisse vendredi ; minimales 12-17°C. | elevee | ARPEGE, GFS, ECMWF | Localisation des averses et baisse thermique. |
-| **Méditerranée et Corse** | Ensoleillé et chaud, rafales de sud-est possibles, risque d’averses en milieu de semaine. | Maximales 27-30°C, minimales 10-20°C selon secteurs. | elevee | ARPEGE, GFS, ECMWF, GEM | Potentiel d’épisode méditerranéen et cumuls associés. |
+| **Nord-Ouest** | Temps indéterminé, possible dégradation pluvieuse en début de semaine. | Non documenté | faible | GFS, ECMWF | Sujet Semaine 41 non ouvert ; projections long terme imprécises. |
+| **Nord** | Signaux de pluie possibles, cumuls faibles à modérés, douceur. | Non documenté | faible | GFS, GEFS, ECMWF | Localisation et intensité des pluies très incertaines. |
+| **Nord-Est** | Tendance indéterminée, possible douceur et averses isolées. | Non documenté | non_estimable | ECMWF, GFS, Guillaume Séchet | Aucune information exploitable pour cette zone en semaine 2. |
+| **Ouest et Façade Atlantique** | Possible retour de pluies orageuses, chaleur encore présente en début de semaine. | Non documenté | faible | GFS, ECMWF, GEFS | Comportement du thalweg atlantique et position de l'anticyclone. |
+| **Centre** | Tendance indéterminée, possible dégradation orageuse en seconde partie de semaine. | Non documenté | faible | GFS, ECMWF | Zone peu commentée ; extension des pluies incertaine. |
+| **Sud-Ouest** | Possible maintien de la douceur, avec un risque orageux en début de semaine. | Non documenté | faible | GFS, ECMWF | Évolution du talweg et intensité des pluies. |
+| **Sud-Est et Vallée du Rhône** | Douceur persistante, risque de fortes pluies orageuses en seconde partie de semaine. | Non documenté | faible | GEM, ECMWF, GEFS | Déclenchement ou non d'un épisode méditerranéen, localisation exacte. |
+| **Méditerranée et Corse** | Risque de fortes pluies orageuses, voire d'épisode méditerranéen, à surveiller. | Non documenté | moderee | GEM, GEFS, ECMWF | Maintien ou affaiblissement du signal d'épisode méditerranéen. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 28 - mardi 29 septembre** : Chaud et humide, risque d’averses orageuses à l’ouest et au sud-ouest.
-- **Mercredi 30 - jeudi 1er octobre** : Dégradation plus nette possible, pluies sur une large moitié sud-ouest, vent de sud.
-- **Vendredi 2 - samedi 3 octobre** : Températures en baisse, pluies localisées, éclaircies ailleurs.
-- **Dimanche 4 octobre** : Tendance encore incertaine, possible retour sec et chaud ou poursuite des averses.
+- **Lundi 5 - Mardi 6 octobre** : Possible dégradation pluvio-orageuse selon GFS ; aucune certitude à ce stade.
+- **Mercredi 7 - Jeudi 8 octobre** : Période où les cumuls pourraient devenir plus notables, notamment sur le sud-est.
+- **Vendredi 9 - Dimanche 11 octobre** : Tendance indéterminée : retour d'un blocage ou installation d'un flux océanique.
+- **Au-delà** : À réévaluer avec les prochains runs et l'ouverture du sujet dédié.
 
 **Points solides :**
-- Flux de sud chaud et humide lundi-mardi.
-- Températures encore très au-dessus des normales.
-- Risque orageux sur l’ouest et le sud-ouest en début de semaine.
+- Le sujet Semaine 41 n'étant pas ouvert, aucune prévision ferme ne peut être établie.
+- Les projections long terme évoquent une poursuite de la douceur.
+- Un signal humide existe, surtout sur le sud-est et l'ouest.
 
 **Points fragiles :**
-- Localisation et cumuls des pluies.
-- Durée de la dégradation.
-- Épisode méditerranéen potentiel.
+- Cumuls, localisation et timing des pluies.
+- Maintien ou rupture du blocage anticyclonique.
+- Risque d'épisode méditerranéen, encore très spéculatif.
 
 **À surveiller (prochains runs) :**
-- Approfondissement du talweg atlantique.
-- Position de l’anticyclone russe.
-- Ensembles CEP et GEFS pour le potentiel cévenol.
+Ouverture du sujet Semaine 41 sur Infoclimat, runs GFS et CEP à partir du 28 septembre, ensembles GEFS et GEM pour le suivi du signal méditerranéen.
 
 
 ========================================
@@ -138,27 +133,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Blocage anticyclonique qui s’atténue progressivement. Semaine 1 très chaude et sèche ; semaine 2 plus instable avec un retour probable des pluies, surtout sur le sud-est et l’ouest. Les températures devraient rester au-dessus des normales.
+Poursuite d'une période très douce à chaude, avec un affaiblissement progressif de l'anticyclone et un retour probable de pluies, surtout sur le sud-est et l'ouest, à partir de la fin de semaine 1. Aucun grand défilé océanique ne se dessine clairement.
 
 ### Période la plus fiable
-Semaine 1 (24-27 septembre) : fiabilité plus élevée, situation anticyclonique bien installée.
+Semaine 1 (du 28 septembre au 4 octobre) : sujet forum ouvert et bulletins officiels disponibles. La semaine 2 reste très incertaine, le sujet Semaine 41 n'étant pas encore ouvert.
 
 ### Phénomènes récurrents
-Anticyclone russe, flux de sud, blocage, orages secs puis pluvio-orageux, possible épisode méditerranéen.
+Chaleur tardive, orages de masse d'air chaud, risque d'épisode méditerranéen, sécheresse de surface persistante.
 
 ### Principales incertitudes
-Position de l’anticyclone russe, timing de la dégradation, intensité des orages, potentiel méditerranéen.
+Localisation et intensité des pluies, date de rupture du blocage, maintien ou non de la chaleur en semaine 2.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes : la dégradation pourrait débuter lundi ou être repoussée en milieu de semaine. L’épisode méditerranéen, s’il se confirme, pourrait survenir à partir du 30 septembre.
-- **Localisation :** Doutes sur la localisation précise et les zones géographiques concernées : selon les runs, les pluies concernent la moitié ouest, le sud-est, ou restent très limitées. Le rôle exact de l’anticyclone russe est encore flou.
-- **Intensité :** Doutes sur l’intensité : températures maximales encore incertaines dans l’est, force des orages et cumuls de pluie très variables selon les modèles. Le potentiel méditerranéen oscille entre simple averse et épisode pluvieux marqué.
-- **Informations manquantes :** Informations importantes non abordées ou manquantes : peu de données détaillées sur le vent pour le nord-ouest, le centre et le nord-est. Absence de suivi spécifique pour la Corse dans les discussions forum. Peu d’éléments sur l’évolution des sols et du risque incendie dans les débats.
-- **Modèles sous-documentés :** ICON et ARPEGE sont peu ou pas commentés par les membres en semaine 2. GEM n’est cité qu’une fois. AIFS n’est pas directement commenté dans la semaine 2.
-- **Incertitudes images :** Incertitudes sur les graphiques et cartes du forum : plusieurs cartes GFS/CEP sont postées sans mention du run exact, ce qui rend difficile l’évaluation de leur fiabilité. Les cumuls affichés varient fortement selon les échéances et les seuils choisis.
+- **Timing/Chronologie :** Le passage du talweg pourrait intervenir lundi-mardi ou plus tard en semaine 1 ; le run GFS 18Z a atténué le signal humide, compliquant le calendrier.
+- **Localisation :** La limite entre pluies orageuses et temps sec reste floue. Le nord et le nord-est pourraient être délaissés, tandis que le pourtour méditerranéen concentrerait les plus fortes incertitudes.
+- **Intensité :** Les cumuls annoncés varient de 5-10 mm à plus de 20-25 mm selon les runs. L'intensité des orages et le risque d'épisode méditerranéen sont particulièrement incertains.
+- **Informations manquantes :** Absence du sujet Semaine 41 sur le forum. Peu d'informations détaillées sur le vent pour la plupart des zones. La Corse est très peu documentée, ainsi que l'est et le Massif central.
+- **Modèles sous-documentés :** ARPEGE, AROME, ICON et UKMO ne sont pas commentés par les membres. GEM n'est cité qu'une fois. AIFS est évoqué de manière tangentielle, sans exploitation prévisionnelle.
+- **Incertitudes images :** Les cartes postées par les membres proviennent de Météociel et Wetterzentrale, mais plusieurs sont sans légende claire. Les cartes de cumuls GFS et ECMWF ont donné lieu à des interprétations opposées dans la discussion.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🚀 Nouveau bulletin météo consolidé ! Semaine 1 anticyclonique, chaude et sèche. Semaine 2 : les signaux de pluie se renforcent, surtout sur le sud-est et l’ouest. Restons prudents : les modèles sont encore très divergents sur l’ampleur. #Météo #Prévisions #Automne #Sécheresse
+Après des semaines de blocage, les signaux d'un retour de l'humidité se renforcent pour la fin de semaine prochaine, sans pour autant garantir un arrosage généralisé. Le scénario le plus probable reste celui d'une douceur marquée, ponctuée d'orages, avec un œil attentif sur le bassin méditerranéen. Les modèles restent partagés : prudence et suivi des prochains runs nécessaires. #Météo #Prévisions #Automne #Infoclimat
