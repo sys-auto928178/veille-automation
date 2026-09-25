@@ -311,12 +311,12 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps en Suisse
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 25/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -324,68 +324,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 25 Septembre 2026.
-Résumé général précédent : .
+Résumé général précédent : Temps plus instable mais toujours très doux, avec un risque méditerranéen en fin de semaine 1 et un maintien de la chaleur en semaine 2..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : De saison.
+Températures attendues précédemment : Averses, orages, chaleur forte, baisse thermique en fin de période..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: Banleve7519
-Message:
-Il y a 3 heures, Tornado75 a dit :
-			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
-			Gfs est rentré dans le rang malheureusement.
-			A suivre
-	Du mal à comprendre ce post, sans illustration qui plus est…
-	Les signaux sont toujours là pour les derniers jours du mois, ça va être compliqué pour avoir un arrosage vraiment généralisé mais des salves pluvio-orageuses sont probables, ainsi qu’un risque de pluies orographiques sur les Cévennes notamment.
-	Le signal pluvieux est bien présent sur le det gfs, que tu cites:
-	Sur cep la dépression atlantique est vraiment proche de notre pays, plus que sur gfs:
-	Et concernant les ensemblistes, j’attends cep mais si on regarde gefs, les signaux pluvieux sont bien présents par exemple sur le relief cévenol:
-	Pour le nord, c’est plus compliqué mais les signaux humides existent aussi. Probablement rien de fou mais c’est déjà un premier pas vers des conditions plus humides (et probablement très chaudes pour la saison aussi), et puis on a le retour de flux plus méridiens qui ouvrent des portes pour la suite.
-								5
-								1
-								1
-
-=======================
-
-Auteur: Nico 14
-Message:
-Ce ne sont pas franchement les flux méridiens qui sont à souhaiter pour la suite si l'on attend des précipitations généreuses, à moins qu'un talweg ne vise dans le mille, et pourtant c'est bien ce qui est modélisé à LT avec le retour d'un BL+. C’est plutôt une NAO+ assez basse en latitude, mais on n'en voit pas franchement la tournure. Les diagrammes reflètent surtout des dégradations instables, donc rien de généralisé en termes de précipitations. Advections chaudes à très chaudes et humides en début de semaine sur un axe SO-&gt;NE avec donc un potentiel orageux qui se dégage, mais l'évolution du talweg vers l'est ne me semble pas assez franche pour bousculer les HG. Ensuite, probable baisse des températures, mais ça me semble toujours aussi sec ou peu humide, au choix, avec le retour d'un BL+.
-	L'ouverture océanique ne me semble pas au programme sur ce topic.
-	Modifié mercredi à 09:10 par Nico 14
-								6
-								1
-								5
-
-=======================
-
-Auteur: nickdu77
-Message:
-Il me semble que l'on commence à avoir des signaux humides et ce qui est rassurant, c'est que cela se renforce de run en run. Il y a encore 2-3 jours, on ne voyait que 8-10 mm. Aujourd'hui, c'est à peu près 20-25 mm de prévu en cumul au 8-9/10. C'est vrai, c'est loin (et d'ailleurs hors topic pour une partie) mais les signaux sont là et le fait nouveau, c'est un peu le réveil de l'Atlantique avec les dépressions très creuses que l'on voit sur les cartes. Ce réveil se traduit bien sur les diagrammes (j'ai pris Paris, Marseille, Bordeaux et Strasbourg pour couvrir une large partie du territoire) qui, même dans les scénarios les plus secs, envisagent quand même au moins 5-10 mm:
-	Paris:
-	Marseille:
-	Bordeaux :
-	Strasbourg :
-
-=======================
-
-Auteur: tao
-Message:
-Bonjour,
-	@Nico 14
-	j'aurais une vision un peu différente de la tienne sans qu'elle soit en désaccord total.
-	La NAO+ comme on l'a connu en fin d'été début d'automne avec un jet septentrional, ce ne serait pas un cadeau.
-	Par contre le couple NAO+/BL+, à condition qu'il soit bien orienté et bien fixé sur nos régions (comme tu l'as dit), ne serait peut-être pas une si mauvaise nouvelle que cela:
-	Ensuite, j'avais évoqué la piste atlantique à l'ouverture du topic sur la base des ensembles, c'était il y a trois jours...
-	Les modélisations se précisent depuis, la possibilité que nous soyons (comme souvent) au carrefour de plusieurs influences prend du poids ce qui aurait au moins l'intérêt de donner une saveur aux prévisions. C'est quand même plus intéressant que de commenter un jet passant au nord de l'Ecosse ou un amas de hauts géopotentiels enracinés en Europe occidentale.
-	Enfin, c'est quand même, en automne, la conjonction de la circulation de talweg sur le tout proche Atlantique et l'installation d'un blocage sur les terres nordiques qui peut devenir le ferment d'une agitation sur le secteur méditerranéen.
-	A ce titre, les ensembles ne sont pas fermés après le milieu de semaine, plusieurs hypothèses peuvent se dégager dans les mises à jours prochaines.
-	Modifié mercredi à 12:01 par tao
-								6
-								2
-
-=======================
-
 Auteur: petit âge glaciaire 11
 Message:
 On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commencent a émerger pour ce topic dans le sud-est. 
@@ -501,7 +445,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 12 heures par nickdu77
+	Modifié il y a 14 heures par nickdu77
 
 =======================
 
@@ -552,9 +496,25 @@ Bonsoir,
 	La différence n'est pas flagrante et pourtant:
 	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
 	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
-								3
+								4
 								2
 								1
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+alors oui bien sûr, tout est affaire de focale (!)...
+	verre à moitié plein, verre à moitié vide... beaucoup de précipitations, partout ou juste un peu et beaucoup de territoires passant entre les mailles, fines ou larges... ?
+	on est d'accord, on ne se laissera pas fasciner par les valeurs - parfois impressionnantes - en millibars au fond des dépressions qui nous frôlent... pas plus du reste du fond des talwegs qui semblent s'intéresser à nous : 
+	c'est là que je voudrais m'arrêter ; un peu plus à l'Est comme on dit dans une célèbre BD : 
+	quid de l'anticyclone  à l'E de l'Europe... ?
+	quel gradient va-t-il nous fabriquer dans sa progression vers l'Hexagone, avant que fiche le camp cette belle dépression atlantique vers le N, avec quel tempo... ?
+	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
+	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
+	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
+	Modifié il y a 2 heures par giec 2100
 								1
 
 =======================
@@ -566,64 +526,44 @@ salut     🤔🌧️   
 	+30 mm / 6 heure  
 	---
 	50 et 72 mm   juste    8:00 1 octobre +138h
+								4
+								1
+
+=======================
+
+Auteur: serge26
+Message:
+il y a 23 minutes, symaski62 a dit :
+			salut     🤔🌧️   
+			20:00 30 septembre à 8:00 1 octobre
+			+30 mm / 6 heure  
+			---
+			50 et 72 mm   juste    8:00 1 octobre +138h
+	et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
+								1
+								1
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 31 minutes, serge26 a dit :
+			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
+	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
+	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
+								5
+								1
+
+=======================
+
+Auteur: Mazz37
+Message:
+il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
+			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
+			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
+	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: Banleve7519
-Message:
-Il y a 3 heures, Tornado75 a dit :
-			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
-			Gfs est rentré dans le rang malheureusement.
-			A suivre
-	Du mal à comprendre ce post, sans illustration qui plus est…
-	Les signaux sont toujours là pour les derniers jours du mois, ça va être compliqué pour avoir un arrosage vraiment généralisé mais des salves pluvio-orageuses sont probables, ainsi qu’un risque de pluies orographiques sur les Cévennes notamment.
-	Le signal pluvieux est bien présent sur le det gfs, que tu cites:
-	Sur cep la dépression atlantique est vraiment proche de notre pays, plus que sur gfs:
-	Et concernant les ensemblistes, j’attends cep mais si on regarde gefs, les signaux pluvieux sont bien présents par exemple sur le relief cévenol:
-	Pour le nord, c’est plus compliqué mais les signaux humides existent aussi. Probablement rien de fou mais c’est déjà un premier pas vers des conditions plus humides (et probablement très chaudes pour la saison aussi), et puis on a le retour de flux plus méridiens qui ouvrent des portes pour la suite.
-								5
-								1
-								1
-
-=======================
-
-Auteur: Nico 14
-Message:
-Ce ne sont pas franchement les flux méridiens qui sont à souhaiter pour la suite si l'on attend des précipitations généreuses, à moins qu'un talweg ne vise dans le mille, et pourtant c'est bien ce qui est modélisé à LT avec le retour d'un BL+. C’est plutôt une NAO+ assez basse en latitude, mais on n'en voit pas franchement la tournure. Les diagrammes reflètent surtout des dégradations instables, donc rien de généralisé en termes de précipitations. Advections chaudes à très chaudes et humides en début de semaine sur un axe SO-&gt;NE avec donc un potentiel orageux qui se dégage, mais l'évolution du talweg vers l'est ne me semble pas assez franche pour bousculer les HG. Ensuite, probable baisse des températures, mais ça me semble toujours aussi sec ou peu humide, au choix, avec le retour d'un BL+.
-	L'ouverture océanique ne me semble pas au programme sur ce topic.
-	Modifié mercredi à 09:10 par Nico 14
-								6
-								1
-								5
-
-=======================
-
-Auteur: nickdu77
-Message:
-Il me semble que l'on commence à avoir des signaux humides et ce qui est rassurant, c'est que cela se renforce de run en run. Il y a encore 2-3 jours, on ne voyait que 8-10 mm. Aujourd'hui, c'est à peu près 20-25 mm de prévu en cumul au 8-9/10. C'est vrai, c'est loin (et d'ailleurs hors topic pour une partie) mais les signaux sont là et le fait nouveau, c'est un peu le réveil de l'Atlantique avec les dépressions très creuses que l'on voit sur les cartes. Ce réveil se traduit bien sur les diagrammes (j'ai pris Paris, Marseille, Bordeaux et Strasbourg pour couvrir une large partie du territoire) qui, même dans les scénarios les plus secs, envisagent quand même au moins 5-10 mm:
-	Paris:
-	Marseille:
-	Bordeaux :
-	Strasbourg :
-
-=======================
-
-Auteur: tao
-Message:
-Bonjour,
-	@Nico 14
-	j'aurais une vision un peu différente de la tienne sans qu'elle soit en désaccord total.
-	La NAO+ comme on l'a connu en fin d'été début d'automne avec un jet septentrional, ce ne serait pas un cadeau.
-	Par contre le couple NAO+/BL+, à condition qu'il soit bien orienté et bien fixé sur nos régions (comme tu l'as dit), ne serait peut-être pas une si mauvaise nouvelle que cela:
-	Ensuite, j'avais évoqué la piste atlantique à l'ouverture du topic sur la base des ensembles, c'était il y a trois jours...
-	Les modélisations se précisent depuis, la possibilité que nous soyons (comme souvent) au carrefour de plusieurs influences prend du poids ce qui aurait au moins l'intérêt de donner une saveur aux prévisions. C'est quand même plus intéressant que de commenter un jet passant au nord de l'Ecosse ou un amas de hauts géopotentiels enracinés en Europe occidentale.
-	Enfin, c'est quand même, en automne, la conjonction de la circulation de talweg sur le tout proche Atlantique et l'installation d'un blocage sur les terres nordiques qui peut devenir le ferment d'une agitation sur le secteur méditerranéen.
-	A ce titre, les ensembles ne sont pas fermés après le milieu de semaine, plusieurs hypothèses peuvent se dégager dans les mises à jours prochaines.
-	Modifié mercredi à 12:01 par tao
-								6
-								2
-
-=======================
-
 Auteur: petit âge glaciaire 11
 Message:
 On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commencent a émerger pour ce topic dans le sud-est. 
@@ -739,7 +679,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 12 heures par nickdu77
+	Modifié il y a 14 heures par nickdu77
 
 =======================
 
@@ -790,9 +730,25 @@ Bonsoir,
 	La différence n'est pas flagrante et pourtant:
 	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
 	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
-								3
+								4
 								2
 								1
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+alors oui bien sûr, tout est affaire de focale (!)...
+	verre à moitié plein, verre à moitié vide... beaucoup de précipitations, partout ou juste un peu et beaucoup de territoires passant entre les mailles, fines ou larges... ?
+	on est d'accord, on ne se laissera pas fasciner par les valeurs - parfois impressionnantes - en millibars au fond des dépressions qui nous frôlent... pas plus du reste du fond des talwegs qui semblent s'intéresser à nous : 
+	c'est là que je voudrais m'arrêter ; un peu plus à l'Est comme on dit dans une célèbre BD : 
+	quid de l'anticyclone  à l'E de l'Europe... ?
+	quel gradient va-t-il nous fabriquer dans sa progression vers l'Hexagone, avant que fiche le camp cette belle dépression atlantique vers le N, avec quel tempo... ?
+	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
+	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
+	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
+	Modifié il y a 2 heures par giec 2100
 								1
 
 =======================
@@ -804,3 +760,39 @@ salut     🤔🌧️   
 	+30 mm / 6 heure  
 	---
 	50 et 72 mm   juste    8:00 1 octobre +138h
+								4
+								1
+
+=======================
+
+Auteur: serge26
+Message:
+il y a 23 minutes, symaski62 a dit :
+			salut     🤔🌧️   
+			20:00 30 septembre à 8:00 1 octobre
+			+30 mm / 6 heure  
+			---
+			50 et 72 mm   juste    8:00 1 octobre +138h
+	et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
+								1
+								1
+
+=======================
+
+Auteur: Ciel d&#039;encre
+Message:
+il y a 31 minutes, serge26 a dit :
+			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
+	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
+	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
+								5
+								1
+
+=======================
+
+Auteur: Mazz37
+Message:
+il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
+			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
+			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
+	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
