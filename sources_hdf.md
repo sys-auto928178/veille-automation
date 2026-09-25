@@ -327,12 +327,12 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi de l'englacement au p&#xF4;le nord
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Prévisions Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 25/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,9 +340,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 25 Septembre 2026.
-Résumé général HDF précédent : Séquence encore très douce à chaude en début de période, avec un pic de chaleur marqué mardi/mercredi, suivie d'une dégradation plus fraîche et humide autour du 1er octobre. La semaine 2 reste très incertaine : réveil atlantique possible mais blocage anticyclonique encore tenace..
+Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France connaîtront une séquence très douce à chaude en début de période, puis un rafraîchissement après le 1er octobre. Le tempo semble s'orienter vers un léger réveil atlantique, mais l'anticyclone pourrait encore résister..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur marquée mardi/mercredi, pluies faibles à modérées jeudi/vendredi, mieux le week-end..
+Températures attendues précédemment : Temps sensible : net rafraîchissement en fin de semaine, averses possibles sur l'ensemble des HDF..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -487,7 +487,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 18 heures par waingro
+	Modifié il y a 20 heures par waingro
 
 =======================
 
@@ -514,7 +514,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								3
 								1
 								1
@@ -537,7 +537,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 4 heures par nickdu77
+	Modifié il y a 6 heures par nickdu77
 
 =======================
 
@@ -574,7 +574,7 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
 								4
-								1
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: bill43
@@ -718,7 +718,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 18 heures par waingro
+	Modifié il y a 20 heures par waingro
 
 =======================
 
@@ -745,7 +745,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								3
 								1
 								1
@@ -768,7 +768,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 4 heures par nickdu77
+	Modifié il y a 6 heures par nickdu77
 
 =======================
 
@@ -805,4 +805,4 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
 								4
-								1
+								2
