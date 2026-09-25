@@ -287,7 +287,7 @@ Températures minimales : en baisse dans le Volvestre, sur le piémont et la mon
 Températures maximales : en hausse sur le Cagire et le Luchonnais ainsi qu'au sud-ouest du département.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 250930 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 25 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 25 septembre 2026 à 06H00 UTC, et évolution Hautes pressions autour de 1020 sur le bassin. Dépression relative 1015 au large de la Côte d'Azur, se décalant lentement vers le sud en se comblant, prévu 1017 entre le les îles Baléares et la Sardaigne la nuit. 3 - Prévisions pour l'après-midi du vendredi 25 septembre VENT : - à l'ouest de Cap croisette : Variable 2 à 4. - à l'est de Cap Croisette : Est à Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée. MER : belle à peu agitée. HOULE : Nord-Est 0.5 à 1 m à l'est de Sicié en fin de journée. TEMPS : peu nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 25 septembre au samedi 26 septembre VENT : secteur Est 2 à 4, mais localement Variable 1 à 3 à l'ouest de Cap Croisette jusqu'en milieu de nuit. MER : belle à peu agitée. HOULE : Est 0.5 à 1 m, s'amortissant en milieu de nuit. TEMPS : peu nuageux, localement très nuageux par nuages bas sur la Camargue en fin de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 26 septembre VENT : secteur Est 2 à 4, virant secteur Sud-Est 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 26 au 27 et la journée du dimanche 27 septembre VENT : Sud-Est 1 à 3, fraîchissant 2 à 4 localement 5 à l'est de Marseille en fin de nuit. MER : belle. HOULE : non significative. TEMPS : peu nuageux, localement très nuageux par nuages bas sur la Camargue en fin de nuit. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 27 au 28 et la journée du lundi 28 septembre VENT : Est à Sud-Est 3 à 4, revenant Est à Nord-Est en début de nuit, puis à l'Est à Sud-Est en seconde partie de nuit. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Mardi 29 septembre Secteur Sud- Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 30 septembre Secteur Sud- Est faible à modéré. Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Sud- Est faible à modéré. Indice de confiance : 2 sur 5 Vendredi 2 octobre Nord -Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le vendredi 25 septembre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 23 noeuds, très nuageux à couvert, visibilité 10 milles. Cap Cepet : vent Nord-Est 12 noeuds. Le Levant : vent Est 23 noeuds, rafales 33 noeuds, 1017 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 29 noeuds. Cap Couronne : vent Sud 4 noeuds. Prochain bulletin le vendredi 25 septembre 2026, vers 18H30 légales
+FQCT40 LFML 251625 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 25 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 25 septembre 2026 à 12H00 UTC, et évolution Hautes pressions autour de 1020 sur le bassin. Dépression relative 1015 au large de la Côte d'Azur, se décalant lentement vers le sud en se comblant, prévu 1017 entre le les îles Baléares et la Sardaigne la nuit. 3 - Prévisions pour la nuit du vendredi 25 septembre au samedi 26 septembre VENT : secteur Est 2 à 4, mais localement Variable 1 à 3 à l'ouest de Cap Croisette jusqu'en milieu de nuit. MER : belle à peu agitée. HOULE : Est 0.5 à 1 m, s'amortissant en milieu de nuit. TEMPS : peu nuageux, localement très nuageux par nuages bas sur la Camargue en fin de nuit. VISIBILITE : bonne. 4 - Prévisions pour la journée du samedi 26 septembre VENT : secteur Est 2 à 4, virant secteur Sud-Est 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : ciel clair. VISIBILITE : bonne. 5 - Tendance pour la nuit du 26 au 27, et la journée du dimanche 27 septembre VENT : Est à Sud-Est 1 à 3, fraîchissant 2 à 4 entre Fos et Levant l'après-midi. MER : belle à peu agitée, devenant belle en milieu de nuit. HOULE : non significative. TEMPS : peu nuageux, temporairement très nuageux par nuages bas sur la Camargue en fin de nuit. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 27 au 28 et la journée du lundi 28 septembre VENT : Est à Sud-Est 3 à 4, revenant Est à Nord-Est en début de nuit, puis à l'Est à Sud-Est en seconde partie de nuit. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Mardi 29 septembre Secteur Sud- Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 30 septembre Secteur Sud- Est faible à modéré. Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Sud- Est faible à modéré. Indice de confiance : 2 sur 5 Vendredi 2 octobre Nord -Ouest faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le vendredi 25 septembre 2026 à 15H00 UTC Cap Camarat : vent Est 10 noeuds. Cap Cepet : vent Est 12 noeuds, nuageux avec éclaircies, visibilité 10 milles. Le Levant : vent Est 14 noeuds, 1018 hPa en hausse. Porquerolles : vent Est-Nord-Est 6 noeuds, rafales 19 noeuds. Cap Couronne : vent Sud-Sud-Ouest 6 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le samedi 26 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -311,12 +311,12 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Les Kitoutou ( chiens_nes ) des Icéens !
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 25/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -324,9 +324,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 25 Septembre 2026.
-Résumé général précédent : La France reste sous l'influence d'un anticyclone, mais un réveil de l'Atlantique est amorcé. Les températures demeureront douces à chaudes, avec un risque orageux principalement sur le sud-est. La sécheresse persiste..
+Résumé général précédent : Sur 15 jours, la France resterait sous l'influence de flux méridiens, avec des températures souvent au-dessus des normales, des dégradations pluvio-orageuses de plus en plus probables à partir de la fin septembre, notamment sur l'ouest, les Cévennes et le sud-est, puis une baisse thermique progressive; la semaine du 5 au 11 octobre reste très indécise..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Salves orageuses sur l'ouest en début de semaine, possible épisode cévenol, amélioration en fin de semaine. (112 caractères).
+Températures attendues précédemment : Orages sur l'ouest lundi, fortes chaleurs mardi/mercredi, baisse thermique jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -471,7 +471,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 22 heures par waingro
+	Modifié hier à 17:51 par waingro
 
 =======================
 
@@ -498,7 +498,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								3
 								1
 								1
@@ -521,7 +521,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 8 heures par nickdu77
+	Modifié il y a 10 heures par nickdu77
 
 =======================
 
@@ -557,8 +557,8 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
+								6
 								4
-								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: bill43
@@ -702,7 +702,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 22 heures par waingro
+	Modifié hier à 17:51 par waingro
 
 =======================
 
@@ -729,7 +729,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								3
 								1
 								1
@@ -752,7 +752,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 8 heures par nickdu77
+	Modifié il y a 10 heures par nickdu77
 
 =======================
 
@@ -788,5 +788,5 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
+								6
 								4
-								3

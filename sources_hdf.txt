@@ -278,7 +278,7 @@ Températures minimales : en baisse sur le Valois.
 Températures maximales : stables.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 250930 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 25 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 25 septembre 2026 à 06H00 UTC, et évolution Dépression 967 hPa sur le nord de l'Islande, se comblant progressivement sur place. Dorsale atlantique sur le sud des iles Britanniques, se décalant vers la Manche demain. 3 - Prévisions pour l'après-midi du vendredi 25 septembre VENT : secteur Sud 2 à 4, virant Ouest à Sud-Ouest 3 à 4 en milieu d'après-midi, localement Nord-Ouest 2 à 4 à l'est de Gravelines. MER : belle à peu agitée. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 25 septembre au samedi 26 septembre VENT : secteur Ouest 3 à 4, fraîchissant Nord à Nord-Ouest 4 à 5 en milieu de nuit, puis mollissant Nord 3 à 4 en fin de nuit. Rafales. MER : belle à peu agitée, devenant peu agitée en seconde partie de nuit. HOULE : non significative. TEMPS : ciel voilé, devenant nuageux en seconde partie de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 26 septembre VENT : virant Nord à Nord-Est 3 à 4. MER : belle à peu agitée. HOULE : non significative. TEMPS : très nuageux, localement bruine en Mer du Nord le matin. VISIBILITE : bonne, parfois mauvaise sous bruine. 6 - Prévisions pour la nuit du 26 au 27 et la journée du dimanche 27 septembre VENT : Nord à Nord-Est 3 à 4, virant progressivement Est à Sud-Est la nuit, puis Sud en Manche en journée, mais mollissant localement Variable 1 à 3 en Mer du Nord, secteur Sud-Est dominant. MER : belle à peu agitée, s'atténuant belle le matin. HOULE : non significative. TEMPS : peu nuageux à nuageux, puis nuageux avec averses éparses en journée. VISIBILITE : bonne, puis localement moyenne sous averses. 7 - Prévisions pour la nuit du 27 au 28 et la journée du lundi 28 septembre VENT : Sud à Sud-Ouest 3 à 4, s'orientant Nord à Nord-Est en cours de matinée. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Mardi 29 septembre Secteur Sud modéré à assez fort Indice de confiance : 3 sur 5 Mercredi 30 septembre Secteur Sud faible à modéré Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 Vendredi 2 octobre Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le vendredi 25 septembre 2026 à 09H00 UTC Dunkerque : vent Sud 10 noeuds, mer peu agitée, 1020 hPa en baisse, clair ou peu nuageux, visibilité 6 milles. Cap Gris Nez : vent Sud 10 noeuds. Boulogne : vent Sud-Sud-Est 6 noeuds, 1020 hPa en hausse, clair ou peu nuageux, visibilité 16 milles. Prochain bulletin le vendredi 25 septembre 2026, vers 18H00 légales
+FQCT40 LFQQ 251610 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 25 septembre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 25 septembre 2026 à 12H00 UTC, et évolution Dépression 971 hPa sur le nord de l'Islande, se comblant progressivement sur place. Dorsale atlantique sur le sud des iles Britanniques, se décalant vers la Manche demain. 3 - Prévisions pour la nuit du vendredi 25 septembre au samedi 26 septembre VENT : secteur Ouest 3 à 4, fraîchissant Nord à Nord-Ouest 4 à 5 en milieu de nuit, puis mollissant Nord 3 à 4 en fin de nuit. Rafales. MER : belle, devenant peu agitée en seconde partie de nuit. HOULE : non significative. TEMPS : ciel voilé, devenant nuageux en seconde partie de nuit. VISIBILITE : bonne. 4 - Prévisions pour la journée du samedi 26 septembre VENT : virant Nord à Nord-Est 3 à 4. MER : belle à peu agitée. HOULE : non significative. TEMPS : très nuageux, localement bruine en Mer du Nord le matin. VISIBILITE : bonne, parfois mauvaise sous bruine. 5 - Tendance pour la nuit du 26 au 27, et la journée du dimanche 27 septembre VENT : Est à Nord-Est 3 à 4, virant progressivement Sud-Est la nuit, puis Sud l'après-midi, et fraîchissant secteur Sud-Ouest 3 à 5 en fin de journée. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux à nuageux, puis nuageux avec averses éparses en journée. VISIBILITE : bonne, puis localement moyenne sous averses. 6 - Prévisions pour la nuit du 27 au 28 et la journée du lundi 28 septembre VENT : Sud à Sud-Ouest 3 à 4, s'orientant Nord à Nord-Est en cours de matinée. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Mardi 29 septembre Secteur Sud modéré à assez fort Indice de confiance : 3 sur 5 Mercredi 30 septembre Secteur Sud faible à modéré Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 Vendredi 2 octobre Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le vendredi 25 septembre 2026 à 15H00 UTC Dunkerque : vent Sud 8 noeuds, 1017 hPa en baisse. Cap Gris Nez : vent Sud-Sud-Ouest 10 noeuds. Boulogne : vent Sud-Ouest 10 noeuds, 1017 hPa en baisse. Bouée Sandettie : vent Ouest 4 noeuds, creux 0,9 mètre, 1018 hPa en baisse, visibilité 10 milles. Prochain bulletin le samedi 26 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -302,12 +302,12 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Pluviométrie en 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Les Kitoutou ( chiens_nes ) des Icéens !
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 25/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -315,9 +315,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 25 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France connaîtront une séquence très douce à chaude en début de période, un net rafraîchissement après le 1er octobre avec un passage pluvieux, puis de fortes incertitudes pour la deuxième semaine entre retour de la chaleur et réveil atlantique..
+Résumé général HDF précédent : Sur 15 jours : chaleur remarquable en fin septembre (26-29°C mardi/mercredi), nette baisse jeudi/vendredi (19-20°C), week-end mitigé; semaine 41 très incertaine entre regain de chaleur et réveil atlantique, avec des pluies encore peu fiables..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Passages pluvio-orageux possibles, chaleur marquée avant une dégradation en fin de semaine..
+Températures attendues précédemment : Maximales 26-29°C mardi/mercredi, pluies jeudi/vendredi, retour à 19-20°C..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -462,7 +462,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 22 heures par waingro
+	Modifié hier à 17:51 par waingro
 
 =======================
 
@@ -489,7 +489,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								3
 								1
 								1
@@ -512,7 +512,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 8 heures par nickdu77
+	Modifié il y a 10 heures par nickdu77
 
 =======================
 
@@ -548,8 +548,8 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
+								6
 								4
-								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: bill43
@@ -693,7 +693,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 22 heures par waingro
+	Modifié hier à 17:51 par waingro
 
 =======================
 
@@ -720,7 +720,7 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								3
 								1
 								1
@@ -743,7 +743,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 8 heures par nickdu77
+	Modifié il y a 10 heures par nickdu77
 
 =======================
 
@@ -779,5 +779,5 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
 	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
+								6
 								4
-								3
