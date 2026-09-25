@@ -312,7 +312,7 @@ Températures minimales : en baisse.
 Températures maximales : en hausse sur le piémont et la montagne.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 250410 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 25 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 25 septembre 2026 à 00H00 UTC, et évolution Hautes pressions autour de 1021 à 1023 hPa sur le bassin. Dépression relative 1014 hPa au large de la Côte d'Azur, se décalant vers le sud ce matin, en se comblant la nuit prochaine. 3 - Prévisions pour la journée du vendredi 25 septembre VENT : - à l'ouest de Cap croisette : Nord 4 à 5, mollissant Variable 2 à 4 en fin de matinée, puis devenant secteur Sud l'après-midi. - à l'est de Cap Croisette : Est à Nord-Est 4 à 5, localement 5 à 6 à l'est de Sicié jusqu'en fin de matinée, puis mollissant 3 à 4 en fin de journée. MER : belle à peu agitée, localement peu agitée à agitée à l'est de Sicié jusqu'en milieu d'après-midi. HOULE : non significative, puis s'établissant Nord-Est 0.5 à 1 m à l'est de Sicié en fin de journée. TEMPS : peu nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 25 septembre au samedi 26 septembre VENT : secteur Est 2 à 4, mais localement Variable 1 à 3 à l'ouest de Cap Croisette jusqu'en milieu de nuit MER : belle à peu agitée. HOULE : Est 0.5 à 1 m, s'amortissant en milieu de nuit. TEMPS : peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 26 septembre VENT : secteur Est 2 à 4, virant secteur Sud-Est 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 26 au 27 et la journée du dimanche 27 septembre VENT : Est à Sud-Est 2 à 3, fraîchissant localement 4 en début de matinée. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Lundi 28 septembre Sud-Est modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mardi 29 septembre Sud-Est modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Mercredi 30 septembre Sud-Est modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Jeudi 1 octobre Sud-Est faible modéré dans le Golfe du Lion, Secteur Est faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 8 - Observations le vendredi 25 septembre 2026 à 03H00 UTC Cap Camarat : vent Nord-Est 23 noeuds, clair ou peu nuageux. Cap Cepet : vent Est-Nord-Est 12 noeuds, rafales 23 noeuds. Le Levant : vent Nord-Est 10 noeuds, 1015 hPa en baisse. Porquerolles : vent Nord-Est 8 noeuds. Cap Couronne : vent Nord-Nord-Ouest 14 noeuds, mer peu agitée, visibilité 8 milles. Prochain bulletin le vendredi 25 septembre 2026, vers 13H00 légales
+FQCT40 LFML 250930 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 25 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 25 septembre 2026 à 06H00 UTC, et évolution Hautes pressions autour de 1020 sur le bassin. Dépression relative 1015 au large de la Côte d'Azur, se décalant lentement vers le sud en se comblant, prévu 1017 entre le les îles Baléares et la Sardaigne la nuit. 3 - Prévisions pour l'après-midi du vendredi 25 septembre VENT : - à l'ouest de Cap croisette : Variable 2 à 4. - à l'est de Cap Croisette : Est à Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée. MER : belle à peu agitée. HOULE : Nord-Est 0.5 à 1 m à l'est de Sicié en fin de journée. TEMPS : peu nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 25 septembre au samedi 26 septembre VENT : secteur Est 2 à 4, mais localement Variable 1 à 3 à l'ouest de Cap Croisette jusqu'en milieu de nuit. MER : belle à peu agitée. HOULE : Est 0.5 à 1 m, s'amortissant en milieu de nuit. TEMPS : peu nuageux, localement très nuageux par nuages bas sur la Camargue en fin de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 26 septembre VENT : secteur Est 2 à 4, virant secteur Sud-Est 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 26 au 27 et la journée du dimanche 27 septembre VENT : Sud-Est 1 à 3, fraîchissant 2 à 4 localement 5 à l'est de Marseille en fin de nuit. MER : belle. HOULE : non significative. TEMPS : peu nuageux, localement très nuageux par nuages bas sur la Camargue en fin de nuit. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 27 au 28 et la journée du lundi 28 septembre VENT : Est à Sud-Est 3 à 4, revenant Est à Nord-Est en début de nuit, puis à l'Est à Sud-Est en seconde partie de nuit. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Mardi 29 septembre Secteur Sud- Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 30 septembre Secteur Sud- Est faible à modéré. Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Sud- Est faible à modéré. Indice de confiance : 2 sur 5 Vendredi 2 octobre Nord -Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le vendredi 25 septembre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 23 noeuds, très nuageux à couvert, visibilité 10 milles. Cap Cepet : vent Nord-Est 12 noeuds. Le Levant : vent Est 23 noeuds, rafales 33 noeuds, 1017 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 29 noeuds. Cap Couronne : vent Sud 4 noeuds. Prochain bulletin le vendredi 25 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -336,12 +336,12 @@ passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 • Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Vente de livres sur la météo et le climat
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 25/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -351,63 +351,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 Dernier bulletin généré le Vendredi 25 Septembre 2026.
 Résumé général précédent : Première quinzaine d'octobre sous tension entre un blocage anticyclonique tenace et des tentatives de percée atlantique. Chaleur souvent au-dessus des normales, retour progressif de l'humidité surtout par l'ouest et le bassin méditerranéen, sans garantie d'un arrosage généralisé..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Passages pluvio-orageux sur l'ouest lundi-mardi, chaleur au sud, puis possible accalmie..
+Températures attendues précédemment : Passages pluvio-orageux sur l'ouest, chaleur au sud, franc soleil le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: marée haute
-Message:
-il y a 52 minutes, Tornado75 a dit :
-			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
-			Gfs est rentré dans le rang malheureusement.
-			A suivre
-	Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
-
-=======================
-
-Auteur: cédric du Lot
-Message:
-il y a 52 minutes, marée haute a dit :
-			Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
-	Tu as choisi le bon cheval pour avoir une analyse de qualité et qui a le recul nécessaire a l'exercice...
-								6
-								7
-								1
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a 52 minutes, marée haute a dit :
-			Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
-	Bonjour,
-	Et bienvenue. Pour l'essentiel, vous pourrez trouver les documents sur le site meteociel.fr, notamment à la page https://www.meteociel.fr/modeles/liste.php
-	J'utilise aussi pour ma part le site Wetterzentrale (https://wetterzentrale.de/de/topkarten.php?model=gfs). Mais vous trouverez sur meteociel.fr les différents types de modèles utilisés et donc les cartes, diagrammes et tableaux utilisés. C'est un peu difficile au début mais, grâce aux contributions des membres du site, on finit par comprendre comment tout cela s'articule.
-								2
-								1
-
-=======================
-
-Auteur: Hassan
-Message:
-Il y a 15 heures, giec 2100 a dit :
-			la glacière du pôle N paraît bien poussive pour reconstituer la réserve de froid de l'hémisphère N : 
-			la modélisation CEP version IA des températures à 850hPa de vendredi dernier nous fabriquait un confettis à -24°C vers le pôle pour le 1er octobre, pour se "réchauffer" à -20° sur celle d'aujourd'hui, même emplacement, puis pschitt comme disait l'Autre, pour nous donner en fin d'échéance la zone arctique comme pôle du froid avec quelques misérables taches très éparses à -12°... :
-			très grosses inquiétudes à avoir, non... ?
-			https://images.meteociel.fr/im/34/3961/ecmwfnh_1_324bue2.png
-			https://images.meteociel.fr/im/62/5411/ecmwfnh_1_300vfk2.png
-			quant au ballet de nos très appétissantes dépressions qui nous narguent en virevoltant, avec pour pivot elle-même, elles tirent leur révérence face au Royaume-Uni pour cingler vers le pôle, giclées sous l'étreinte conjointe des anticyclones de l'Atlantique et de la zone fennoscandienne, sans jamais effleurer ne serait-ce que la Bretagne ; c'est donc toujours le même manège supplice de tantale à quatre jours d'intervalle... :
-			jamais l'expression "prendre la tangente" n'aura été aussi expressive... pour notre plus grand malheur...
-			vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
-			aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
-			les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Anomalie froide sur le centre du bassin arctique pour les 10 prochains jours
-	Le déterministe de ce matin est plutôt chaud et sec par rapport a son ensemble donc effectivement à remettre dans son contexte. Les signaux humides sont encore bien présents à partir de lundi par la sud ouest.
-	Modifié mercredi à 07:26 par Hassan
-								1
-
-=======================
-
 Auteur: bill43
 Message:
 Il y a 2 heures, Tornado75 a dit :
@@ -549,7 +496,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 14 heures par waingro
+	Modifié il y a 16 heures par waingro
 
 =======================
 
@@ -576,8 +523,8 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 12 heures par giec 2100
-								2
+	Modifié il y a 14 heures par giec 2100
+								3
 								1
 								1
 
@@ -587,61 +534,57 @@ Auteur: Krholam
 Message:
 Ça reste chaud.
 	Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a 13 minutes, Krholam a dit :
+			Ça reste chaud.
+			Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
+	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
+	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
+	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
+	Modifié il y a 2 heures par nickdu77
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+La dépression atlantique qui va se former va naître d'un puissant talweg mais elle ne devrait même pas traverser la GB mais au contraire se diriger à l'ouest prise en tenaille par les hautes pressions de l'ouest de l'Europe et celles toujours présentes sur l'atlantique et le nord de l'Afrique :
+	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
+	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
+	Je pense qu'il y a beaucoup d'incertitudes. 
+								2
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Oui, ce possible "plat" apparait sur l'ensembliste GEFS avec une absence de RR entre les thalwegs possible du 30/09 au 02/10 et une possible reprise hors Topic
+	GEM me semble plus modéré quand à ce plat
+	Les ensemblistes de CEP ne sont pas sorti même si j'aimerai bien voir ce qu'il se trame.
+	Cependant, je trouve quand même que l'Atlantique se reveille enfin, et bien que l'anticyclone veuille jouer les prolongation en se reconstituant, il n'a pas l'air de retrouver la même vigueur. Mais ça c'est plutôt le sujet de la semaine suivante.
+	Pour finir, et pour notre semaine, je trouve qu'il y a un signal non négligeable d'épisode cévenol qui a l'air bien cerné par ECMWF
+	L'incertitude, à mon sens, viens sans doute de l'étendu de cette épisode, mais il y a un signal net je trouve.
+	(Et sinon sortez vos laines)
+								1
+
+=======================
+
+Auteur: Nico 14
+Message:
+C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de surface.Lundi il devrait commencer sa progression vers l'est et apporter un temps pluvio-instable sur l'O/NO.
+	Mardi et mercredi le flux devrait davantage se redresser au SSO avec une advection chaude et humide qui gagne même vers l'ouest sur les dernières mises à jour. Les modèles avaient déjà anticipés ces journées chaudes depuis quelques jours où le seuil de fortes chaleurs devrait être atteint y compris sur le nord du pays. De probables développement instables sont possibles sur l'ouest du pays pour ces 2 journées.On notera la mise en place d'une phase orographique vers les Cévennes. 
+	Entre mercredi soir et jeudi,le fond de talweg devrait parvenir à aborder le pays avec donc un balayage pluvio-instable ouest-&gt;est plus généralisé et l'amorce d'une baisse des températures par l'ouest.La situation pourrait être à surveiller sur le SE du pays.
+	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
+	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
+	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
+								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: marée haute
-Message:
-il y a 52 minutes, Tornado75 a dit :
-			Ce matin l'évolution est terrible. Lar empêche toute perturbation de pénétrer à l'intérieur du pays avec en prime un flux de sud à sud est.
-			Gfs est rentré dans le rang malheureusement.
-			A suivre
-	Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
-
-=======================
-
-Auteur: cédric du Lot
-Message:
-il y a 52 minutes, marée haute a dit :
-			Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
-	Tu as choisi le bon cheval pour avoir une analyse de qualité et qui a le recul nécessaire a l'exercice...
-								6
-								7
-								1
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a 52 minutes, marée haute a dit :
-			Bonjour Tornado75, pourriez-vous poster la ou les cartes de gfs sur lesquelles vous avez basé votre analyse? Un grand merci d'un novice qui essaie de comprendre:-)
-	Bonjour,
-	Et bienvenue. Pour l'essentiel, vous pourrez trouver les documents sur le site meteociel.fr, notamment à la page https://www.meteociel.fr/modeles/liste.php
-	J'utilise aussi pour ma part le site Wetterzentrale (https://wetterzentrale.de/de/topkarten.php?model=gfs). Mais vous trouverez sur meteociel.fr les différents types de modèles utilisés et donc les cartes, diagrammes et tableaux utilisés. C'est un peu difficile au début mais, grâce aux contributions des membres du site, on finit par comprendre comment tout cela s'articule.
-								2
-								1
-
-=======================
-
-Auteur: Hassan
-Message:
-Il y a 15 heures, giec 2100 a dit :
-			la glacière du pôle N paraît bien poussive pour reconstituer la réserve de froid de l'hémisphère N : 
-			la modélisation CEP version IA des températures à 850hPa de vendredi dernier nous fabriquait un confettis à -24°C vers le pôle pour le 1er octobre, pour se "réchauffer" à -20° sur celle d'aujourd'hui, même emplacement, puis pschitt comme disait l'Autre, pour nous donner en fin d'échéance la zone arctique comme pôle du froid avec quelques misérables taches très éparses à -12°... :
-			très grosses inquiétudes à avoir, non... ?
-			https://images.meteociel.fr/im/34/3961/ecmwfnh_1_324bue2.png
-			https://images.meteociel.fr/im/62/5411/ecmwfnh_1_300vfk2.png
-			quant au ballet de nos très appétissantes dépressions qui nous narguent en virevoltant, avec pour pivot elle-même, elles tirent leur révérence face au Royaume-Uni pour cingler vers le pôle, giclées sous l'étreinte conjointe des anticyclones de l'Atlantique et de la zone fennoscandienne, sans jamais effleurer ne serait-ce que la Bretagne ; c'est donc toujours le même manège supplice de tantale à quatre jours d'intervalle... :
-			jamais l'expression "prendre la tangente" n'aura été aussi expressive... pour notre plus grand malheur...
-			vendredi dernier, même source : animation refusée, faire défiler sur https://www.meteociel.fr/modeles/ecmwf_aifs.php?&amp;ech=0&amp;mode=0&amp;heure=6&amp;jour=18&amp;mois=9&amp;annee=2026&amp;archive=1&amp;carte=1&amp;aifs=2
-			aujourd'hui, même source  : https://images.meteociel.fr/im/100/19675/animbhe0.gif
-			les nouvelles sont très mauvaises... et je ne voudrais pas qu'on croit que je joue les Cassandre, non plus je ne voudrais subir le sort du messager...
-	Anomalie froide sur le centre du bassin arctique pour les 10 prochains jours
-	Le déterministe de ce matin est plutôt chaud et sec par rapport a son ensemble donc effectivement à remettre dans son contexte. Les signaux humides sont encore bien présents à partir de lundi par la sud ouest.
-	Modifié mercredi à 07:26 par Hassan
-								1
-
-=======================
-
 Auteur: bill43
 Message:
 Il y a 2 heures, Tornado75 a dit :
@@ -783,7 +726,7 @@ Auteur: waingro
 Message:
 Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
 	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié il y a 14 heures par waingro
+	Modifié il y a 16 heures par waingro
 
 =======================
 
@@ -810,8 +753,8 @@ Message:
 	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
 	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
 	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié il y a 12 heures par giec 2100
-								2
+	Modifié il y a 14 heures par giec 2100
+								3
 								1
 								1
 
@@ -821,3 +764,52 @@ Auteur: Krholam
 Message:
 Ça reste chaud.
 	Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a 13 minutes, Krholam a dit :
+			Ça reste chaud.
+			Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
+	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
+	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
+	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
+	Modifié il y a 2 heures par nickdu77
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+La dépression atlantique qui va se former va naître d'un puissant talweg mais elle ne devrait même pas traverser la GB mais au contraire se diriger à l'ouest prise en tenaille par les hautes pressions de l'ouest de l'Europe et celles toujours présentes sur l'atlantique et le nord de l'Afrique :
+	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
+	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
+	Je pense qu'il y a beaucoup d'incertitudes. 
+								2
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Oui, ce possible "plat" apparait sur l'ensembliste GEFS avec une absence de RR entre les thalwegs possible du 30/09 au 02/10 et une possible reprise hors Topic
+	GEM me semble plus modéré quand à ce plat
+	Les ensemblistes de CEP ne sont pas sorti même si j'aimerai bien voir ce qu'il se trame.
+	Cependant, je trouve quand même que l'Atlantique se reveille enfin, et bien que l'anticyclone veuille jouer les prolongation en se reconstituant, il n'a pas l'air de retrouver la même vigueur. Mais ça c'est plutôt le sujet de la semaine suivante.
+	Pour finir, et pour notre semaine, je trouve qu'il y a un signal non négligeable d'épisode cévenol qui a l'air bien cerné par ECMWF
+	L'incertitude, à mon sens, viens sans doute de l'étendu de cette épisode, mais il y a un signal net je trouve.
+	(Et sinon sortez vos laines)
+								1
+
+=======================
+
+Auteur: Nico 14
+Message:
+C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de surface.Lundi il devrait commencer sa progression vers l'est et apporter un temps pluvio-instable sur l'O/NO.
+	Mardi et mercredi le flux devrait davantage se redresser au SSO avec une advection chaude et humide qui gagne même vers l'ouest sur les dernières mises à jour. Les modèles avaient déjà anticipés ces journées chaudes depuis quelques jours où le seuil de fortes chaleurs devrait être atteint y compris sur le nord du pays. De probables développement instables sont possibles sur l'ouest du pays pour ces 2 journées.On notera la mise en place d'une phase orographique vers les Cévennes. 
+	Entre mercredi soir et jeudi,le fond de talweg devrait parvenir à aborder le pays avec donc un balayage pluvio-instable ouest-&gt;est plus généralisé et l'amorce d'une baisse des températures par l'ouest.La situation pourrait être à surveiller sur le SE du pays.
+	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
+	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
+	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
+								3
