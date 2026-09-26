@@ -315,9 +315,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours, la région Hauts-de-France connaît un temps encore très chaud pour la saison, avec une dégradation temporaire en milieu de première semaine, puis un possible retour de la chaleur. Les précipitations restent insuffisantes et la sécheresse de surface se poursuit..
+Résumé général HDF précédent : Sur 15 jours, les Hauts-de-France restent sous l'influence de flux méridiens chauds et secs. Pic de chaleur mardi-mercredi (semaine 1), dégradation orageuse jeudi-vendredi, puis regain de chaleur probable en semaine 2. Les pluies restent insuffisantes face à la sécheresse de surface..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaud et localement orageux, puis baisse des températures à partir de jeudi..
+Températures attendues précédemment : Chaud mardi-mercredi, dégradation pluvio-orageuse possible jeudi, baisse ensuite..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -436,7 +436,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 18 heures par nickdu77
+	Modifié il y a 20 heures par nickdu77
 
 =======================
 
@@ -505,7 +505,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 
 =======================
@@ -671,7 +671,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 18 heures par nickdu77
+	Modifié il y a 20 heures par nickdu77
 
 =======================
 
@@ -740,7 +740,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 
 =======================

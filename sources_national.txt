@@ -324,9 +324,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 26 Septembre 2026.
-Résumé général précédent : Sur 15 jours : chaleur excessive pour la saison, dégradation modérée en semaine 1, semaine 2 très incertaine. L’absence de flux zonal maintient un risque de sécheresse renforcée..
+Résumé général précédent : Sur l'ensemble des deux semaines, la France resterait sous l'influence de flux méridiens, avec une chaleur persistante pour la saison, des précipitations irrégulières et un risque orageux méditerranéen. Aucun flux zonal durable ne se dessine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies orageuses, fortes chaleurs, fraîchissement en fin de semaine..
+Températures attendues précédemment : Passages pluvio-orageux sur l'ouest lundi-mardi, chaleur mardi-mercredi, possible fraîchissement le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -445,7 +445,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 18 heures par nickdu77
+	Modifié il y a 20 heures par nickdu77
 
 =======================
 
@@ -514,7 +514,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 
 =======================
@@ -680,7 +680,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 18 heures par nickdu77
+	Modifié il y a 20 heures par nickdu77
 
 =======================
 
@@ -749,7 +749,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 
 =======================
