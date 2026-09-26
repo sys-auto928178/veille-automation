@@ -307,12 +307,12 @@ vigilance orange quasi nul.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,31 +320,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
-Résumé général HDF précédent : Tendance générale : temps anormalement chaud et sec, avec un pic de chaleur mardi 29/09, une dégradation pluvieuse modérée et incertaine mercredi/jeudi, puis un probable retour anticyclonique. La sécheresse de surface pourrait s'accentuer..
+Résumé général HDF précédent : Sur 15 jours(28/09-11/10), la HDF reste sous influence anticyclonique fréquente, avec un pic de chaleur mardi29, une dégradation pluvio-instable mercredi/jeudi, puis un retour sec et plus frais; la semaine2 s'annonce encore douce et sèche, mais avec de fortes incertitudes..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pic de chaleur mardi 29 (26-29°C), averses mercredi/jeudi, fraîchissement week-end..
+Températures attendues précédemment : Pic de chaleur mardi(26-30°C); averses possibles mercredi/jeudi; nette baisse thermique le week-end(19-22°C)..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-@Pervanche7 oui c'est très beau... et ça promet...
-	mais tellement échaudé (!) depuis si longtemps que je fais comme le chat désormais, à l'affût des mirages qui me rongent...
-	et puis pour corroborer tout ça je fais ce qu'on m'a interdit de faire, c'est-à-dire le "run sur run", en rétrograde... et là on a toujours une prévision qui vient doucher ce qu'il ne faudrait pas : l'espoir...
-	alors on engueule l'Américain, qui nous laisse en panne sèche en fin d'échéance pour ce beau voyage... : https://images.meteociel.fr/im/16/5447/gfseuw_25_246tfu5.png
-	... ou alors on menace l'Européen d'être auteur de harcèlement psychologique, après avoir sauvagement rogné les zones significativement arrosées à deux jours de distance, en craignant fort la portion congrue dans 48h,  avec ça... : 
-	https://images.meteociel.fr/im/83/22103/ecmwffr_25_258smp6.png
-	https://images.meteociel.fr/im/99/5342/ecmwffr_25_312rsg8.png
-	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
-	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
-	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié jeudi à 19:34 par giec 2100
-								3
-								1
-								1
-
-=======================
-
 Auteur: Krholam
 Message:
 Ça reste chaud.
@@ -430,7 +411,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 19:12 par giec 2100
 								1
 
 =======================
@@ -479,7 +460,7 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
 								13
-								1
+								2
 
 =======================
 
@@ -502,7 +483,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 10 heures par mathias
+	Modifié il y a 12 heures par mathias
 								4
 								1
 								3
@@ -533,7 +514,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 								2
 
 =======================
@@ -552,7 +533,7 @@ Message:
 Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
 	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
 	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								3
+								4
 
 =======================
 
@@ -568,30 +549,23 @@ Message:
 Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
 	Joli contraste nonobstant 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
-	Modifié il y a 3 minutes par Nono34
+	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
+	Modifié il y a 1 heure par Nono34
 								3
 								2
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+On a quand-même  pas mal de scénarios dans lesquels les hautes pressions sont attaquées par des anomalies froides d'altitude. 
+	C'est très loin pour des déterministes c'est pour cela que je parle de scénarios mais dans ces hypothèses on peut penser que l'atmosphère pourrait etre instable et des précipitations possibles malgré les hautes pressions qui tendent a s'accrocher sur notre pays.
+	CEP :
+	GFS :
+	GEM :
+								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-@Pervanche7 oui c'est très beau... et ça promet...
-	mais tellement échaudé (!) depuis si longtemps que je fais comme le chat désormais, à l'affût des mirages qui me rongent...
-	et puis pour corroborer tout ça je fais ce qu'on m'a interdit de faire, c'est-à-dire le "run sur run", en rétrograde... et là on a toujours une prévision qui vient doucher ce qu'il ne faudrait pas : l'espoir...
-	alors on engueule l'Américain, qui nous laisse en panne sèche en fin d'échéance pour ce beau voyage... : https://images.meteociel.fr/im/16/5447/gfseuw_25_246tfu5.png
-	... ou alors on menace l'Européen d'être auteur de harcèlement psychologique, après avoir sauvagement rogné les zones significativement arrosées à deux jours de distance, en craignant fort la portion congrue dans 48h,  avec ça... : 
-	https://images.meteociel.fr/im/83/22103/ecmwffr_25_258smp6.png
-	https://images.meteociel.fr/im/99/5342/ecmwffr_25_312rsg8.png
-	comme la vague impression de se faire rouler... dans ces très esthétiques enroulements de dépressions atlantiques, hors de portée possiblement, avec ce vers de François Villon en tête... : Mourir de soif auprès de la fontaine
-	en sortant du style littéraire et en se rangeant du côté des probas on ne peut que s'interroger sur la consistance de ce qui pourra précipiter la semaine prochaine :
-	jusqu'à vendredi - au-delà jusqu'à dimanche idem - les dés paraissent pipés dans le mauvais sens en nous laissant sur notre soif... : 
-	Modifié jeudi à 19:34 par giec 2100
-								3
-								1
-								1
-
-=======================
-
 Auteur: Krholam
 Message:
 Ça reste chaud.
@@ -677,7 +651,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 19:12 par giec 2100
 								1
 
 =======================
@@ -726,7 +700,7 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
 								13
-								1
+								2
 
 =======================
 
@@ -749,7 +723,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 10 heures par mathias
+	Modifié il y a 12 heures par mathias
 								4
 								1
 								3
@@ -780,7 +754,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 								2
 
 =======================
@@ -799,7 +773,7 @@ Message:
 Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
 	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
 	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								3
+								4
 
 =======================
 
@@ -815,6 +789,18 @@ Message:
 Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
 	Joli contraste nonobstant 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
-	Modifié il y a 3 minutes par Nono34
+	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
+	Modifié il y a 1 heure par Nono34
 								3
 								2
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+On a quand-même  pas mal de scénarios dans lesquels les hautes pressions sont attaquées par des anomalies froides d'altitude. 
+	C'est très loin pour des déterministes c'est pour cela que je parle de scénarios mais dans ces hypothèses on peut penser que l'atmosphère pourrait etre instable et des précipitations possibles malgré les hautes pressions qui tendent a s'accrocher sur notre pays.
+	CEP :
+	GFS :
+	GEM :
+								3
