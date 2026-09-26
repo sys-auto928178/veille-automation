@@ -332,12 +332,12 @@ vigilance orange quasi nul.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : =30°C consécutives]]>
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Mesure de la hauteur de neige
-• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps au Saguenay, Québec (Canada)
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : La météo &#xE0; La Réunion
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -347,27 +347,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
 Résumé général HDF précédent : Sur 15 jours, temps anormalement chaud et sec pour la saison, avec pic de chaleur en début de semaine 1, dégradation pluvio-instable incertaine en milieu de semaine 1, puis retour probable d'un temps sec et chaud en semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Dégradation pluvio-instable mercredi/jeudi, températures encore très chaudes en début de semaine..
+Températures attendues précédemment : Chaleur mardi, averses limitées mercredi/jeudi, fraîchissement le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: Pervanche7
-Message:
-L'image satellite du jour (avec le duo dépression/ tempête tropicale Fay) résume bien l'incertitude sur la suite niveau précipitation. Un gros ?
-								3
-								2
-								1
-
-=======================
-
-Auteur: waingro
-Message:
-Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
-	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié jeudi à 17:51 par waingro
-
-=======================
-
 Auteur: Plancher
 Message:
 Je suis peu enthousiaste ce soir. Je trouve que ça n'évolue pas dans le bon sens. GFS nous sort un run avec un flux de Sud de plus en plus atténué et de moins en moins humide.
@@ -424,7 +407,7 @@ La dépression atlantique qui va se former va naître d'un puissant talweg mais 
 	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
 	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
 	Je pense qu'il y a beaucoup d'incertitudes. 
-								4
+								5
 								1
 
 =======================
@@ -452,7 +435,7 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
 								7
 								1
-								5
+								6
 
 =======================
 
@@ -483,7 +466,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 
 =======================
@@ -495,7 +478,7 @@ salut     🤔🌧️   
 	+30 mm / 6 heure  
 	---
 	50 et 72 mm   juste    8:00 1 octobre +138h
-								7
+								8
 								1
 
 =======================
@@ -521,7 +504,7 @@ il y a 31 minutes, serge26 a dit :
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 								10
-								4
+								5
 
 =======================
 
@@ -555,12 +538,12 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 4 heures par mathias
+	Modifié il y a 6 heures par mathias
 								4
 								1
 								2
 								1
-								6
+								8
 
 =======================
 
@@ -570,7 +553,7 @@ Il y a 11 heures, Mazz37 a dit :
 			A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
 	Parce que les signatures ça alourdit l'affichage, surtout quand y a plein d'images (comme par ex. afficher des encarts de vigi MF beaucoup trop gros…). Donc passé une certaine résolution et un certain affichage, hop, on retire des éléments de l'affichage pour alléger le chargement. 
 	Après, peut-être que @symaski62 peut mettre son information concernant son handicap dans le champs "localisation" de son profil. Ça s'affichera y compris sur mobile juste en dessous de son pseudo.
-								8
+								10
 
 =======================
 
@@ -586,7 +569,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 1 heure par petit âge glaciaire 11
+	Modifié il y a 3 heures par petit âge glaciaire 11
 
 =======================
 
@@ -594,26 +577,25 @@ Auteur: Charly-C
 Message:
 Même pas sûr qu'on arrive à atteindre les niveaux de saison. Les tn de jeudi pourraient rester bien douces sur une bonne tranche sud et est et les températures semblent repartir à la hausse des vendredi après-midi via le sud-ouest.
 	En global, la semaine devrait être plus anormalement douce que la semaine en cours. 
-	Quelques grosses Tn à prévoir vers mardi/mercredi également.
+	Quelques grosses Tn à prévoir vers mardi/mercredi également. 
+								2
+
+=======================
+
+Auteur: Plancher
+Message:
+Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
+	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
+	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
+								1
+
+=======================
+
+Auteur: max_régusse
+Message:
+Non pas de retour à des températures de saison pour le bassin méditerranéen notamment PACA et Corse on restera sur du +2 à +4°C toute la semaine.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: Pervanche7
-Message:
-L'image satellite du jour (avec le duo dépression/ tempête tropicale Fay) résume bien l'incertitude sur la suite niveau précipitation. Un gros ?
-								3
-								2
-								1
-
-=======================
-
-Auteur: waingro
-Message:
-Les modélisations sont assez stables pour des passages pluvio-orageux sur un tiers/moitié ouest lundi et mardi, avant peut être ensuite un balayage de presque tout le territoire avec le décalage progressif du thalweg vers l'est
-	Mardi et mercredi seraient par contre des journées bien chaudes pour une fin septembre avec le flux de SO à l'avant du thalweg
-	Modifié jeudi à 17:51 par waingro
-
-=======================
-
 Auteur: Plancher
 Message:
 Je suis peu enthousiaste ce soir. Je trouve que ça n'évolue pas dans le bon sens. GFS nous sort un run avec un flux de Sud de plus en plus atténué et de moins en moins humide.
@@ -670,7 +652,7 @@ La dépression atlantique qui va se former va naître d'un puissant talweg mais 
 	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
 	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
 	Je pense qu'il y a beaucoup d'incertitudes. 
-								4
+								5
 								1
 
 =======================
@@ -698,7 +680,7 @@ C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de
 	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
 								7
 								1
-								5
+								6
 
 =======================
 
@@ -729,7 +711,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 
 =======================
@@ -741,7 +723,7 @@ salut     🤔🌧️   
 	+30 mm / 6 heure  
 	---
 	50 et 72 mm   juste    8:00 1 octobre +138h
-								7
+								8
 								1
 
 =======================
@@ -767,7 +749,7 @@ il y a 31 minutes, serge26 a dit :
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 								10
-								4
+								5
 
 =======================
 
@@ -801,12 +783,12 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 4 heures par mathias
+	Modifié il y a 6 heures par mathias
 								4
 								1
 								2
 								1
-								6
+								8
 
 =======================
 
@@ -816,7 +798,7 @@ Il y a 11 heures, Mazz37 a dit :
 			A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
 	Parce que les signatures ça alourdit l'affichage, surtout quand y a plein d'images (comme par ex. afficher des encarts de vigi MF beaucoup trop gros…). Donc passé une certaine résolution et un certain affichage, hop, on retire des éléments de l'affichage pour alléger le chargement. 
 	Après, peut-être que @symaski62 peut mettre son information concernant son handicap dans le champs "localisation" de son profil. Ça s'affichera y compris sur mobile juste en dessous de son pseudo.
-								8
+								10
 
 =======================
 
@@ -832,7 +814,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 1 heure par petit âge glaciaire 11
+	Modifié il y a 3 heures par petit âge glaciaire 11
 
 =======================
 
@@ -840,4 +822,20 @@ Auteur: Charly-C
 Message:
 Même pas sûr qu'on arrive à atteindre les niveaux de saison. Les tn de jeudi pourraient rester bien douces sur une bonne tranche sud et est et les températures semblent repartir à la hausse des vendredi après-midi via le sud-ouest.
 	En global, la semaine devrait être plus anormalement douce que la semaine en cours. 
-	Quelques grosses Tn à prévoir vers mardi/mercredi également.
+	Quelques grosses Tn à prévoir vers mardi/mercredi également. 
+								2
+
+=======================
+
+Auteur: Plancher
+Message:
+Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
+	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
+	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
+								1
+
+=======================
+
+Auteur: max_régusse
+Message:
+Non pas de retour à des températures de saison pour le bassin méditerranéen notamment PACA et Corse on restera sur du +2 à +4°C toute la semaine.
