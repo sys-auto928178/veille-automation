@@ -302,22 +302,22 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Tendances automne 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps-Centre du Quebec
-• Infoclimat Direct : Suivi de l'englacement au p&#xF4;le nord
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Vendredi 25 Septembre 2026.
-Résumé général HDF précédent : .
+Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
+Résumé général HDF précédent : Sur 15 jours, la région Hauts-de-France connaît un temps encore très chaud pour la saison, avec une dégradation temporaire en milieu de première semaine, puis un possible retour de la chaleur. Les précipitations restent insuffisantes et la sécheresse de surface se poursuit..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur estivale lundi-mardi (26-29°C), dégradation jeudi 1er (19-20°C). (45).
+Températures attendues précédemment : Chaud et localement orageux, puis baisse des températures à partir de jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -436,7 +436,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 16 heures par nickdu77
+	Modifié il y a 18 heures par nickdu77
 
 =======================
 
@@ -505,7 +505,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 
 =======================
@@ -542,7 +542,7 @@ il y a 31 minutes, serge26 a dit :
 			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								6
+								7
 								2
 
 =======================
@@ -671,7 +671,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 16 heures par nickdu77
+	Modifié il y a 18 heures par nickdu77
 
 =======================
 
@@ -740,7 +740,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 
 =======================
@@ -777,7 +777,7 @@ il y a 31 minutes, serge26 a dit :
 			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								6
+								7
 								2
 
 =======================
