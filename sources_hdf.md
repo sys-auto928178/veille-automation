@@ -307,12 +307,12 @@ vigilance orange quasi nul.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Climatologie 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,45 +320,14 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours(28/09-11/10), la HDF reste sous influence anticyclonique fréquente, avec un pic de chaleur mardi29, une dégradation pluvio-instable mercredi/jeudi, puis un retour sec et plus frais; la semaine2 s'annonce encore douce et sèche, mais avec de fortes incertitudes..
+Résumé général HDF précédent : Temps sec et souvent chaud en début de période, dégradation pluvio-instable en milieu de semaine 1, puis retour d'un temps sec plus frais ; la semaine 2 s'annonce encore douce et sèche, mais avec de fortes incertitudes..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pic de chaleur mardi(26-30°C); averses possibles mercredi/jeudi; nette baisse thermique le week-end(19-22°C)..
+Températures attendues précédemment : Chaleur marquée mardi, pluies ou averses mercredi/jeudi, soleil ensuite..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
 Auteur: Krholam
 Message:
-Ça reste chaud.
-	Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
-								1
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a 13 minutes, Krholam a dit :
-			Ça reste chaud.
-			Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
-	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
-	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
-	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié hier à 08:00 par nickdu77
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-La dépression atlantique qui va se former va naître d'un puissant talweg mais elle ne devrait même pas traverser la GB mais au contraire se diriger à l'ouest prise en tenaille par les hautes pressions de l'ouest de l'Europe et celles toujours présentes sur l'atlantique et le nord de l'Afrique :
-	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
-	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
-	Je pense qu'il y a beaucoup d'incertitudes. 
-								5
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
 Oui, ce possible "plat" apparait sur l'ensembliste GEFS avec une absence de RR entre les thalwegs possible du 30/09 au 02/10 et une possible reprise hors Topic
 	GEM me semble plus modéré quand à ce plat
 	Les ensemblistes de CEP ne sont pas sorti même si j'aimerai bien voir ce qu'il se trame.
@@ -459,7 +428,7 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								13
+								14
 								2
 
 =======================
@@ -483,7 +452,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 12 heures par mathias
+	Modifié il y a 14 heures par mathias
 								4
 								1
 								3
@@ -514,7 +483,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 								2
 
 =======================
@@ -550,6 +519,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	Joli contraste nonobstant 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
+	certaines stations vont finir septembre avec moins de 1mm
 	Modifié il y a 1 heure par Nono34
 								3
 								2
@@ -563,42 +533,43 @@ On a quand-même  pas mal de scénarios dans lesquels les hautes pressions sont
 	CEP :
 	GFS :
 	GEM :
-								3
+								4
+
+=======================
+
+Auteur: Run999H
+Message:
+Il y a 5 heures, Nono34 a dit :
+	Je suis peut-être bête mais dans le doute je pose la question car je n’ai pas compris cette carte 🤣
+	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
+	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
+	Merci de m’éclairer  
+	Modifié il y a 1 heure par Run999H
+								2
+								1
+
+=======================
+
+Auteur: seb93100
+Message:
+Ce n'est sûrement pas Bordeaux ou alors la ville a changé d'emplacement.😅
+
+=======================
+
+Auteur: Nono34
+Message:
+il y a 3 minutes, Run999H a dit :
+			Je suis peut-être bête mais dans le doute je pose la question car je n’ai pas compris cette carte 🤣
+			« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
+			Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
+			Merci de m’éclairer  
+	Oui effectivement sa carte est fausse je supprime, sa méthodologie n’a aucun sens 😭🤣
+	Montsouris est bien à 28 jours secs (&lt;1mm) consécutifs et va probablement atteindre 30 jours
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: Krholam
 Message:
-Ça reste chaud.
-	Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
-								1
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a 13 minutes, Krholam a dit :
-			Ça reste chaud.
-			Mais j’ai un grand "Prend toi ça dans la tête L’AA" qui vient naturellement de sortir
-	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
-	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
-	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié hier à 08:00 par nickdu77
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-La dépression atlantique qui va se former va naître d'un puissant talweg mais elle ne devrait même pas traverser la GB mais au contraire se diriger à l'ouest prise en tenaille par les hautes pressions de l'ouest de l'Europe et celles toujours présentes sur l'atlantique et le nord de l'Afrique :
-	Je pense que  le creusement,  l'orientation et le déplacement de cette dépression devrait avoir des conséquences indirectes pour notre pays mais qu'il est difficile encore de savoir lesquelles. 
-	En effet, après son passage l' AA atlantique pourrait reprendre vigueur et se rapprocher voire s'installer sur notre pays,  ou pas, et s'orienter ouest-est ou prendre une orientation plus méridienne ce qui déterminera l'orientation du flux et les possibilités de précipitations sur l'hexagone. 
-	Je pense qu'il y a beaucoup d'incertitudes. 
-								5
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
 Oui, ce possible "plat" apparait sur l'ensembliste GEFS avec une absence de RR entre les thalwegs possible du 30/09 au 02/10 et une possible reprise hors Topic
 	GEM me semble plus modéré quand à ce plat
 	Les ensemblistes de CEP ne sont pas sorti même si j'aimerai bien voir ce qu'il se trame.
@@ -699,7 +670,7 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								13
+								14
 								2
 
 =======================
@@ -723,7 +694,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 12 heures par mathias
+	Modifié il y a 14 heures par mathias
 								4
 								1
 								3
@@ -754,7 +725,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 								2
 
 =======================
@@ -790,6 +761,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	Joli contraste nonobstant 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
+	certaines stations vont finir septembre avec moins de 1mm
 	Modifié il y a 1 heure par Nono34
 								3
 								2
@@ -803,4 +775,36 @@ On a quand-même  pas mal de scénarios dans lesquels les hautes pressions sont
 	CEP :
 	GFS :
 	GEM :
-								3
+								4
+
+=======================
+
+Auteur: Run999H
+Message:
+Il y a 5 heures, Nono34 a dit :
+	Je suis peut-être bête mais dans le doute je pose la question car je n’ai pas compris cette carte 🤣
+	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
+	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
+	Merci de m’éclairer  
+	Modifié il y a 1 heure par Run999H
+								2
+								1
+
+=======================
+
+Auteur: seb93100
+Message:
+Ce n'est sûrement pas Bordeaux ou alors la ville a changé d'emplacement.😅
+
+=======================
+
+Auteur: Nono34
+Message:
+il y a 3 minutes, Run999H a dit :
+			Je suis peut-être bête mais dans le doute je pose la question car je n’ai pas compris cette carte 🤣
+			« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
+			Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
+			Merci de m’éclairer  
+	Oui effectivement sa carte est fausse je supprime, sa méthodologie n’a aucun sens 😭🤣
+	Montsouris est bien à 28 jours secs (&lt;1mm) consécutifs et va probablement atteindre 30 jours
+								1
