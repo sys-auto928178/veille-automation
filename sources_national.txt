@@ -15,14 +15,14 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL PARIS ET PETITE COURONNE (DEPT75) ===
-Emis le : 26/09/2026 06:30
+Emis le : 26/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, Paris et sa petite couronne sont en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Paris-Montsouris : température de 16 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 20 km/h, pression niveau mer 1019 hPa.
+Aujourd'hui on observait à 09h :
+A Paris-Montsouris : température de 16 degrés, vent de secteur Nord soufflant jusqu'à 25 km/h, pression niveau mer 1021 hPa.
 Au Jardin du Luxembourg : température de 16 degrés.
 
 Prévisions pour les tout prochains jours :
@@ -30,28 +30,28 @@ Prévisions pour les tout prochains jours :
 • Pour aujourd'hui samedi 26 :
 Le ciel est couvert durant les premières heures de la matinée, puis des éclaircies se développent. L'après-midi, le soleil rayonne sans peine parmi des nuages inoffensifs.
 Vent faible, variable.
-Températures maximales : comprises entre 24 et 25 degrés.
+Températures maximales : entre 24 et 25 degrés.
 
 • Pour la nuit prochaine :
 Le ciel est bien étoilé, après la disparition des quelques nuages présents en soirée.
 Vent variable, faible.
-Températures minimales : entre 13 et 15 degrés.
+Températures minimales : de 13 à 15 degrés.
 
 • Pour demain dimanche 27 en journée et la nuit suivante :
 Le ciel est voilé en début de journée. Progressivement la couverture nuageuse s'épaissit, mais quelques éclaircies persistent. Pour la nuit : Les éclaircies, larges en début de nuit, se font plus timides. Au fil des heures, les nuages l'emportent.
-Etablissement, en seconde partie de journée, d'un vent de Sud-Ouest, modéré ; atténuation ensuite.
-Températures maximales pour le jour : entre 28 et 29 degrés. Ces températures se situent au-dessus des valeurs de saison, localement bien au-dessus.
+En seconde partie de journée, vent s'établissant au Sud-Ouest, modéré ; puis atténuation.
+Températures maximales pour le jour : entre 28 et 29 degrés. Ces températures se situent au-dessus des valeurs de saison, par endroits très au-dessus.
 Températures minimales pour la nuit suivante : de 17 à 18 degrés. Ces températures sont au-dessus des valeurs normalement observées.
 
 • Pour la journée de lundi 28 et la nuit suivante :
 En matinée, le ciel est variable, mais le temps reste sec. Un passage d'averses est possible en cours d'après-midi sur une grande moité ouest. Puis le temps s'améliore en fin de journée. Pour la nuit : Un voile nuageux masque temporairement le ciel, qui devient plus clair en fin de nuit.
-En début de nuit, établissement d'un vent de Nord à Nord-Est, modéré par endroits ; puis atténuation.
-Températures maximales pour le jour : de 24 à 26 degrés.
+En début de nuit, établissement d'un vent de Nord à Nord-Est, localement modéré ; atténuation ensuite.
+Températures maximales pour le jour : comprises entre 24 et 26 degrés.
 Températures minimales pour la nuit suivante : entre 15 et 16 degrés.
 
 • Pour la journée de mardi 29 :
-Le soleil brille sans discontinuer du matin jusqu'au soir.
-En cours d'après-midi, vent s'orientant au Sud-Sud-Est, souvent modéré ; atténuation ensuite.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
+Etablissement, en cours d'après-midi, d'un vent de Sud-Sud-Est, modéré ; atténuation ensuite.
 Températures maximales : de 29 à 30 degrés.
 
 • Pour mercredi 30 et jeudi 01 octobre :
@@ -73,44 +73,44 @@ Températures minimales : similaires à la veille.
 Températures maximales : identiques à la veille.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 26/09/2026 06:30
+Emis le : 26/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département des Bouches-du-Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Marignane : température de 18 degrés, vent de secteur Sud-Est soufflant jusqu'à 10 km/h, pression niveau mer 1021 hPa.
-A Aix-en-Provence : température de 16 degrés, vent variable faible.
+Aujourd'hui on observait à 09h :
+A Marignane : température de 22 degrés, vent de secteur Nord-Est soufflant jusqu'à 15 km/h, pression niveau mer 1022 hPa.
+A Aix-en-Provence : température de 19 degrés, vent de secteur Sud soufflant jusqu'à 5 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 26 :
-La journée se déroule sous un ciel clair. Ce n'est qu'en soirée, que des nuages viennent voiler le soleil.
-Vent de Sud-Ouest assez faible.
+La journée s'annonce radieuse avec un soleil quasi-omniprésent. En fin de période, des nuages élevés envahissent le ciel.
+Vent faible de Sud-Ouest.
 Températures maximales : comprises entre 26 et 29 degrés.
 
 • Pour la nuit prochaine :
-Après quelques passages nuageux, la deuxième partie de nuit devient bien étoilée.
+La soirée est partagée entre passages nuageux et périodes étoilées, mais peu à peu ces dernières s'allongent, et après minuit, la voûte céleste est bien dégagée.
 Vent faible de direction variable.
-Températures minimales : du Rhône à Aix et à Marseille de 15 à 18 degrés. Entre 12 et 13 degrés sur le val de Durance et la Sainte Baume.
+Températures minimales : du Rhône à Aix et à Marseille comprises entre 15 et 18 degrés. De 12 à 13 degrés sur le val de Durance et la Sainte Baume.
 
 • Pour demain dimanche 27 en journée et la nuit suivante :
-Le soleil est généreux tout au long de la journée. Pour la nuit : Les étoiles sont largement visibles. Juste avant l'aurore, elles sont toutefois masquées par des nuages, des Alpilles au golfe de Fos.
-Vent faible de Sud à Sud-Ouest.
-Températures maximales pour le jour : de 27 à 29 degrés.
-Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et autour de Marseille comprises entre 16 et 18 degrés. De 11 à 14 degrés entre Peyrolles Aix et Aubagne.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : Les étoiles sont largement visibles. Juste avant l'aurore, elles sont toutefois masquées par des nuages, des Alpilles au golfe de Fos.
+Vent de Sud à Sud-Ouest assez faible.
+Températures maximales pour le jour : entre 27 et 29 degrés.
+Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et jusqu'aux Calanques de 16 à 18 degrés. De 11 à 14 degrés entre Aix Aubagne et Jouques.
 
 • Pour la journée de lundi 28 et la nuit suivante :
-Le soleil est généralement voilé par des nuages. Pour la nuit : Le ciel est généralement voilé.
+Un voile nuageux filtre le soleil. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
 Vent faible dans l'ensemble.
 Températures maximales pour le jour : comprises entre 27 et 29 degrés.
-Températures minimales pour la nuit suivante : dans les terres entre 13 et 16 degrés. Entre 17 et 19 degrés sur le bord de mer.
+Températures minimales pour la nuit suivante : dans l'intérieur du département entre 13 et 16 degrés. Comprises entre 17 et 19 degrés sur le cordon littoral.
 
 • Pour la journée de mardi 29 :
 Le ciel est passagèrement assez nuageux. Les nuages ont tendance à se dissiper l'après-midi, et en fin de journée, le soleil prend le dessus.
 Petit vent de Sud à Sud-Est généralement faible.
-Températures maximales : comprises entre 26 et 28 degrés.
+Températures maximales : entre 26 et 28 degrés.
 
 • Pour mercredi 30 et jeudi 01 octobre :
 Temps plutôt ensoleillé, en dépit de quelques passages nuageux. Risque de brume localement jusqu'au petit matin de mercredi, et risque de pluie ou d'averses temporaire.
@@ -131,46 +131,46 @@ Températures minimales : sans changement significatif.
 Températures maximales : stationnaires.
 
 === BULLETIN DÉPARTEMENTAL GIRONDE (DEPT33) ===
-Emis le : 26/09/2026 06:30
+Emis le : 26/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Gironde est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Bordeaux : température de 19 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1023 hPa.
+Aujourd'hui on observait à 09h :
+A Bordeaux : température de 19 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1023 hPa.
 Au Cap-Ferret : température de 20 degrés, vent de secteur Ouest soufflant jusqu'à 15 km/h.
-A Libourne : température de 18 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 10 km/h.
+A Libourne : température de 15 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 10 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 26 :
 Si les nuages sont prédominants en début de matinée, ils s'effacent progressivement devant un soleil de plus en plus généreux.
-En début d'après-midi, vent s'établissant au Sud-Ouest modéré, sur le littoral ; puis atténuation.
-Températures maximales : de 25 à 28 degrés.
+Etablissement, en début d'après-midi, d'un vent de Sud-Ouest modéré, sur le littoral ; atténuation ensuite.
+Températures maximales : comprises entre 25 et 28 degrés.
 
 • Pour la nuit prochaine :
 Le ciel nocturne est bien dégagé. Cependant, des nuages plus épais arrivent en seconde partie de nuit.
-Au lever du jour, établissement d'un vent de Sud-Est, modéré par endroits.
+Aux premières heures du jour, vent s'établissant au Sud-Est, localement modéré.
 Températures minimales : de 13 à 16 degrés.
 
 • Pour demain dimanche 27 en journée et la nuit suivante :
 Une bonne partie de la journée se passe avec de belles éclaircies. Les nuages s'accaparent le ciel en fin de journée. Pour la nuit : La nuit débute sous un ciel assez bien dégagé. Les nuages deviennent plus nombreux au fil des heures, avec un risque d'orage ou de petites averses qui se généralisent en fin de nuit.
-Les plus forts cumuls de pluie attendus sont de 5 millimètres autour de l'estuaire de la Gironde.
-Vent localement modéré, faiblissant temporairement en milieu de période.
-Températures maximales pour le jour : comprises entre 28 et 31 degrés, et entre 25 et 26 degrés sur le bord de mer. Ces températures se situent localement bien au-dessus des valeurs de saison.
-Températures minimales pour la nuit suivante : de 16 à 18 degrés.
+Les plus forts cumuls de pluie peuvent avoisiner 5 millimètres autour de l'estuaire de la Gironde.
+Vent soufflant modérément par endroits ; atténuation temporaire en milieu de période.
+Températures maximales pour le jour : entre 28 et 31 degrés, et entre 25 et 26 degrés sur le bord de mer. Ces températures se situent localement bien au-dessus des valeurs de saison.
+Températures minimales pour la nuit suivante : entre 16 et 18 degrés.
 
 • Pour la journée de lundi 28 et la nuit suivante :
 Le ciel matinal est très nuageux. Des averses sont possibles jusqu'à midi. Elles peuvent provoquer des orages, sur le Libournais ainsi que sur l'Ouest du département, mais ce risque diminue progressivement. L'après-midi, le temps redevient sec. Le ciel profite du retour d'un soleil bien généreux. Pour la nuit : Des nuages inoffensifs sont présents, sur le Médoc et le Blayais ainsi que sur la moitié Sud-Est du département. Ils se dissipent en début de nuit. La fin de nuit est partout bien étoilée.
 Vent d'Est à Sud-Est, généralement modéré.
-Températures maximales pour le jour : sur la majeure partie sud du département entre 28 et 30 degrés. Entre 24 et 26 degrés sur le Médoc et le Blayais.
+Températures maximales pour le jour : sur la majeure partie sud du département de 28 à 30 degrés. De 24 à 26 degrés sur le Médoc et le Blayais.
 Températures minimales pour la nuit suivante : comprises entre 16 et 18 degrés, et 21 degrés sur le littoral.
 
 • Pour la journée de mardi 29 :
 Le temps est sec, avec un soleil qui brille toute la journée. Tout au plus quelques nuages apparaissent en fin d'après-midi sur le littoral.
 Vent généralement modéré, de secteur Sud.
-Températures maximales : comprises entre 30 et 33 degrés, et 25 degrés sur le littoral. Ces températures sont au-dessus des valeurs normalement observées.
+Températures maximales : de 30 à 33 degrés, et 25 degrés sur le littoral. Ces températures se situent au-dessus des valeurs de saison.
 
 • Pour mercredi 30 et jeudi 01 octobre :
 Risque de pluie ou d'averses de mercredi matin jusqu'au lendemain en fin de journée.
@@ -191,45 +191,45 @@ Températures minimales : stationnaires.
 Températures maximales : en baisse sur le Bassin d'Arcachon, sur l'agglomération bordelaise ainsi que sur l'Entre-Deux-Mers.
 
 === BULLETIN DÉPARTEMENTAL RHÔNE (DEPT69) ===
-Emis le : 26/09/2026 06:30
+Emis le : 26/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Lyon : température de 10 degrés, vent variable faible, pression niveau mer 1022 hPa.
-Aux Sauvages : température de 16 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 35 km/h.
-A Brindas : température de 11 degrés.
+Aujourd'hui on observait à 09h :
+A Lyon : température de 15 degrés, vent variable faible, pression niveau mer 1023 hPa.
+Aux Sauvages : température de 15 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 30 km/h.
+A Brindas : température de 15 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 26 :
 C'est une journée bien ensoleillée qui s'annonce, même si on peut noter quelques nuages plus présents en Val de Saône, en début de matinée.
-En fin de matinée, vent de Nord-Ouest modéré, dans le Beaujolais ; atténuation ensuite.
-Températures maximales : comprises entre 26 et 29 degrés. Ces températures sont au-dessus des valeurs de saison, localement bien au-dessus.
+En fin de matinée, vent de Nord-Ouest soufflant modérément, dans le Beaujolais ; puis atténuation.
+Températures maximales : entre 26 et 29 degrés. Ces températures se situent au-dessus des valeurs de saison, par endroits bien au-dessus.
 
 • Pour la nuit prochaine :
-Le ciel est clair toute la nuit.
+Le ciel est bien étoilé.
 Aux premières heures du jour, vent de Sud-Est modéré, sur l'Est-Lyonnais.
-Températures minimales : entre 11 et 14 degrés, et 15 degrés en région lyonnaise.
+Températures minimales : de 11 à 14 degrés, et 15 degrés en région lyonnaise.
 
 • Pour demain dimanche 27 en journée et la nuit suivante :
-L'ensoleillement est excellent et le soleil règne sans partage. Pour la nuit : De belles éclaircies se maintiennent toute la nuit.
-Vent généralement de Sud à Sud-Est modéré, en journée et une grande partie de la nuit suivante ; puis s'atténuant.
-Températures maximales pour le jour : de 28 à 31 degrés.
-Températures minimales pour la nuit suivante : comprises entre 14 et 17 degrés, et 12 degrés en Val de Saône.
+Le temps est ensoleillé du matin au soir. Pour la nuit : De belles éclaircies se maintiennent toute la nuit.
+En journée et une grande partie de la nuit suivante, vent de Sud à Sud-Est généralement, modéré ; puis faiblissant.
+Températures maximales pour le jour : comprises entre 28 et 31 degrés.
+Températures minimales pour la nuit suivante : de 14 à 17 degrés, et 12 degrés en Val de Saône.
 
 • Pour la journée de lundi 28 et la nuit suivante :
-Un voile nuageux filtre le soleil. Pour la nuit : Le ciel est généralement voilé.
-En journée et jusqu'en milieu de nuit, vent de Sud, modéré ; puis faiblissant.
-Températures maximales pour le jour : entre 26 et 29 degrés.
-Températures minimales pour la nuit suivante : de 13 à 16 degrés, et 17 degrés en agglomération lyonnaise.
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : Le ciel est généralement voilé.
+Vent de Sud modéré, en journée et jusqu'en milieu de nuit ; puis s'atténuant.
+Températures maximales pour le jour : de 26 à 29 degrés.
+Températures minimales pour la nuit suivante : entre 13 et 16 degrés, et 17 degrés en agglomération lyonnaise.
 
 • Pour la journée de mardi 29 :
-Des nuages sont présents le matin. Peu à peu, les éclaircies s'élargissent et l'après-midi est bien ensoleillé.
-Vent de Sud, modéré.
-Températures maximales : de 25 à 27 degrés.
+Les quelques nuages de la matinée se font de plus en plus discrets, et la journée finit sous un franc soleil.
+Vent modéré, de Sud.
+Températures maximales : entre 25 et 27 degrés.
 
 • Pour mercredi 30 et jeudi 01 octobre :
 Éclaircies prédominantes, risque de pluie ou d'averses temporaire.
@@ -250,45 +250,45 @@ Températures minimales : identiques à la veille.
 Températures maximales : stationnaires.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 26/09/2026 06:30
+Emis le : 26/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Toulouse-Blagnac : température de 19 degrés, vent de secteur Sud soufflant jusqu'à 10 km/h, pression niveau mer 1024 hPa.
-A Luchon : température de 16 degrés, vent de secteur Sud-Est soufflant jusqu'à 5 km/h.
-A Saint-Félix-Lauragais : température de 17 degrés, vent de secteur Ouest soufflant jusqu'à 10 km/h.
+Aujourd'hui on observait à 09h :
+A Toulouse-Blagnac : température de 20 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1024 hPa.
+A Luchon : température de 14 degrés, vent de secteur Sud-Est soufflant jusqu'à 15 km/h.
+A Saint-Félix-Lauragais : température de 18 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 10 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui samedi 26 :
 Les quelques nuages de la matinée se font de plus en plus discrets, et la journée finit sous un franc soleil.
 Vent faible, variable.
-Températures maximales : entre 27 et 29 degrés.
+Températures maximales : de 27 à 29 degrés.
 
 • Pour la nuit prochaine :
 Un voile nuageux envahit peu à peu le ciel en seconde partie de nuit.
-En seconde partie de nuit, Autan assez fort, sur le Lauragais. Avec des rafales atteignant 65 km/h.
-Températures minimales : sur le Midi Toulousain entre 15 et 18 degrés. De 12 à 13 degrés sur le piémont et la montagne.
+En deuxième partie de nuit, Autan assez fort, sur le Lauragais. Avec des rafales atteignant 65 km/h.
+Températures minimales : sur le Midi Toulousain comprises entre 15 et 18 degrés. Comprises entre 12 et 13 degrés sur le piémont et la montagne.
 
 • Pour demain dimanche 27 en journée et la nuit suivante :
-Après un début de journée très ensoleillé, le ciel se voile. Pour la nuit : En première partie de nuit, le ciel voilé va lentement s'épaissir. Puis, le temps devient très nuageux.
+La journée débute sous un ciel largement ensoleillé. Les nuages se font progressivement plus nombreux, mais il ne s'agit souvent que d'un voile élevé et le ciel reste lumineux. Pour la nuit : En première partie de nuit, le ciel voilé va lentement s'épaissir. Puis, le temps devient très nuageux.
 En journée et jusqu'en milieu de nuit, Autan assez fort, du Lauragais aux coteaux de Cadours ; atténuation ensuite. Rafales atteignant 75 km/h.
-Températures maximales pour le jour : de 29 à 32 degrés, et 27 degrés sur le Lauragais. Ces températures sont localement bien au-dessus des valeurs normalement observées.
+Températures maximales pour le jour : entre 29 et 32 degrés, et 27 degrés sur le Lauragais. Ces températures sont par endroits bien au-dessus des valeurs normalement observées.
 Températures minimales pour la nuit suivante : sur la plaine et le piémont comprises entre 16 et 19 degrés. 14 degrés sur le Cagire et le Luchonnais.
 
 • Pour la journée de lundi 28 et la nuit suivante :
-D'abord le soleil domine majoritairement, puis un voile nuageux est présent l'après-midi. Cependant, sur le Cagire et le Luchonnais, les nuages se font plus pressants, dès la fin de matinée, avec quelques averses, parfois orageuses. Il s'agit d'abord de pluie à toute altitude, puis la neige apparaît progressivement jusqu'à 3200 mètres en milieu d'après-midi. Pour la nuit : Les passages nuageux présents en soirée, laissent peu à peu place à un ciel bien étoilé.
+En général, le temps est d'abord bien ensoleillé, puis le ciel se couvre de nuages, sans grande conséquence. Cependant, sur le Cagire et le Luchonnais, quelques averses peuvent tomber avant le déjeuner. L'instabilité augmente temporairement en début d'après-midi et ces averses peuvent évoluer en orages. Il s'agit d'abord de pluie à toute altitude, puis la neige apparaît progressivement jusqu'à 3200 mètres en cours d'après-midi. Pour la nuit : Les passages nuageux présents en soirée, laissent peu à peu place à un ciel bien étoilé.
 L'après-midi et la nuit suivante, Autan assez fort, sur le Lauragais. Avec des rafales atteignant 65 km/h.
-Températures maximales pour le jour : comprises entre 27 et 29 degrés.
+Températures maximales pour le jour : de 27 à 29 degrés.
 Températures minimales pour la nuit suivante : autour de 14 à 17 degrés, et 19 degrés du Lauragais aux coteaux de Cadours.
 
 • Pour la journée de mardi 29 :
-Le soleil brille sans interruption.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
 Autan assez fort, sur le Lauragais. Rafales atteignant 65 km/h, en journée.
-Températures maximales : de 27 à 30 degrés.
+Températures maximales : entre 27 et 30 degrés.
 
 • Pour mercredi 30 et jeudi 01 octobre :
 Risque de pluie ou d'averses.
@@ -336,12 +336,12 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
-• Infoclimat Direct : 20°C consécutives]]>
+• Infoclimat Direct : Tendances automne 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -351,30 +351,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 Dernier bulletin généré le Samedi 26 Septembre 2026.
 Résumé général précédent : Sur l'ensemble des deux semaines, la France resterait sous l'influence de flux méridiens, avec une chaleur persistante pour la saison, des précipitations irrégulières et un risque orageux méditerranéen. Aucun flux zonal durable ne se dessine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies orageuses sur l'ouest lundi-mardi, chaleur marquée mardi-mercredi, baisse des températures le week-end..
+Températures attendues précédemment : Pluies orageuses sur l'ouest lundi-mardi, chaleur marquée mardi-mercredi, baisse des températures le week-end. (max 120 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commencent a émerger pour ce topic dans le sud-est. 
-	Ensemble CEP  pour Nîmes:
-	Ensemble GEM pour Nîmes :
-	Pour le moment ce ne sont que des signaux à surveiller rien de plus je le précise. 
-	Modifié mercredi à 10:12 par petit âge glaciaire 11
-								2
-								1
-
-=======================
-
-Auteur: marée haute
-Message:
-Il y a 3 heures, cédric du Lot a dit :
-			Tu as choisi le bon cheval pour avoir une analyse de qualité et qui a le recul nécessaire a l'exercice...
-	C'est d'ailleurs bien pour ca que je demandais des précisions, ne comprenant pas trop le fossé qui sépare son poste de ceux qui le précédaient:-)) D'ailleurs, quand on regarde gfs ce matin, c'est plutôt sympa comme carte niveau précipitation!
-
-=======================
-
 Auteur: bernardt60
 Message:
 Moi je serais plutôt de l'avis de Nico14 , je ne suis pas convaincu encore qu'on change radicalement la situation sur cette semaine avec quand même un puissant anticyclone bien ancré sur la Russie et qui pourrait avoir des velléités d'extension vers l'ouest.
@@ -470,7 +450,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 22 heures par nickdu77
+	Modifié hier à 08:00 par nickdu77
 
 =======================
 
@@ -522,7 +502,7 @@ Bonsoir,
 	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
 	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
 								7
-								2
+								3
 								1
 								1
 
@@ -539,7 +519,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								1
 
 =======================
@@ -576,8 +556,8 @@ il y a 31 minutes, serge26 a dit :
 			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								8
-								2
+								10
+								4
 
 =======================
 
@@ -587,29 +567,35 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								3
+								10
+								1
+
+=======================
+
+Auteur: serge26
+Message:
+Il y a 9 heures, Ciel d&amp;#x27;encre a dit :
+			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
+			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
+	Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
+	Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
+								4
+
+=======================
+
+Auteur: mathias
+Message:
+il y a 30 minutes, serge26 a dit :
+			Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
+			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
+	@Ciel d'encre est peut être presbyte? 😁
+	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
+	Modifié il y a 44 minutes par mathias
+								2
+								1
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-On a des signaux  de fortes pluies voire d'épisode méditerranéen qui commencent a émerger pour ce topic dans le sud-est. 
-	Ensemble CEP  pour Nîmes:
-	Ensemble GEM pour Nîmes :
-	Pour le moment ce ne sont que des signaux à surveiller rien de plus je le précise. 
-	Modifié mercredi à 10:12 par petit âge glaciaire 11
-								2
-								1
-
-=======================
-
-Auteur: marée haute
-Message:
-Il y a 3 heures, cédric du Lot a dit :
-			Tu as choisi le bon cheval pour avoir une analyse de qualité et qui a le recul nécessaire a l'exercice...
-	C'est d'ailleurs bien pour ca que je demandais des précisions, ne comprenant pas trop le fossé qui sépare son poste de ceux qui le précédaient:-)) D'ailleurs, quand on regarde gfs ce matin, c'est plutôt sympa comme carte niveau précipitation!
-
-=======================
-
 Auteur: bernardt60
 Message:
 Moi je serais plutôt de l'avis de Nico14 , je ne suis pas convaincu encore qu'on change radicalement la situation sur cette semaine avec quand même un puissant anticyclone bien ancré sur la Russie et qui pourrait avoir des velléités d'extension vers l'ouest.
@@ -705,7 +691,7 @@ il y a 13 minutes, Krholam a dit :
 	Ca me rassure mais ce qui m'inquiète, c'est que sur certains modèles (GEFS), on voit cette dépression (très creuse) qui semble filer plus au nord : 
 	Je ne suis pas assez calé en prévisions pour en tirer des conclusions mais ça m'a fait tiquer. Le point qui me rassure, c'est que les précipitations sont toujours au rendez-vous mais c'est normal pour une fin août (ou septembre ou juillet, je sais plus) même si on a quelques scénarios plus secs par rapport aux runs précédents :
 	A voir mais cette année, c'est vraiment un OVNI climatique. Disons plutôt que j'espère que ce n'est pas une préfiguration de nos prochaines années à un horizon proche.
-	Modifié il y a 22 heures par nickdu77
+	Modifié hier à 08:00 par nickdu77
 
 =======================
 
@@ -757,7 +743,7 @@ Bonsoir,
 	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
 	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
 								7
-								2
+								3
 								1
 								1
 
@@ -774,7 +760,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								1
 
 =======================
@@ -811,8 +797,8 @@ il y a 31 minutes, serge26 a dit :
 			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								8
-								2
+								10
+								4
 
 =======================
 
@@ -822,4 +808,30 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								3
+								10
+								1
+
+=======================
+
+Auteur: serge26
+Message:
+Il y a 9 heures, Ciel d&amp;#x27;encre a dit :
+			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
+			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
+	Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
+	Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
+								4
+
+=======================
+
+Auteur: mathias
+Message:
+il y a 30 minutes, serge26 a dit :
+			Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
+			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
+	@Ciel d'encre est peut être presbyte? 😁
+	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
+	Modifié il y a 44 minutes par mathias
+								2
+								1
+								1
