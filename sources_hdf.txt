@@ -327,12 +327,12 @@ présentant un risque faible de passage en Vigilance Orange.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
+• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Automne/hiver 2026-2027 dans les Pyrénées
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
+• Infoclimat Direct : Les trous &#xE0; froid en France
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,22 +340,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
-Résumé général HDF précédent : Les Hauts-de-France connaissent une période de temps anormalement chaud et sec. Un pic de chaleur est attendu en début de semaine 1, suivi d'une dégradation pluvio-instable. La semaine 2 est très incertaine, mais le scénario le plus probable est un retour d'un temps sec et chaud, accentuant la sécheresse des sols..
+Résumé général HDF précédent : Tendance générale sur 15 jours : temps anormalement chaud et sec pour la saison, avec un pic de chaleur en début de semaine 1, une dégradation pluvio-instable incertaine en milieu de semaine 1, puis possible retour d’un temps sec et chaud en semaine 2. L’Indicateur Thermique National oscille entre 22,8°C et 25,8°C, proche du seuil de canicule..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Dégradation pluvio-instable, orages possibles sur l'ouest, fortes chaleurs en amont. (93 caractères).
+Températures attendues précédemment : Fortes chaleurs mardi, dégradation pluvio-instable mercredi/jeudi, rafraîchissement vendredi. (115 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: bernardt60
-Message:
-Moi je serais plutôt de l'avis de Nico14 , je ne suis pas convaincu encore qu'on change radicalement la situation sur cette semaine avec quand même un puissant anticyclone bien ancré sur la Russie et qui pourrait avoir des velléités d'extension vers l'ouest.
-	Effectivement on peut quand même  espérer des précipitations instables , surtout sur le pourtour méditerranéen, mais sûrement pas un arrêt de la séquence actuelle avec températures douces à chaudes pour la saison, tant qu'on n'aura pas un véritable flux zonal apportant son défilé de perturbations atlantiques avec coups de vent où tempêtes capable de vraiment pénétrer sur le continent européen j'ai du mal encore à voir un vrai signal pour la fin véritable de cette longue séquence de sécheresse.
-	Enfin ce n'est que mon avis sur l'interprétation des modèles  et je ne prétends pas détenir la vérité ! 😉
-								4
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 Il y a 6 heures, Krholam a dit :
@@ -510,7 +500,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								1
 
 =======================
@@ -522,7 +512,7 @@ salut     🤔🌧️   
 	+30 mm / 6 heure  
 	---
 	50 et 72 mm   juste    8:00 1 octobre +138h
-								6
+								7
 								1
 
 =======================
@@ -558,7 +548,7 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								10
+								12
 								1
 
 =======================
@@ -570,7 +560,8 @@ Il y a 9 heures, Ciel d&amp;#x27;encre a dit :
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
 	Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
-								4
+								7
+								2
 
 =======================
 
@@ -581,22 +572,24 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 44 minutes par mathias
-								2
+	Modifié il y a 2 heures par mathias
+								4
 								1
 								1
+								1
+								5
+
+=======================
+
+Auteur: Damia
+Message:
+Il y a 11 heures, Mazz37 a dit :
+			A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
+	Parce que les signatures ça alourdit l'affichage, surtout quand y a plein d'images (comme par ex. afficher des encarts de vigi MF beaucoup trop gros…). Donc passé une certaine résolution et un certain affichage, hop, on retire des éléments de l'affichage pour alléger le chargement. 
+	Après, peut-être que @symaski62 peut mettre son information concernant son handicap dans le champs "localisation" de son profil. Ça s'affichera y compris sur mobile juste en dessous de son pseudo.
+								5
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: bernardt60
-Message:
-Moi je serais plutôt de l'avis de Nico14 , je ne suis pas convaincu encore qu'on change radicalement la situation sur cette semaine avec quand même un puissant anticyclone bien ancré sur la Russie et qui pourrait avoir des velléités d'extension vers l'ouest.
-	Effectivement on peut quand même  espérer des précipitations instables , surtout sur le pourtour méditerranéen, mais sûrement pas un arrêt de la séquence actuelle avec températures douces à chaudes pour la saison, tant qu'on n'aura pas un véritable flux zonal apportant son défilé de perturbations atlantiques avec coups de vent où tempêtes capable de vraiment pénétrer sur le continent européen j'ai du mal encore à voir un vrai signal pour la fin véritable de cette longue séquence de sécheresse.
-	Enfin ce n'est que mon avis sur l'interprétation des modèles  et je ne prétends pas détenir la vérité ! 😉
-								4
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 Il y a 6 heures, Krholam a dit :
@@ -751,7 +744,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								1
 
 =======================
@@ -763,7 +756,7 @@ salut     🤔🌧️   
 	+30 mm / 6 heure  
 	---
 	50 et 72 mm   juste    8:00 1 octobre +138h
-								6
+								7
 								1
 
 =======================
@@ -799,7 +792,7 @@ il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
 			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								10
+								12
 								1
 
 =======================
@@ -811,7 +804,8 @@ Il y a 9 heures, Ciel d&amp;#x27;encre a dit :
 			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
 	Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
 	Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
-								4
+								7
+								2
 
 =======================
 
@@ -822,7 +816,19 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 44 minutes par mathias
-								2
+	Modifié il y a 2 heures par mathias
+								4
 								1
 								1
+								1
+								5
+
+=======================
+
+Auteur: Damia
+Message:
+Il y a 11 heures, Mazz37 a dit :
+			A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
+	Parce que les signatures ça alourdit l'affichage, surtout quand y a plein d'images (comme par ex. afficher des encarts de vigi MF beaucoup trop gros…). Donc passé une certaine résolution et un certain affichage, hop, on retire des éléments de l'affichage pour alléger le chargement. 
+	Après, peut-être que @symaski62 peut mettre son information concernant son handicap dans le champs "localisation" de son profil. Ça s'affichera y compris sur mobile juste en dessous de son pseudo.
+								5
