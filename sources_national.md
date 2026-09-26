@@ -316,12 +316,12 @@ vigilance orange quasi nul.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : =30°C consécutives]]>
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -329,9 +329,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 26 Septembre 2026.
-Résumé général précédent : .
+Résumé général précédent : Semaine 1 : chaleur puis dégradation orageuse. Semaine 2 : grande incertitude, tendance douce et sèche..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Épisode cévenol potentiel, précipitations orageuses localisées, humidité en débat. (94 caractères).
+Températures attendues précédemment : Fortes chaleurs lundi-mardi, orages/pluies mercredi-jeudi, rafraîchissement en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -439,7 +439,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -511,7 +511,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 8 heures par mathias
+	Modifié il y a 10 heures par mathias
 								4
 								1
 								3
@@ -542,8 +542,8 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 5 heures par petit âge glaciaire 11
-								1
+	Modifié il y a 7 heures par petit âge glaciaire 11
+								2
 
 =======================
 
@@ -576,7 +576,10 @@ Auteur: Nono34
 Message:
 Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
 	Joli contraste nonobstant 
-	Modifié il y a 26 minutes par Nono34
+	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
+	Modifié il y a 3 minutes par Nono34
+								3
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: giec 2100
@@ -683,7 +686,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -755,7 +758,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 8 heures par mathias
+	Modifié il y a 10 heures par mathias
 								4
 								1
 								3
@@ -786,8 +789,8 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 5 heures par petit âge glaciaire 11
-								1
+	Modifié il y a 7 heures par petit âge glaciaire 11
+								2
 
 =======================
 
@@ -820,4 +823,7 @@ Auteur: Nono34
 Message:
 Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
 	Joli contraste nonobstant 
-	Modifié il y a 26 minutes par Nono34
+	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
+	Modifié il y a 3 minutes par Nono34
+								3
+								2

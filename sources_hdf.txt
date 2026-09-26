@@ -278,7 +278,7 @@ Températures minimales : stables.
 Températures maximales : en baisse sur la Thiérache ainsi que sur le Laonnois.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 261025 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le samedi 26 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 26 septembre 2026 à 06H00 UTC, et évolution Hautes pressions sur la Manche, se décalant vers l'Europe centrale. Dépression se creusant 1006 hPa sur le proche Atlantique en fin de journée. Thalweg associé se décalant sur la pointe bretonne dimanche vers la mi-journée, puis en Manche. 3 - Prévisions pour l'après-midi du samedi 26 septembre VENT : Nord à Nord-Est 3 à 4, mollissant secteur Nord-Est 2 à 3 en fin de journée. MER : belle à peu agitée. HOULE : non significative. TEMPS : très nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 26 septembre au dimanche 27 septembre VENT : Est à Nord-Est 3 à 4, virant progressivement Sud-Est en cours de nuit. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux à très nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 27 septembre VENT : Sud-Est 3 à 4, virant Sud l'après-midi, puis fraîchissant secteur Sud-Ouest 3 à 4, parfois 5, en fin de journée. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux, avec pluies l'après-midi. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 27 au 28 et la journée du lundi 28 septembre VENT : secteur Sud-Ouest 3 à 4, parfois 5, virant secteur Nord 2 à 4 en seconde partie de nuit, puis fraîchissant Nord-Est 4 à 5 en fin de journée. MER : belle à peu agitée, devenant peu agitée. HOULE : s'établissant Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : très nuageux avec pluies, localement orageuses. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 28 au 29 et la journée du mardi 29 septembre VENT : Est 4 à 6, mollissant en milieu d'après-midi 3. MER : peu agitée. HOULE : En mer du nord houle dominante de Nord-Est 0,5 à 1 m. En Manche houle d'Ouest inférieure à 1 m, s'orientant temporairement au Nord à Nord-Est en seconde partie de nuit. 8 - Tendance pour les jours suivants Mercredi 30 septembre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Vendredi 2 octobre Secteur Sud-Ouest faible. Indice de confiance : 3 sur 5 Samedi 3 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 9 - Observations le samedi 26 septembre 2026 à 09H00 UTC Dunkerque : vent Nord 8 noeuds, mer peu agitée, 1023 hPa en hausse, très nuageux à couvert, visibilité 5 milles. Cap Gris Nez : vent Nord 14 noeuds. Boulogne : vent Nord 8 noeuds, 1023 hPa en hausse. Bouée Sandettie : vent Nord 14 noeuds, creux 1,0 mètre, 1023 hPa en baisse, visibilité 5 milles. Prochain bulletin le samedi 26 septembre 2026, vers 18H00 légales
+FQCT40 LFQQ 261620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le samedi 26 septembre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 26 septembre 2026 à 12H00 UTC, et évolution Hautes pressions sur la Manche, se décalant vers l'Europe centrale. Dépression se creusant 1006 hPa sur le proche Atlantique en soirée. Thalweg associé se décalant sur la pointe bretonne dimanche vers la mi-journée, puis en Manche, avant le retour de hautes pressions par l'ouest la nuit suivante. 3 - Prévisions pour la nuit du samedi 26 septembre au dimanche 27 septembre VENT : Est à Nord-Est 3 à 4, virant progressivement Sud-Est en cours de nuit. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux à très nuageux. VISIBILITE : bonne. 4 - Prévisions pour la journée du dimanche 27 septembre VENT : Sud-Est 3 à 4, virant Sud vers la mi-journée, puis fraîchissant secteur Sud-Ouest 3 à 4, passagèrement 5, en fin de journée. MER : belle à peu agitée. HOULE : non significative. TEMPS : nuageux, avec pluies l'après-midi. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 5 - Tendance pour la nuit du 27 au 28, et la journée du lundi 28 septembre VENT : secteur Sud-Ouest 3 à 4, parfois 5, virant secteur Nord 2 à 4 en seconde partie de nuit, puis fraîchissant Nord-Est 4 à 5 en fin de journée. MER : belle à peu agitée, devenant peu agitée. HOULE : s'établissant Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : très nuageux avec pluies, localement orageuses. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 28 au 29 et la journée du mardi 29 septembre VENT : Est 4 à 6, mollissant en milieu d'après-midi 3. MER : peu agitée. HOULE : En mer du nord houle dominante de Nord-Est 0,5 à 1 m. En Manche houle d'Ouest inférieure à 1 m, s'orientant temporairement au Nord à Nord-Est en seconde partie de nuit. 7 - Tendance pour les jours suivants Mercredi 30 septembre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Jeudi 1 octobre Secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Vendredi 2 octobre Secteur Sud-Ouest faible. Indice de confiance : 3 sur 5 Samedi 3 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 8 - Observations le samedi 26 septembre 2026 à 15H00 UTC Dunkerque : vent Nord 8 noeuds, 1023 hPa en baisse. Cap Gris Nez : vent Nord-Est 8 noeuds. Boulogne : vent Nord 6 noeuds, 1023 hPa en baisse. Bouée Sandettie : vent Nord 8 noeuds, creux 0,5 mètre, 1023 hPa en baisse, visibilité 10 milles. Prochain bulletin le dimanche 27 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -307,12 +307,12 @@ vigilance orange quasi nul.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : =30°C consécutives]]>
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 26/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,9 +320,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
-Résumé général HDF précédent : Sur l'ensemble des deux semaines, les Hauts-de-France connaîtront un temps anormalement chaud et sec pour la saison, avec un pic de chaleur mardi 29 septembre, une dégradation pluvieuse très incertaine mercredi/jeudi, puis un retour probable à un temps sec et anticyclonique. La sécheresse de surface pourrait s'accentuer dangereusement..
+Résumé général HDF précédent : Tendance générale : temps anormalement chaud et sec, avec un pic de chaleur mardi 29/09, une dégradation pluvieuse modérée et incertaine mercredi/jeudi, puis un probable retour anticyclonique. La sécheresse de surface pourrait s'accentuer..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps souvent sec et chaud, dégradation très limitée, fraîchissement modéré le week-end..
+Températures attendues précédemment : Pic de chaleur mardi 29 (26-29°C), averses mercredi/jeudi, fraîchissement week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -430,7 +430,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -502,7 +502,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 8 heures par mathias
+	Modifié il y a 10 heures par mathias
 								4
 								1
 								3
@@ -533,8 +533,8 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 5 heures par petit âge glaciaire 11
-								1
+	Modifié il y a 7 heures par petit âge glaciaire 11
+								2
 
 =======================
 
@@ -567,7 +567,10 @@ Auteur: Nono34
 Message:
 Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
 	Joli contraste nonobstant 
-	Modifié il y a 26 minutes par Nono34
+	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
+	Modifié il y a 3 minutes par Nono34
+								3
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: giec 2100
@@ -674,7 +677,7 @@ alors oui bien sûr, tout est affaire de focale (!)...
 	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
 	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
 	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -746,7 +749,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 8 heures par mathias
+	Modifié il y a 10 heures par mathias
 								4
 								1
 								3
@@ -777,8 +780,8 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 5 heures par petit âge glaciaire 11
-								1
+	Modifié il y a 7 heures par petit âge glaciaire 11
+								2
 
 =======================
 
@@ -811,4 +814,7 @@ Auteur: Nono34
 Message:
 Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
 	Joli contraste nonobstant 
-	Modifié il y a 26 minutes par Nono34
+	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
+	Modifié il y a 3 minutes par Nono34
+								3
+								2
