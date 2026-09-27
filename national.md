@@ -1,124 +1,129 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Dimanche 27 Septembre 2026
-**Période :** Semaine 1 (Période exacte semaine 1 : du lundi 28 septembre au dimanche 4 octobre 2026.) & Semaine 2 (Période exacte semaine 2 : du lundi 5 au dimanche 11 octobre 2026.)
+**Période :** Semaine 1 (Période exacte : du lundi 28 septembre au dimanche 4 octobre 2026 (semaine 40).) & Semaine 2 (Période exacte : du lundi 5 octobre au dimanche 11 octobre 2026 (semaine 41).)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *La semaine 1 bénéficie d’un consensus partiel, la semaine 2 reste très ouverte.*
-- **Fiabilité du scénario majoritaire :** Scénario de baisse thermique — *Le scénario le plus probable en semaine 1, avec une réelle incertitude sur la durée.*
+- **Consensus des modèles :** Modéré — *Accord sur la baisse thermique et le blocage ; désaccord sur la répartition des pluies.*
+- **Fiabilité du scénario majoritaire :** Baisse thermique puis blocage — *Le scénario majoritaire est un temps plus calme et plus frais, mais la Méditerranée pourrait apporter des pluies en semaine 2.*
 - **Stabilité des cartes/scénarios :** 6 / 88 — *6 cartes sur 88 analysées*
-- **Niveau d'incertitude global :** Forte incertitude — *La fiabilité chute fortement après le dimanche 4 octobre.*
+- **Niveau d'incertitude global :** Forte — *Les ensembles divergent sur la position du blocage et sur l'humidité résiduelle.*
 
-## 🗓️ SEMAINE 1 : Période exacte semaine 1 : du lundi 28 septembre au dimanche 4 octobre 2026.
+## 🗓️ SEMAINE 1 : Période exacte : du lundi 28 septembre au dimanche 4 octobre 2026 (semaine 40).
 ### 💡 Points clés de la semaine 1
-1. Semaine encore chaude : Des températures souvent supérieures aux normales, surtout en Méditerranée.
-3. Précipitations limitées : Les cumuls hebdomadaires resteraient proches de la normale, avec des trous.
-4. Vigilance verte : Orages et fortes chaleurs classent plusieurs départements en jaune.
-5. Incertitude persistante : Le week-end oscille encore entre talweg ou dorsale d’altitude.
+1. Dégradation éphémère : Un talweg apporte pluies et instabilité sur l'ouest et le nord-ouest lundi.
+2. Pic de chaleur : Flux de sud chaud mardi et mercredi, fortes chaleurs possibles jusqu'au nord.
+3. Épisode méditerranéen : Un épisode cévenol ou méditerranéen modéré reste possible, son intensité à définir.
+4. Baisse thermique : Dès jeudi, la dégradation pluvio-instable venant de l'ouest amorce un repli des températures.
+5. Week-end plus frais : Le week-end s'annonce plus frais, proche des normales, avec une humidité encore incertaine.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Baisse des températures en fin de semaine surtout sur la moitié nord.  
-- Précipitations hebdomadaires plutôt proches de la normale, mais mal réparties.  
-- Maintien d’un ressenti chaud sur le pourtour méditerranéen.
+• Flux de sud chaud mardi/mercredi et fortes chaleurs probables au nord.
+• Baisse thermique généralisée à partir de jeudi/vendredi.
+• Pluies très inégales, avec un risque méditerranéen modéré.
 **Points de divergence :**
-- Le week-end verrait-il un talweg ou bien une dorsale d’altitude ?  
-- L’ampleur de la sécheresse et le niveau des cumuls restent débattus.  
-- La fin d’échéance est à interpréter avec méfiance, les sorties variant fortement d’un run à l’autre.
+• Week-end : talweg humide ou dorsale sèche ?
+• Intensité et localisation de l'épisode méditerranéen/cévenol.
+• Retour aux normales thermiques ou douceur persistante au sud/est.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS (Global Forecast System)** (Documenté en fil de discussion mais sans analyse détaillée de runs.) | Il suggère une baisse des températures pour le week-end, avec une possible faiblesse des cumuls de précipitation. | Baisse thermique généralisée, ciel parfois nuageux, quelques pluies possibles, mais pas de retour durable des intempéries. | Nord-Ouest, Nord, Centre, Sud-Ouest, Sud-Est, Méditerranée. | Faible (45%) | Le run GFS est mentionné uniquement pour illustrer une tendance générale de baisse thermique, sans analyse fine des pressions ni des contrastes. |
-| **ECMWF (Centre européen)** (Documenté en fil de discussion, avec une référence au déterministe européen du matin.) | Il propose dimanche un talweg ou bien une nouvelle dorsale d’altitude, signe d’une grande incertitude sur les pluies. | Humidité en question, cumuls faibles localement, baisse des températures en toute fin de semaine. | France hexagonale, surtout Nord, Centre, Ouest et Sud-Ouest. | Modérée (65%) | Le modèle évoque une dégradation par talweg, qui pourrait laisser des trous dans la raquette des cumuls ; la fiabilité reste sujette à caution. |
-| **Autres modèles et ensembles long terme** (Mention générale sans identification précise.) | Les projections de cumuls très long terme sont fragiles, et les sorties varient d’un run à l’autre. | Pas de signal robuste pour des pluies généralisées, mais pas de retour sec durable non plus. | Ensemble du territoire. | Faible (45%) | Les participants rappellent qu’il est dangereux de se focaliser sur des cartes de cumuls à très long terme, car elles sont constamment remises en cause. |
+| **GFS** (documented) | Un scénario contrasté, parfois très chaud, avec attaques des hautes pressions par des anomalies froides d'altitude : l'humidité reste très aléatoire. | Chaud puis très chaud sur certaines échéances, dégradations possibles mais sans robustesse. | Ensemble du pays, surtout centre et est selon les runs. | Modérée (65%) | Mentionné pour son alternance froid/chaud et comme soutien de scénarios d'anomalies d'altitude attaquant les hautes pressions. |
+| **ECMWF / CEP** (documented) | Prévoit un talweg d'altitude balayant le pays de l'ouest vers l'est, avec un potentiel de précipitations sur l'ouest et le sud-est, mais une répartition incertaine. | Forte douceur en début de semaine, dégradation pluvio-instable jeudi, baisse thermique ensuite. | Ouest, Nord-Ouest, puis Centre-Est et Sud-Est. | Élevée (85%) | Le CEP 0h montre un potentiel de précipitations, mais l'inégale répartition est soulignée. Il soutient une baisse généralisée des températures en fin de semaine. |
+| **UKMO** (partial) | Scénario de précipitations inégales entre mardi et mercredi, avec régions privilégiées au nord-ouest et au sud-est. | Pluies irrégulières, fortes chaleurs en pointillé avant la dégradation. | Nord-Ouest, régions centrales, Sud-Est. | Faible (45%) | Cité en comparaison avec le CEP pour illustrer une répartition inégale des pluies. |
+| **GEM (Canadien)** (documented) | Modèle cité pour sa forte variabilité d'un run à l'autre, l'orientation et la profondeur du talweg changeant radicalement la donne. | Situations très différentes en 12 h ; aucun scénario fiable à longue échéance. | France entière. | Modérée (65%) | tao souligne que les projections de cumuls à long terme sont remises en cause à chaque sortie. |
+| **ARPEGE** (partial) | Montre un potentiel de précipitations sur l'ouest et le sud-est, mais la concrétisation reste incertaine. | Averses possibles à partir de mercredi soir/jeudi, notamment sur le sud-est. | Ouest, Centre, Sud-Est. | Faible (45%) | Carte évoquée par giec 2100, sans texte d'analyse détaillé. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Nuages et éclaircies, retour d’un temps plus frais en fin de semaine. | En baisse, redevenant proches des normales de saison. | moderee | ECMWF, GFS, GEFS | Présence et intensité des précipitations. |
-| **Nord** | Temps souvent nuageux, averses possibles. | Baisse générale en fin de semaine. | moderee | ECMWF, GFS | Passage pluvieux ou simple baisse thermique ? |
-| **Nord-Est** | Ciel variable, pas de dégradation marquée. | Proches des normales, en baisse. | faible | ECMWF, GFS | Présence d’orages ou non. |
-| **Ouest et Façade Atlantique** | Chaleur encore présente en début de semaine, baisse ensuite. | Autour de 25 à 31°C l’après-midi, en baisse. | moderee | Météo-France, GFS, ECMWF | Risque d’orages en toute fin de semaine. |
-| **Centre** | Éclaircies puis retour de nuages. | Chaudes l’après-midi, en baisse en fin de période. | faible | ECMWF | Rythme de la baisse des températures. |
-| **Sud-Ouest** | Soleil généreux, très chaud, quelques nuages. | 28 à 31°C à l’ombre, au-dessus des normales. | elevee | Météo-France, GFS, ECMWF | Maintien de la chaleur en fin de semaine. |
-| **Sud-Est et Vallée du Rhône** | Ciel changeant, chaleur modérée. | Jusqu’à 28°C, vent parfois sensible. | moderee | Météo-France, GFS | Évolution du vent et des nuages. |
-| **Méditerranée et Corse** | Ciel très ensoleillé, chaleur maintenue. | Excédent de +2 à +4°C, toujours chaud pour la saison. | elevee | Météo-France, GFS, ECMWF | Durée du vent de Sud-Est et maintien de la sécheresse. |
+| **Nord-Ouest** | Dégradation pluvio-instable lundi, forte douceur mardi-mercredi, puis baisse thermique en fin de semaine. | Très douces, pointes de chaleur possibles mardi/mercredi, puis retour proche des normales. | moderee | ECMWF, GFS | Répartition des précipitations et intensité du pic de chaleur. |
+| **Nord** | Ciel gris lundi avec averses matinales, puis ensoleillé mardi, dégradation et baisse thermique jeudi. | Maximales 27-28°C lundi à mercredi, puis proches de 21°C jeudi et week-end. | elevee | Météo-France, ECMWF | Maintien des températures douces et passage exact de la dégradation. |
+| **Nord-Est** | Forte douceur en début de semaine, dégradation pluvio-instable possible jeudi, baisse thermique. | Anormalement douces mardi/mercredi, puis en baisse vers des valeurs de saison. | faible | ECMWF, GFS | Peu de commentaires dédiés ; localisation des pluies très incertaine. |
+| **Ouest et Façade Atlantique** | Temps chaud et souvent ensoleillé mardi, nuages mercredi, puis soleil avec risque d'averses jeudi/week-end. | Maximales 30-31°C mardi, littoral plus frais ; baisse à 21-25°C ensuite. | elevee | Météo-France, ECMWF | Épisode orageux lundi et cumuls réels sur le littoral. |
+| **Centre** | Possibilité d'une dégradation pluvio-instable jeudi, précédée d'une forte douceur mardi/mercredi. | Très douces en début de semaine, baisse nette ensuite. | faible | ECMWF, GFS | Cumuls de pluie et implantation exacte de la dégradation. |
+| **Sud-Ouest** | Beau temps ensoleillé lundi et mardi, orages possibles mercredi, dégradation jeudi/vendredi puis éclaircies. | Maximales 26-30°C début de semaine, puis 22-25°C jeudi/vendredi, 21-24°C week-end. | elevee | Météo-France, ECMWF, ARPEGE | Intensité des orages mercredi et limite pluie-neige en montagne. |
+| **Sud-Est et Vallée du Rhône** | Temps sec et doux lundi/mardi, possible averses mercredi, dégradation jeudi/vendredi puis éclaircies. | Maximales 26-29°C mardi, 21-23°C jeudi/vendredi, 20-22°C week-end. | elevee | Météo-France, ECMWF | Localisation des averses orageuses et baisse thermique réelle. |
+| **Méditerranée et Corse** | Chaud et ensoleillé, puis épisode méditerranéen/cévenol modéré possible mardi-mercredi, éclaircies ensuite. | Maximales 26-29°C, nuits douces 16-20°C, très au-dessus des normales. | moderee | Météo-France, ECMWF, GFS, UKMO | Intensité et localisation exactes de l'épisode méditerranéen. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Du 28 au 30 septembre.** : Chaleur persistante, surtout sur le Sud, avec des nuages par moments.
-- **Les 30 septembre et 1er octobre.** : Vent de Sud-Est parfois modéré entre le Rhône et la Méditerranée.
-- **Les 2 et 3 octobre.** : Baisse des températures possible par le nord-ouest.
-- **Les 4 et 5 octobre.** : Le temps semble s’assainir, mais la tendance reste à confirmer.
+- **Lundi 28 septembre 2026** : Dégradation pluvio-instable sur l'ouest et le nord-ouest, avec un flux de sud chaud en approche.
+- **Mardi 29 et mercredi 30 septembre 2026** : Forte douceur, fortes chaleurs possibles au nord et épisode méditerranéen/cévenol à surveiller.
+- **Jeudi 1er et vendredi 2 octobre 2026** : Balayage pluvio-instable d'ouest en est, amorce d'une baisse des températures.
+- **Samedi 3 et dimanche 4 octobre 2026** : Temps plus frais, proche des normales, avec une humidité résiduelle incertaine.
 
 **Points solides :**
-- La baisse des températures est validée par le consensus sur la plupart des régions.  
-- Le maintien de la chaleur en Méditerranée est un point d’accord quasi général.  
-- Une activité pluvieuse significative semble peu probable à l’échelle hexagonale.
+• Baisse thermique en fin de semaine 1.
+• Forte douceur en début de semaine.
+• Épisode méditerranéen modéré possible.
 
 **Points fragiles :**
-- La localisation exacte des pluies reste fragile.  
-- Le scénario talweg ou dorsale est encore loin d’être tranché.  
-- Les cartes de cumuls à long terme sont très incertaines.
+• Cumuls de pluie sur les régions centrales.
+• Timing exact de la dégradation jeudi.
+• Comportement du week-end (talweg ou anticyclone).
 
 **À surveiller (prochains runs) :**
-- À surveiller les runs du soir d’ECMWF jeudi 1er et vendredi 2 octobre.
+Surveiller les runs CEP 00Z/12Z, GFS 12Z/18Z, GEM, UKMO, ARPEGE/AROME pour l'épisode méditerranéen (Cévennes, Ardèche, Languedoc).
 
 
-## 🗓️ SEMAINE 2 : Période exacte semaine 2 : du lundi 5 au dimanche 11 octobre 2026.
+## 🗓️ SEMAINE 2 : Période exacte : du lundi 5 octobre au dimanche 11 octobre 2026 (semaine 41).
 ### 💡 Points clés de la semaine 2
-1. Hypothèse durable : Les ensemblistes européens évoquent une configuration sub-saisonnière.
-2. Semaine loin d’être calme : Aucun scénario majoritaire ne se dégage pour l’instant.
-3. Prudence absolue : Les échéances dépassent largement le délai fiable.
-4. Aucun sujet actif : La discussion est inspirée des tendances long-terme.
+1. Blocage annoncé : La semaine devrait se dérouler sous un régime de blocage, souvent sec et stable.
+2. Températures en baisse : Lundi et mardi, les températures minimales et maximales baissent nettement sur la plupart des régions.
+3. Méditerranée sous surveillance : Des anomalies basses pourraient circuler près du bassin méditerranéen en fin de semaine.
+4. Hypothèse minoritaire : Ce scénario pluvieux n'est pas majoritaire, mais il est soutenu par les ensembles européens.
+5. Incertitude persistante : La position exacte du blocage conditionnera le ressenti et les précipitations de la semaine.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Une anomalie est évoquée en Europe à très long terme, mais sans précision.  
-- La confiance est jugée faible par l’ensemble des avis disponibles.  
-- Le scénario n’est ni majoritaire ni stabilisé par les différents modèles cités.
+• Blocage anticyclonique dominant pour la semaine 2.
+• Températures en baisse en début de semaine.
+• Peu de précipitations attendues, sauf scénario méditerranéen.
 **Points de divergence :**
-- Aucune comparaison fiable entre runs ne permet de trancher.  
-- La localisation exacte d’une éventuelle dégradation est impossible à déterminer.  
-- L’ampleur des températures reste floue.
+• Présence et position d'anomalies basses méditerranéennes.
+• Durée du blocage et éventuel retour de la douceur.
+• Répartition des pluies locales lundi/mardi.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Ensemblistes européens sub-saisonniers** (Mention générale sans discussion détaillée du forum.) | Ils soutiennent une hypothèse non majoritaire, avec une possibilité de blocage ou d’anomalie durable. | Temps sec et chaud possible sur une partie de l’Europe, ou bien talweg pluvieux selon les runs. | France, Europe de l’Ouest et bassin méditerranéen. | Faible (45%) | Aucun détail technique sur les précipitations, le vent ou les températures. Il est impératif de rester très prudent sur cette échéance. |
+| **ECMWF (ENSEMBLES)** (documented) | Régime de blocage dominant ; hypothèse minoritaire d'anomalies basses près de la Méditerranée, soutenue par les ensembles sub-saisonniers européens. | Temps sec et stable, mais possible retour d'un épisode méditerranéen en fin de semaine. | Bassin méditerranéen, PACA, Languedoc-Roussillon, Corse ; reste du pays sous blocage. | Modérée (65%) | tao précise que le blocage n'est pas figé ; des anomalies basses près de la Méditerranée pourraient donner une saveur particulière à la fin de semaine. |
+| **GFS 384H** (insufficient) | Non estimable : aucune discussion spécifique de GFS dans le sujet Semaine 41. Les projections long terme restent à confirmer. | Non estimable. | Non déterminable. | Non estimable | Le sujet Semaine 41 ne contient pas de commentaire spécifique sur GFS ; les incertitudes restent fortes. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Tendance non déterminable, scénario d’anomalie possible. | Non documenté | non_estimable | ECMWF | Absence de discussions détaillées pour cette semaine. |
-| **Nord** | Tendance non déterminable à ce stade. | Non documenté | non_estimable | ECMWF | Aucune modélisation fiable disponible. |
-| **Nord-Est** | Tendance non déterminable. | Non documenté | non_estimable | ECMWF | Absence de discours sur cette zone. |
-| **Ouest et Façade Atlantique** | Tendance très incertaine. | Non documenté | non_estimable | ECMWF | Aucune donnée exploitable. |
-| **Centre** | Tendance non déterminable. | Non documenté | non_estimable | ECMWF | Absence de détails fiables. |
-| **Sud-Ouest** | Hypothèse d’une anomalie non confirmée. | Non documenté | non_estimable | ECMWF | Confiance très faible sur toute la zone. |
-| **Sud-Est et Vallée du Rhône** | Tendance non déterminable. | Non documenté | non_estimable | ECMWF | Aucun détail exploitable. |
-| **Méditerranée et Corse** | Hypothèse d’une persistance chaude et sèche possible. | Non documenté, mais possibilité d’anomalie chaude. | non_estimable | ECMWF | Rien de fiable à cette échéance. |
+| **Nord-Ouest** | Régime de blocage probable, temps souvent sec, calme et plus automnal. | En baisse en début de semaine, puis évolution incertaine sous le blocage. | faible | ECMWF ENS | Durée du blocage et possibilité d'anomalies de basse couche. |
+| **Nord** | Temps largement ensoleillé lundi et mardi, puis probable maintien d'un temps sec. | Températures en baisse, notamment minimales, avant une évolution incertaine. | faible | Météo-France, ECMWF ENS | Évolution post-mardi et maintien éventuel de la douceur. |
+| **Nord-Est** | Blocage probable, temps sec et stable attendu, sans précision locale. | Non précisées localement ; probable baisse en début de semaine. | non_estimable | ECMWF ENS | Absence de commentaires dédiés pour cette zone. |
+| **Ouest et Façade Atlantique** | Beau temps sec et ensoleillé lundi/mardi, risques pluvieux localisés ; blocage ensuite probable. | En baisse autour de l'estuaire et du sud-est du département lundi/mardi. | moderee | Météo-France, ECMWF ENS | Portée du blocage et des pluies localisées en début de semaine. |
+| **Centre** | Blocage anticyclonique probable, temps souvent sec et calme. | En baisse en début de semaine, puis dépendantes de la position du blocage. | faible | ECMWF ENS | Localisation exacte du blocage et éventuelles anomalies. |
+| **Sud-Ouest** | Temps plutôt ensoleillé lundi/mardi, avec passages nuageux et risques locaux ; blocage ensuite. | Maximales en baisse sur coteaux, Volvestre, Lauragais ; baisse générale attendue. | moderee | Météo-France, ECMWF ENS | Évolution après mardi et limite pluie-neige en baisse sur les Pyrénées. |
+| **Sud-Est et Vallée du Rhône** | Beau temps sec et ensoleillé lundi/mardi, passages nuageux localisés, puis blocage. | Minimales en baisse, maximales en baisse sauf Val de Saône. | moderee | Météo-France, ECMWF ENS | Persistence des averses locales et évolution du blocage. |
+| **Méditerranée et Corse** | Beau temps sec et ensoleillé lundi/mardi, puis possible influence d'anomalies basses en Méditerranée. | En baisse sur le littoral et dans les terres, mais douceur relative persistante. | faible | Météo-France, ECMWF ENS | Réalisation ou non de l'hypothèse d'anomalies basses méditerranéennes. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Du 5 au 7 octobre.** : Rien de fiable n’est déterminable.
-- **Les 8 et 9 octobre.** : Maintien d’une incertitude forte.
-- **Les 10 et 11 octobre.** : Tendance non confirmée.
-- **—** : Non documenté.
+- **Lundi 5 et mardi 6 octobre 2026** : Temps souvent sec et ensoleillé, températures en baisse sur la plupart des régions.
+- **Mercredi 7 et jeudi 8 octobre 2026** : Blocage probable ; l'incertitude porte sur la position des hautes pressions et d'éventuelles anomalies.
+- **Vendredi 9 et samedi 10 octobre 2026** : Possible circulation d'anomalies basses près de la Méditerranée, hypothèse minoritaire.
+- **Dimanche 11 octobre 2026** : Fin de période sous blocage, détails encore très incertains.
 
 **Points solides :**
-- Les ensemblistes européens sub-saisonniers évoquent une anomalie.  
-- Le scénario n’est pas majoritaire, donc aucune confirmation.  
-- La semaine 2 reste soumise à une forte incertitude.
+• Premiers jours souvent secs et ensoleillés (bulletins officiels).
+• Baisse des températures lundi/mardi.
+• Blocage probable.
 
 **Points fragiles :**
-- Aucune prévision de précipitations n’est abordée.  
-- Le signal semble fragile et peu documenté.  
-- La fiabilité à J+10 est très faible.
+• Hypothèse méditerranéenne de fin de semaine.
+• Évolution post-mercredi du blocage.
+• Cumuls exacts et limite pluie-neige en montagne.
 
 **À surveiller (prochains runs) :**
-- Prochaines sorties espacées des ensembles européens, suivi de l’évolution du signal MJO.
+Suivre les ensembles CEP sub-saisonniers, GFS 384h, CEP déterministe, et les modèles à maille fine (AROME/ARO) pour le scénario méditerranéen.
 
 
 ========================================
@@ -126,27 +131,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Après une semaine 1 encore chaude, une baisse des températures se profile par l’ouest. En semaine 2, l’incertitude reste totale.
+Semaine 1 encore marquée par la douceur, avec une dégradation éphémère et une baisse thermique en fin de période ; semaine 2 sous blocage, plus sèche mais avec une incertitude méditerranéenne.
 
 ### Période la plus fiable
-La semaine 1 est clairement la plus fiable, surtout sur ses 3 à 4 premiers jours.
+Semaine 1, car elle s'appuie sur des bulletins officiels détaillés et une discussion plus nourrie.
 
 ### Phénomènes récurrents
-Vent de Sud-Est en Méditerranée, chaleur en journée, baisse thermique possible par l’ouest.
+Flux méridiens de sud, advection chaude, talwegs improductifs, sécheresse des sols, épisodes méditerranéens ponctuels.
 
 ### Principales incertitudes
-La fiabilité de la semaine 2, l’ampleur de la baisse, et la répartition des précipitations.
+Cumuls de pluie, timing de la baisse thermique, évolution du blocage et scénario méditerranéen de la semaine 2.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur le moment exact de la baisse des températures, notamment entre jeudi et dimanche.
-- **Localisation :** Doutes sur les zones réellement concernées par les pluies et par la baisse thermique.
-- **Intensité :** Doutes sur l’ampleur de la fraîcheur, surtout l’intensité du vent en Méditerranée.
-- **Informations manquantes :** Aucune information précise sur la nébulosité, les orages ou les cumuls pour la semaine 2.
-- **Modèles sous-documentés :** GFS, modèles longue portée et ensemblistes sub-saisonniers.
-- **Incertitudes images :** Les cartes de cumuls à long terme sont souvent rejetées par les membres du forum.
+- **Timing/Chronologie :** Le passage du talweg ouest-est en semaine 1 et l'apparition éventuelle d'anomalies basses en semaine 2 restent flous.
+- **Localisation :** Les zones exactes touchées par les pluies (nord-ouest, centre, sud-est) et la géographie de l'épisode méditerranéen demeurent incertaines.
+- **Intensité :** L'intensité du pic de chaleur mardi/mercredi et celle des orages/cumuls ne sont pas verrouillées.
+- **Informations manquantes :** Peu de détails sur le vent dans plusieurs régions, sur les températures au-delà du mardi 6 octobre et sur l'évolution des sols.
+- **Modèles sous-documentés :** GFS 384h pour la semaine 2, UKMO et ARPEGE (cités sans analyse détaillée), GEM (un seul avis).
+- **Incertitudes images :** Les cartes de cumuls long terme et les runs CEP/GEM varient fortement ; les images du forum ne sont pas toutes légendées.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🇫🇷🌦️ Analyse météo : une semaine encore chaude, mais une baisse des températures se déclenche par l’ouest ! En Méditerranée, la chaleur persiste avec un vent de Sud-Est sensible. Prudence : la fiabilité à très long terme reste faible, mais tout semble se jouer autour d’un possible talweg en fin de semaine. La suite plus nette avec les prochains runs. #Météo #MétéoFrance #Prévisions
+🌤️🔍 Après une semaine encore chaude, l'automne hésite : baisse thermique en vue, épisode méditerranéen modéré à surveiller, puis blocage probable du 5 au 11 octobre. Les scénarios pluvieux restent fragiles. #Météo #Prévisions #Automne
