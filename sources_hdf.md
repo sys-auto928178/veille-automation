@@ -319,10 +319,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Samedi 26 Septembre 2026.
-Résumé général HDF précédent : Du 28 septembre au 11 octobre : temps sec et souvent chaud en début de période, possible dégradation pluvio-instable en fin de semaine 1, retour à des températures de saison. La semaine 2 reste très incertaine avec une tendance sèche et douce, mais aucune fiabilité..
+Dernier bulletin HDF généré le Dimanche 27 Septembre 2026.
+Résumé général HDF précédent : Du 28 septembre au 11 octobre : temps sec et anormalement chaud en début de période avec un pic probable mardi 29, dégradation pluvio-instable mercredi/jeudi, puis retour de conditions plus fraîches et sèches. La semaine 2 reste dominée par un anticyclone moins vigoureux, des flux méridiens et une forte incertitude..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Vigilance verte, pas d’orage, vent modéré, pression 1022 hPa. (62 caractères).
+Températures attendues précédemment : Balayage pluvio-instable ouest-est, chaleur marquée mardi/mercredi, baisse thermique ensuite, retour sec possible..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -452,7 +452,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 16 heures par mathias
+	Modifié il y a 18 heures par mathias
 								4
 								1
 								1
@@ -484,7 +484,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 								2
 
 =======================
@@ -521,7 +521,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 3 heures par Nono34
+	Modifié il y a 5 heures par Nono34
 								3
 								2
 
@@ -545,7 +545,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 3 heures par Run999H
+	Modifié il y a 5 heures par Run999H
 								2
 								1
 
@@ -695,7 +695,7 @@ il y a 30 minutes, serge26 a dit :
 			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
 	@Ciel d'encre est peut être presbyte? 😁
 	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié il y a 16 heures par mathias
+	Modifié il y a 18 heures par mathias
 								4
 								1
 								1
@@ -727,7 +727,7 @@ Les précipitations qui vont tomber entre mardi et mercredi vont être inégales
 	Paris :
 	Toulouse :
 	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 								2
 
 =======================
@@ -764,7 +764,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 3 heures par Nono34
+	Modifié il y a 5 heures par Nono34
 								3
 								2
 
@@ -788,7 +788,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 3 heures par Run999H
+	Modifié il y a 5 heures par Run999H
 								2
 								1
 
