@@ -1,133 +1,133 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Dimanche 27 Septembre 2026
-**Période :** Semaine 1 (Période exacte semaine 1 : du lundi 28 septembre au dimanche 4 octobre 2026) & Semaine 2 (Période exacte semaine 2 : du lundi 5 au dimanche 11 octobre 2026
-⚠️ Le sujet spécifique de la Semaine 41 n'est pas encore ouvert sur Infoclimat. Cette analyse s'appuie uniquement sur les projections à long terme extraites du sujet Semaine 40. Aucune discussion fictive n'a été inventée.)
+**Période :** Semaine 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) & Semaine 2 (Du Lundi 5 au Dimanche 11 Octobre 2026
+
+⚠️ Le sujet spécifique de la Semaine 41 n’est pas encore ouvert sur le forum Infoclimat. Cette section s’appuie uniquement sur les projections à long terme extraites du sujet Semaine 40 et sur les tendances Météo-France J+7.)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Consensus sur la chaleur et la baisse de jeudi, mais pas sur les pluies.*
-- **Fiabilité du scénario majoritaire :** Flux de sud chaud et sec — *Dégradations limitées, épisode cévenol modéré probable, automne en retard.*
+- **Consensus des modèles :** Modéré — *Accord sur le scénario d’ensemble, désaccords sur les détails des pluies.*
+- **Fiabilité du scénario majoritaire :** Chaud puis dégradation limitée — *Flux de sud chaud, épisode cévenol modéré, rafraîchissement temporaire, possible retour de la chaleur.*
 - **Stabilité des cartes/scénarios :** 6 / 170 — *6 cartes sur 170 analysées*
-- **Niveau d'incertitude global :** Forte à long terme — *Cumuls, extension des orages et évolution de l'anticyclone en semaine 2 incertains.*
+- **Niveau d'incertitude global :** Élevée — *Surtout sur les cumuls, la position des talwegs et l’évolution en semaine 2.*
 
-## 🗓️ SEMAINE 1 : Période exacte semaine 1 : du lundi 28 septembre au dimanche 4 octobre 2026
+## 🗓️ SEMAINE 1 : Du Lundi 28 Septembre au Dimanche 4 Octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Flux de sud chaud : La semaine reste très douce, avec des températures jusqu'à 30°C mardi/mercredi.
-2. Épisode cévenol probable : Un épisode méditerranéen modéré est en vue, surtout mardi soir et mercredi.
-3. Dégradation limitée jeudi : Le talweg balaie le pays d'ouest en est, avec pluies et baisse nette.
-4. Week-end plus frais : Les températures reviennent près des normales, mais la sécheresse persiste.
-5. Prudence sur les cumuls : Les cartes à long terme divergent selon les runs, l'incertitude reste forte.
+1. Chaleur persistante : Flux de sud chaud, fortes chaleurs mardi/mercredi sur une large moitié nord et sud.
+2. Dégradation jeudi : Talweg pluvio-instable balayant le pays d’ouest en est, baisse des températures.
+3. Épisode cévenol : Signal net d’un épisode modéré entre mardi soir et mercredi, intensité incertaine.
+4. Pluies inégales : Nord-ouest et sud-est privilégiés, beaucoup de régions sous les 10 mm.
+5. Sécheresse tendue : Paris-Montsouris approche 30 jours secs, les sols restent très secs.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Flux de sud chaud et sec dominant, avec des températures nettement au-dessus des normales jusqu'à mercredi.
-- Signal d'un épisode méditerranéen/cévenol modéré autour du 30 septembre, mais extension et intensité incertaines.
-- Baisse généralisée des températures à partir de jeudi, pour revenir près des normales le week-end.
+- Convergence 1 : Flux de sud chaud et sec jusqu’à mercredi ; fortes chaleurs mardi/mercredi, y compris au nord.
+- Convergence 2 : Dégradation pluvio-instable jeudi par l’ouest, avec baisse nette des températures.
+- Convergence 3 : Épisode cévenol/méditerranéen probable entre mardi soir et mercredi, d’intensité modérée à ce stade.
 **Points de divergence :**
-- Cumuls de précipitations : GEM varie fortement d'un run à l'autre, GFS alterne froid/chaud.
-- Place de l'humidité le week-end : talweg résiduel ou dorsale d'altitude ?
-- Retour des températures au-dessus des normales en toute fin de semaine, surtout par le sud-ouest.
+- Divergence 1 : Cumuls et localisation des pluies : nord-ouest/sud-est favorisés ou large masse humide ? Beaucoup de zones sous les 10 mm possibles.
+- Divergence 2 : Week-end sec sous talweg ou dorsale anticyclonique ? L’humidité résiduelle reste incertaine.
+- Divergence 3 : Températures : retour aux normales de saison ou maintien d’une anomalie chaude +2/+4°C en Méditerranée ?
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF / CEP** (documented) | Signal net d'un épisode cévenol modéré, talweg pluvio-instable ouest-est jeudi, flux de sud chaud ensuite. | Fortes chaleurs mardi/mercredi, orages cévenols, dégradation jeudi, températures en baisse le week-end. | Cévennes, Languedoc, quart sud-est, puis Ouest et tout le pays jeudi. | Élevée (85%) | Plusieurs membres s'appuient sur le déterministe européen pour cerner l'épisode cévenol. Consensus sur la baisse des températures en fin de semaine, mais l'humidité reste débattue. |
-| **GFS** (documented) | GFS alterne entre coups de froid et coups de chaud ; des scénarios montrent des hautes pressions attaquées par des anomalies froides. | Temps instable possible malgré les hautes pressions, pluies inégales, températures en dents de scie. | France entière, contrastes nord-ouest / sud-est. | Modérée (65%) | Un membre évoque des projections "froid puis chaud voire très chaud". D'autres montrent des scénarios d'anomalies froides attaquant les hautes pressions. Fiabilité à long terme faible. |
-| **GEM / Canadien** (documented) | GEM se montre plus modéré sur le "plat" pluvieux et varie fortement d'un run à l'autre selon l'orientation du talweg. | Cumuls très différents entre runs, intensité des pluies incertaine. | Ouest et régions centrales, extension incertaine. | Modérée (65%) | Un membre illustre les divergences de cumuls entre deux runs du modèle canadien. Prudence sur les cartes à très long terme. |
-| **UKMO** (partial) | UKMO est cité pour illustrer des précipitations inégales entre mardi et mercredi, sans analyse détaillée. | Pluies inégales, régions du nord-ouest et du sud-est potentiellement privilégiées. | Nord-ouest, sud-est | Faible (45%) | Carte de cumuls UKMO postée à l'appui du scénario de précipitations inégales, mais aucun commentaire textuel détaillé. |
-| **GEFS** (partial) | L'ensembliste GEFS montre une possible accalmie sans pluie entre les thalwegs du 30/09 au 02/10, puis une reprise possible. | Temps sec temporaire en milieu de semaine, pluies possibles ensuite. | Non documenté précisément, France entière | Faible (45%) | Mention unique dans le fil, sans carte détaillée. Les ensembles CEP n'étaient pas encore sortis au moment des échanges. |
+| **ECMWF / CEP** (Modèle commenté en détail) | Signal net d’épisode cévenol autour du 30 septembre/1er octobre, flux de sud chaud puis talweg pluvio-instable jeudi et baisse thermique le week-end. | Fortes chaleurs mardi/mercredi, orages cévenols, dégradation jeudi, net rafraîchissement le week-end. | Sud-Est, Cévennes, Ardèche, puis tout le pays d’ouest en est. | Élevée (85%) | Les membres soulignent un signal cévenol bien identifié, mais l’intensité et la localisation exacte des pluies restent à affiner. L’ensembliste CEP n’était pas encore sorti au moment des échanges. |
+| **GFS / GEFS** (Modèle commenté en détail) | GFS alterne entre froid puis chaud voire très chaud ; GEFS montre un possible plateau sec entre les thalwegs du 30/09 au 02/10. | Fortes chaleurs puis refroidissement temporaire, incertitude sur le retour d’une nouvelle hausse. | France entière, avec une incertitude accrue en fin de semaine et pour la semaine suivante. | Élevée (85%) | Un membre relève une possible absence de précipitations entre les thalwegs sur GEFS, tandis qu’un autre voit GFS souffler le froid puis le chaud. Prudence sur les extrêmes. |
+| **GEM (Canadien)** (Modèle évoqué et comparé) | GEM paraît plus modéré sur le « plat » sec et change fortement ses cumuls selon l’orientation du talweg ; tendance moins fiable. | Cumuls très variables d’une sortie à l’autre, pas de signal franc. | Ouest et centre-ouest notamment. | Modérée (65%) | Un membre illustre les changements importants de cumuls entre deux sorties à 12 h d’intervalle ; il recommande de privilégier les mailles fines et les ensembles. |
+| **UKMO** (Modèle brièvement évoqué) | Scénario de précipitations inégales entre mardi et mercredi, avec nord-ouest et sud-est plutôt favorisés. | Pluies localisées, fortes chaleurs avant la dégradation. | Nord-ouest, sud-est, centre possible. | Faible (45%) | Cité pour illustrer la répartition inégale des pluies, sans analyse détaillée. |
+| **Météo-France (ARPEGE/AROME)** (Cité via bulletins officiels) | Prévisions officielles confirment un week-end encore très chaud, une dégradation jeudi/vendredi puis un temps plus frais et souvent sec. | Orages possibles lundi en Gironde, fortes chaleurs mardi/mercredi, pluies jeudi. | Ensemble du territoire, avec un focus Languedoc-Roussillon mardi soir. | Modérée (65%) | Les bulletins départementaux indiquent 29-31°C mardi sur plusieurs régions, puis 21-25°C jeudi/week-end, avec un épisode cévenol probable autour du 30 septembre. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps gris lundi, averses possibles, puis éclaircies et chaleur mardi/mercredi | Maximales 26-30°C mardi/mercredi, en baisse jeudi | moderee | GFS, ECMWF, GEM, UKMO | Cumuls et extension de la dégradation lundi |
-| **Nord** | Ciel gris lundi, averses brèves, puis soleil et chaleur mardi/mercredi, fraîchit jeudi | Max 26-30°C mardi/mercredi, puis 22°C jeudi/vendredi, 21°C week-end | elevee | Météo-France, GFS, ECMWF | Intensité des averses lundi et jeudi |
-| **Nord-Est** | Fortes chaleurs possibles mardi/mercredi, dégradation plus limitée jeudi | Max 28-30°C mardi/mercredi, baisse nette jeudi/vendredi | moderee | GFS, ECMWF, GEM | Localisation exacte des pluies et amplitude du rafraîchissement |
-| **Ouest et Façade Atlantique** | Gris et averses lundi, forte chaleur mardi/mercredi, dégradation orageuse possible, fraîchit jeudi | Max 28-31°C mardi/mercredi, 24°C littoral ; 22-25°C jeudi et week-end | elevee | Météo-France, GFS, ECMWF, GEM | Intensité orageuse et cumuls ; vigilance jaune orages lundi |
-| **Centre** | Temps sec et chaud en début de semaine, dégradation limitée jeudi, éclaircies ensuite | Max 27-30°C mardi/mercredi, 21-23°C week-end | moderee | ECMWF, GFS, GEM | Passage du talweg et cumuls associés |
-| **Sud-Ouest** | Soleil, voiles nuageux, chaleur mardi/mercredi, orages possibles en fin de journée mercredi | Max 28-31°C en plaine, 25°C Pyrénées ; 21-24°C après jeudi | elevee | Météo-France, ECMWF, GFS, GEM | Déclenchement des orages mercredi et cumuls |
-| **Sud-Est et Vallée du Rhône** | Voile nuageux, chaleur mardi, petites pluies mercredi, dégradation jeudi, éclaircies week-end | Max 26-30°C mardi/mercredi, 21-23°C week-end ; nuits douces 15-18°C | elevee | Météo-France, ECMWF, GFS | Quantités de pluie et extension des averses |
-| **Méditerranée et Corse** | Soleil généreux, voile nuageux, épisode cévenol probable mardi/mercredi, pluies orageuses | Max 26-30°C, nuits douces 18-22°C littoral, baisse limitée ensuite | elevee | Météo-France, ECMWF, GFS, GEM | Intensité et extension de l'épisode cévenol |
+| **Nord-Ouest** | Lundi pluvio-instable, puis retour chaud et orages possibles mardi/mercredi. | Très doux à chaud, fortes chaleurs mardi/mercredi, nette baisse jeudi. | moderee | ECMWF, GFS, GEM, UKMO | Cumuls exacts et extension des orages, notamment mardi/mercredi. |
+| **Nord** | Gris lundi, soleil mardi, risque pluie jeudi/vendredi, éclaircies le week-end. | Chaud mardi 29-30°C, puis baisse à 21-22°C jeudi/vendredi. | moderee | ECMWF, GFS, Météo-France | Intensité et position des pluies jeudi ; éclaircies du week-end. |
+| **Nord-Est** | Tendance encore chaude mardi/mercredi, dégradation jeudi, baisse ensuite. | Fortes chaleurs possibles mardi/mercredi, puis températures proches des normales. | faible | GFS, ECMWF | Peu de messages dédiés à l’est ; position exacte du talweg jeudi. |
+| **Ouest et Façade Atlantique** | Gris lundi, très chaud mardi, orages possibles, baisse jeudi puis éclaircies. | 30-31°C mardi, 24°C sur le littoral, puis 22-25°C à partir de jeudi. | moderee | ECMWF, GFS, Météo-France | Cumuls et caractère orageux de la dégradation de jeudi. |
+| **Centre** | Chaud et sec mardi/mercredi, orages possibles, baisse jeudi/vendredi. | Forte chaleur mardi/mercredi, puis retour proche des normales. | faible | ECMWF, GFS, GEM | Les membres hésitent sur la possibilité que le centre soit arrosé ou reste sec. |
+| **Sud-Ouest** | Ensoleillé et très chaud, Autan fort, orages possibles mercredi en fin de journée. | 29-32°C dimanche/lundi, 28-31°C mercredi, puis 21-24°C jeudi/vendredi. | moderee | ECMWF, GFS, Météo-France | Évolution de l’Autan et déclenchement orageux mercredi. |
+| **Sud-Est et Vallée du Rhône** | Voile puis soleil, chaud mardi, petites pluies mercredi, dégradation jeudi. | 26-29°C mardi, 24-27°C mercredi, 21°C jeudi/vendredi. | moderee | ECMWF, GFS, Météo-France | Interaction avec l’épisode cévenol et cumuls associés. |
+| **Méditerranée et Corse** | Soleil et chaleur, épisode méditerranéen/cévenol probable mardi soir/mercredi. | 28-30°C mardi, 25-27°C ensuite ; anomalies +2 à +4°C persistantes. | moderee | ECMWF, GFS, GEM, Météo-France | Intensité et localisation exacte de l’épisode méditerranéen. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 28 septembre** : Dégradation limitée sur l'ouest et le nord-ouest, ciel gris, averses possibles, vent d'Autan fort en Occitanie.
-- **Mardi 29 et mercredi 30 septembre** : Flux de sud chaud, fortes chaleurs, orages possibles sur l'ouest et épisode cévenol probable à surveiller.
-- **Jeudi 1 et vendredi 2 octobre** : Talweg pluvio-instable balayant le pays d'ouest en est, pluies/averses, nette baisse des températures.
-- **Samedi 3 et dimanche 4 octobre** : Temps plus frais et plus calme, éclaircies et nuages, pluies résiduelles possibles sur l'est et le relief.
+- **Lundi 28 septembre** : Talweg pluvio-instable sur l’ouest/nord-ouest, gris ailleurs, encore chaud.
+- **Mardi 29 et mercredi 30 septembre** : Flux de sud chaud, fortes chaleurs, orages possibles et épisode cévenol probable.
+- **Jeudi 1er et vendredi 2 octobre** : Dégradation ouest-est, baisse nette des températures, pluies parfois orageuses.
+- **Samedi 3 et dimanche 4 octobre** : Temps plus frais et souvent sec, pluies locales possibles, incertitude sur l’humidité.
 
 **Points solides :**
-- Fortes chaleurs mardi/mercredi avec 29-31°C sur une large moitié sud, 26-30°C au nord.
-- Baisse nette des températures jeudi/vendredi, avec un ressenti plus automnal.
-- Sécheresse des sols qui s'accentue, pluies déficitaires sur la majorité du pays.
+- Fortes chaleurs mardi/mercredi sur une large partie du pays.
+- Baisse nette des températures à partir de jeudi, par l’ouest.
+- Épisode cévenol probable autour du 30 septembre/1er octobre, plutôt modéré.
 
 **Points fragiles :**
-- Intensité et localisation exacte de l'épisode cévenol.
-- Cumuls de pluie attendus très inégaux, certaines régions pourraient recevoir moins de 10 mm.
-- Rythme du retour de la douceur en fin de semaine et pendant le week-end.
+- Cumuls exacts des pluies et « trous dans la raquette ».
+- Extension spatiale des orages de mardi/mercredi.
+- Vitesse de reconstitution de l’anticyclone le week-end.
 
 **À surveiller (prochains runs) :**
-À surveiller : runs de mardi pour l'épisode cévenol, puis jeudi pour la dégradation ; suivre CEP/GFS 12Z et les sorties de GEM.
+CEP ensembles, GEFS, GEM 12Z, UKMO 12Z ; mailles fines AROME/AROME-PI pour l’épisode cévenol.
 
 
-## 🗓️ SEMAINE 2 : Période exacte semaine 2 : du lundi 5 au dimanche 11 octobre 2026
-⚠️ Le sujet spécifique de la Semaine 41 n'est pas encore ouvert sur Infoclimat. Cette analyse s'appuie uniquement sur les projections à long terme extraites du sujet Semaine 40. Aucune discussion fictive n'a été inventée.
+## 🗓️ SEMAINE 2 : Du Lundi 5 au Dimanche 11 Octobre 2026
+
+⚠️ Le sujet spécifique de la Semaine 41 n’est pas encore ouvert sur le forum Infoclimat. Cette section s’appuie uniquement sur les projections à long terme extraites du sujet Semaine 40 et sur les tendances Météo-France J+7.
 ### 💡 Points clés de la semaine 2
-1. Semaine 41 encore floue : Le sujet n'est pas ouvert ; seules les projections long terme du topic W1 sont disponibles.
-2. Anticyclone sans vigueur : Il pourrait se reconstituer, mais l'Atlantique semble se réveiller.
-3. Chaleur possible au sud-ouest : Les températures pourraient repartir à la hausse via le sud-ouest dès vendredi.
-4. Méditerranée toujours chaude : PACA et Corse pourraient rester en excédent thermique de +2 à +4°C.
-5. Sécheresse préoccupante : Flux de sud persistant, pluies attendues très faibles, étiages sous surveillance.
+1. Forte incertitude : Le sujet Semaine 41 n’est pas ouvert, seules les projections long terme sont disponibles.
+2. Flux toujours méridiens : Pas de zonal en vue, l’anticyclone pourrait se reconstituer sans vigueur.
+3. Baisse lundi/mardi : Météo-France prévoit un temps plus frais et souvent ensoleillé, puis incertitude.
+4. Possible remontée chaude : Les températures pourraient repartir à la hausse en fin de semaine, surtout au sud-ouest.
+5. Méditerranée à surveiller : Un épisode résiduel ou de nouvelles pluies cévenoles ne sont pas exclus.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Flux de sud persistant, pas de retour d'un vrai zonal océanique.
-- Anticyclone qui tente de se reconstituer mais sans vigueur, laissant passer quelques anomalies.
-- Températures probablement encore au-dessus des normales en Méditerranée et sur le sud.
+- Baisse des températures lundi/mardi, au moins temporaire.
+- Flux toujours méridien, pas de retour d’un zonal dynamique.
+- Incertitude majeure sur l’évolution de la fin de semaine.
 **Points de divergence :**
-- Place exacte de l'anticyclone et trajectoire des anomalies froides d'altitude.
-- Rythme du retour de la chaleur, éventuellement par le sud-ouest.
-- Risque de précipitations : quasi nul ou averses résiduelles ?
+- GFS voit froid puis très chaud, GEM plus modéré ; CEP ensemble non disponible.
+- Maintien de l’anticyclone ou nouvelles anomalies froides d’altitude.
+- Méditerranée : retour sec ou nouvel épisode pluvieux.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF / CEP** (partial) | CEP long terme : hautes pressions qui s'accrochent, mais des scénarios d'anomalies froides d'altitude pourraient générer de l'instabilité. | Temps sec et doux, risque d'averses malgré les hautes pressions selon certains scénarios. | France entière, plus particulièrement Méditerranée et Est. | Faible (45%) | Projections long terme issues du sujet W1. Pas de sujet dédié, incertitude forte. |
-| **GFS** (partial) | GFS long terme souffle le froid puis le chaud voire très chaud, signe d'une grande incertitude. | Alternance possible de passages plus frais et de coups de chaud. | Non déterminable, France entière. | Faible (45%) | Aucun scénario fiable à cette échéance ; à réévaluer après ouverture du sujet Semaine 41. |
-| **GEM / Canadien** (partial) | GEM long terme : des scénarios de hautes pressions attaquées par des anomalies froides, forte variabilité inter-runs. | Précipitations possibles malgré les hautes pressions, localisation incertaine. | Non déterminable | Faible (45%) | Projections long terme citées dans le topic W1 ; aucune discussion dédiée semaine 2. |
-| **UKMO** (insufficient) | Non estimable : pas de projection exploitable pour la semaine 2. | Non documenté | Non documenté | Non estimable | Aucune mention pour la semaine 2. |
-| **GEFS** (partial) | GEFS long terme suggère une possible reprise des pluies après une accalmie, mais sans certitude. | Pluies possibles en seconde partie de semaine, cumuls incertains. | Non déterminable | Faible (45%) | Mention unique dans le topic W1 sur un possible "plat" puis reprise. Incertitude forte. |
+| **ECMWF / CEP** (Projection long terme, non dédiée) | Projection long terme : l’Atlantique se réveille, mais l’anticyclone pourrait se reconstituer sans retrouver sa vigueur. | Temps plus frais en début de semaine, puis incertitude sur une possible hausse. | Ensemble du pays, surtout fin de semaine. | Faible (45%) | Les membres évoquent une possible reprise des thalwegs et des attaques des hautes pressions, mais aucun scénario net n’est validé. |
+| **GFS / GEFS** (Projection long terme, non dédiée) | GFS alterne entre froid puis chaud voire très chaud ; GEFS suggère une possible reprise des précipitations hors topic. | Thermomètre très changeant, signaux contradictoires. | France entière. | Faible (45%) | Un membre voit GFS souffler le froid puis le chaud ; le signal est donc à considérer avec une grande prudence. |
+| **GEM (Canadien)** (Projection long terme, non dédiée) | GEM paraît plus modéré sur le « plat » sec et pourrait évoluer vers des scénarios plus humides en fin de semaine. | Pluies possibles par anomalies froides d’altitude, malgré un anticyclone qui s’accroche. | Centre, ouest, Méditerranée. | Faible (45%) | Les scénarios d’anomalie froide d’altitude pourraient générer de l’instabilité malgré les hautes pressions ; aucune certitude. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Tendance sèche et douce, passages nuageux, incertitude sur d'éventuelles averses | En baisse en début de semaine, puis incertain ; possibles écarts au-dessus des normales | faible | GFS, ECMWF, GEM | Trajectoire des anomalies d'altitude |
-| **Nord** | Beau temps ensoleillé lundi/mardi, puis incertitude ; douceur possible | Minimales en baisse, maximales en baisse lundi/mardi ; ensuite indéterminé | moderee | Météo-France, GFS, ECMWF | Évolution après mardi |
-| **Nord-Est** | Non estimable, aucune donnée exploitable pour cette zone | Non documenté | non_estimable | ECMWF, GFS, Guillaume Séchet | Aucune discussion dédiée |
-| **Ouest et Façade Atlantique** | Soleil généreux, parfois passages nuageux, pluies temporaires localisées | En baisse, minimales 12-15°C, maximales 22-25°C ; douceur possible ensuite | moderee | Météo-France, GFS, ECMWF | Reprise de la douceur en fin de semaine |
-| **Centre** | Non estimable, aucune donnée exploitable pour cette zone | Non documenté | non_estimable | ECMWF, GFS, Guillaume Séchet | Aucune discussion dédiée |
-| **Sud-Ouest** | Beau temps sec et ensoleillé ailleurs, risque d'averses localisées en plaine et Pyrénées | En baisse, maximales 21-24°C ; limite pluie-neige 2400-2700 m sur le relief | moderee | Météo-France, GFS, ECMWF | Évolution après mardi, possible retour de la chaleur |
-| **Sud-Est et Vallée du Rhône** | Beau temps en région lyonnaise, pluies/averses possibles ailleurs, incertitude ensuite | En baisse, minimales 11-14°C, maximales 21-23°C | moderee | Météo-France, GFS, ECMWF | Reprise de la douceur et de l'instabilité en fin de semaine |
-| **Méditerranée et Corse** | Soleil généreux, passages nuageux, pluies temporaires localisées, douceur persistante | En baisse mais restant douces : 25-27°C ; nuits 17-19°C littoral | moderee | Météo-France, ECMWF, GFS | Maintien de l'excédent thermique +2 à +4°C et épisodes pluvieux |
+| **Nord-Ouest** | Temps plus frais, sec et ensoleillé après une baisse lundi/mardi. | En baisse lundi/mardi, puis évolution incertaine. | faible | ECMWF, GFS | Sujet dédié non ouvert ; comportement de l’anticyclone en fin de semaine. |
+| **Nord** | Beau temps ensoleillé lundi/mardi, vent de Nord-Est faible à modéré. | En baisse, minimales plus fraîches. | moderee | Météo-France, ECMWF | Évolution au-delà de mardi, possible remontée chaude. |
+| **Nord-Est** | Tendance indéterminée, probable temps sec et températures en baisse en début de semaine. | Baisse lundi/mardi, possible remontée ensuite. | faible | GFS | Peu de données exploitables pour cette zone dans les sources. |
+| **Ouest et Façade Atlantique** | Soleil et passages nuageux, pluies temporaires localisées, températures en baisse. | En baisse lundi/mardi, puis incertitude. | moderee | Météo-France, GFS, ECMWF | Reconstitution de l’anticyclone et nouvelle hausse possible en fin de semaine. |
+| **Centre** | Scénarios divergents, temps sec probable, températures en baisse puis incertaines. | Baisse lundi/mardi, possible remontée en fin de semaine. | faible | ECMWF, GEM | Sujet non ouvert, peu de références au centre. |
+| **Sud-Ouest** | Beau temps sec ailleurs, risque pluie localisé au sud-ouest, vent Nord-Ouest. | En baisse, surtout dans l’agglomération toulousaine et le Lauragais. | moderee | Météo-France, ECMWF | Fin de semaine : possible remontée des températures par le sud-ouest. |
+| **Sud-Est et Vallée du Rhône** | Beau temps sur Lyon, risque pluie ailleurs, températures en baisse. | En baisse lundi/mardi. | moderee | Météo-France, ECMWF | Épisodes cévenols résiduels et évolution anticyclonique. |
+| **Méditerranée et Corse** | Soleil avec passages nuageux, pluies temporaires possibles sur certaines zones. | En baisse, mais anomalies chaudes +2 à +4°C pourraient persister. | faible | Météo-France, ECMWF, GFS | Risque d’un nouvel épisode méditerranéen en fin de semaine. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 5 et mardi 6 octobre** : Baisse des températures, soleil généreux par endroits, pluies résiduelles possibles sur l'est et le sud-est.
-- **Mercredi 7 au vendredi 9 octobre** : Incertitude : possible retour de la douceur par le sud-ouest, anticyclone sans vigueur, instabilité limitée.
-- **Samedi 10 et dimanche 11 octobre** : Tendance incertaine : flux de sud persistant, températures au-dessus des normales sur le sud, sécheresse.
+- **Lundi 5 et mardi 6 octobre** : Temps plus frais, souvent ensoleillé, avec des pluies localisées possibles au sud-est et au sud-ouest.
+- **Mercredi 7 au vendredi 9 octobre** : Incertitude maximale : possible reconstitution anticyclonique ou retour de talwegs ; températures encore mal cernées.
+- **Samedi 10 et dimanche 11 octobre** : Scénarios très divergents : temps sec et chaud possible, mais aussi instabilité résiduelle, surtout en Méditerranée.
 
 **Points solides :**
-- Pas de signal franc d'une dégradation généralisée et durable.
-- Méditerranée et Corse devraient rester en excédent thermique.
-- Sécheresse et déficits pluviométriques restent la toile de fond.
+- Baisse thermique lundi/mardi 5-6 octobre sur une grande partie du pays.
+- Flux toujours méridien, pas de retour d’un zonal franc.
+- Sujet Semaine 41 non ouvert : aucune prévision détaillée fiable possible au-delà de mardi.
 
 **Points fragiles :**
-- L'ouverture du sujet Semaine 41 pourrait modifier les tendances.
-- Les modèles long terme sont peu fiables à cette échéance.
-- L'évolution de l'anticyclone européen est déterminante.
+- Évolution des températures en fin de semaine (nouvelle hausse ou pas).
+- Cumuls et position des éventuelles anomalies pluvieuses.
+- Rôle réel de l’anticyclone face aux attaques d’anomalies froides d’altitude.
 
 **À surveiller (prochains runs) :**
-À surveiller : ouverture du sujet Semaine 41, runs CEP/GFS 12Z, ensembles GEFS/CEP, suivi de l'Atlantique.
+Ouverture du sujet Semaine 41, ensembles CEP/GEFS, runs 00Z/12Z, sorties AROME et AROME-PI pour un éventuel épisode méditerranéen.
 
 
 ========================================
@@ -135,27 +135,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Deux semaines sous flux de sud majoritairement chaud et sec, avec une dégradation pluvio-instable limitée en semaine 1, un probable épisode cévenol modéré autour du 30 septembre, puis un net rafraîchissement jeudi/vendredi avant une possible remontée des températures en semaine 2.
+Deux semaines sous un flux de sud majoritairement chaud et sec, avec une dégradation pluvio-instable limitée en semaine 1, un probable épisode cévenol modéré autour du 30 septembre, puis un net rafraîchissement jeudi/vendredi avant une possible remontée des températures en semaine 2.
 
 ### Période la plus fiable
-Semaine 1 : sujet ouvert et bulletins officiels détaillés.
+Semaine 1 (28 septembre - 4 octobre) : modèles et bulletins plus cohérents, malgré des incertitudes sur les cumuls.
 
 ### Phénomènes récurrents
-Flux de sud chaud, déficits pluviométriques, sécheresse des sols, épisodes méditerranéens ponctuels.
+Flux de sud/sud-ouest chaud, phases orographiques cévenoles, talwegs pluvio-instable peu efficaces, absence de forçage océanique franc.
 
 ### Principales incertitudes
-Intensité et extension de l'épisode cévenol, timing du talweg jeudi, retour de la chaleur en semaine 2.
+Cumuls et localisation des pluies, vitesse de reconstitution de l’anticyclone, comportement des températures en semaine 2.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur le timing exact de l'épisode cévenol (mardi soir ? mercredi ?) et sur le passage du talweg jeudi.
-- **Localisation :** Localisation des pluies incertaine : nord-ouest, Cévennes, ouest ; certaines régions pourraient passer entre les gouttes.
-- **Intensité :** Cumuls très variables selon les modèles ; GEM montre des écarts importants entre runs ; intensité des orages incertaine.
-- **Informations manquantes :** Sujet Semaine 41 non ouvert ; pas de discussion détaillée sur le vent, la nébulosité ou les températures en semaine 2 pour plusieurs régions ; peu d'informations sur la Corse.
-- **Modèles sous-documentés :** UKMO (carte seule), GEFS (mention unique), CEP ensembles non sortis au moment des échanges.
-- **Incertitudes images :** Cartes de cumuls GEM/CEP/GFS à longue échéance contradictoires ; images UKMO sans commentaire détaillé.
+- **Timing/Chronologie :** Doutes sur le timing exact de l’arrivée du talweg (mercredi soir/jeudi), la durée du rafraîchissement et la date de possible remontée chaude.
+- **Localisation :** Doutes sur la localisation des pluies : ouest/nord-ouest ? Sud-Est/Cévennes ? Régions centrales arrosées ou non ? Les « trous dans la raquette » sont probables.
+- **Intensité :** Doutes sur l’intensité de l’épisode cévenol (modéré ou plus actif), les températures maximales mardi/mercredi et la force des orages.
+- **Informations manquantes :** Le sujet Semaine 41 n’est pas ouvert ; pas de discussions dédiées sur le vent ou les cumuls pour semaine 2 ; peu d’informations sur le nord-est et le centre.
+- **Modèles sous-documentés :** UKMO (1 mention), AROME/AROME-PI non commentés, CEP ensembles non disponibles au moment des échanges.
+- **Incertitudes images :** Les cartes de cumuls à long terme sont souvent remises en cause ; un membre a signalé une carte erronée sur le nombre de jours secs ; les sorties GEM varient fortement à 12 h d’intervalle.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌤️ Bulletin Monsieur Météo : 2 semaines sous un flux de sud chaud et sec. Épisode cévenol probable mardi/mercredi, rafraîchissement jeudi, mais l'automne devra encore patienter. Sécheresse toujours préoccupante. #météo #prévisions #Infoclimat
+Le début de semaine s’annonce encore très chaud, avec un possible épisode cévenol modéré autour du 30 septembre. La dégradation de jeudi apportera un rafraîchissement, mais la sécheresse reste préoccupante. Semaine 2 encore très incertaine. #météo #climat #Cévennes
