@@ -352,12 +352,12 @@ dégradation orageuse dans le sud.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Glaciers alpins
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 27/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -365,9 +365,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 27 Septembre 2026.
-Résumé général précédent : Deux semaines sous un flux de sud majoritairement chaud et sec, avec une dégradation pluvio-instable limitée en semaine 1, un probable épisode cévenol modéré autour du 30 septembre, puis un net rafraîchissement jeudi/vendredi avant une possible remontée des températures en semaine 2..
+Résumé général précédent : Deux semaines sous un flux de sud majoritairement chaud et sec, avec une dégradation pluvio-instable limitée en première semaine, un probable épisode cévenol modéré autour du 30 septembre, un net rafraîchissement jeudi, puis une possible remontée des températures en deuxième semaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Fortes chaleurs mardi/mercredi, orages cévenols, dégradation jeudi, net rafraîchissement le week-end..
+Températures attendues précédemment : Fortes chaleurs mardi/mercredi, orages cévenols, dégradation orageuse jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -449,7 +449,7 @@ il y a 31 minutes, serge26 a dit :
 			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								10
+								11
 								5
 
 =======================
@@ -555,7 +555,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 15 heures par Nono34
+	Modifié il y a 17 heures par Nono34
 								3
 								3
 
@@ -579,8 +579,8 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 15 heures par Run999H
-								2
+	Modifié il y a 17 heures par Run999H
+								3
 								1
 								1
 
@@ -590,6 +590,7 @@ Auteur: seb93100
 Message:
 Ce n'est sûrement pas Bordeaux ou alors la ville a changé d'emplacement.😅
 								1
+								2
 
 =======================
 
@@ -603,6 +604,7 @@ il y a 3 minutes, Run999H a dit :
 	Oui effectivement sa carte est fausse je supprime, sa méthodologie n’a aucun sens 😭🤣
 	Montsouris est bien à 28 jours secs (&lt;1mm) consécutifs et va probablement atteindre 30 jours
 								1
+								1
 
 =======================
 
@@ -613,7 +615,7 @@ un beau potentiel de précipitations avec CEP 0h mais quid de la concrétisation
 	https://images.meteociel.fr/im/61/14943/arpegeeur_4_102zgn5.png
 	https://images.meteociel.fr/im/17/6595/ecmwffr_25_186kod8.png
 	ce qui est du même tonneau qu'il y a 48 heures quant à l'inégale répartition  : https://images.meteociel.fr/im/69/20863/ecmwffr_25_234pic0.png
-								1
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: Nico 14
@@ -694,7 +696,7 @@ il y a 31 minutes, serge26 a dit :
 			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
 	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
 	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								10
+								11
 								5
 
 =======================
@@ -800,7 +802,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 15 heures par Nono34
+	Modifié il y a 17 heures par Nono34
 								3
 								3
 
@@ -824,8 +826,8 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 15 heures par Run999H
-								2
+	Modifié il y a 17 heures par Run999H
+								3
 								1
 								1
 
@@ -835,6 +837,7 @@ Auteur: seb93100
 Message:
 Ce n'est sûrement pas Bordeaux ou alors la ville a changé d'emplacement.😅
 								1
+								2
 
 =======================
 
@@ -848,6 +851,7 @@ il y a 3 minutes, Run999H a dit :
 	Oui effectivement sa carte est fausse je supprime, sa méthodologie n’a aucun sens 😭🤣
 	Montsouris est bien à 28 jours secs (&lt;1mm) consécutifs et va probablement atteindre 30 jours
 								1
+								1
 
 =======================
 
@@ -858,4 +862,4 @@ un beau potentiel de précipitations avec CEP 0h mais quid de la concrétisation
 	https://images.meteociel.fr/im/61/14943/arpegeeur_4_102zgn5.png
 	https://images.meteociel.fr/im/17/6595/ecmwffr_25_186kod8.png
 	ce qui est du même tonneau qu'il y a 48 heures quant à l'inégale répartition  : https://images.meteociel.fr/im/69/20863/ecmwffr_25_234pic0.png
-								1
+								2
