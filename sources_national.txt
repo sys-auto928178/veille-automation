@@ -9,7 +9,7 @@ PÉRIODES EXACTES À RESPECTER IMPÉRATIVEMENT :
 
 TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 - Sujet 1 exploité : Du 28 Septembre Au 04 Octobre 2026 Prévisions Météo Semaine 40
-- Sujet 2 exploité : Du 28 Septembre Au 04 Octobre 2026 Prévisions Météo Semaine 40  (⚠️ Le sujet spécifique de la Semaine 41 (du Du Lundi 5 au Dimanche 11 Octobre 2026) n'est pas encore ouvert par les membres sur le forum Infoclimat. L'analyse ci-dessous s'appuie sur les projections à long terme extraites du sujet Semaine 40).
+- Sujet 2 exploité : Du 05 Octobre Au 11 Octobre 2026 Prévisions Météo Semaine 41 
 
 === SOURCES COMPLÉMENTAIRES (MÉTÉO-FRANCE XML 22SPC + SÉCHET + ITN 14J) ===
 
@@ -327,12 +327,12 @@ dégradation orageuse dans le sud.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Glaciers alpins
-• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps-Centre du Quebec
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 27/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,9 +340,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 27 Septembre 2026.
-Résumé général précédent : Deux semaines encore dominées par un flux de sud, chaud et souvent sec. Baisse temporaire autour du 1er-4 octobre, puis possible retour de températures très douces, surtout du sud-est au sud. Précipitations très inégalement réparties, rarement excédentaires..
+Résumé général précédent : Flux de sud/sud-ouest dominant, températures souvent au-dessus des normales, précipitations décevantes. Dégradation éphémère autour du 1er octobre, puis possible retour de la douceur..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Dégradation pluvio-instable ouest-est jeudi ; nette baisse des températures le week-end..
+Températures attendues précédemment : Chaleur marquée mardi-mercredi, orages sur l'ouest, dégradation jeudi, fraîcheur relative week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -530,7 +530,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 21 heures par Nono34
+	Modifié il y a 23 heures par Nono34
 								3
 								3
 
@@ -554,7 +554,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 21 heures par Run999H
+	Modifié il y a 23 heures par Run999H
 								3
 								1
 								1
@@ -593,248 +593,12 @@ un beau potentiel de précipitations avec CEP 0h mais quid de la concrétisation
 								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: Nico 14
-Message:
-C'est plutôt le fond du talweg d'altitude qui nous intéresse que l'anomalie de surface.Lundi il devrait commencer sa progression vers l'est et apporter un temps pluvio-instable sur l'O/NO.
-	Mardi et mercredi le flux devrait davantage se redresser au SSO avec une advection chaude et humide qui gagne même vers l'ouest sur les dernières mises à jour. Les modèles avaient déjà anticipés ces journées chaudes depuis quelques jours où le seuil de fortes chaleurs devrait être atteint y compris sur le nord du pays. De probables développement instables sont possibles sur l'ouest du pays pour ces 2 journées.On notera la mise en place d'une phase orographique vers les Cévennes. 
-	Entre mercredi soir et jeudi,le fond de talweg devrait parvenir à aborder le pays avec donc un balayage pluvio-instable ouest-&gt;est plus généralisé et l'amorce d'une baisse des températures par l'ouest.La situation pourrait être à surveiller sur le SE du pays.
-	Pour le week-end, ce qui semble le plus certain c'est une baisse des températures.L'humidité reste à débattre mais encore une fois plutôt sous forme de talweg à l'instar du déterministe européen ce matin ou une nouvelle dorsale d'altitude.
-	En moyenne cette semaine devrait donc être encore "bien" chaude, et proche de la climatologie pour la période en termes de précipitations.Il pourrait y avoir des trous dans la raquette avec ce type de dégradation.
-	Pas l'ombre d'un zonal à l'horizon sur les ensembles,les flux resteraient méridiens et la sécheresse pourrait malheureusement s'accentuer.Pour les températures il faudra être du "bon" coté de ces flux pour ne pas assister à un énième coup de chaud.
-								7
-								1
-								6
-
-=======================
-
 Auteur: tao
 Message:
 Bonsoir,
-	c'est bien ce fond de talweg, ce cul de bout de zone d'anomalie négative qui va dicter le ressenti, en terme d'humidité, dans la semaine concernée.
-	Je pense vraiment que se focaliser sur des cartes de cumuls à très long terme, qui sont remises en cause à chaque sortie, n'est pas bon pour la santé mentale et la stabilité psychique en ces temps de disette.
-	L'exemple type est le modèle canadien, pas le plus mauvais, qui en fonction de l'orientation du talweg, sa profondeur déterminant son alimentation humide propose en 12 heures d'intervalle des situations bien différentes sur notre territoire:
-	La différence n'est pas flagrante et pourtant:
-	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
-	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
-								7
-								3
-								1
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-alors oui bien sûr, tout est affaire de focale (!)...
-	verre à moitié plein, verre à moitié vide... beaucoup de précipitations, partout ou juste un peu et beaucoup de territoires passant entre les mailles, fines ou larges... ?
-	on est d'accord, on ne se laissera pas fasciner par les valeurs - parfois impressionnantes - en millibars au fond des dépressions qui nous frôlent... pas plus du reste du fond des talwegs qui semblent s'intéresser à nous : 
-	c'est là que je voudrais m'arrêter ; un peu plus à l'Est comme on dit dans une célèbre BD : 
-	quid de l'anticyclone  à l'E de l'Europe... ?
-	quel gradient va-t-il nous fabriquer dans sa progression vers l'Hexagone, avant que fiche le camp cette belle dépression atlantique vers le N, avec quel tempo... ?
-	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
-	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
-	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié vendredi à 19:12 par giec 2100
-								1
-
-=======================
-
-Auteur: symaski62
-Message:
-salut     🤔🌧️   
-	20:00 30 septembre à 8:00 1 octobre
-	+30 mm / 6 heure  
-	---
-	50 et 72 mm   juste    8:00 1 octobre +138h
-								8
-								1
-
-=======================
-
-Auteur: serge26
-Message:
-il y a 23 minutes, symaski62 a dit :
-			salut     🤔🌧️   
-			20:00 30 septembre à 8:00 1 octobre
-			+30 mm / 6 heure  
-			---
-			50 et 72 mm   juste    8:00 1 octobre +138h
-	et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
-								1
-								1
-
-=======================
-
-Auteur: Ciel d&#039;encre
-Message:
-il y a 31 minutes, serge26 a dit :
-			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
-	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
-	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								11
-								5
-
-=======================
-
-Auteur: Mazz37
-Message:
-il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
-			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
-			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-	A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-								14
-								2
-
-=======================
-
-Auteur: serge26
-Message:
-Il y a 9 heures, Ciel d&amp;#x27;encre a dit :
-			A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
-			C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-	Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
-	Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
-								7
-								3
-
-=======================
-
-Auteur: mathias
-Message:
-il y a 30 minutes, serge26 a dit :
-			Mes excuses, je ne savais pas et comme indiqué par @Mazz37, je ne vois pas les signatures, je ne peux donc pas les inventer.
-			Maintenant, certes, je suis proche de la retraite mais pas la peine de crier aussi fort, je ne suis pas encore sourd!
-	@Ciel d'encre est peut être presbyte? 😁
-	Sinon pas besoin de porter de lunettes pour "voir" ce qui nous attend...
-	Modifié hier à 07:17 par mathias
+	la semaine en question devrait se dérouler sous un régime de blocage:
+	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
+	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
+	Modifié il y a 1 heure par tao
+								9
 								4
-								1
-								1
-								3
-								1
-								8
-
-=======================
-
-Auteur: Damia
-Message:
-Il y a 11 heures, Mazz37 a dit :
-			A sa décharge les signatures ne s'affichent pas sur l'application mobile pour une raison que j'ignore.
-	Parce que les signatures ça alourdit l'affichage, surtout quand y a plein d'images (comme par ex. afficher des encarts de vigi MF beaucoup trop gros…). Donc passé une certaine résolution et un certain affichage, hop, on retire des éléments de l'affichage pour alléger le chargement. 
-	Après, peut-être que @symaski62 peut mettre son information concernant son handicap dans le champs "localisation" de son profil. Ça s'affichera y compris sur mobile juste en dessous de son pseudo.
-								11
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-Les précipitations qui vont tomber entre mardi et mercredi vont être inégales avec des régions privilégiées par rapport à d'autres notamment le nord-ouest et le sud-est mais d'autres régions plus centrales pourraient aussi tirer leur épingle du jeu .
-	Les autres régions prendront peu voire rien ou presque .
-	Mais à quelques jours de l'événement rien n'est certain donc cela peu encore évoluer de manière notable mais on à déjà le scénario qui se construit .
-	Ukmo :
-	CEP :
-	Pour les températures le consensus est plus solide avec une baisse généralisée des températures au nord comme au sud pour retrouver enfin des températures de saison, mais pour combien de temps ?
-	En effet les températures pourraient repasser ( légèrement ?) au dessus des moyennes en toute fin de topic.
-	Paris :
-	Toulouse :
-	Un épisode méditerranéen n'est pas exclu mais s'il se produit il serait à priori modéré. 
-	Modifié hier à 10:34 par petit âge glaciaire 11
-								2
-
-=======================
-
-Auteur: Charly-C
-Message:
-Même pas sûr qu'on arrive à atteindre les niveaux de saison. Les tn de jeudi pourraient rester bien douces sur une bonne tranche sud et est et les températures semblent repartir à la hausse des vendredi après-midi via le sud-ouest.
-	En global, la semaine devrait être plus anormalement douce que la semaine en cours. 
-	Quelques grosses Tn à prévoir vers mardi/mercredi également. 
-								3
-								1
-
-=======================
-
-Auteur: Plancher
-Message:
-Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
-	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
-	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								5
-								1
-
-=======================
-
-Auteur: max_régusse
-Message:
-Non pas de retour à des températures de saison pour le bassin méditerranéen notamment PACA et Corse on restera sur du +2 à +4°C toute la semaine.
-								1
-
-=======================
-
-Auteur: Nono34
-Message:
-Pas de miracle à venir, flux de sud chaud avec principalement une dégradation qui reste bloquée sur l’Ouest lundi et un épisode méditerranéen/ cevenol dont l’intensité reste à definir sur Languedoc / Ardèche 
-	Joli contraste nonobstant 
-	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
-	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
-	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 21 heures par Nono34
-								3
-								3
-
-=======================
-
-Auteur: petit âge glaciaire 11
-Message:
-On a quand-même  pas mal de scénarios dans lesquels les hautes pressions sont attaquées par des anomalies froides d'altitude. 
-	C'est très loin pour des déterministes c'est pour cela que je parle de scénarios mais dans ces hypothèses on peut penser que l'atmosphère pourrait etre instable et des précipitations possibles malgré les hautes pressions qui tendent a s'accrocher sur notre pays.
-	CEP :
-	GFS :
-	GEM :
-								7
-
-=======================
-
-Auteur: Run999H
-Message:
-Il y a 5 heures, Nono34 a dit :
-	Je suis peut-être bête mais dans le doute je pose la question car je n’ai pas compris cette carte 🤣
-	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
-	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
-	Merci de m’éclairer  
-	Modifié il y a 21 heures par Run999H
-								3
-								1
-								1
-
-=======================
-
-Auteur: seb93100
-Message:
-Ce n'est sûrement pas Bordeaux ou alors la ville a changé d'emplacement.😅
-								1
-								2
-
-=======================
-
-Auteur: Nono34
-Message:
-il y a 3 minutes, Run999H a dit :
-			Je suis peut-être bête mais dans le doute je pose la question car je n’ai pas compris cette carte 🤣
-			« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
-			Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
-			Merci de m’éclairer  
-	Oui effectivement sa carte est fausse je supprime, sa méthodologie n’a aucun sens 😭🤣
-	Montsouris est bien à 28 jours secs (&lt;1mm) consécutifs et va probablement atteindre 30 jours
-								1
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-un beau potentiel de précipitations avec CEP 0h mais quid de la concrétisation... ?
-	wet and see... heu... wait and see...!
-	https://images.meteociel.fr/im/61/14943/arpegeeur_4_102zgn5.png
-	https://images.meteociel.fr/im/17/6595/ecmwffr_25_186kod8.png
-	ce qui est du même tonneau qu'il y a 48 heures quant à l'inégale répartition  : https://images.meteociel.fr/im/69/20863/ecmwffr_25_234pic0.png
-								2
