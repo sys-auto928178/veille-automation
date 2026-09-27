@@ -287,7 +287,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse sur les coteaux de Gascogne, dans le Volvestre ainsi que du Lauragais au muretain.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 270930 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 27 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 27 septembre 2026 à 06H00 UTC, et évolution Faible gradient de pression proche de 1020 hPa. Dépression relative se creusant 1016 hPa près du Roussillon demain après-midi, se comblant à la fin. 3 - Prévisions pour l'après-midi du dimanche 27 septembre VENT : Est à Sud-Est 2 à 3, localement 4 proche de la côte entre Cap Couronne et Porquerolles au début, puis jusqu'à Sicié en fin d'après-midi. MER : belle, localement peu agitée à l'est du Levant. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du dimanche 27 septembre au lundi 28 septembre VENT : secteur Est 2 à 3, localement 4 de Fos à Sicié. MER : belle. HOULE : non significative. TEMPS : clair à peu nuageux, localement nuageux à l'ouest du Cap Croisette. VISIBILITE : bonne. 5 - Prévisions pour la journée du lundi 28 septembre VENT : - à l'ouest de Sicié : Sud-Est 3 à 4, parfois 2 à 3 vers la Camargue au début. - à l'est de Sicié : Est à Sud-Est 2 à 3, parfois Nord-Est proche de la côte entre le Levant et Saint-Raphaël le matin. MER : belle, devenant progressivement peu agitée à l'ouest du Cap Croisette. HOULE : non significative. TEMPS : ciel voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 28 au 29 et la journée du mardi 29 septembre VENT : secteur Est 3 à 4, fraichissant Sud-Est 4 à 5, à l'ouest de Sicié le matin, parfois 6 vers la côte bleue l'après-midi. MER : belle à peu agitée, devenant peu agitée partout en fin de nuit, puis agitée à l'ouest de Sicié en fin de journée. HOULE : s'amplifiant Sud 0.5 à 1 m en fin de nuit à l'ouest du Levant, mais Est autour de 0.5 m en fin de journée vers Saint-Raphaël. TEMPS : ciel voilé. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 29 au 30 et la journée du mercredi 30 septembre VENT : De Port Camargue à Marseille Sud-Est 5 à 6, fraîchissant temporairement 7 en seconde partie de nuit. De Marseille à St Raphaël Est à Sud-Est 3 à 5, fraîchissant 4 à 6 en début de nuit. MER : peu agitée à agitée. HOULE de Sud à Sud-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Jeudi 1 octobre Secteur Sud-Ouest modéré faiblissant à Variable faible sur Lion et Provence. Variable faible ailleurs. Indice de confiance : 3 sur 5 Vendredi 2 octobre Variable faible sur Lion et Provence. Secteur Nord-Ouest faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Samedi 3 octobre Variable faible à modéré sur Lion et Provence. Secteur Nord-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Dimanche 4 octobre Variable faible à modéré sur Lion et Provence. Secteur Nord-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 9 - Observations le dimanche 27 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord-Est 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 8 noeuds. Le Levant : vent Est 16 noeuds, 1022 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 19 noeuds. Cap Couronne : vent Est 8 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le dimanche 27 septembre 2026, vers 18H30 légales
+FQCT40 LFML 271605 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 27 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 27 septembre 2026 à 12H00 UTC, et évolution Faible gradient de pression proche de 1020 hPa. Dépression relative se creusant vers 1017 hPa près du Roussillon demain après-midi, se comblant à la fin. 3 - Prévisions pour la nuit du dimanche 27 septembre au lundi 28 septembre VENT : secteur Est 2 à 3, temporairement Sud-Est 4 de Fos à Sicié en première partie de nuit, puis plus largement de Beauduc à Sicié en seconde partie de nuit. MER : belle. HOULE : non significative. TEMPS : clair à peu nuageux, localement nuageux à l'ouest du Cap Croisette. VISIBILITE : bonne. 4 - Prévisions pour la journée du lundi 28 septembre VENT : - à l'ouest de Sicié : Sud-Est 3 à 4, parfois 2 à 3 vers la Camargue au début. - à l'est de Sicié : Est à Sud-Est 2 à 3, occasionnellement 4 au large de Saint-Raphaël en milieu de journée, parfois Nord-Est proche de la côte entre le Levant et Saint-Raphaël le matin. MER : belle, devenant progressivement peu agitée à l'ouest du Cap Croisette. HOULE : non significative. TEMPS : ciel voilé. VISIBILITE : bonne. 5 - Tendance pour la nuit du 28 au 29, et la journée du mardi 29 septembre VENT : secteur Est 3 à 4, fraichissant Sud-Est 4 à 5, à l'ouest de Sicié le matin. MER : belle à peu agitée, devenant peu agitée partout en fin de nuit, puis agitée à l'ouest de Sicié en fin de journée. HOULE : s'amplifiant Sud 0.5 à 1 m en fin de nuit à l'ouest du Levant, mais Est autour de 0.5 m en fin de journée vers Saint-Raphaël. TEMPS : ciel voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 29 au 30 et la journée du mercredi 30 septembre VENT : De Port Camargue à Marseille Sud-Est 5 à 6, fraîchissant temporairement 7 en seconde partie de nuit. De Marseille à St Raphaël Est à Sud-Est 3 à 5, fraîchissant 4 à 6 en début de nuit. MER : peu agitée à agitée. HOULE de Sud à Sud-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Jeudi 1 octobre Secteur Sud-Ouest modéré faiblissant à Variable faible sur Lion et Provence. Variable faible ailleurs. Indice de confiance : 3 sur 5 Vendredi 2 octobre Variable faible sur Lion et Provence. Secteur Nord-Ouest faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Samedi 3 octobre Variable faible à modéré sur Lion et Provence. Secteur Nord-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Dimanche 4 octobre Variable faible à modéré sur Lion et Provence. Secteur Nord-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 8 - Observations le dimanche 27 septembre 2026 à 15H00 UTC Cap Camarat : vent Est-Sud-Est 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est 6 noeuds, rafales 16 noeuds. Le Levant : vent Est-Sud-Est 6 noeuds, rafales 16 noeuds, 1021 hPa en baisse. Porquerolles : vent Est 6 noeuds, rafales 17 noeuds. Cap Couronne : vent Sud-Est 14 noeuds. Prochain bulletin le lundi 28 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -327,12 +327,12 @@ dégradation orageuse dans le sud.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Glaciers alpins
+• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
 • Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 27/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -340,9 +340,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 27 Septembre 2026.
-Résumé général précédent : Un flux de sud majoritairement chaud et sec couvre la France sur les deux semaines, avec une dégradation pluvio-instable limitée en première semaine, un risque d'épisode méditerranéen autour du 30 septembre, puis une baisse des températures en fin de semaine 1. La semaine 2 reste très incertaine, avec probablement un maintien de l'excédent sur le sud-est..
+Résumé général précédent : Deux semaines encore dominées par un flux de sud, chaud et souvent sec. Baisse temporaire autour du 1er-4 octobre, puis possible retour de températures très douces, surtout du sud-est au sud. Précipitations très inégalement réparties, rarement excédentaires..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Dégradation faible à modérée sur l'Ouest et épisode cévenol modéré possible ; baisse des températures le week-end..
+Températures attendues précédemment : Dégradation pluvio-instable ouest-est jeudi ; nette baisse des températures le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -511,7 +511,7 @@ Message:
 Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
 	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
 	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								4
+								5
 								1
 
 =======================
@@ -530,7 +530,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 19 heures par Nono34
+	Modifié il y a 21 heures par Nono34
 								3
 								3
 
@@ -554,7 +554,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 19 heures par Run999H
+	Modifié il y a 21 heures par Run999H
 								3
 								1
 								1
@@ -758,7 +758,7 @@ Message:
 Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
 	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
 	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								4
+								5
 								1
 
 =======================
@@ -777,7 +777,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 19 heures par Nono34
+	Modifié il y a 21 heures par Nono34
 								3
 								3
 
@@ -801,7 +801,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 19 heures par Run999H
+	Modifié il y a 21 heures par Run999H
 								3
 								1
 								1

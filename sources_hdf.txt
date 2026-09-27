@@ -283,7 +283,7 @@ Températures minimales : en baisse sur la moitié Est du département.
 Températures maximales : en baisse sur le Vermandois, sur le Tardenois ainsi que sur la moitié Est du département.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 270935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 27 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 27 septembre 2026 à 06H00 UTC, et évolution Dépression 1002 hPa au sud de l'Irlande se décalant vers le nord-est en se creusant, prévue 1000hPa sur l'Écosse cet après-midi, puis s'évacuant en mer de Norvège. Anticyclone 1020 hPa sur les Açores, se décalant vers le nord-est, prévu sur la Manche cette nuit, puis sur la Mer du Nord demain après-midi. 3 - Prévisions pour l'après-midi du dimanche 27 septembre VENT : Sud à Sud-Ouest 3 à 4, parfois 5 en Mer du Nord. MER : belle à peu agitée. HOULE : non significative. TEMPS : voilé, devenant très nuageux en fin d'après-midi. VISIBILITE : bonne. 4 - Prévisions pour la nuit du dimanche 27 septembre au lundi 28 septembre VENT : Sud-Ouest 3 à 4, parfois 5 en Mer du Nord en soirée, virant Nord 2 à 4 en deuxième partie de nuit. MER : peu agitée. HOULE : s'établissant Ouest à Sud-Ouest 0.5 à 1 m en Manche en fin de soirée. TEMPS : très nuageux à couvert avec petites pluies. VISIBILITE : bonne, mais moyenne sous pluies. 5 - Prévisions pour la journée du lundi 28 septembre VENT : Nord à Nord-Est 2 à 4, fraîchissant Nord-Est 4 à 5 l'après-midi. MER : belle à peu agitée, devenant peu agitée en fin d'après-midi. HOULE : non significative, localement Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : couvert et pluvieux. VISIBILITE : moyenne à mauvaise sous pluies. 6 - Prévisions pour la nuit du 28 au 29 et la journée du mardi 29 septembre VENT : Est à Nord-Est 3 à 5, mollissant secteur Est 2 à 4 en seconde partie de nuit, puis virant Sud-Est l'après-midi. MER : peu agitée, s'atténuant belle à peu agitée en journée. HOULE : s'établissant Nord à Nord-Est 0.5 à 1 m. TEMPS : couvert avec pluie ou averses la nuit, puis ensoleillé en journée. VISIBILITE : moyenne sous précipitations puis bonne. 7 - Prévisions pour la nuit du 29 au 30 et la journée du mercredi 30 septembre VENT : Est à Sud-Est 3 à 5, virant Sud en cours de matinée. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Jeudi 1 octobre Secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Vendredi 2 octobre Secteur Sud-Ouest faible à modéré. Indice de confiance : 3 sur 5 Samedi 3 octobre Variable faible s'établissant à Secteur Nord-Ouest faible à modéré en journée. Indice de confiance : 2 sur 5 Dimanche 4 octobre Secteur Nord-Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le dimanche 27 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Sud-Est 8 noeuds, mer belle, 1017 hPa en baisse, brouillard, visibilité 2 milles. Cap Gris Nez : vent Sud 10 noeuds. Boulogne : vent Sud-Sud-Est 6 noeuds, 1017 hPa en baisse, nuageux avec éclaircies, visibilité 9 milles. Prochain bulletin le dimanche 27 septembre 2026, vers 18H00 légales
+FQCT40 LFQQ 271615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 27 septembre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 27 septembre 2026 à 12H00 UTC, et évolution Dépression 1000 hPa entre Irlande et Ecosse, se décalant vers le nord-est, puis s'évacuant en mer de Norvège cette nuit. Anticyclone 1020 hPa sur les Açores, se décalant vers le nord-est, prévu sur la Manche cette nuit, puis sur la Mer du Nord demain après-midi. Dépression relative 1013 hPa dans le golfe de Gascogne demain après-midi. 3 - Prévisions pour la nuit du dimanche 27 septembre au lundi 28 septembre VENT : Sud-Ouest 4 à 5, virant Nord-Ouest 3 à 4 en milieu de nuit, puis Nord 2 à 4 en deuxième partie de nuit. MER : peu agitée. HOULE : s'établissant Ouest à Sud-Ouest 0.5 à 1 m en fin de soirée. TEMPS : très nuageux à couvert avec petites pluies. VISIBILITE : bonne, mais moyenne sous pluies. 4 - Prévisions pour la journée du lundi 28 septembre VENT : secteur Nord-Est 1 à 3, fraîchissant 3 à 4 l'après-midi, puis 4 à 5 en fin de journée. MER : belle à peu agitée, devenant peu agitée en fin d'après-midi. HOULE : non significative, localement Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : couvert et pluvieux. VISIBILITE : moyenne à mauvaise sous pluies. 5 - Tendance pour la nuit du 28 au 29, et la journée du mardi 29 septembre VENT : Est à Nord-Est 4 à 5, mollissant secteur Est 2 à 4 en seconde partie de nuit, puis virant Sud-Est le matin. MER : peu agitée, s'atténuant belle à peu agitée en journée. HOULE : s'établissant Nord à Nord-Est 0.5 à 1 m. TEMPS : couvert avec pluie ou averses la nuit, puis voilé en journée. VISIBILITE : moyenne sous précipitations puis bonne. 6 - Prévisions pour la nuit du 29 au 30 et la journée du mercredi 30 septembre VENT : Est à Sud-Est 3 à 5, virant Sud en cours de matinée. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Jeudi 1 octobre Secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Vendredi 2 octobre Secteur Sud-Ouest faible à modéré. Indice de confiance : 3 sur 5 Samedi 3 octobre Variable faible s'établissant à Secteur Nord-Ouest faible à modéré en journée. Indice de confiance : 2 sur 5 Dimanche 4 octobre Secteur Nord-Ouest faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le dimanche 27 septembre 2026 à 15H00 UTC Dunkerque : vent Sud-Sud-Ouest 12 noeuds, mer belle, 1014 hPa en baisse, nuageux avec éclaircies, visibilité 6 milles. Cap Gris Nez : vent Sud-Sud-Ouest 14 noeuds. Boulogne : vent Sud-Sud-Ouest 10 noeuds, 1015 hPa en baisse, nuageux avec éclaircies, visibilité 10 milles. Bouée Sandettie : vent Sud-Sud-Ouest 16 noeuds, creux 0,2 mètre, 1014 hPa en baisse, visibilité 5 milles. Prochain bulletin le lundi 28 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -323,12 +323,12 @@ dégradation orageuse dans le sud.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Glaciers alpins
+• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
 • Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 27/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -336,9 +336,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 27 Septembre 2026.
-Résumé général HDF précédent : Deux semaines contrastées : d'abord chaudes et orageuses en fin de semaine 1, puis plus fraîches et souvent sèches en début de semaine 2, mais sans installation franche de l'automne. Les flux de sud et méridiens dominent..
+Résumé général HDF précédent : Deux semaines marquées par un flux de sud-méridien persistant, avec un pic de chaleur mardi/mercredi puis une baisse temporaire des températures. Aucune installation durable de l’automne, précipitations globalement faibles et sécheresse qui s’accentue..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pic de chaleur marqué mardi et mercredi (29-30°C), dégradation orageuse possible mais inégale, retour au calme et à la fraîcheur relative pour le week-end..
+Températures attendues précédemment : Pic de chaleur mardi/mercredi, dégradation pluvio-instable ensuite, baisse des températures..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -507,7 +507,7 @@ Message:
 Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
 	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
 	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								4
+								5
 								1
 
 =======================
@@ -526,7 +526,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 19 heures par Nono34
+	Modifié il y a 21 heures par Nono34
 								3
 								3
 
@@ -550,7 +550,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 19 heures par Run999H
+	Modifié il y a 21 heures par Run999H
 								3
 								1
 								1
@@ -754,7 +754,7 @@ Message:
 Ce n'est quand même pas très enthousiasmant quels que soient les modèles.
 	Le prochain topic n'est pas ouvert. Mais, il ne m'inspire rien de bien quand je regarde GFS qui souffle le froid puis le chaud voire très chaud...
 	En fait, octobre va devenir le nouveau mois de septembre. L'automne débutera en novembre pour se terminer en février avant le début du printemps en mars suivi de l'été en mai...
-								4
+								5
 								1
 
 =======================
@@ -773,7 +773,7 @@ Pas de miracle à venir, flux de sud chaud avec principalement une dégradation 
 	De + en + probable que cette éphémère dégradation laisse moins de 10mm sur la majorité du pays pour cette semaine 🫥
 	Ça commence à être vraiment tendu pour les soutiens d'étiage de nos fleuves (Garonne mais aussi Seine et Loire si ça continue encore 1 mois comme ça)
 	certaines stations vont finir septembre avec moins de 1mm
-	Modifié il y a 19 heures par Nono34
+	Modifié il y a 21 heures par Nono34
 								3
 								3
 
@@ -797,7 +797,7 @@ Il y a 5 heures, Nono34 a dit :
 	« Nombre de jours sans pluie au 26 septembre » correspond à quoi ? 
 	Je prends l’exemple de Bordeaux Mérignac, la pluie est tombée le 17/09 (2,2mm certes), du coup à quoi correspondent les 32 jours mentionnés ? 
 	Merci de m’éclairer  
-	Modifié il y a 19 heures par Run999H
+	Modifié il y a 21 heures par Run999H
 								3
 								1
 								1
