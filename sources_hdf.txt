@@ -318,12 +318,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Temps en Espagne
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Le jeu de l'hiver 2026/2027
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 28/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -331,9 +331,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 28 Septembre 2026.
-Résumé général HDF précédent : Après un pic de chaleur mardi 29, une dégradation pluvieuse traversera les Hauts-de-France mercredi 30, suivie d'une amélioration vendredi. La semaine du 5 au 11 octobre s'annonce anticyclonique, sèche et ensoleillée, avec des températures proches des normales. Un déblocage reste possible en toute fin de quinzaine..
+Résumé général HDF précédent : Après un début de semaine encore très doux et orageux, une dégradation pluvieuse mercredi 30 entraîne un net rafraîchissement. À partir du week-end du 3-4 octobre, le temps devient sec et anticyclonique sur les Hauts-de-France, avec des températures proches des normales. La semaine du 5 au 11 octobre confirme ce régime de blocage, souvent ensoleillé, avec quelques incertitudes sur les températures et le possible épisode méditerranéen plus au sud..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies potentiellement marquées mercredi/jeudi, surtout nord-ouest et sud-est ; nette baisse des températures..
+Températures attendues précédemment : Averses orageuses en début de nuit, pluies mercredi, soleil et fraîcheur ensuite..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -560,7 +560,7 @@ Auteur: bernardt60
 Message:
 Je pense que ce GIF résume bien la problématique pour espérer avoir un véritable changement synoptique avec les bas géopotentiels et dépression associée se faisant lamentablement rejetés vers le Groenland, on est encore bien loin de l’établissement d'un véritable zonal.
 								2
-								5
+								6
 
 =======================
 
@@ -578,7 +578,7 @@ Bonsoir,
 	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
 	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
 	Modifié hier à 18:37 par tao
-								17
+								18
 								11
 
 =======================
@@ -587,7 +587,7 @@ Auteur: Krholam
 Message:
 On garde espoir que les choses bougent. La Cyclogenese sur l’atlantique est bien en marche avec un systeme depressionnaire qui pourrait se former entre le Labrador et le Groenland
 	A voir si ça sera suffisant pour faire bouger les HP sur nous
-								3
+								4
 
 =======================
 
@@ -596,7 +596,7 @@ Message:
 C'est effectivement tangent. CEPS semble plutôt voir - hélas - le machin passer au nord. On commence à a voir l'habitude mais, comme c'est encore lointain, rien n'est joué. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? Et plus généralement, vais-je passer Noël en T-shirt? Est-ce que je dois mettre une photo de renne sur un de mes T-shirt pour le réveillon?
 								4
 								2
-								3
+								4
 
 =======================
 
@@ -606,7 +606,7 @@ Il y a 3 heures, nickdu77 a dit :
 			. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? 
 	bien que ça soit lointain, en fin d'échéance, ça pourrait annoncer... un déblocage : 
 	 mais l'expérience des foirades en la matière est tellement fournie que l'on va gentiment patienter au frais... 
-								2
+								3
 								1
 
 =======================
@@ -616,6 +616,7 @@ Message:
 oh   brrrrr    🥶       wow   😱     prochaine   je froide     
 								5
 								3
+								1
 								1
 								2
 
@@ -665,3 +666,17 @@ il y a 47 minutes, guiguite91 a dit :
 	Bonsoir,
 	Mais il me semble bien que c'est ce qui a été dit en parlant de températures restant au-dessus des normales et de BP continuant à circuler au nord (de l'Europe bien sûr) avec une potentielle GF au large du Portugal.
 	Bonne soirée
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a une heure, guiguite91 a dit :
+			Bonsoir,
+			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
+			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
+			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
+			Bonne soirée, 
+	l'Amerloque confirme avec son run de midi : 
+	il y a au moins un signal - faible - que quelque chose se trame au niveau du kéblo de bas-art... comme disait le marle qui voulait casser le coffre-fort...
+	https://images.meteociel.fr/im/98/21816/animakc7.gif
