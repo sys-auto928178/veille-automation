@@ -292,7 +292,7 @@ Températures minimales : en baisse.
 Températures maximales : stables.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 280945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 28 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 28 septembre 2026 à 06H00 UTC, et évolution Hautes pressions 1020-1024 hPa, d'Italie à la Mer Tyrrhénienne. Dépression relative 1018 hPa au sud-ouest de la France, se creusant 1014 hPa cet après-midi. 3 - Prévisions pour l'après-midi du lundi 28 septembre VENT : Sud-Est 3 à 4, mais localement secteur Est 2 à 3 à l'est de Porquerolles. MER : belle à peu agitée à l'ouest de Cap Croisette, mais belle à l'est. HOULE : non significative. TEMPS : ciel voilé, localement nuageux à l'ouest de Fos au début. VISIBILITE : bonne, localement moyenne sous bruine. 4 - Prévisions pour la nuit du lundi 28 septembre au mardi 29 septembre VENT : secteur Est 3 à 4, fraichissant localement 5, de Fos au Bec de l'Aigle, à la fin. MER : belle à peu agitée, devenant peu agitée en fin de nuit. HOULE : non significative, puis s'établissant Sud 0.5 à 1 m en fin de nuit à l'ouest du Levant. TEMPS : ciel voilé, quelques nuages bas en fin de nuit à l'ouest de Cap Couronne. VISIBILITE : bonne. 5 - Prévisions pour la journée du mardi 29 septembre VENT : Est à Sud-Est fraichissant 4 à 5 à l'ouest de Porquerolles, mais localement Est à Nord-Est 3 à 4 à l'est. MER : peu agitée, devenant localement agitée en fin d'après-midi à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m, mais temporairement non significative le matin à l'est du Levant. TEMPS : ciel voilé, parfois nuageux le matin vers la Camargue, devenant très nuageux à couvert l'ouest de Cap Couronne en fin de journée. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 29 au 30 et la journée du mercredi 30 septembre VENT : - à l'ouest de Porquerolles : Est à Sud-Est 4 à 5, fraichissant 5 à 6 en fin de nuit. - à l'est de Porquerolles : Est à Nord-Est 3 à 4, fraichissant Est 4 à 5 à la mi-journée. MER : peu agitée, localement agitée à l'ouest de La Ciotat, puis à l'ouest de Porquerolles l'après-midi. HOULE : Sud 0.5 à 1 m TEMPS : progressivement, pluie et averses, parfois orageuses, par le sud-ouest, à l'est de Porquerolles. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : Est à Sud-Est 4 à 6, mollissant et devenant variable 1 à 3 en milieu d'après-midi. MER : peu agitée, localement agitée de Port Camargue à Porquerolles. HOULE : De Port Camargue à Camarat houle de secteur Sud-Est 0,5 à 1 m. De Camarat à St Raphaël houle de Nord-Est inférieure à 1 m, s'orientant en début de nuit au Sud. 8 - Tendance pour les jours suivants Vendredi 2 octobre secteur Est faible. Indice de confiance : 3 sur 5 Samedi 3 octobre secteur Est faible à modéré. Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Sud-Est faible à modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 2 sur 5 Lundi 5 octobre variable faible. Indice de confiance : 2 sur 5 9 - Observations le lundi 28 septembre 2026 à 09H00 UTC Cap Camarat : vent Nord-Nord-Est 6 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 6 noeuds. Le Levant : vent Est 12 noeuds, 1021 hPa en hausse. Porquerolles : vent Nord-Est 4 noeuds, rafales 14 noeuds. Cap Couronne : vent Est 12 noeuds. Prochain bulletin le lundi 28 septembre 2026, vers 18H30 légales
+FQCT40 LFML 281615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 28 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 28 septembre 2026 à 12H00 UTC, et évolution Hautes pressions 1020-1024 hPa, sur l'Italie à la Mer Tyrrhénienne. Dépression relative 1016 hPa au sud-ouest de la France, se creusant 1014 hPa cet après-midi. 3 - Prévisions pour la nuit du lundi 28 septembre au mardi 29 septembre VENT : secteur Est 3 à 4, fraichissant localement 4 à 5, de Fos au Bec de l'Aigle, à la fin. MER : belle à peu agitée, devenant peu agitée en fin de nuit. HOULE : non significative, puis s'établissant Sud 0.5 à 1 m en fin de nuit à l'ouest du Levant. TEMPS : ciel voilé, quelques nuages bas en fin de nuit à l'ouest de Cap Couronne. VISIBILITE : bonne. 4 - Prévisions pour la journée du mardi 29 septembre VENT : Est à Sud-Est fraichissant 4 à 5 à l'ouest de Porquerolles, localement Est 3 à 4 à l'est, puis fraichissant 5 à 6, à l'ouest du Cap Croisette, en fin d'après-midi. MER : peu agitée, devenant localement agitée en fin d'après-midi à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m, mais temporairement non significative le matin à l'est du Levant. TEMPS : ciel voilé, parfois nuageux le matin vers la Camargue, devenant très nuageux à couvert l'ouest de Cap Couronne en fin de journée. VISIBILITE : bonne. 5 - Tendance pour la nuit du 29 au 30, et la journée du mercredi 30 septembre VENT : - à l'ouest de Porquerolles : Est à Sud-Est 4 à 5, parfois 6, fraichissant 5 à 6 en seconde partie de nuit. Rafales. - à l'est de Porquerolles : Est à Nord-Est 3 à 4, parfois 5. MER : peu agitée, localement agitée à l'ouest de La Ciotat, temporairement à l'ouest de Porquerolles l'après-midi. HOULE : Sud 0.5 à 1 m TEMPS : progressivement, pluie et averses, parfois orageuses, par le sud-ouest, à l'est de Porquerolles. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : Est à Sud-Est 4 à 6, mollissant et devenant variable 1 à 3 en milieu d'après-midi. MER : peu agitée, localement agitée de Port Camargue à Porquerolles. HOULE : De Port Camargue à Camarat houle de secteur Sud-Est 0,5 à 1 m. De Camarat à St Raphaël houle de Nord-Est inférieure à 1 m, s'orientant en début de nuit au Sud. 7 - Tendance pour les jours suivants Vendredi 2 octobre secteur Est faible. Indice de confiance : 3 sur 5 Samedi 3 octobre secteur Est faible à modéré. Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Sud-Est faible à modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 2 sur 5 Lundi 5 octobre variable faible. Indice de confiance : 2 sur 5 8 - Observations le lundi 28 septembre 2026 à 15H00 UTC Cap Camarat : vent Est-Sud-Est 6 noeuds. Cap Cepet : vent Est-Sud-Est 6 noeuds, nuageux avec éclaircies, visibilité 13 milles. Le Levant : vent Est 8 noeuds, 1020 hPa en baisse. Porquerolles : vent Est 6 noeuds. Cap Couronne : vent Sud-Est 10 noeuds. Prochain bulletin le mardi 29 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -324,12 +324,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : la température de votre habitat aux 4 saisons
-• Infoclimat Direct : Tendance hiver 2026-2027
-• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 28/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -337,9 +337,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 28 Septembre 2026.
-Résumé général précédent : Alternance entre une première semaine contrastée, avec une dégradation orageuse possible en milieu de période, et une seconde semaine majoritairement stable sous blocage anticyclonique. Les températures devraient revenir progressivement vers les normales, sans exclure des sursauts de douceur..
+Résumé général précédent : Sur les deux semaines, une dégradation orageuse est attendue en milieu de première semaine, suivie d'un retour à un temps plus sec et plus frais. En seconde semaine, un blocage anticyclonique pourrait s'installer, avec des températures proches des normales et des pluies limitées au pourtour méditerranéen..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Précipitations inégalement réparties, orages possibles sur le nord-ouest et le sud-est, températures en baisse. (117 caractères).
+Températures attendues précédemment : Orages possibles sur le nord-ouest et le sud-est, pluies modérées. (70 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -582,7 +582,7 @@ Auteur: bernardt60
 Message:
 Je pense que ce GIF résume bien la problématique pour espérer avoir un véritable changement synoptique avec les bas géopotentiels et dépression associée se faisant lamentablement rejetés vers le Groenland, on est encore bien loin de l’établissement d'un véritable zonal.
 								2
-								4
+								5
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -591,7 +591,7 @@ Bonsoir,
 	la semaine en question devrait se dérouler sous un régime de blocage:
 	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
 	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
-	Modifié il y a 21 heures par tao
+	Modifié il y a 23 heures par tao
 								17
 								10
 
@@ -627,8 +627,9 @@ Il y a 3 heures, nickdu77 a dit :
 Auteur: symaski62
 Message:
 oh   brrrrr    🥶       wow   😱     prochaine   je froide     
-								4
+								5
 								3
+								1
 								1
 
 =======================
@@ -643,5 +644,22 @@ il y a 50 minutes, symaski62 a dit :
 	Paris:
 	Bordeaux: 
 	Marseille
+								2
 								1
-								1
+
+=======================
+
+Auteur: guiguite91
+Message:
+Il y a 4 heures, nickdu77 a dit :
+			Sur ce point, on est bien d'accord : sur le plan thermique, on va se rapprocher des normales et, même si on restera au-dessus des "normes", ça va nous faire tout chose ...
+			On voit bien la baisse sur les diagrammes, comme sur les cartes, mais c'est beaucoup plus marqué côté Atlantique que sur les secteurs soumis à l'influence méditerranéenne où la baisse est plus progressive et moins marquée (mais ils auront la chance d'avoir des PP plus importantes ; je me console en me disant que j'ai reçu 0,6 mm ce matin et j'ai commencé à construire un radeau).
+			A la suite, les diagrammes de Paris, Bordeaux et Marseille  : 
+			Paris:
+			Bordeaux: 
+			Marseille
+	Bonsoir,
+	Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
+	Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
+	Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
+	Bonne soirée,
