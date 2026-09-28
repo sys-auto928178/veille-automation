@@ -318,12 +318,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Prévisions Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 28/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -331,28 +331,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 28 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 jours, un temps de plus en plus automnal mais sans excès: pic de chaleur mardi 29, dégradation pluvieuse mercredi/jeudi, amélioration vendredi, puis blocage anticyclonique probable en semaine2 avec un temps sec, ensoleillé et des températures proches des normales. Une évolution vers un déblocage reste possible en toute fin de quinzaine, avec un risque d'averses et une baisse thermique plus marquée..
+Résumé général HDF précédent : Après un pic de chaleur mardi 29, une dégradation pluvieuse traversera les Hauts-de-France mercredi 30, suivie d'une amélioration vendredi. La semaine du 5 au 11 octobre s'annonce anticyclonique, sèche et ensoleillée, avec des températures proches des normales. Un déblocage reste possible en toute fin de quinzaine..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies et averses parfois orageuses mercredi, vent de sud modéré, puis éclaircies et fraîcheur vendredi..
+Températures attendues précédemment : Pluies potentiellement marquées mercredi/jeudi, surtout nord-ouest et sud-est ; nette baisse des températures..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: tao
-Message:
-Bonsoir,
-	c'est bien ce fond de talweg, ce cul de bout de zone d'anomalie négative qui va dicter le ressenti, en terme d'humidité, dans la semaine concernée.
-	Je pense vraiment que se focaliser sur des cartes de cumuls à très long terme, qui sont remises en cause à chaque sortie, n'est pas bon pour la santé mentale et la stabilité psychique en ces temps de disette.
-	L'exemple type est le modèle canadien, pas le plus mauvais, qui en fonction de l'orientation du talweg, sa profondeur déterminant son alimentation humide propose en 12 heures d'intervalle des situations bien différentes sur notre territoire:
-	La différence n'est pas flagrante et pourtant:
-	L'intensité pour le pays est vraiment différente. Pour le cumul de précipitations, les mailles fines et les ensembles restent plus judicieux. Se focaliser sur des projections de cumuls à long, voire très long terme n'est que le moteur de frustrations et d'angoisses bien compréhensibles compte tenu de la situation de sécheresse historique actuelle.
-	En ce qui concerne la suite de la semaine, je pense que l'entrée pleine dans l'automne a pris du plomb dans l'aile. Sera-t-elle progressive ou bien reportée durant des semaines?
-								7
-								3
-								1
-								1
-
-=======================
-
 Auteur: giec 2100
 Message:
 alors oui bien sûr, tout est affaire de focale (!)...
@@ -578,6 +562,14 @@ Je pense que ce GIF résume bien la problématique pour espérer avoir un vérit
 								2
 								5
 
+=======================
+
+Auteur: stormigen
+Message:
+Petite question où interrogation plutôt. 
+	‘il n y a pas un problème de parametrage sur Gfs . 
+	comment se fait il que GFS modélise de forte précipitation sous un anticyclone de 1025-1030 hpa hors pluie convective 🙄. Il s emballe jean Mich…
+
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
 Message:
@@ -585,9 +577,9 @@ Bonsoir,
 	la semaine en question devrait se dérouler sous un régime de blocage:
 	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
 	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
-	Modifié il y a 23 heures par tao
+	Modifié hier à 18:37 par tao
 								17
-								10
+								11
 
 =======================
 
@@ -602,7 +594,7 @@ On garde espoir que les choses bougent. La Cyclogenese sur l’atlantique est bi
 Auteur: nickdu77
 Message:
 C'est effectivement tangent. CEPS semble plutôt voir - hélas - le machin passer au nord. On commence à a voir l'habitude mais, comme c'est encore lointain, rien n'est joué. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? Et plus généralement, vais-je passer Noël en T-shirt? Est-ce que je dois mettre une photo de renne sur un de mes T-shirt pour le réveillon?
-								3
+								4
 								2
 								3
 
@@ -615,6 +607,7 @@ Il y a 3 heures, nickdu77 a dit :
 	bien que ça soit lointain, en fin d'échéance, ça pourrait annoncer... un déblocage : 
 	 mais l'expérience des foirades en la matière est tellement fournie que l'on va gentiment patienter au frais... 
 								2
+								1
 
 =======================
 
@@ -624,7 +617,7 @@ oh   brrrrr    🥶       wow   😱     prochaine   je froide 
 								5
 								3
 								1
-								1
+								2
 
 =======================
 
@@ -656,4 +649,19 @@ Il y a 4 heures, nickdu77 a dit :
 	Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
 	Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
 	Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-	Bonne soirée,
+	Bonne soirée, 
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a 47 minutes, guiguite91 a dit :
+			Bonsoir,
+			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
+			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
+			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
+			Bonne soirée, 
+	Bonsoir,
+	Mais il me semble bien que c'est ce qui a été dit en parlant de températures restant au-dessus des normales et de BP continuant à circuler au nord (de l'Europe bien sûr) avec une potentielle GF au large du Portugal.
+	Bonne soirée
