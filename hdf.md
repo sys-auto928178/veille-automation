@@ -1,123 +1,123 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
 **Généré le :** Lundi 28 Septembre 2026
-**Période :** Semaine 1 (Du lundi 28 septembre au dimanche 4 octobre 2026) & Semaine 2 (Du lundi 5 au dimanche 11 octobre 2026)
+**Période :** Semaine 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) & Semaine 2 (Du Lundi 5 au Dimanche 11 Octobre 2026)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur la séquence thermique, moins sur les cumuls.*
-- **Fiabilité du scénario majoritaire :** Chaud puis orageux, ensuite blocage sec. — *Scénario majoritaire mais avec des variantes notables en semaine 2.*
-- **Stabilité des cartes/scénarios :** 6 / 95 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Fortes incertitudes sem.2 — *La position de l'anticyclone conditionnera tout.*
+- **Consensus des modèles :** Modéré — *Accord sur le scénario général, mais désaccord sur les cumuls.*
+- **Fiabilité du scénario majoritaire :** Dégradation puis blocage — *Mardi chaud, mercredi pluvieux, puis sec et stable.*
+- **Stabilité des cartes/scénarios :** 6 / 96 — *6 cartes analysées*
+- **Niveau d'incertitude global :** Cumuls et localisation — *Fortes variations entre runs, prudence absolue.*
 
-## 🗓️ SEMAINE 1 : Du lundi 28 septembre au dimanche 4 octobre 2026
+## 🗓️ SEMAINE 1 : Du Lundi 28 Septembre au Dimanche 4 Octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Pic de chaleur mardi : Le mercure bondit jusqu'à 26-30°C mardi, très au-dessus des normales de saison.
-2. Dégradation orageuse mercredi : Pluies parfois orageuses et cumuls notables attendus, surtout de la Flandre au Vimeu.
-3. Fraîchissement jeudi-vendredi : Retour à 20-23°C jeudi puis environ 20°C vendredi, avec un temps plus sec et stable.
-4. Cumuls très hétérogènes : Les modèles hésitent entre 10 et plus de 50 mm selon les secteurs; prudence.
-5. Week-end souvent agréable : Samedi sec et ensoleillé sur la plupart des départements, avant quelques pluies dimanche.
+1. Lundi maussade : Averses et ciel couvert sur tout le Nord, avec un court répit en fin d’après-midi sur l’est.
+2. Mardi très doux : Soleil généreux, températures 26-29°C dans l’intérieur, 23°C au littoral.
+3. Mercredi dégradation : Pluies généralisées et modérées, parfois orageuses localement, puis amélioration jeudi.
+4. Vendredi sec : Beau temps plus frais au lever du jour, maximales 20-23°C, soleil prédominant.
+5. Dimanche incertain : Risque de pluies côtières ou sur Flandres/Avesnois, localisation à affiner.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Tous les modèles s'accordent sur une nette baisse des températures après le pic de mardi, avec un retour vers 20-23°C jeudi-vendredi.
-- Une dégradation pluvio-orageuse est attendue mercredi/jeudi, avec des cumuls plus notables sur le nord-ouest de la HDF (Flandre, Ternois, Ponthieu, Vimeu).
-- Amélioration vendredi-samedi avec un temps sec et ensoleillé, avant une possible reprise des pluies dimanche par l'ouest.
+- Mardi 29 : soleil généralisé et pic de chaleur après dissipation des brumes.
+- Mercredi 30 : dégradation pluvio-orageuse, plus marquée sur les côtes et le nord-ouest.
+- Vendredi 2-samedi 3 : temps sec, ensoleillé, plus frais au lever du jour.
 **Points de divergence :**
-- Cumuls et localisation exacte : CEP/UKMO plus généreux, GFS/GEM plus secs ou décalés (10 à plus de 70 mm selon les sorties).
-- Durée de la chaleur : maintien de 28-30°C mardi et mercredi sur l'Aisne/Avesnois versus baisse plus rapide à l'ouest.
-- Évolution de dimanche : la dégradation atlantique pourrait ou non atteindre la HDF; incertitude forte.
+- Cumuls mercredi : 5-20 mm pour Météo-France, 50-72 mm évoqués sur un run non confirmé.
+- Dimanche 4 : pluies sur Flandres/Avesnois et littoral pour certains, beau temps pour d’autres.
+- Températures jeudi : baisse franche pour CEP/GFS, douceur persistante pour d’autres scénarios.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **CEP / ECMWF** (Modèle de référence pour le scénario de dégradation.) | Dégradation pluvio-orageuse mercredi puis timide retour des hautes pressions; flux de sud chaud mardi, températures en baisse dès jeudi. | Averses orageuses mercredi/jeudi, cumuls potentiels 20-50 mm, risque local de fortes pluies. | Nord/Pas-de-Calais/Somme plus exposés; Oise/Aisne plus en marge. | Modérée (60-70%) | Le potentiel pluvieux est visible sur les cartes, mais la répartition géographique reste incertaine; l'accord est plus solide sur la baisse des températures en fin de semaine. |
-| **GFS** (Modèle évoqué, pas de convergence fine pour HDF.) | Après un coup de chaud, GFS hésite entre le repli de l'anomalie chaude et un retour rapide des températures élevées; blocage anticyclonique ensuite. | Pluies irrégulières mercredi/jeudi, puis temps majoritairement sec; chaleur possible en début de semaine 2. | France entière; HDF en marge, sensibilité plus marquée sur l'est. | Faible (40-50%) | Les membres soulignent l'alternance froid/chaud/très chaud dans les sorties et l'incertitude sur le maintien des hautes pressions. |
-| **GEM / Canadien** (Modèle cité pour illustrer l'incertitude des cumuls à long terme.) | Très sensible à l'orientation du talweg; fortes variations de cumuls d'une sortie à l'autre, sans scénario fiable à long terme. | Averses inégalement réparties; cumuls très différents entre runs, de faible à notable. | France, surtout Ouest/Centre; HDF selon l'orientation du talweg. | Faible (40-50%) | Tao insiste sur la variabilité du modèle canadien à 12 h d'intervalle; il recommande de privilégier les mailles fines et les ensembles. |
-| **UKMO** (Modèle cité, peu de détails pour HDF.) | Précipitations inégales entre mardi et mercredi, avec des régions privilégiées au nord-ouest et au sud-est; baisse des températures ensuite. | Pluies marquées mais hétérogènes; risque d'averses; pas de signal franc pour HDF. | Nord-Ouest/Sud-Est; régions centrales possibles; HDF en bordure. | Faible (40-50%) | Petit âge glaciaire 11 évoque des cumuls inégaux et un consensus plus solide pour la baisse des températures. |
-| **ARPEGE** (Modèle mentionné via carte, sans analyse détaillée.) | ARPEGE affiche un potentiel pluvieux sur le pays, mais la concrétisation reste à confirmer; flux de sud chaud préalable. | Pluies possibles, localement orageuses; pas de précision HDF dans les échanges. | France, notamment Ouest; HDF concerné selon l'évolution du talweg. | Faible (40-50%) | Image postée par giec 2100 sous-titrée « beau potentiel de précipitations avec CEP 0h »; à interpréter avec prudence. |
+| **ECMWF (CEP / ensembles)** (À confirmer) | Mardi très doux, dégradation pluvio-orageuse mercredi/jeudi, retour sec vendredi/samedi, pluies littorales dimanche possibles. | Averses lundi, chaleur mardi, pluies/averses mercredi, éclaircies jeudi, pluies littorales possibles dimanche. | Hauts-de-France, notamment littoral Nord/Pas-de-Calais/Somme ; intérieur Oise/Aisne plus sec. | Modérée | Le CEP est le plus fiable pour la séquence d’ensemble : baisse des températures après mardi, mais les cumuls HDF restent modérés avant une reprise anticyclonique. |
+| **GFS** (Divergent) | GFS propose un passage pluvieux faible, puis du sec ; variations chaud/froid entre les runs. | Pluies modérées possibles mercredi, soleil ensuite, températures en dents de scie. | HDF concerné mais sans précision fine ; fourchettes nationales. | Modérée | Peu de précisions pour HDF ; GFS est cité pour ses variations de températures, pas pour des cumuls fiables. |
+| **UKMO** (À confirmer) | UKMO voit des pluies inégales, plus marquées nord-ouest et sud-est, laissant HDF partiellement épargné. | Pluies localisées mercredi, HDF entre deux ; baisse des températures. | Nord-Ouest et Sud-Est de la France ; HDF partiellement concerné. | Faible | Cumuls plus généreux ailleurs qu’en HDF selon cette échelle ; dégradation atlantique rapide. |
+| **GEM / Modèle canadien** (Incertain) | Le canadien varie fortement d’une sortie à l’autre, avec parfois des pluies notables, parfois rien. | Cumuls très incertains, averses mercredi possibles. | France, pas de détail HDF fiable. | Modérée | Exemple typique des difficultés des cartes de cumuls à longue échéance ; prudence pour HDF. |
+| **ARPEGE** (À confirmer) | Maille fine indiquant un potentiel de précipitations, plutôt sur l’ouest ; à affiner pour HDF. | Pluies inégalement réparties, surtout mercredi. | Ouest de la France ; HDF à préciser. | Faible | À surveiller pour affiner les cumuls localisés, notamment sur le nord-ouest. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Couvert avec averses lundi, franc soleil et chaleur mardi, dégradation pluvio-orageuse mercredi, retour plus frais et sec ensuite. | Min 10-17°C, max 18-29°C sur la période (pic mardi 26-29°C, Avesnois 29°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls orageux hétérogènes selon les vallées; Avesnois plus chaud; fin des pluies dimanche incertaine. |
-| **Pas-de-Calais (62)** | Passages nuageux et averses lundi, soleil chaud mardi, dégradation pluvio-orageuse mercredi, éclaircies et fraîchissement jeudi-vendredi, pluies possibles dimanche. | Min 10-18°C, max 18-29°C (pic mardi 26-29°C; Haut-Artois 22°C mercredi). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des plus fortes pluies (Ternois/Haut-Artois) à affiner; dimanche incertain à l'ouest. |
-| **Somme (80)** | Couvert et humide lundi, soleil chaud mardi, pluies parfois orageuses mercredi, amélioration jeudi, temps sec et ensoleillé vendredi-samedi, pluies dimanche sur le littoral. | Min 9-16°C, max 18-29°C (pic mardi 27-29°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls plus importants sur Ponthieu/Vimeu; pluies de dimanche limitées au littoral selon les modèles. |
-| **Oise (60)** | Gris et averses brèves lundi, très beau et chaud mardi, dégradation pluvio-orageuse mercredi, éclaircies et averses jeudi, beau temps sec vendredi-samedi, pluies dimanche sur l'est. | Min 9-18°C, max 18-29°C (pic mardi 28-29°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Averses jeudi localisées (Valois/Multien/Noyonnais); pluies de dimanche plus probables sur l'est du département. |
-| **Aisne (02)** | Ciel chargé avec averses possibles lundi, très chaud et ensoleillé mardi, nuageux mercredi avec pluies faibles, averses jeudi matin, beau temps sec vendredi-samedi, pluies dimanche sur Champagne crayeuse. | Min 9-17°C, max 19-30°C (pic mardi 28-30°C). | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls les plus forts sur Vermandois; pluies de dimanche très localisées sur Champagne crayeuse. |
+| **Nord (59)** | Temps maussade lundi avec averses, mardi ensoleillé et très doux, dégradation pluvieuse mercredi, amélioration jeudi, sec vendredi/samedi; dimanche risque de pluies sur Flandres et Avesnois. | Min 14-18°C, max 18-29°C selon les jours; pic mardi 26-29°C intérieur, 23°C littoral. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls mercredi et localisation des pluies dimanche à affiner. |
+| **Pas-de-Calais (62)** | Ciel gris lundi avec pluies faibles à généralisées, mardi ensoleillé et très doux, mercredi gris avec pluies, jeudi éclaircies, vendredi/samedi sec; dimanche risque de pluies sur les trois quarts ouest. | Min 13-18°C, max 18-28°C; pic mardi 25-28°C, littoral plus frais; jeudi 19-21°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls du bassin minier et pluies de samedi sur le littoral à surveiller. |
+| **Somme (80)** | Pluies lundi sur le littoral et le nord-ouest, mardi radieux et très doux, mercredi gris avec averses, jeudi éclaircies, vendredi/samedi sec; dimanche pluies possibles sur Ponthieu/Vimeu. | Min 9-18°C, max 18-28°C; pic mardi 26-28°C; vendredi/samedi min 9-11°C, max ~20°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des averses de jeudi et des pluies de dimanche. |
+| **Oise (60)** | Maussade lundi avec averses, mardi ensoleillé et chaud, mercredi gris avec pluies généralisées, jeudi amélioration, vendredi/samedi sec; dimanche pluies possibles sur Compiégnois/Noyonnais. | Min 9-18°C, max 18-28°C; pic mardi 27-28°C; jeudi 20-22°C; vendredi/samedi max 20-22°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls mercredi et localisation des pluies de dimanche. |
+| **Aisne (02)** | Averses lundi, mardi assez nuageux puis soleil, mercredi dégradation pluvieuse, jeudi éclaircies, vendredi/samedi sec; dimanche temps pluvieux sur Champagne crayeuse puis sec. | Min 9-18°C, max 19-29°C; pic mardi 27-29°C; mercredi 25-27°C; vendredi/samedi max 21-23°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité des pluies mercredi et fin des pluies dimanche. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 28 septembre** : Ciel couvert, averses éparses puis éclaircies; maximales 18-25°C, brouillards en fin de nuit.
-- **Mardi 29 septembre** : Pic de chaleur ensoleillé, 26-30°C, très au-dessus des normales; nuit douce.
-- **Mercredi 30 septembre - jeudi 1er octobre** : Dégradation pluvio-orageuse, cumuls 20-25 mm localement; jeudi averses puis amélioration, 20-23°C.
-- **Vendredi 2 - dimanche 4 octobre** : Souvent sec et ensoleillé, fraîchissement nocturne; pluies possibles dimanche sur l'ouest/nord-ouest.
+- **Lundi 28 septembre** : Temps maussade, averses, ciel couvert et vent de nord-est.
+- **Mardi 29 septembre** : Soleil généreux, très doux à chaud, 26-29°C dans l’intérieur.
+- **Mercredi 30 septembre - jeudi 1er octobre** : Dégradation pluvio-orageuse mercredi, amélioration jeudi avec éclaircies.
+- **Vendredi 2 - dimanche 4 octobre** : Temps sec, plus frais, soleil dominant, risque de pluies littorales dimanche.
 
 **Points solides :**
-- Pic de chaleur mardi 29 généralisé sur la HDF : 26-30°C, très au-dessus des normales.
-- Dégradation pluvio-orageuse mercredi 30 puis jeudi matin, avec cumuls de 20-25 mm localement.
-- Retour au sec et fraîchissement vendredi-samedi, avec des températures proches des normales avant d'éventuelles pluies dimanche.
+- Pic de chaleur mardi 29 : 26-29°C dans l’intérieur, 23°C au littoral.
+- Dégradation pluvieuse mercredi 30, plus marquée sur le nord-ouest.
+- Retour du sec et de la fraîcheur vendredi et samedi.
 
 **Points fragiles :**
-- Cumuls exacts et localisation des fortes pluies mercredi/jeudi (CEP vs GFS vs GEM).
-- Maintien ou non de la chaleur sur l'Avesnois/Haut-Artois sous gradient.
-- Timing de la fin des pluies dimanche et influence du blocage de la semaine 2.
+- Cumuls de mercredi : 5-20 mm selon Météo-France, 50-72 mm sur un run non confirmé.
+- Localisation du risque de pluie dimanche : littoral, Flandres ou Avesnois ?
+- Tenue de l’amélioration jeudi selon l’orientation du talweg.
 
 **À surveiller (prochains runs) :**
-CEP/GFS 12h et 00h; UKMO; GEM; ARPEGE/AROME pour l'échéance mercredi; CEPS sub-saisonnier pour la semaine 2.
+CEP/GFS 12z, UKMO 00z, AROME/ARPEGE pour affiner les cumuls de mercredi.
 
 
-## 🗓️ SEMAINE 2 : Du lundi 5 au dimanche 11 octobre 2026
+## 🗓️ SEMAINE 2 : Du Lundi 5 au Dimanche 11 Octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Régime de blocage : La semaine 2 devrait se dérouler sous un régime de blocage, sans garantie de temps sec partout.
-2. Hésitations sur les HP : La latitude des hautes pressions conditionnera la répartition des pluies et la douceur.
-3. Anomalies méditerranéennes : Des anomalies basses pourraient circuler près de la Méditerranée et donner une saveur orageuse au sud.
-4. Cyclogenèse à suivre : La formation d'une dépression entre Labrador et Groenland pourrait faire bouger les hautes pressions.
-5. HDF souvent sec : Météo-France prévoit un temps largement ensoleillé, avec un risque de pluies littorales mercredi.
+1. Blocage probable : Haute pression dominante, temps sec et calme pour la plupart des HDF.
+2. Pluies côtières : Flandre maritime, côtes de la Manche et Picardie maritime exposées mercredi.
+3. Fraîcheur relative : Températures proches des normales, fraîches le matin, douces l’après-midi.
+4. Incertitude du sud : Goutte froide possible au large du Portugal, influence indirecte à surveiller.
+5. Fin de semaine : Le blocage pourrait se maintenir ou se décaler, prudence pour samedi/dimanche.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Tendance dominante au blocage anticyclonique, temps souvent sec en HDF.
-- Températures proches des normales ou légèrement au-dessus : minimales 10-14°C, maximales 18-21°C.
-- Flux de secteur est/nord-est fréquent, notamment en début de semaine.
+- Régime de blocage anticyclonique très probable.
+- Temps sec et calme pour HDF, températures proches des normales.
+- Vent de nord-est modéré, brumes matinales possibles.
 **Points de divergence :**
-- Position exacte de l'anticyclone : selon CEPS, la dépression atlantique passe au nord; selon GFS, blocage plus compact.
-- Possibilité d'anomalies basses méditerranéennes pouvant influer sur le sud-est de la France et, marginalement, l'est des HDF.
-- Risque de pluies côtières mercredi (Flandre maritime, Picardie maritime, côtes de la Manche) versus soleil ailleurs.
+- Trajectoire de la dépression atlantique : au nord pour le CEPS, plus au sud pour certains runs.
+- Influence éventuelle d’une goutte froide au large du Portugal en fin de semaine.
+- Pluies côtières plus ou moins étendues selon les modèles.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **CEP / CEPS (ECMWF)** (Modèle de référence pour la tendance de blocage.) | Régime de blocage anticyclonique sur l'Europe; incertitude sur l'axe des HP et la circulation d'anomalies froides vers la Méditerranée. | Pour HDF, temps souvent sec, passages nuageux, quelques pluies possibles par le nord-ouest en fin de semaine. | France entière; HDF sous flux d'est/nord-est, plus sec que le sud. | Modérée (60-70%) | Nickdu77 note que CEPS voit la dépression atlantique passer au nord; tao évoque le scénario d'anomalies basses méditerranéennes soutenu depuis des semaines par les ensemblistes européens. |
-| **GFS (long terme)** (Non commenté dans le topic, utilisé comme tendance long terme.) | GFS long terme propose un maintien des hautes pressions sur le proche Atlantique/Europe, avec flux d'est et températures souvent au-dessus des normales. | Peu de précipitations pour HDF, mais quelques incursions nuageuses possibles; pas de signal froid. | France, HDF en marge nord-est. | Non estimable | La prévision à long terme pour le Nord de la France suggère un temps souvent sec et un flux d'est/nord-est, mais les incertitudes restent fortes. |
+| **ECMWF / CEP / CEPS** (Probable) | Blocage anticyclonique probable, HDF sec et stable, températures de saison. | Brumes matinales, pluies faibles côtières possibles, soleil ailleurs. | HDF globalement protégé ; littoral plus exposé. | Modérée | Le blocage peut ne pas être totalement sec : anomalies basses possibles en Méditerranée, influence indirecte ; HDF plutôt sec. |
+| **GFS** (Non évalué) | Pas de scénario GFS détaillé ; tendance générale au blocage à confirmer. | Non estimable pour HDF. | Non précisé. | Non estimable | À surveiller pour vérifier la tenue du blocage et l’éventuelle goutte froide portugaise. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Temps généralement ensoleillé; pluies possibles en Flandre maritime mercredi soir/début de nuit. | Min 10-14°C, max 18-21°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fin de semaine sous blocage à confirmer; localisation des pluies littorales incertaine. |
-| **Pas-de-Calais (62)** | Soleil mardi, risque de pluies ou averses sur les côtes de la Manche mercredi; ailleurs sec. | Min 10-14°C, max proches de 18°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Extension des pluies vers l'intérieur incertaine; évolution du blocage en fin de semaine. |
-| **Somme (80)** | Soleil mardi, risque de pluie en Picardie maritime mercredi dès le matin; ailleurs soleil sans partage. | Min en baisse sur le Santerre, max 18-20°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque littoral localisé; fin de semaine encore incertaine. |
-| **Oise (60)** | Soleil mardi; risque de pluies mercredi sur Vexin français, pays de Thelle, Picardie verte et Plateau Picard; ailleurs soleil. | Min en baisse sur le Plateau Picard, max stables 18-20°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Limite exacte des pluies de mercredi incertaine; blocage en fin de semaine à préciser. |
-| **Aisne (02)** | Soleil généreux mardi et mercredi; vent de Nord-Est devenant Nord mercredi soir. | Min en baisse sur la moitié Sud, max en baisse sur Thiérache et Champagne crayeuse, 19-21°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fin de semaine sous blocage à confirmer; influence possible des anomalies méditerranéennes très faible. |
+| **Nord (59)** | Soleil large mardi et mercredi, mais pluies possibles en Flandre maritime mercredi soir ; blocage probable ensuite avec temps sec. | Min 11-14°C, max 18-21°C mardi/mercredi ; tendance stable sous blocage. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Fin de semaine et étendue exacte des pluies mercredi. |
+| **Pas-de-Calais (62)** | Soleil généreux ; risque de pluie sur les côtes de la Manche mercredi après-midi/nuit ; blocage ensuite. | Min 10-13°C, max ~18-20°C. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Étendue des pluies et températures exactes. |
+| **Somme (80)** | Soleil sans partage ; risque de pluie en Picardie maritime mercredi matin ; blocage ensuite. | Min ~10°C, max 18-20°C. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Position des pluies littorales. |
+| **Oise (60)** | Soleil et ciel bleu prédominants ; risque de pluie mercredi sur les secteurs ouest/nord ; blocage ensuite. | Min ~10°C, max 18-20°C. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Limite exacte des pluies. |
+| **Aisne (02)** | Soleil généreux et temps sec ; blocage anticyclonique probable. | Min 10-12°C, max 19-21°C. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Évolution du blocage et éventuelles anomalies méditerranéennes. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 5 - mardi 6 octobre** : Temps sec et ensoleillé, vent d'est/nord-est, températures maximales 18-21°C.
-- **Mercredi 7 octobre** : Soleil ailleurs, mais pluies possibles sur les côtes de la Manche, la Flandre maritime et la Picardie maritime.
-- **Jeudi 8 - vendredi 9 octobre** : Retour d'un temps sec et lumineux, températures stables, minimales en légère baisse.
-- **Samedi 10 - dimanche 11 octobre** : Blocage probable mais à confirmer; temps souvent sec, incertitude sur d'éventuelles pluies.
+- **Lundi 5 - mardi 6 octobre** : Risque de pluie résiduelle sur Flandres/Avesnois et ouest du Pas-de-Calais lundi, puis soleil.
+- **Mercredi 7 octobre** : Pluies possibles en Flandre maritime, côtes de la Manche et Picardie maritime ; sec ailleurs.
+- **Jeudi 8 - vendredi 9 octobre** : Blocage anticyclonique, soleil généreux, températures de saison.
+- **Samedi 10 - dimanche 11 octobre** : Temps sec et stable, brouillards matinaux ; incertitude sur le maintien du blocage.
 
 **Points solides :**
-- Blocage anticyclonique très probable en début de semaine 2, avec temps sec et ensoleillé sur la majorité de la HDF.
-- Températures maximales autour de 18-21°C, minimales 10-14°C, proches des normales d'octobre.
-- Vent de secteur Est/Nord-Est fréquent, notamment sur le littoral.
+- Haute pression dominante et temps sec pour HDF.
+- Fraîcheur matinale, températures de saison.
+- Vent de nord-est modéré, surtout en début de semaine.
 
 **Points fragiles :**
-- Localisation des pluies côtières mercredi (Flandre maritime, Picardie maritime, côtes de la Manche).
-- Évolution des hautes pressions en fin de semaine : renforcement ou départ vers l'Atlantique.
-- Risque d'anomalies basses méditerranéennes; influence sur l'est de la HDF faible mais non nulle.
+- Pluies côtières mercredi : étendue encore incertaine.
+- Goutte froide portugaise en fin de semaine, influence possible.
+- Tenue du blocage jusqu’à dimanche.
 
 **À surveiller (prochains runs) :**
-CEPS (00z/12z), CEP sub-saisonnier, GFS long terme; AROME pour le littoral à J+2/J+3.
+CEPS/GFS 12z, CEP déterministe, modèles saisonniers ; évolution de l’anomalie portugaise.
 
 
 ========================================
@@ -125,27 +125,27 @@ CEPS (00z/12z), CEP sub-saisonnier, GFS long terme; AROME pour le littoral à J+
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Après un pic de chaleur mardi 29, dégradation pluvio-orageuse mercredi/jeudi, puis temps plus frais et sec; blocage anticyclonique probable en semaine 2 avec températures de saison et incertitudes sur les pluies côtières.
+Sur 15 jours : début très doux avec pic mardi 29, dégradation pluvio-orageuse mercredi 30/jeudi 1er, puis blocage anticyclonique sec et stable en semaine 2 ; températures de saison, risque de douceur excessive en fin de période si le blocage persiste.
 
 ### Période la plus fiable
-Semaine 1 : les grandes phases (chaleur puis dégradation) sont bien cernées, malgré des cumuls incertains. La semaine 2 reste plus fragile.
+Semaine 1 (28 septembre - 4 octobre) plus fiable dans la chronologie, mais les cumuls exacts restent incertains.
 
 ### Phénomènes récurrents
-Brouillards matinaux, flux de sud chaud, orages localisés, sécheresse de surface, blocage anticyclonique.
+Haute pression à l’est, talwegs atlantiques improductifs, sécheresse de surface, douceur persistante.
 
 ### Principales incertitudes
-Cumuls exacts de la dégradation, position des hautes pressions en semaine 2, éventuelles pluies littorales, persistance de la douceur.
+Cumuls mercredi, position des pluies littorales, durée du blocage, influence de la goutte froide portugaise.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes HDF : heure exacte d'arrivée des pluies mercredi, cessation jeudi, retour des pluies dimanche encore incertain.
-- **Localisation :** Doutes sur la localisation précise HDF : cumuls max (Flandre intérieure, Ternois, Ponthieu/Vimeu, Vexin/Thelle) dépendront de l'axe exact de la dégradation; en semaine 2, littoraux versus intérieur.
-- **Intensité :** Doutes sur l'intensité HDF : Météo-France table sur 20-25 mm, mais certains modèles voient plus de 50 mm sur des zones réduites; risque orageux faible à modéré.
-- **Informations manquantes :** Informations importantes non abordées ou manquantes : risque de grêle/rafales sous orages, évolution chiffrée des nappes phréatiques, impact de la sécheresse des sols.
-- **Modèles sous-documentés :** Modèles peu ou pas commentés par les membres : GEM, UKMO, ARPEGE peu détaillés pour la HDF; GFS long terme non commenté en semaine 2.
-- **Incertitudes images :** Incertitudes sur les graphiques : cartes de cumuls à longue échéance (CEP/GFS/GEM) à interpréter avec prudence; les images postées ne montrent pas toujours la HDF explicitement.
+- **Timing/Chronologie :** Le passage pluvieux de mercredi pourrait arriver plus tôt ou plus tard ; le blocage de semaine 2 pourrait se décaler.
+- **Localisation :** Pluies côtières vs intérieur ; la goutte froide portugaise en fin de semaine 2 pourrait intéresser le sud, pas directement HDF.
+- **Intensité :** Cumuls 50-72 mm évoqués sans modèle identifié : à écarter tant qu’ils ne sont pas confirmés par les modèles.
+- **Informations manquantes :** Pas d’analyse détaillée pour Oise/Aisne dans les topics ; semaine 2 au-delà de mercredi peu couverte par les bulletins ; pas de vigilance particulière.
+- **Modèles sous-documentés :** GFS en semaine 2, UKMO et GEM en semaine 2 non évalués ; ARPEGE mentionné une seule fois en semaine 1.
+- **Incertitudes images :** Images de symaski62 sans modèle indiqué ; images de giec 2100 (ARPEGE/ECMWF) non légendées ; GFS de Plancher sans détail HDF.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌦️ Bulletin HDF – Semaines 40/41 : mardi 29 très chaud (26-30°C), dégradation pluvio-orageuse mercredi, puis retour à un temps plus frais et sec. La semaine 2 part sous un régime de blocage anticyclonique, mais les incertitudes restent fortes sur la position des hautes pressions. Prudence sur les cumuls, notamment de la Flandre au Vimeu. #Météo #HautsDeFrance #Prévisions
+🌦️ Hauts-de-France : semaine contrastée ! Mardi très doux (26-29°C), dégradation pluvio-orageuse mercredi, puis retour du sec. La semaine 2 s’annonce sous blocage anticyclonique, avec des pluies surtout côtières. Incertitudes à surveiller. #Météo #HautsDeFrance #Prévisions #Climat
