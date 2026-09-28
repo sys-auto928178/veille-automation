@@ -6,123 +6,121 @@
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur le scénario d’ensemble, mais fortes divergences sur les détails.*
-- **Fiabilité du scénario majoritaire :** Flux sud chaud puis blocage sec — *Scénario principal, avec possibilité d’épisode pluvieux méditerranéenâme.*
+- **Consensus des modèles :** Modéré — *Accord sur la chaleur puis la baisse, mais désaccord sur les pluies.*
+- **Fiabilité du scénario majoritaire :** Chaud puis blocage — *Flux de sud mardi/mercredi, talweg jeudi, blocage anticyclonique ensuite.*
 - **Stabilité des cartes/scénarios :** 6 / 88 — *6 cartes sur 88 analysées*
-- **Niveau d'incertitude global :** Élevée — *Les prévisions de cumuls et la position de la dorsale restent très incertainainesâme.*
+- **Niveau d'incertitude global :** Pluies et Méditerranée — *La position du talweg et les anomalies basses méditerranéennes restent à affiner.*
 
 ## 🗓️ SEMAINE 1 : Du lundi 28 septembre au dimanche 4 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Flux de sud chaud : mardi et mercredi, advection chaude et humide, fortes chaleurs et instabilité possible sur l’ouest.
-2. Talweg pluvio-instable : entre mercredi soir et jeudi, une dégradation ouest-est pourrait se généraliser avec une baisse thermique.
-3. Précipitations inégales : les cumuls s’annoncent hétérogènes, nord-ouest et sud-est privilégiés, autres régions souvent sèches.
-4. Épisode méditerranéen : un épisode cévenol modéré pourrait se produire, à surveiller en fin de semaine.
-5. Baisse thermique au week-end : un temps plus frais est envisagé, mais une douceur persistante pourrait concerner le sud-est.
+1. Chaleur avant tout : Flux de sud chaud, fortes chaleurs mardi/mercredi, même au nord.
+2. Dégradation ouest-est : Passage d'un talweg d'altitude jeudi, avec baisse thermique par l'ouest.
+3. Cévennes sous tension : Épisode cévenol possible mardi soir/mercredi, intensité encore incertaine.
+4. Week-end plus frais : Recul net des températures samedi/dimanche, retour proche des normales.
+5. Pluies très inégales : Moins de 10 mm sur de nombreuses régions, sécheresse toujours préoccupante.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Consensus sur un flux de sud chaud mardi/mercredi avec de fortes chaleurs. 
-- Consensus sur une dégradation pluvio-instable entre mercredi soir et jeudi, plus généralisée, avec baisse thermique.
- 
-- Consensus sur un week-end plus frais, avec incertitude sur l’humidité.
+1. Fortes chaleurs mardi/mercredi, seuil de fortes chaleurs possible au nord.
+2. Baisse généralisée des températures à partir de jeudi, avec week-end plus frais.
+3. Pluies inégales et souvent inférieures à 10 mm; épisode méditerranéen possible mais plutôt modéré.
 **Points de divergence :**
-- Intensité et localisation des précipitations : certains voient des cumuls notables au nord-ouest et au sud-est, d’autres des “trous dans la raquette”; 
-- Niveau de baisse thermique : retour aux normales pour certains, persistance de douceur au sud-est pour d’autres; 
-- Évolution en fin de semaine : talweg humide ou dorsale sèche?
+1. Humidité du week-end : talweg résiduel ou retour d'une dorsale d'altitude.
+2. Intensité et localisation de l'épisode cévenol / méditerranéen.
+3. Cumuls exacts des pluies et régions réellement arrosées.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP)** (Documenté) | Scénario majoritaire : talweg d’altitude apportant une dégradation pluvio-instable entre mercredi et jeudi, puis baisse thermique; incertitude sur le week-end entre talweg et dorsale.
-. | Fortes chaleurs mardi/mercredi, dégradation orageuse jeudi, nette baisse thermique le week-end.
-. | Ouest, nord-ouest, sud-est, puis généralisé. | Élevée (85%) | Le modèle européen soutient un talweg d’altitude responsable d’une dégradation ouest-est. Des sorties récentes montrent un potentiel de précipitations sur le sud-est, mais la concrétisation reste incertaine. Les ensembles sub-saisonniers évoquent une possibilité d’anomalies basses en Méditerranée pour la semaine suivante. |
+| **ECMWF / CEP** (Documenté) | Flux de sud chaud mardi/mercredi, talweg pluvio-instable ouest-est jeudi, humidité du week-end incertaine. | Fortes chaleurs, averses ou orages isolés, dégradation orageuse, nette baisse thermique ensuite. | Toutes, surtout ouest, nord, puis sud-est. | Modérée (65%) | Le CEP propose un talweg d'altitude balayant le pays et une possible dégradation méditerranéenne; les cumuls restent très inégaux, avec un risque de moins de 10 mm sur une large part du territoire. |
+| **UKMO** (Partiel) | Précipitations inégales entre mardi et mercredi, nord-ouest et sud-est privilégiés, régions centrales possibles. | Averses contrastées, fortes chaleurs, baisse des températures en fin de semaine. | Nord-ouest, centre, sud-est. | Modérée (65%) | UKMO est cité pour des cumuls inégaux, avec un scénario privilégiant le nord-ouest et le sud-est; les autres régions pourraient recevoir peu ou pas de pluie. |
+| **GFS** (Insuffisant) | Tendance chaude puis refroidissement net; oscillations « froid puis chaud » signalées à longue échéance. | Fortes chaleurs en début de semaine, baisse ensuite, incertitude sur la durée. | Toutes, à préciser. | Faible (45%) | GFS est évoqué au sujet d'alternances chaud/froid très incertaines dans les sorties longue échéance, sans scénario clair. |
+| **GEM / Canadien** (Insuffisant) | Orientations de talweg variables d'un run à l'autre; cumuls très sensibles à la profondeur du talweg. | Pluies très inégales selon l'orientation du talweg, pas de signal fiable. | France entière, surtout intérieur. | Faible (45%) | Le modèle canadien illustre la sensibilité des cartes de cumuls à long terme : la position du talweg change fortement l'intensité des pluies sur le pays. |
+| **Arpège (Météo-France)** (Insuffisant) | Potentiel de précipitations visible sur une carte, mais concrétisation non assurée. | Averses ou orages possibles, répartition inégale. | À préciser | Faible (45%) | Une carte Arpège est partagée pour illustrer un potentiel de précipitations; l'auteur reste prudent sur sa concrétisation. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps pluvio-instable lundi, fortes chaleurs mardi/mercredi, dégradation jeudi, retour plus frais et sec le week-end. | Maximales 26-29°C mardi/mercredi, puis baisse vers 20-23°C le week-end. | moderee | ECMWF, GFS, UKMO | Précipitations très inégales et timing de dégradation. |
-| **Nord** | Gris lundi, soleil et chaleur mardi, dégradation pluvieuse mercredi-jeudi, puis beau temps plus frais le week-end. | Maximales 26-29°C mardi/mercredi, puis 21°C jeudi-vendredi et le week-end; minimales 16-20°C en début, 11-13°C le week-end. | elevee | ECMWF, GFS, ARPEGE | Intensité des pluies et timing exact de la dégradation. |
-| **Nord-Est** | Passage nuageux et averses possibles en fin de semaine, températures en baisse après un début chaud. | Maximales élevées mardi/mercredi, puis baisse nette le week-end. | faible | ECMWF, GFS | Localisation et intensité des précipitations. |
-| **Ouest et Façade Atlantique** | Averses orageuses en début de semaine, forte chaleur mardi, dégradation jeudi-vendredi, puis soleil plus frais. | Maximales 28-31°C mardi, 24°C jeudi-vendredi, 22-25°C le week-end. | elevee | ARPEGE, ECMWF, GFS, UKMO | Cumuls et localisation des orages. |
-| **Centre** | Temps variable, averses possibles en milieu de semaine, plus sec et frais le week-end. | Maximales 26-29°C mardi/mercredi, puis 20-24°C le week-end. | moderee | ECMWF, UKMO, GFS | Les précipitations pourraient être faibles ou inexistantes. |
-| **Sud-Ouest** | Soleil voilé lundi, forte chaleur mardi, puis dégradation pluvieuse jeudi-vendredi, éclaircies plus fraîches le week-end. | Maximales 28-31°C lundi-mardi, 22-25°C jeudi-vendredi, 21-24°C le week-end. | elevee | ARPEGE, ECMWF, GFS | Intensité des pluies et limite pluie-neige. |
-| **Sud-Est et Vallée du Rhône** | Temps voilé et chaud mardi, dégradation pluvieuse jeudi-vendredi, éclaircies plus fraîches le week-end. | Maximales 26-29°C jusqu'à mercredi, 21-23°C jeudi-vendredi, 20-22°C le week-end. | elevee | ARPEGE, ECMWF, GFS | Intensité et localisation des pluies, notamment cévenoles. |
-| **Méditerranée et Corse** | Temps voilé et chaud, vent de Sud-Est, risque d'orages pluvieux du Languedoc aux Bouches-du-Rhône en milieu de semaine, puis amélioration plus fraîche. | Maximales 27-29°C jusqu'à mercredi, 25-27°C jeudi-vendredi, 24-26°C le week-end; douceur persistante avec +2 à +4°C. | elevee | ARPEGE, ECMWF, GFS, UKMO | Intensité de l'épisode méditerranéen et extension géographique. |
+| **Nord-Ouest** | Pluies ou averses lundi, forte chaleur mardi/mercredi, dégradation jeudi, week-end plus frais. | Très douces puis chaudes mardi/mercredi, nette baisse jeudi et week-end. | moderee | ECMWF, UKMO, GFS | Localisation exacte des pluies et intensité orageuse. |
+| **Nord** | Gris et averses possibles lundi, soleil mardi, dégradation mercredi/jeudi, beau week-end. | Maximales 26-29°C mardi/mercredi, proches de 21°C jeudi-vendredi, minimales 11-13°C le week-end. | moderee | Météo-France, ECMWF | Extrapolation du bulletin parisien à toute la zone nord. |
+| **Nord-Est** | Forte chaleur mardi/mercredi, dégradation pluvio-instable possible jeudi, week-end plus frais. | Nuits et jours doux, chaud mardi/mercredi, baisse ensuite. | faible | ECMWF, GFS | Position et intensité du talweg sur le nord-est. |
+| **Ouest et Façade Atlantique** | Averses orageuses en fin de nuit, éclaircies lundi, chaleur mardi, soleil puis averses mercredi, baisse. | 30-31°C mardi, 27-30°C mercredi, 24°C jeudi/vendredi, 22-25°C week-end. | moderee | Météo-France, ECMWF, UKMO | Transposition à toute la façade atlantique au-delà de la Gironde. |
+| **Centre** | Temps chaud et souvent sec en début de semaine, dégradation possible jeudi. | Fortes chaleurs mardi/mercredi, nette baisse le week-end. | faible | ECMWF, UKMO | Rôle exact des régions centrales dans le scénario de pluies. |
+| **Sud-Ouest** | Soleil voilé et autan fort lundi, belle journée mardi, nuages mercredi, risque pluie jeudi/vendredi. | 28-31°C lundi/mardi, 27-30°C mercredi, 22-25°C jeudi/vendredi, 21-24°C week-end. | moderee | Météo-France, ECMWF | Extension du scénario aux autres départements du sud-ouest. |
+| **Sud-Est et Vallée du Rhône** | Voile nuageux lundi/mardi, faibles pluies mercredi, risque pluie jeudi/vendredi, soleil le week-end. | 26-29°C en journée, 24°C dans les monts; 21-23°C jeudi/vendredi, 20-22°C week-end. | moderee | Météo-France | Représentativité pour l'ensemble de la zone Rhône-Alpes. |
+| **Méditerranée et Corse** | Soleil voilé, ambiance chaude, averses mercredi, possible épisode cévenol modéré en Languedoc/Ardèche. | Max 27-29°C, nuits douces 16-23°C sur le littoral, +2 à +4°C au-dessus des normales. | moderee | Météo-France, ECMWF, UKMO, GEM | Intensité et localisation de l'épisode méditerranéen. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 28 - mardi 29 septembre** : Temps souvent nuageux à l’ouest, puis soleil et forte chaleur mardi.
-- **Mercredi 30 septembre - jeudi 1 octobre** : Dégradation pluvio-instable se généralisant d’ouest en est, baisse thermique.
-- **Vendredi 2 - dimanche 4 octobre** : Temps plus frais et variable, avec éclaircies et averses résiduelles; incertitude sur l’humidité.
-- **Dimanche 4 - lundi 5 octobre** : Possible retour de conditions plus stables et douces par le sud-ouest.
+- **Lundi 28 septembre** : Flux de sud chaud, temps pluvio-instable sur l'ouest et le nord-ouest, nette douceur nocturne.
+- **Mardi 29 et mercredi 30 septembre** : Fortes chaleurs généralisées avec advection chaude et humide, orages possibles sur l'ouest, début d'épisode cévenol.
+- **Mercredi soir 30 et jeudi 1er octobre** : Balayage pluvio-instable d'ouest en est, baisse thermique par l'ouest, sud-est à surveiller.
+- **Samedi 3 et dimanche 4 octobre** : Températures en nette baisse, retour proche des normales; humidité très incertaine selon la position du talweg.
 
 **Points solides :**
-- Fortes chaleurs attendues mardi/mercredi sur une large partie du pays; 
-- Dégradation pluvio-instable jeudi avec baisse thermique; 
-- Week-end plus frais, surtout au nordériodiques.
+1. Fortes chaleurs mardi/mercredi, même au nord : consensus solide.
+2. Baisse thermique marquée à partir de jeudi, surtout le week-end.
+3. Pluies très inégales; l'épisode méditerranéen s'annonce plutôt modéré.
 
 **Points fragiles :**
-- Cumuls de précipitations très incertains, possibles “trous dans la raquette”; 
-- Intensité de l’épisode méditerranéen encore à définir; 
-- La baisse thermique pourrait être insuffisante au sud-est et en Corseâme.
+1. Valeur exacte des cumuls et régions réellement arrosées.
+2. Intensité de l'épisode cévenol et risque de débordement vers les Bouches-du-Rhône.
+3. Caractère sec ou pluvieux du week-end.
 
 **À surveiller (prochains runs) :**
-À surveiller : les runs de mercredi pour localiser la dégradation, et l’évolution des ensembles pour l’épisode méditerranéen et la fin de semaine.
+CEP 12Z, GFS 12Z, UKMO 00Z pour la trajectoire du talweg et l'épisode cévenol.
 
 
 ## 🗓️ SEMAINE 2 : Du lundi 5 au dimanche 11 octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Régime de blocage : une dorsale anticyclonique pourrait dominer, avec un temps souvent sec et stable.
-2. Douceur persistante : les températures devraient rester au-dessus des normales, surtout au sud-est et en Corse.
-3. Anomalies méditerranéennes : une circulation d’anomalies basses reste possible, apportant une saveur humide au régime de blocage.
-4. Incertitude forte : les projections long terme sont divergentes entre froid et chaud, sec et instable.
-5. Sécheresse préoccupante : faute de précipitations significatives, la sécheresse pourrait s’accentuer.
+1. Blocage probable : Régime de blocage anticyclonique attendu, mais pas forcément sec et chaud de façon caricaturale.
+2. Méditerranée à surveiller : Hypothèse non majoritaire d'anomalies basses près de la Méditerranée, soutenue par les ensembles européens.
+3. Frais mais doux : Températures en baisse en début de semaine, incertitude pour la suite.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Régime de blocage anticyclonique probable sur l’Europe de l’Ouest.
- 
-- Températures probablement au-dessus des normales, surtout au sud. 
-- Faute de précipitations généralisées, sécheresse qui pourrait s’aggraver.
+1. Régime de blocage probable sur l'ensemble de la semaine.
+2. Temps souvent sec et ensoleillé au moins en début de semaine.
+3. Températures en baisse par rapport à la semaine 1.
 **Points de divergence :**
-- Position exacte de la dorsale et possibilité d’anomalies basses méditerranéennes; 
-- Températures : retour proche des normales ou poursuite de la douceur?; 
-- Précipitations : épisode pluvieux localisé ou temps sec généralisé?
+1. Caractère sec ou plus nuageux du blocage.
+2. Éventuelles anomalies basses en Méditerranée, hypothèse non majoritaire.
+3. Durée réelle du blocage au-delà des premiers jours.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP)** (Documenté) | Régime de blocage avec dorsale; une hypothèse minoritaire d’anomalies bassesen Méditerranée est soutenue par les ensembles sub-saisonniers européens | Temps sec et stable, avec possible instabilité méditerranéenne | France, surtout sud-est et Méditerranée | Élevée(85%) | Le CEP privilégie un blocage anticyclonique. Les runs sub-saisonniers européens évoquent depuis des semaines une possibilité d’anomalies basses près du bassin méditerranéen, susceptible d’apporter des pluies sur le sud. |
+| **ECMWF (ensembles sub-saisonniers)** (Partiel) | Blocage anticyclonique probable; une hypothèse d'anomalies basses méditerranéennes existe mais n'est pas majoritaire. | Temps souvent sec, pas forcément chaud; possible saveur méditerranéenne orageuse si anomalies basses. | France entière, notamment sud-est et Méditerranée. | Modérée (65%) | Le message indique un régime de blocage, avec des aménagements possibles : la latitude de l'amas de hauts géopotentiels et d'éventuelles anomalies basses en Méditerranée pourraient donner une saveur particulière, sans certitude. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Blocage anticyclonique probable, temps souvent sec et stable, douceur. | Proches ou au-dessus des normales. | faible | ECMWF, GFS | Position exacte de la dorsale et possibilité de dégradations. |
-| **Nord** | Temps souvent sec et ensoleillé sous blocage, douceur persistante. | Au-dessus des normales, maximales incertaines. | faible | ECMWF, GFS | Possibilité de dégradations malgré le blocage. |
-| **Nord-Est** | Blocage probable, temps sec et stable, températures douces. | Au-dessus des normales. | faible | ECMWF, GFS | Éventuelle arrivée d’anomalies froides. |
-| **Ouest et Façade Atlantique** | Blocage, temps sec, douceur; possible instabilité locale. | Maximales autour de 22-25°C, au-dessus des normales. | faible | ECMWF, GFS | Maintien ou atténuation du blocage. |
-| **Centre** | Régime de blocage, temps sec et calme, douceur. | Au-dessus des normales, sans excès. | faible | ECMWF, GFS | Risque d’orages résiduels sous blocage. |
-| **Sud-Ouest** | Blocage, temps souvent sec, mais possible passage pluvieux localisé. | Douces, au-dessus des normales. | moderee | ECMWF, GEM, GFS | Influence méditerranéenne et anomalies basses. |
-| **Sud-Est et Vallée du Rhône** | Blocage et douceur; possible influence méditerranéenne humide en fin de semaine. | Au-dessus des normales, +2 à +4°C possibles. | moderee | ECMWF, GFS, GEM | Intensité et localisation des anomalies méditerranéennes. |
-| **Méditerranée et Corse** | Blocage chaud et sec, mais risque d’épisode pluvieux orageux si anomalies basses. | Très douces, +2 à +4°C au-dessus des normales. | moderee | ECMWF, GFS, GEM | Hypothèse minoritaire d’anomalie basse en Méditerranée. |
+| **Nord-Ouest** | Temps sec et ensoleillé sous blocage anticyclonique probable. | En baisse, probablement proches des normales. | faible | ECMWF | Durée exacte du blocage. |
+| **Nord** | Beau temps largement ensoleillé lundi et mardi, probablement sec ensuite. | Minimales et maximales en baisse. | moderee | Météo-France, ECMWF | Extrapolation à toute la zone nord. |
+| **Nord-Est** | Blocage anticyclonique probable, temps sec et calme. | En baisse, incertitude sur la durée. | faible | ECMWF | Position exacte du blocage et éventuelles anomalies. |
+| **Ouest et Façade Atlantique** | Beau temps sec et ensoleillé ailleurs; risque de pluie sur Médoc, Blayais et Landes girondines. | Minimales en baisse, maximales en baisse. | moderee | Météo-France, ECMWF | Extension aux autres régions de la façade atlantique. |
+| **Centre** | Blocage sec et souvent ensoleillé probable. | Températures en baisse, proches des normales. | faible | ECMWF | Caractère sec ou plus nuageux du blocage. |
+| **Sud-Ouest** | Beau temps sec et ensoleillé, quelques passages nuageux, risque d'averses localisé. | Températures en baisse. | moderee | Météo-France, ECMWF | Localisation exacte des averses résiduelles. |
+| **Sud-Est et Vallée du Rhône** | Beau temps sec et ensoleillé ailleurs; passages nuageux et risque d'averses sur l'ouest du Rhône. | En baisse. | moderee | Météo-France, ECMWF | Représentativité pour l'ensemble de la zone. |
+| **Méditerranée et Corse** | Littoral sec et ensoleillé; intérieur plus nuageux avec averses possibles lundi/mardi. | En baisse près du littoral, douceur persistante probable. | moderee | Météo-France, ECMWF | Hypothèse d'anomalies basses méditerranéennes. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 5 - mercredi 7 octobre** : Blocage anticyclonique probable, temps sec et doux.
-- **Jeudi 8 - dimanche 11 octobre** : Possible évolution vers une anomalie méditerranéenne, avec un risque pluvieux sur le sud-est et le sud.
+- **Lundi 5 et mardi 6 octobre** : Blocage anticyclonique, beau temps sec et ensoleillé sur de nombreuses régions; températures en baisse.
+- **Mercredi 7 au vendredi 9 octobre** : Blocage maintenu, des aménagements nuageux ou pluvieux restent possibles, surtout près de la Méditerranée.
+- **Samedi 10 et dimanche 11 octobre** : Le blocage pourrait persister; une anomalie basse méditerranéenne est une hypothèse non majoritaire à suivre.
+- **Non déterminable** : Pas d'élément disponible pour décrire une quatrième phase distincte.
 
 **Points solides :**
-- Blocage anticyclonique probable.
- 
-- Douceur persistante, surtout au sud. 
-- Sécheresse qui pourrait s’accentuerâme.
+1. Régime de blocage probable.
+2. Températures en baisse lundi/mardi.
+3. Pas de retour durable d'un flux perturbé océanique.
 
 **Points fragiles :**
-- Épisode méditerranéen hypothétiqueâme. 
- 
-- Répartition des températures selon position de la dorsaleâme. 
-- Précipitations possibles malgré le blocageâme.
+1. Caractère sec ou humide du blocage.
+2. Présence et rôle des anomalies basses méditerranéennes.
+3. Durée exacte et extension géographique des pluies résiduelles.
 
 **À surveiller (prochains runs) :**
-À surveiller : les ensembles sub-saisonniers européens et les runs GFS pour l’évolution de la dorsale et la possibilité d’anomalies bassesen Méditerranée.
+Échéances longues ECMWF et GFS 384h, notamment la latitude des hauts géopotentiels et le sort des anomalies basses en Méditerranée.
 
 
 ========================================
@@ -130,30 +128,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Tendance sur 15 jours : d’abord un flux de sud chaud avec fortes chaleurs et dégradation orageuse jeudi, puis mise en place d’un blocage anticyclonique; températures au-dessus des normales, surtout au sud; sécheresse préoccupante.
+Sur 15 jours : début de semaine 1 très chaud sous flux de sud, dégradation orageuse jeudi, week-end plus frais, puis régime de blocage anticyclonique en semaine 2. Les températures resteraient souvent au-dessus des normales, surtout dans le sud; les pluies seraient très inégales et la sécheresse préoccupante.
 
 ### Période la plus fiable
-Semaine 1 : la dégradation de jeudi et la baisse thermique du week-end sont les éléments les plus fiables, même si les cumuls restent incertainains.
+Semaine 1 : davantage de discussions et de bulletins disponibles; semaine 2 encore très incertaine.
 
 ### Phénomènes récurrents
-- Flux méridiens persistants, pas de zonalâme. 
-- Sécheresse qui s’accentueâme. 
- 
-- Douceur anormalement persistante, surtout au sud-estâme.
+Flux de sud chaud, pluies orageuses inégales, épisode cévenol possible, sécheresse de surface, blocage anticyclonique répété.
 
 ### Principales incertitudes
-Cumuls des précipitations, intensité de l’épisode méditerranéen, évolution thermique exacte en semaine 2.
+Cumuls exacts, intensité de l'épisode cévenol, humidité du week-end, caractère sec ou non du blocage de semaine 2, températures au-delà du 7 octobre.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie exacte de la dégradation jeudi et sur l’arrivée du blocageen semaine 2.
-- **Localisation :** Zones exactes des précipitations : trous possibles dans la raquette; localisation des orages méditerranéens incertainaineâme.
-- **Intensité :** Intensité des fortes chaleurs, force des orages et cumuls associés très incertainainsâme.
-- **Informations manquantes :** Peu d’informations sur le nord-est, le centre et la Corse dans les discussions; pas de détails sur le vent dans de nombreuses zonesâme.
-- **Modèles sous-documentés :** UKMO, GEM, Arpège et le modèle canadien ne sont que brièvement évoqués; pas de commentaires détaillésâme.
-- **Incertitudes images :** Les cartes de cumuls à long terme sont souvent remisesen cause; les images partagées manquent de contexte et de runs précisâme.
+- **Timing/Chronologie :** Le moment exact du passage du talweg (mercredi soir/jeudi) et l'arrivée du blocage de semaine 2 restent à confirmer.
+- **Localisation :** Les pluies seront probablement inégales : nord-ouest et sud-est favorisés, centre incertain; la transposition des bulletins locaux aux zones plus larges est délicate.
+- **Intensité :** Températures maximales localement élevées, force des orages et cumuls (<10 mm ou plus localement) restent incertains.
+- **Informations manquantes :** Vent non documenté sur plusieurs zones; évolution des sols et réserves hydriques peu détaillée; informations spécifiques à la Corse et au Languedoc-Roussillon limitées dans les discussions.
+- **Modèles sous-documentés :** GFS, GEM, UKMO et Arpège ne sont que brièvement cités; la semaine 2 ne repose pour l'instant que sur un message et les tendances long terme.
+- **Incertitudes images :** Les cartes de cumuls à long terme sont jugées peu fiables par les membres; les cartes UKMO/CEP/GEM partagées montrent des scénarios encore divergents.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-Analyse des 15 prochains jours : le temps reste sous influence méridienne, avec une semaine 1 chaude et orageuse avant une probable mise en blocage sec et doux pour la semaine 2. La sécheresse demeure le fil rouge, et les cumuls à venir restent très aléatoires. Suivi à affiner run après run.
+🇫🇷 Semaine contrastée en France : fortes chaleurs mardi/mercredi, dégradation orageuse jeudi, puis week-end plus frais. La semaine suivante s'annonce sous un régime de blocage, mais l'hypothèse d'anomalies méditerranéennes reste non majoritaire. Les pluies seront très inégales et la sécheresse demeure préoccupante. Prudence : les scénarios évoluent. #Météo #Prévisions #Sécheresse #Infoclimat
