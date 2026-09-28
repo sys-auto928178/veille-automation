@@ -349,12 +349,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Le jeu de l'hiver 2026/2027
-• Infoclimat Direct : Bugs sur Infoclimat #2
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
+• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Mon site météo avec visualisation claire sur 24h, lisible et sans fioritures
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 28/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -362,9 +362,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 28 Septembre 2026.
-Résumé général précédent : Semaine 1 : début très doux, dégradation orageuse modérée en milieu de semaine, puis baisse thermique. Semaine 2 : blocage anticyclonique probable, temps souvent sec, températures au-dessus des normales, avec une hypothèse non majoritaire d'anomalie pluvieuse en Méditerranée..
+Résumé général précédent : Tendance globale : douceur persistante avec blocage anticyclonique en semaine 2, mais dégradations orageuses localisées possibles en semaine 1..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies parfois orageuses sur nord-ouest et sud-est, fortes chaleurs mardi, fraîcheur jeudi..
+Températures attendues précédemment : Pluies orageuses nord-ouest et Méditerranée, fortes chaleurs mardi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 28 Septembre au Dimanche 4 Octobre 2026) ===
@@ -616,9 +616,9 @@ Bonsoir,
 	la semaine en question devrait se dérouler sous un régime de blocage:
 	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
 	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
-	Modifié il y a 17 heures par tao
+	Modifié il y a 19 heures par tao
 								17
-								9
+								10
 
 =======================
 
@@ -626,14 +626,14 @@ Auteur: Krholam
 Message:
 On garde espoir que les choses bougent. La Cyclogenese sur l’atlantique est bien en marche avec un systeme depressionnaire qui pourrait se former entre le Labrador et le Groenland
 	A voir si ça sera suffisant pour faire bouger les HP sur nous
-								1
+								2
 
 =======================
 
 Auteur: nickdu77
 Message:
 C'est effectivement tangent. CEPS semble plutôt voir - hélas - le machin passer au nord. On commence à a voir l'habitude mais, comme c'est encore lointain, rien n'est joué. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? Et plus généralement, vais-je passer Noël en T-shirt? Est-ce que je dois mettre une photo de renne sur un de mes T-shirt pour le réveillon?
-								1
+								2
 								2
 								1
 
@@ -644,4 +644,28 @@ Message:
 Il y a 3 heures, nickdu77 a dit :
 			. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? 
 	bien que ça soit lointain, en fin d'échéance, ça pourrait annoncer... un déblocage : 
-	 mais l'expérience des foirades en la matière est tellement fournie que l'on va gentiment patienter au frais...
+	 mais l'expérience des foirades en la matière est tellement fournie que l'on va gentiment patienter au frais... 
+								1
+
+=======================
+
+Auteur: symaski62
+Message:
+oh   brrrrr    🥶       wow   😱     prochaine   je froide     
+								2
+								1
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a 50 minutes, symaski62 a dit :
+			Oh   brrrrr    🥶       wow   😱     prochaine   je froide     
+	Sur ce point, on est bien d'accord : sur le plan thermique, on va se rapprocher des normales et, même si on restera au-dessus des "normes", ça va nous faire tout chose ...
+	On voit bien la baisse sur les diagrammes, comme sur les cartes, mais c'est beaucoup plus marqué côté Atlantique que sur les secteurs soumis à l'influence méditerranéenne où la baisse est plus progressive et moins marquée (mais ils auront la chance d'avoir des PP plus importantes ; je me console en me disant que j'ai reçu 0,6 mm ce matin et j'ai commencé à construire un radeau).
+	A la suite, les diagrammes de Paris, Bordeaux et Marseille  : 
+	Paris:
+	Bordeaux: 
+	Marseille
+								1
