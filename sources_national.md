@@ -321,12 +321,12 @@ actuellement.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Script - Vigilance météo
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Records de températures en France
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -334,9 +334,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 29 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest sur les 15 prochains jours. Douceur généralisée, au-dessus des normales, plus marquée sur la zone méditerranéenne. Précipitations rares et inégalement réparties, avec un épisode orageux méditerranéen modéré en semaine 1 et des signaux fragiles de déblocage en fin d'échéance..
+Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest, douceur générale au-dessus des normales, précipitations rares et inégalement réparties. En fin d'échéance, un possible déblocage pourrait apporter de l'air plus frais, surtout au nord, mais reste très incertain..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies modérées nord-ouest et sud-est, puis éclaircies et fraîcheur relative en fin de semaine..
+Températures attendues précédemment : Pluies inégales mercredi sur le nord-ouest et le sud-est, orages méditerranéens possibles jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
@@ -550,7 +550,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 6 heures par stormigen
+	Modifié il y a 8 heures par stormigen
 
 =======================
 
@@ -712,8 +712,8 @@ Il y a 1 heure, giec 2100 a dit :
 	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
-	Modifié il y a 8 heures par petit âge glaciaire 11
-								4
+	Modifié il y a 10 heures par petit âge glaciaire 11
+								5
 								2
 								2
 								1
@@ -735,6 +735,7 @@ Message:
 	que @Run999H ne se sente pas visé... 😰 
 	rien à voir là-dedans...
 								1
+								1
 
 =======================
 
@@ -743,7 +744,7 @@ Message:
 Après la tendance générale est a la baisse de la limitr barocline.
 	Reste à savoir si le rail depressionnaire va se pointer sur nous courant octobre ou courant janvier.
 								1
-								1
+								2
 
 =======================
 
@@ -752,3 +753,4 @@ Message:
 GFS nous propose un anticyclone à perte de vue et donc jusqu'à la fin du présent topic. Il nous permet juste d'espérer une baisse des températures au fil du temps.
 	Eté exceptionnel et automne exceptionnel.
 	Sinon, les prévisions saisonnières de la Chaîne Météo tiennent globalement la route. Elles envisagent un anticyclone tout le mois d'octobre et le retour des dépressions qu'en novembre.
+								1
