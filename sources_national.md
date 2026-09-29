@@ -292,7 +292,7 @@ Températures minimales : en baisse sur le Lauragais ainsi que sur les plaines e
 Températures maximales : en baisse dans le Muretain, sur les coteaux de Gascogne ainsi que dans le Saint-Gaudinois.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 290945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 29 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins, suite à un mouvement social à Météo-France, à partir du lundi 28 septembre à 19h et jusqu'au mercredi 30 à 07h. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 29 septembre 2026 à 06H00 UTC, et évolution Hautes pressions 1019 à 1022 hPa sur le bassin. Dépression relative 1016 hPa au sud-ouest de la France, se comblant demain. 3 - Prévisions pour l'après-midi du mardi 29 septembre VENT : Est à Sud-Est 4 à 5, fraîchissant parfois 6 l'après-midi, et revenant Est à Nord-Ouest 3 à 4 à l'est de Sicié. MER : peu agitée, mais agitée à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : ciel voilé, devenant très nuageux à couvert l'ouest de Cap Couronne en fin de journée. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 29 septembre au mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 4 à l'est de Sicié. Rafales sous orages. MER : peu agitée, localement agitée à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : très nuageux, orages à l'ouest du Cap Croisette. VISIBILITE : bonne, localement mauvaise sous orages. 5 - Prévisions pour la journée du mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 4 parfois 5 à l'est de Sicié. Rafales sous averses orageuses. MER : peu agitée, localement agitée à l'ouest de Sicié. HOULE : Sud 0.5 à 1 m TEMPS : très nuageux, averses orageuses. VISIBILITE : bonne, localement mauvaise sous averses. 6 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Est à Sud-Est 5 à 6, virant progressivement Nord 3 à 4 l'après-midi. - à l'est de Porquerolles : Est à Nord-Est 3 à 4, devenant Variable 1 à 3 à la fin. MER : peu agitée, localement peu agitée à agitée à l'ouest de Sicié jusqu'en milieu de journée. HOULE : Sud 0.5 à 1 m. TEMPS : orages, s'atténuant l'après-midi. VISIBILITE : bonne, localement mauvaises sous orages. 7 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : Nord à Nord-Ouest 2 à 4, fraîchissant 3 à 5 en début de nuit puis virant ensuite Est à Sud-Est 3 à 4 en cours de matinée. MER : belle à peu agitée. HOULE : De Port Camargue à Porquerolles houle dominante de Sud-Est 0,5 à 1 m. De Porquerolles à St Raphaël houle dominante de Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Samedi 3 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Lundi 5 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 Mardi 6 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 9 - Observations le mardi 29 septembre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 10 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1022 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 19 noeuds. Cap Couronne : vent Est-Sud-Est 16 noeuds. Prochain bulletin le mardi 29 septembre 2026, vers 18H30 légales
+FQCT40 LFML 291615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 29 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins, suite à un mouvement social à Météo-France, à partir du lundi 28 septembre à 19h et jusqu'au mercredi 30 à 07h. 1 - Avis de grand frais Nr 302 pour LANGUEDOC-ROUSSILLON, PROVENCE 2 - Situation générale mardi 29 septembre 2026 à 12H00 UTC, et évolution Hautes pressions 1019 à 1022 hPa sur le bassin. Dépression relative 1016 hPa au sud-ouest de la France, se comblant demain. 3 - Prévisions pour la nuit du mardi 29 septembre au mercredi 30 septembre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6, fraîchissant 6 à 7 de Port Camargue à Beauduc en milieu de nuit. Rafales, parfois fortes sous orages. - à l'est de Sicié : Est à Nord-Est 3 à 4, fraîchissant temporairement 4 à 5 en milieu de nuit. Rafales. MER : peu agitée, localement agitée à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : très nuageux, orages à l'ouest du Cap Croisette. VISIBILITE : bonne, localement mauvaise sous orages. 4 - Prévisions pour la journée du mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 4 parfois 5 à l'est de Sicié. Rafales sous averses orageuses. MER : peu agitée, localement agitée à l'ouest de Sicié. HOULE : Sud 0.5 à 1 m TEMPS : très nuageux, averses orageuses. VISIBILITE : bonne, localement mauvaise sous averses. 5 - Tendance pour la nuit du 30 au 1, et la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Est à Sud-Est 5 à 6, virant progressivement Nord 3 à 4 l'après-midi. Rafales, parfois fortes sous orages. - à l'est de Porquerolles : Est à Nord-Est 3 à 4, devenant Variable 1 à 3 à la fin. MER : peu agitée, localement peu agitée à agitée à l'ouest de Sicié jusqu'en milieu de journée. HOULE : Sud 0.5 à 1 m. TEMPS : orages, s'atténuant l'après-midi. VISIBILITE : bonne, localement mauvaises sous orages. 6 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : Nord à Nord-Ouest 2 à 4, fraîchissant 3 à 5 en début de nuit puis virant ensuite Est à Sud-Est 3 à 4 en cours de matinée. MER : belle à peu agitée. HOULE : De Port Camargue à Porquerolles houle dominante de Sud-Est 0,5 à 1 m. De Porquerolles à St Raphaël houle dominante de Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Samedi 3 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Lundi 5 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 Mardi 6 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 8 - Observations le mardi 29 septembre 2026 à 15H00 UTC Cap Camarat : vent Est 14 noeuds, nuageux avec éclaircies, visibilité 10 milles. Le Levant : vent Est 17 noeuds, 1021 hPa en baisse. Porquerolles : vent Est 12 noeuds, rafales 25 noeuds. Cap Couronne : vent Sud-Est 19 noeuds, rafales 29 noeuds, mer peu agitée, visibilité 13 milles. Prochain bulletin le mercredi 30 septembre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -322,11 +322,11 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi de l'englacement au p&#xF4;le nord
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Prévisions &#xCE;le-de-France Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Records de températures en France
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -334,9 +334,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 29 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest, douceur généralisée au-dessus des normales, précipitations rares. Un épisode orageux méditerranéen modéré est attendu en fin de semaine 1, suivi d'un retour au sec. En semaine 2, le blocage se maintient avec une hypothèse non majoritaire de déblocage en toute fin d'échéance..
+Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest sur les 15 prochains jours. Douceur généralisée, au-dessus des normales, plus marquée sur la zone méditerranéenne. Précipitations rares et inégalement réparties, avec un épisode orageux méditerranéen modéré en semaine 1 et des signaux fragiles de déblocage en fin d'échéance..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses orageuses, cumuls irréguliers, douceur marquée en début de semaine..
+Températures attendues précédemment : Pluies modérées nord-ouest et sud-est, puis éclaircies et fraîcheur relative en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
@@ -550,7 +550,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 4 heures par stormigen
+	Modifié il y a 6 heures par stormigen
 
 =======================
 
@@ -712,10 +712,10 @@ Il y a 1 heure, giec 2100 a dit :
 	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
-	Modifié il y a 6 heures par petit âge glaciaire 11
+	Modifié il y a 8 heures par petit âge glaciaire 11
 								4
 								2
-								1
+								2
 								1
 
 =======================
@@ -734,6 +734,7 @@ Message:
 	727500 heures pour 83 ans, ce qui nous pousse déjà à du Run727500H... 
 	que @Run999H ne se sente pas visé... 😰 
 	rien à voir là-dedans...
+								1
 
 =======================
 
@@ -742,3 +743,12 @@ Message:
 Après la tendance générale est a la baisse de la limitr barocline.
 	Reste à savoir si le rail depressionnaire va se pointer sur nous courant octobre ou courant janvier.
 								1
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS nous propose un anticyclone à perte de vue et donc jusqu'à la fin du présent topic. Il nous permet juste d'espérer une baisse des températures au fil du temps.
+	Eté exceptionnel et automne exceptionnel.
+	Sinon, les prévisions saisonnières de la Chaîne Météo tiennent globalement la route. Elles envisagent un anticyclone tout le mois d'octobre et le retour des dépressions qu'en novembre.
