@@ -317,21 +317,21 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps &#xE0; Montréal
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Temps en Espagne
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Lundi 28 Septembre 2026.
-Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France connaîtront un début de semaine encore doux et orageux, une dégradation pluvieuse mercredi 30, puis un net regain anticyclonique avec un temps sec et plus frais à partir du week-end des 3-4 octobre, qui se maintiendra la semaine suivante..
+Dernier bulletin HDF généré le Mardi 29 Septembre 2026.
+Résumé général HDF précédent : Après un pic de chaleur remarquable mardi, une dégradation orageuse mercredi, puis un net regain anticyclonique avec un temps sec, stable et plus frais à partir de jeudi et pour la semaine suivante..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies parfois marquées mercredi, amélioration jeudi, températures en baisse. (110 caractères).
+Températures attendues précédemment : Passage pluvio-orageux marqué mercredi sur l'ensemble des Hauts-de-France..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===

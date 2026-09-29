@@ -326,21 +326,21 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps &#xE0; Montréal
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Temps en Espagne
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Lundi 28 Septembre 2026.
-Résumé général précédent : Sur 15 jours, blocage anticyclonique dominant, températures souvent au-dessus des normales, dégradations pluvieuses limitées et surtout méditerranéennes..
+Dernier bulletin généré le Mardi 29 Septembre 2026.
+Résumé général précédent : Après une dégradation orageuse mercredi 30 septembre, un régime de blocage anticyclonique s'installe pour la semaine du 5 au 11 octobre, avec des températures souvent au-dessus des normales, surtout dans le sud-est..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Mercredi 30 : pluies et orages possibles, surtout nord-ouest et sud-est..
+Températures attendues précédemment : Orages mercredi, baisse jeudi, retour de la douceur le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
