@@ -15,45 +15,45 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL NORD (DEPT59) ===
-Emis le : 29/09/2026 06:30
+Emis le : 29/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Nord est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Lille-Lesquin : température de 16 degrés, vent de secteur Nord soufflant jusqu'à 10 km/h, pression niveau mer 1018 hPa, cumul de précipitations en 12h : 2 mm.
-A Dunkerque : température de 18 degrés, vent de secteur Est soufflant jusqu'à 15 km/h.
+Aujourd'hui on observait à 09h :
+A Lille-Lesquin : température de 16 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 15 km/h, pression niveau mer 1017 hPa, cumul de précipitations en 12h : 2 mm.
+A Dunkerque : température de 17 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 20 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui mardi 29 :
-Le soleil s'impose rapidement partout. Les quelques bancs de brouillard présents en début de matinée, en Flandre intérieure, sont vite dissipés.
+Le ciel est clair en cette journée. Les quelques bancs de brouillard présents en début de matinée, en Flandre intérieure, se dissipent rapidement.
 Vent de Sud-Est, modéré.
 Températures maximales : de 26 à 28 degrés. Ces températures sont bien au-dessus des valeurs normalement observées.
 
 • Pour la nuit prochaine :
 La présence d'un voile de nuages élevés ternit l'éclat des étoiles.
 Vent modéré, de Sud-Est.
-Températures minimales : entre 17 et 18 degrés. Ces températures sont au-dessus des valeurs de saison, localement bien au-dessus.
+Températures minimales : comprises entre 17 et 18 degrés. Ces températures se situent au-dessus des valeurs normalement observées, localement très au-dessus.
 
 • Pour demain mercredi 30 en journée et la nuit suivante :
 Des nuages épais apportent quelques gouttes ici ou là, puis les pluies faibles deviennent un peu plus fréquentes, l'après-midi. Pour la nuit : Le temps est maussade toute la nuit. Sous un ciel couvert, de rares averses se produisent partout. En seconde partie de nuit, le temps devient toutefois sec, en Flandre maritime.
-Le maximum de pluie attendu est de l'ordre de 15 millimètres en Flandre intérieure.
-Vent de Sud, modéré, en journée et jusqu'en milieu de nuit ; puis atténuation.
-Températures maximales pour le jour : entre 22 et 25 degrés.
-Températures minimales pour la nuit suivante : de 15 à 16 degrés.
+Les plus forts cumuls de pluie peuvent avoisiner 15 millimètres en Flandre intérieure.
+En journée et jusqu'en milieu de nuit, vent de Sud, modéré ; puis faiblissant.
+Températures maximales pour le jour : de 22 à 25 degrés.
+Températures minimales pour la nuit suivante : entre 15 et 16 degrés.
 
 • Pour la journée de jeudi 01 octobre et la nuit suivante :
-Quelques averses sont attendues en début de matinée, de la métropole lilloise à l'Avesnois, mais elles cessent rapidement. Ensuite, le reste de la journée est partout agréable, sous un ciel peu nuageux, parfois voilé. Pour la nuit : La première partie de nuit est propice à l'observation des étoiles. Ensuite, des nuages fins d'altitude envahissent le ciel, de la métropole lilloise à l'Avesnois.
-En journée, vent d'Ouest à Sud-Ouest, modéré ; puis faiblissant.
-Températures maximales pour le jour : comprises entre 20 et 22 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur entre 8 et 10 degrés. 12 degrés en Flandre maritime.
+Quelques averses sont attendues en début de matinée, de la métropole lilloise à l'Avesnois, mais elles cessent rapidement. Ensuite, le reste de la journée est partout agréable, sous un ciel peu nuageux, parfois voilé. Pour la nuit : Le ciel est bien étoilé. En seconde partie de nuit, il se voile, de la métropole lilloise à l'Avesnois.
+Vent d'Ouest à Sud-Ouest modéré, en journée ; puis s'atténuant.
+Températures maximales pour le jour : de 20 à 22 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur comprises entre 8 et 10 degrés. 12 degrés en Flandre maritime.
 
 • Pour la journée de vendredi 02 :
-Le soleil brille sans discontinuer du matin jusqu'au soir.
+Le soleil est généreux tout au long de la journée.
 Vent faible, variable.
-Températures maximales : de 20 à 23 degrés.
+Températures maximales : entre 20 et 23 degrés.
 
 • Pour samedi 03 et dimanche 04 :
 Beau temps sec et ensoleillé.
@@ -74,14 +74,14 @@ Températures minimales : sans changement significatif.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
-Emis le : 29/09/2026 06:30
+Emis le : 29/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Pas-de-Calais est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Arras : température de 15 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 15 km/h, cumul de précipitations en 12h : 4 mm.
+Aujourd'hui on observait à 09h :
+A Arras : température de 16 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 15 km/h, cumul de précipitations en 12h : 4 mm.
 A Boulogne-Sémaphore : température de 17 degrés, vent de secteur Est soufflant jusqu'à 20 km/h.
 
 Prévisions pour les tout prochains jours :
@@ -89,30 +89,30 @@ Prévisions pour les tout prochains jours :
 • Pour aujourd'hui mardi 29 :
 Malgré quelques brumes ou bancs de brouillard en début de journée près de la Mer du Nord, de l'Audomarois au Béthunois, sur la plaine d'Arras ainsi que sur les reliefs de l'Artois, c'est le soleil qui domine dans l'intérieur, mais aussi dans le Calaisis.
 Vent d'Est à Sud-Est, modéré.
-Températures maximales : entre 26 et 27 degrés. Ces températures sont au-dessus des valeurs de saison, localement très au-dessus.
+Températures maximales : entre 26 et 27 degrés. Ces températures sont au-dessus des valeurs de saison, localement bien au-dessus.
 
 • Pour la nuit prochaine :
 Les éclaircies sont belles. Seul bémol, des nuages et quelques gouttes sont possibles sur les côtes de la Manche en fin de nuit.
 Vent généralement modéré, de Sud à Sud-Est.
-Températures minimales : entre 16 et 18 degrés. Ces températures se situent au-dessus des valeurs normalement observées.
+Températures minimales : de 16 à 18 degrés. Ces températures se situent au-dessus des valeurs normalement observées.
 
 • Pour demain mercredi 30 en journée et la nuit suivante :
 Sous un ciel le plus souvent chargé, des averses éparses se produisent tout au long de la journée. À noter que, sur la plaine d'Arras, la matinée bénéficie d'éclaircies plus généreuses et d'un temps sec. Pour la nuit : Les averses de la soirée se raréfient peu à peu. Des éclaircies se forment du Haut Artois au littoral, en cours de nuit, et se généralisent ensuite.
-On attend au maximum jusqu'à 10 millimètres de pluie sur les côtes de la Manche.
-Vent de Sud à Sud-Ouest, modéré.
+Les plus forts cumuls de pluie peuvent avoisiner 10 millimètres sur les côtes de la Manche.
+Vent modéré, de Sud à Sud-Ouest.
 Températures maximales pour le jour : de 21 à 23 degrés.
-Températures minimales pour la nuit suivante : de 14 à 16 degrés.
+Températures minimales pour la nuit suivante : entre 14 et 16 degrés.
 
 • Pour la journée de jeudi 01 octobre et la nuit suivante :
-Tôt le matin, quelques gouttes sont possibles du Haut Artois au littoral. Puis le reste de la journée se passe sous un ciel un peu nuageux, plus ou moins lumineux selon le moment. Pour la nuit : Le temps est calme. Cependant, des nuages élevés apparaissent en deuxième partie de nuit, sur la moitié Est du département.
+Tôt le matin, quelques gouttes sont possibles du Haut Artois au littoral. Puis le reste de la journée se passe sous un ciel un peu nuageux, plus ou moins lumineux selon le moment. Pour la nuit : La première partie de nuit est propice à l'observation des étoiles. Ensuite, des nuages fins d'altitude envahissent le ciel, sur la moitié Est du département.
 Vent d'Ouest modéré, en journée et début de nuit ; puis s'atténuant.
 Températures maximales pour le jour : comprises entre 19 et 20 degrés.
 Températures minimales pour la nuit suivante : de 8 à 10 degrés.
 
 • Pour la journée de vendredi 02 :
-Le soleil domine largement du matin au soir.
-Vent faible, variable.
-Températures maximales : comprises entre 20 et 21 degrés.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
+Vent variable, faible.
+Températures maximales : entre 20 et 21 degrés.
 
 • Pour samedi 03 et dimanche 04 :
 Temps généralement ensoleillé.
@@ -133,45 +133,45 @@ Températures minimales : stables.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL SOMME (DEPT80) ===
-Emis le : 29/09/2026 06:30
+Emis le : 29/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Somme est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Amiens-Glisy : température de 15 degrés, vent variable faible, pression niveau mer 1017 hPa, cumul de précipitations en 12h : 1 mm.
-A Cayeux-sur-Mer : température de 16 degrés, vent de secteur Est soufflant jusqu'à 15 km/h.
+Aujourd'hui on observait à 09h :
+A Amiens-Glisy : température de 15 degrés, vent de secteur Est soufflant jusqu'à 20 km/h, pression niveau mer 1017 hPa, cumul de précipitations en 12h : 0 mm.
+A Cayeux-sur-Mer : température de 16 degrés, vent de secteur Est soufflant jusqu'à 20 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui mardi 29 :
 La matinée est ensoleillée. L'après-midi, quelques nuages de beau temps agrémentent le ciel.
 Vent de Sud à Sud-Est, modéré.
-Températures maximales : de 26 à 28 degrés. Ces températures sont bien au-dessus des valeurs de saison.
+Températures maximales : comprises entre 26 et 28 degrés. Ces températures sont très au-dessus des valeurs de saison.
 
 • Pour la nuit prochaine :
 Les éclaircies, belles en début de nuit, se réduisent ensuite et de rares averses se produisent sur la Picardie maritime en fin de nuit.
 Vent modéré, de Sud-Est.
-Températures minimales : comprises entre 16 et 18 degrés. Ces températures se situent au-dessus des valeurs normalement observées.
+Températures minimales : de 16 à 18 degrés. Ces températures sont au-dessus des valeurs de saison.
 
 • Pour demain mercredi 30 en journée et la nuit suivante :
 Sous un ciel le plus souvent chargé, des averses éparses se produisent tout au long de la journée. À noter que, sur le Vermandois, la matinée bénéficie d'éclaircies plus généreuses et d'un temps sec. Pour la nuit : Le ciel est nuageux avec de petites averses. Les averses cessent en fin de nuit et des éclaircies plus larges se forment, sur le Ponthieu et le Vimeu, sur le Santerre ainsi que sur l'Amiénois et le Doullennais.
-Les plus forts cumuls de pluie peuvent avoisiner 15 millimètres sur l'Amiénois.
-En journée, vent de Sud, modéré ; en deuxième partie de nuit, reprise du vent par endroits, avec orientation au Sud-Ouest.
-Températures maximales pour le jour : comprises entre 22 et 24 degrés.
-Températures minimales pour la nuit suivante : de 13 à 15 degrés.
+On attend au maximum jusqu'à 15 millimètres de pluie sur l'Amiénois.
+En journée, vent de Sud, modéré ; puis atténuation. En seconde partie de nuit, vent se renforçant de nouveau par endroits, avec orientation au Sud-Ouest.
+Températures maximales pour le jour : de 22 à 24 degrés.
+Températures minimales pour la nuit suivante : comprises entre 13 et 15 degrés.
 
 • Pour la journée de jeudi 01 octobre et la nuit suivante :
-Périodes ensoleillées et passages nuageux se partagent le ciel le matin. Jusqu'à la mi-journée, quelques averses sont possibles sur la Picardie maritime, sous un ciel un peu plus encombré. L'après-midi, le soleil brille sans partage. Pour la nuit : Le temps est calme. Cependant, des nuages élevés apparaissent en deuxième partie de nuit, sur une grande moitié Est du département.
-Vent d'Ouest modéré, en journée et jusqu'en milieu de nuit ; puis s'atténuant.
+Périodes ensoleillées et passages nuageux se partagent le ciel le matin. Jusqu'à la mi-journée, quelques averses sont possibles sur la Picardie maritime, sous un ciel un peu plus encombré. L'après-midi, le soleil brille sans partage. Pour la nuit : La première partie de nuit est propice à l'observation des étoiles. Ensuite, des nuages fins d'altitude envahissent le ciel, sur une grande moitié Est du département.
+En journée et jusqu'en milieu de nuit, vent d'Ouest, modéré ; puis faiblissant.
 Températures maximales pour le jour : entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés.
+Températures minimales pour la nuit suivante : de 8 à 10 degrés.
 
 • Pour la journée de vendredi 02 :
-Le soleil brille sans discontinuer du matin jusqu'au soir.
+Le soleil règne en maître du matin au soir.
 Vent faible, variable.
-Températures maximales : de 20 à 21 degrés.
+Températures maximales : comprises entre 20 et 21 degrés.
 
 • Pour samedi 03 et dimanche 04 :
 Sur le littoral picard, risque de brume se dissipant en deuxième partie de nuit de vendredi à samedi. Sur les autres régions, soleil prédominant.
@@ -192,44 +192,44 @@ Températures minimales : sans changement significatif.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL OISE (DEPT60) ===
-Emis le : 29/09/2026 06:30
+Emis le : 29/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Oise est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Beauvais-Tillé : température de 15 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 10 km/h, pression niveau mer 1017 hPa, cumul de précipitations en 12h : 2 mm.
+Aujourd'hui on observait à 09h :
+A Beauvais-Tillé : température de 15 degrés, vent de secteur Nord soufflant jusqu'à 5 km/h, pression niveau mer 1016 hPa.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui mardi 29 :
-La journée débute sous un ciel largement ensoleillé. Les nuages se font progressivement plus nombreux, mais il ne s'agit souvent que d'un voile élevé et le ciel reste lumineux.
+Après un début de journée très ensoleillé, le ciel se voile.
 L'après-midi jusqu'en début de soirée, établissement d'un vent de Sud, souvent modéré.
-Températures maximales : de 26 à 28 degrés. Ces températures sont bien au-dessus des valeurs de saison.
+Températures maximales : de 26 à 28 degrés. Ces températures sont bien au-dessus des valeurs normalement observées.
 
 • Pour la nuit prochaine :
 Les éclaircies, belles en début de nuit, se réduisent ensuite et de rares averses se produisent du Vexin français à la Picardie verte en fin de nuit.
-Vent de Sud à Sud-Est, modéré.
-Températures minimales : comprises entre 16 et 19 degrés, et 15 degrés sur le Beauvaisis et le Clermontois. Ces températures sont au-dessus des valeurs normalement observées, localement bien au-dessus.
+Vent modéré, de Sud à Sud-Est.
+Températures minimales : comprises entre 16 et 19 degrés, et 15 degrés sur le Beauvaisis et le Clermontois. Ces températures sont au-dessus des valeurs normalement observées, localement très au-dessus.
 
 • Pour demain mercredi 30 en journée et la nuit suivante :
 Tout au long de la journée, le soleil profite des quelques éclaircies pour se montrer. Mais les nombreux passages nuageux donnent parfois des averses, surtout tôt le matin et en fin d'après-midi. On peut noter du temps sec en milieu de période, sur le Beauvaisis et le Clermontois ainsi que sur le Compiégnois et le Noyonnais. Pour la nuit : La nuit débute avec un ciel couvert et de petites pluies. Après minuit, quelques trouées se forment, et de rares averses persistent du Valois Multien au Noyonnais.
 Les plus forts cumuls de pluie attendus sont de 10 millimètres de la Picardie verte au Plateau Picard.
 Vent de Sud modéré, en journée ; puis s'atténuant.
-Températures maximales pour le jour : entre 23 et 25 degrés. Ces températures se situent au-dessus des valeurs de saison.
+Températures maximales pour le jour : de 23 à 25 degrés. Ces températures se situent au-dessus des valeurs de saison.
 Températures minimales pour la nuit suivante : comprises entre 12 et 14 degrés.
 
 • Pour la journée de jeudi 01 octobre et la nuit suivante :
-Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : Le ciel est bien étoilé. En seconde partie de nuit, il se voile.
+Le soleil règne en maître du matin au soir. Pour la nuit : Le temps est calme. Cependant, des nuages élevés apparaissent en deuxième partie de nuit.
 Jusqu'en milieu d'après-midi, vent d'Ouest, modéré ; puis faiblissant.
-Températures maximales pour le jour : comprises entre 20 et 22 degrés.
+Températures maximales pour le jour : entre 20 et 22 degrés.
 Températures minimales pour la nuit suivante : de 7 à 9 degrés.
 
 • Pour la journée de vendredi 02 :
-La journée est belle, le soleil est largement présent.
-Vent faible, variable.
-Températures maximales : entre 20 et 22 degrés.
+L'ensoleillement est excellent et le soleil règne sans partage.
+Vent variable, faible.
+Températures maximales : comprises entre 20 et 22 degrés.
 
 • Pour samedi 03 et dimanche 04 :
 Beau temps sec et ensoleillé.
@@ -250,44 +250,44 @@ Températures minimales : stables.
 Températures maximales : en baisse sur la moitié Nord du département, ainsi que le Valois Multien.
 
 === BULLETIN DÉPARTEMENTAL AISNE (DEPT02) ===
-Emis le : 29/09/2026 06:30
+Emis le : 29/09/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Aisne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Aulnoy-sous-Laon : température de 14 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 5 km/h.
+Aujourd'hui on observait à 09h :
+A Aulnoy-sous-Laon : température de 15 degrés, vent de secteur Est soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui mardi 29 :
 Le ciel est souvent voilé le matin. L'après-midi, des nuages plus épais se développent, mais le soleil reste toutefois largement présent.
-Vent de Sud à Sud-Est, modéré.
-Températures maximales : entre 27 et 29 degrés. Ces températures sont très au-dessus des valeurs de saison.
+Vent modéré, de Sud à Sud-Est.
+Températures maximales : de 27 à 29 degrés. Ces températures se situent bien au-dessus des valeurs de saison.
 
 • Pour la nuit prochaine :
 Le ciel est généralement voilé.
-Vent généralement modéré, de Sud-Est.
-Températures minimales : entre 16 et 18 degrés. Ces températures se situent au-dessus des valeurs normalement observées, localement très au-dessus.
+Vent de Sud-Est, généralement modéré.
+Températures minimales : de 16 à 18 degrés. Ces températures sont au-dessus des valeurs de saison, par endroits très au-dessus.
 
 • Pour demain mercredi 30 en journée et la nuit suivante :
 La matinée se déroule sous de belles éclaircies. En revanche l'après-midi le ciel se couvre subitement et les premières averses arrivent sur le Vermandois, sur le Soissonnais ainsi que sur le Valois en début d'après-midi pour se généraliser en soirée. Pour la nuit : Sous un ciel très sombre, des averses sont possibles toute la nuit. Elles sont plus fréquentes avant l'aurore.
 On attend au maximum jusqu'à 15 millimètres de pluie sur le Soissonnais.
 Vent de Sud à Sud-Est, modéré, en journée et début de nuit ; puis atténuation.
-Températures maximales pour le jour : de 24 à 26 degrés. Ces températures sont au-dessus des valeurs normalement observées.
-Températures minimales pour la nuit suivante : de 14 à 16 degrés.
+Températures maximales pour le jour : entre 24 et 26 degrés. Ces températures sont au-dessus des valeurs normalement observées.
+Températures minimales pour la nuit suivante : comprises entre 14 et 16 degrés.
 
 • Pour la journée de jeudi 01 octobre et la nuit suivante :
 En début de journée, il tombe quelques gouttes sur le Tardenois ainsi que sur la moitié Est du département. Très vite, le temps devient sec et le soleil resplendit jusqu'en fin de journée, à peine gêné par quelques nuages ici ou là. Pour la nuit : La soirée est bien étoilée, mais un voile nuageux se forme en seconde partie de nuit et masque les étoiles.
-L'après-midi, vent s'orientant Ouest, souvent modéré ; atténuation ensuite.
-Températures maximales pour le jour : comprises entre 20 et 21 degrés.
+Etablissement, en seconde partie de journée, d'un vent d'Ouest, généralement modéré ; atténuation ensuite.
+Températures maximales pour le jour : de 20 à 21 degrés.
 Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés.
 
 • Pour la journée de vendredi 02 :
 La journée est très ensoleillée, mis à part en fin de matinée, quand quelques nuages se forment, sur la Champagne crayeuse ainsi que sur la moitié Sud du département. Ils se dissipent heureusement rapidement.
 Vent variable, faible.
-Températures maximales : comprises entre 21 et 23 degrés.
+Températures maximales : entre 21 et 23 degrés.
 
 • Pour samedi 03 et dimanche 04 :
 Temps généralement ensoleillé.
@@ -340,12 +340,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : BIM, BS, BQS, AM : des rendez-vous météo sur Infoclimat
+• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -353,28 +353,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 29 Septembre 2026.
-Résumé général HDF précédent : Bref épisode chaud mardi 29, dégradation orageuse mercredi 30, puis retour à un temps sec et anticyclonique jusqu'à la mi-octobre au moins. Les températures restent souvent au-dessus des normales, avec une fraîcheur matinale croissante. L'indicateur thermique national oscille encore entre 22,8°C et 25,8°C sur 14 jours, avec un risque de vague de chaleur forte évalué à 70% à J+6-J+14..
+Résumé général HDF précédent : Tendance 15 jours : après un pic de chaleur mardi 29 (26-29°C) et une dégradation pluvieuse mercredi 30, les hautes pressions s’imposent au moins jusqu’au 8 octobre. Temps souvent sec et ensoleillé, températures au-dessus des normales mais en baisse progressive. Le risque de vague de chaleur fort à J+6-J+14 (70%) concerne l’indicateur thermique national et ne doit pas être confondu avec une canicule en HDF. L’incertitude est forte au-delà du 8 octobre..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses orageuses mercredi 30, surtout Nord/PdC/Somme ; vigilance jaune orages..
+Températures attendues précédemment : Doux et ensoleillé mardi ; pluies/averses mercredi ; net rafraîchissement jeudi ; ensuite beau temps sec..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-alors oui bien sûr, tout est affaire de focale (!)...
-	verre à moitié plein, verre à moitié vide... beaucoup de précipitations, partout ou juste un peu et beaucoup de territoires passant entre les mailles, fines ou larges... ?
-	on est d'accord, on ne se laissera pas fasciner par les valeurs - parfois impressionnantes - en millibars au fond des dépressions qui nous frôlent... pas plus du reste du fond des talwegs qui semblent s'intéresser à nous : 
-	c'est là que je voudrais m'arrêter ; un peu plus à l'Est comme on dit dans une célèbre BD : 
-	quid de l'anticyclone  à l'E de l'Europe... ?
-	quel gradient va-t-il nous fabriquer dans sa progression vers l'Hexagone, avant que fiche le camp cette belle dépression atlantique vers le N, avec quel tempo... ?
-	j'ai comme l'impression d'entendre le début de la même partition, celle qui nous accompagne depuis la fin du printemps, avec ces innombrables "talwegs improductifs"...
-	et puis faudrait-il sortir d'une habitude d'analyse, plutôt zonale et gouvernée par notre glacière arctique, alors qu'ici ce seraient plutôt les festons incessants de la grosse réserve chaude de la zone intertropicale qui dictent la loi... ?
-	très pessimiste encore ce soir... un grand merci tout de même @Nico 14 de m'avoir redonné un peu de courage !
-	Modifié vendredi à 19:12 par giec 2100
-								1
-
-=======================
-
 Auteur: symaski62
 Message:
 salut     🤔🌧️   
@@ -583,7 +567,7 @@ Auteur: bernardt60
 Message:
 Je pense que ce GIF résume bien la problématique pour espérer avoir un véritable changement synoptique avec les bas géopotentiels et dépression associée se faisant lamentablement rejetés vers le Groenland, on est encore bien loin de l’établissement d'un véritable zonal.
 								2
-								6
+								7
 
 =======================
 
@@ -592,6 +576,16 @@ Message:
 Petite question où interrogation plutôt. 
 	‘il n y a pas un problème de parametrage sur Gfs . 
 	comment se fait il que GFS modélise de forte précipitation sous un anticyclone de 1025-1030 hpa hors pluie convective 🙄. Il s emballe jean Mich…
+
+=======================
+
+Auteur: ggdu19
+Message:
+Il y a 13 heures, stormigen a dit :
+			Petite question où interrogation plutôt. 
+			‘il n y a pas un problème de parametrage sur Gfs . 
+			comment se fait il que GFS modélise de forte précipitation sous un anticyclone de 1025-1030 hpa hors pluie convective 🙄. Il s emballe jean Mich…
+	On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
