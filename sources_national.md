@@ -317,7 +317,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse du Lauragais aux coteaux de Cadours ainsi qu'au sud-ouest du département.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 290330 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 29 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins, suite à un mouvement social à Météo-France, à partir du du lundi 28 septembre à 19h. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 29 septembre 2026 à 00H00 UTC, et évolution Hautes pressions 1019 à 1023 hPa sur le bassin. Dépression relative 1016 hPa près des côtes algériennes. 3 - Prévisions pour la journée du mardi 29 septembre VENT : Est à Sud-Est 4 à 5, fraîchissant 5 à 6 l'après-midi, mais Est à Nord-Ouest 3 à 4 à l'est de Sicié. MER : peu agitée, devenant localement agitée en fin d'après-midi à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : ciel voilé, parfois nuageux le matin vers la Camargue, devenant très nuageux à couvert l'ouest de Cap Couronne en fin de journée. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 29 septembre au mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 4 à l'est de Sicié. Rafales sous orages. MER : peu agitée, localement agitée à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : très nuageux, orages à l'ouest du Cap Croisette. VISIBILITE : bonne, localement mauvaise sous orages. 5 - Prévisions pour la journée du mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 5 à l'est de Sicié. Rafales sous orages. MER : peu agitée, localement agitée à l'ouest de La Ciotat,. HOULE : Sud 0.5 à 1 m TEMPS : très nuageux, orages à l'est de Porquerolles. VISIBILITE : bonne, localement mauvaise sous orages. 6 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : De Port Camargue à Marseille Sud-Est 4 à 6, revenant Nord en début de matinée. De Marseille à St Raphaël Est 4 à 6, revenant Nord à Nord-Ouest 2 à 4 en milieu d'après-midi. MER : peu agitée, localement agitée de Port Camargue à la Ciotat. HOULE : De Port Camargue à Camarat houle de Sud à Sud-Est 0,5 à 1 m. De Camarat à St Raphaël houle de Sud inférieure à 1 m, s'orientant en début de matinée à l'Est à Nord-Est. 7 - Tendance pour les jours suivants Vendredi 2 octobre secteur Est faible. Indice de confiance : 3 sur 5 Samedi 3 octobre secteur Est faible à modéré. Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Sud-Est faible à modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 2 sur 5 Lundi 5 octobre variable faible. Indice de confiance : 2 sur 5 8 - Observations le mardi 29 septembre 2026 à 03H00 UTC Cap Camarat : vent Nord 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 12 noeuds, nuageux avec éclaircies, visibilité 13 milles. Le Levant : vent Est 10 noeuds, 1021 hPa en baisse. Porquerolles : vent Est 10 noeuds. Cap Couronne : vent Est 12 noeuds. Prochain bulletin le mardi 29 septembre 2026, vers 13H00 légales
+FQCT40 LFML 290945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 29 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins, suite à un mouvement social à Météo-France, à partir du lundi 28 septembre à 19h et jusqu'au mercredi 30 à 07h. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 29 septembre 2026 à 06H00 UTC, et évolution Hautes pressions 1019 à 1022 hPa sur le bassin. Dépression relative 1016 hPa au sud-ouest de la France, se comblant demain. 3 - Prévisions pour l'après-midi du mardi 29 septembre VENT : Est à Sud-Est 4 à 5, fraîchissant parfois 6 l'après-midi, et revenant Est à Nord-Ouest 3 à 4 à l'est de Sicié. MER : peu agitée, mais agitée à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : ciel voilé, devenant très nuageux à couvert l'ouest de Cap Couronne en fin de journée. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 29 septembre au mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 4 à l'est de Sicié. Rafales sous orages. MER : peu agitée, localement agitée à l'ouest de La Ciotat. HOULE : Sud 0.5 à 1 m. TEMPS : très nuageux, orages à l'ouest du Cap Croisette. VISIBILITE : bonne, localement mauvaise sous orages. 5 - Prévisions pour la journée du mercredi 30 septembre VENT : Est à Sud-Est 5 à 6, mais Est à Nord-Est 3 à 4 parfois 5 à l'est de Sicié. Rafales sous averses orageuses. MER : peu agitée, localement agitée à l'ouest de Sicié. HOULE : Sud 0.5 à 1 m TEMPS : très nuageux, averses orageuses. VISIBILITE : bonne, localement mauvaise sous averses. 6 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Est à Sud-Est 5 à 6, virant progressivement Nord 3 à 4 l'après-midi. - à l'est de Porquerolles : Est à Nord-Est 3 à 4, devenant Variable 1 à 3 à la fin. MER : peu agitée, localement peu agitée à agitée à l'ouest de Sicié jusqu'en milieu de journée. HOULE : Sud 0.5 à 1 m. TEMPS : orages, s'atténuant l'après-midi. VISIBILITE : bonne, localement mauvaises sous orages. 7 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : Nord à Nord-Ouest 2 à 4, fraîchissant 3 à 5 en début de nuit puis virant ensuite Est à Sud-Est 3 à 4 en cours de matinée. MER : belle à peu agitée. HOULE : De Port Camargue à Porquerolles houle dominante de Sud-Est 0,5 à 1 m. De Porquerolles à St Raphaël houle dominante de Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Samedi 3 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Lundi 5 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 Mardi 6 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 9 - Observations le mardi 29 septembre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 10 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1022 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 19 noeuds. Cap Couronne : vent Est-Sud-Est 16 noeuds. Prochain bulletin le mardi 29 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -349,12 +349,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : BIM, BS, BQS, AM : des rendez-vous météo sur Infoclimat
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Prévisions Centre-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -362,9 +361,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 29 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique persistant, douceur au-dessus des normales, dégradations essentiellement méditerranéennes et éphémères, sécheresse de surface qui se renforce..
+Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest, avec une douceur généralisée au-dessus des normales, des précipitations rares et localisées, et une sécheresse de surface qui se renforce. Une dégradation orageuse méditerranéenne modérée est attendue en milieu de semaine 1, suivie d'un retour au sec. En semaine 2, le blocage se maintient, avec une hypothèse minoritaire de déblocage en toute fin d'échéance..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Incertitude sur les pluies ; risque de scénarios extrêmes non confirmés..
+Températures attendues précédemment : Mercredi : orages possibles sur le Languedoc et PACA ; jeudi : éclaircies et fraîcheur relative..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
@@ -595,6 +594,7 @@ Il y a 13 heures, stormigen a dit :
 			‘il n y a pas un problème de parametrage sur Gfs . 
 			comment se fait il que GFS modélise de forte précipitation sous un anticyclone de 1025-1030 hpa hors pluie convective 🙄. Il s emballe jean Mich…
 	On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -604,7 +604,7 @@ Bonsoir,
 	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
 	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
 	Modifié dimanche à 18:37 par tao
-								18
+								19
 								11
 
 =======================
@@ -706,3 +706,46 @@ il y a une heure, guiguite91 a dit :
 	l'Amerloque confirme avec son run de midi : 
 	il y a au moins un signal - faible - que quelque chose se trame au niveau du kéblo de bas-art... comme disait le marle qui voulait casser le coffre-fort...
 	https://images.meteociel.fr/im/98/21816/animakc7.gif
+
+=======================
+
+Auteur: giec 2100
+Message:
+persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
+	https://images.meteociel.fr/im/8/17863/animyeb9.gif
+	mais non confirmé chez l'Américain : 
+	https://images.meteociel.fr/im/18/10273/animvqg4.gif
+	fin d'échéance bien trop lointaine pour distinguer le signal du bruit stochastique de la modélisation comme dirait Big Brother... 
+								1
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a une heure, giec 2100 a dit :
+			persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
+			https://images.meteociel.fr/im/8/17863/animyeb9.gif
+			mais non confirmé chez l'Américain : 
+			https://images.meteociel.fr/im/18/10273/animvqg4.gif
+			fin d'échéance bien trop lointaine pour distinguer le signal du bruit stochastique de la modélisation comme dirait Big Brother... 
+	On est bien d'accord sur l'analyse mais je ne me souvenais pas que Big Brother avait dit ça.
+	On croise les doigts pour que le blocage se termine mais ce qui m'inquiète un peu, c'est justement que ça ne fait pas vraiment blocage mais plutôt décalage vers le nord. Mais c'est peut-être une expression de mon inquiétude qui me pousse à voir quelque chose qui n'est pas là et à avoir une interprétation erronée de la situation.
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Il y a 1 heure, giec 2100 a dit :
+			persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
+			https://images.meteociel.fr/im/8/17863/animyeb9.gif
+			mais non confirmé chez l'Américain : 
+			https://images.meteociel.fr/im/18/10273/animvqg4.gif
+			fin d'échéance bien trop lointaine pour distinguer le signal du bruit stochastique de la modélisation comme dirait Big Brother... 
+	Des signaux sur des déterministes entre 250 et 300 heures ? vu l'échéance il vaut mieux regarder les moyennes de l'ensemble CEP et en se limitant à 250 heures :
+	Le signal est la oui pour un décalage à l'ouest des hautes pressions mais ce signal est encore assez fragile, il semble en tout cas qu'une grande partie du nord du pays  pourrait
+	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
+	On remarquera aussi une possibilité d'un creusement en méditerranée. 
+	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
+	Modifié il y a 32 minutes par petit âge glaciaire 11
+								3

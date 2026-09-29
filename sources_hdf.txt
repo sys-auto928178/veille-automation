@@ -308,7 +308,7 @@ Températures minimales : en baisse sur la Thiérache et la Champagne crayeuse.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 290405 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mardi 29 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins, suite à un mouvement social à Météo-France, à partir du du lundi 28 septembre à 19h. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 29 septembre 2026 à 00H00 UTC, et évolution Système dépressionnaire complexe 987 hPa sur la proche Atlantique, prévu 972 hPa au large de l'Irlande à midi, puis se creusant 946 hPa en fin de nuit en remontant vers le nord. Profond thalweg associé abordant la pointe Bretagne et le golfe de Gascogne l'après-midi. 3 - Prévisions pour la journée du mardi 29 septembre VENT : secteur Est 2 à 4, virant Sud-Est en fin d'après-midi. MER : belle à peu agitée. HOULE : Nord à Nord-Est 0.5 à 1 m, s'amortissant à la fin. TEMPS : devenant ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 29 septembre au mercredi 30 septembre VENT : Sud-Est 3 à 4, fraîchissant Sud à Sud-Est 4 à 5 en milieu de nuit. MER : belle à peu agitée, devenant peu agitée en milieu de nuit. HOULE : non significative. TEMPS : voilé, se couvrant avec pluie en fin de nuit. VISIBILITE : bonne, puis moyenne sous précipitations. 5 - Prévisions pour la journée du mercredi 30 septembre VENT : Sud à Sud-Est 4 à 5, passagèrement 6 le matin, mollissant Sud à Sud-Ouest 2 à 4 l'après-midi. MER : peu agitée. HOULE : non significative, s'amplifiant Sud-Ouest de 0.5 à 1 m en Manche en fin d'après-midi. TEMPS : couvert et pluvieux, puis averses orageuses l'après-midi. VISIBILITE : bonne, puis moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : Secteur Sud-Ouest 3 à 4, fraîchissant 5 en milieu de nuit. MER : peu agitée devenant agitée en milieu de nuit. HOULE d'Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Vendredi 2 octobre secteur Sud faible. Indice de confiance : 3 sur 5 Samedi 3 octobre secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Nord-Est modéré. Indice de confiance : 2 sur 5 Lundi 5 octobre secteur Est faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le mardi 29 septembre 2026 à 03H00 UTC Dunkerque : vent Est 8 noeuds, mer belle, 1018 hPa en baisse, très nuageux à couvert, visibilité 3 milles. Cap Gris Nez : vent Sud-Est 10 noeuds. Boulogne : vent Sud-Est 8 noeuds, 1018 hPa en baisse, visibilité 5 milles. Prochain bulletin le mardi 29 septembre 2026, vers 12H30 légales
+FQCT40 LFQQ 290940 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mardi 29 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins, suite à un mouvement social à Météo-France, à partir du lundi 28 septembre à 19h et jusqu'au mercredi 30 à 07h. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 29 septembre 2026 à 06H00 UTC, et évolution Système dépressionnaire complexe 987 hPa sur la proche Atlantique, prévu 972 hPa au large de l'Irlande en début d'après-midi, puis se creusant 947 hPa en fin de nuit en remontant vers l'Islande. Profond thalweg associé abordant la pointe Bretagne et le golfe de Gascogne cet après-midi et ce soir, et progressant vers l'est ensuite. 3 - Prévisions pour l'après-midi du mardi 29 septembre VENT : secteur Est 3 à 4, virant Sud-Est en fin d'après-midi. MER : belle à peu agitée. HOULE : Nord-Est 0.5 à 1 m en mer du Nord. TEMPS : ensoleillé, parfois voilé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 29 septembre au mercredi 30 septembre VENT : Sud-Est 3 à 4, fraîchissant Sud à Sud-Est 4 à 5 en milieu de nuit. MER : belle à peu agitée, devenant peu agitée en milieu de nuit. HOULE : non significative. TEMPS : voilé, se couvrant avec pluie en fin de nuit. VISIBILITE : bonne, puis moyenne sous précipitations. 5 - Prévisions pour la journée du mercredi 30 septembre VENT : Sud à Sud-Est 4 à 5, passagèrement 6 le matin, mollissant Sud à Sud-Ouest 2 à 4 l'après-midi. MER : peu agitée, parfois agitée en Manche le matin. HOULE : non significative, s'amplifiant Ouest à Sud-Ouest de 0.5 à 1 m en Manche en fin de matinée. TEMPS : couvert et pluvieux, parfois orageuses l'après-midi. VISIBILITE : bonne, puis moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 30 au 1 et la journée du jeudi 1 octobre VENT : Sud à Sud-Ouest 3 à 4, fraîchissant Ouest à Sud-Ouest 4 à 5 le matin. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : pluie, averses, parfois orageux la nuit. Ensoleillé l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : Ouest à Sud-Ouest 4 à 5, mollissant 2 en milieu d'après-midi. MER : agitée devenant belle à peu agitée en début de nuit. HOULE d'Ouest à Sud-Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Samedi 3 octobre Est à Nord-Est faible à modéré Indice de confiance : 3 sur 5 Dimanche 4 octobre Est à Nord-Est faible à modéré Indice de confiance : 3 sur 5 Lundi 5 octobre secteur Nord-Est faible à modéré Indice de confiance : 3 sur 5 Mardi 6 octobre secteur Nord-Est faible à modéré Indice de confiance : 3 sur 5 9 - Observations le mardi 29 septembre 2026 à 09H00 UTC Dunkerque : vent Sud-Est 8 noeuds, mer belle, 1017 hPa en baisse, visibilité 1000 mètres. Cap Gris Nez : vent Est-Nord-Est 8 noeuds. Boulogne : vent Est-Sud-Est 8 noeuds, 1016 hPa en baisse, nuageux avec éclaircies, visibilité 4 milles. Prochain bulletin le mardi 29 septembre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -340,11 +340,10 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : BIM, BS, BQS, AM : des rendez-vous météo sur Infoclimat
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
+• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -353,9 +352,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 29 Septembre 2026.
-Résumé général HDF précédent : Tendance 15 jours : après un pic de chaleur mardi 29 (26-29°C) et une dégradation pluvieuse mercredi 30, les hautes pressions s’imposent au moins jusqu’au 8 octobre. Temps souvent sec et ensoleillé, températures au-dessus des normales mais en baisse progressive. Le risque de vague de chaleur fort à J+6-J+14 (70%) concerne l’indicateur thermique national et ne doit pas être confondu avec une canicule en HDF. L’incertitude est forte au-delà du 8 octobre..
+Résumé général HDF précédent : Du 29 septembre au 4 octobre : pic de chaleur mardi, dégradation pluvieuse mercredi, nette amélioration jeudi, week-end sec. Du 5 au 11 octobre : blocage anticyclonique, temps sec, ensoleillé et doux, avec une baisse progressive des températures. L'indicateur thermique national (ITN 14 jours) oscille entre 22,8°C et 25,8°C, avec un risque de vague de chaleur fort à J+6-J+14, mais cela ne signifie pas une canicule en HDF..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Doux et ensoleillé mardi ; pluies/averses mercredi ; net rafraîchissement jeudi ; ensuite beau temps sec..
+Températures attendues précédemment : Ciel clair mardi, averses mercredi (cumuls jusqu'à 15 mm), soleil jeudi-vendredi puis week-end sec..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
@@ -586,6 +585,7 @@ Il y a 13 heures, stormigen a dit :
 			‘il n y a pas un problème de parametrage sur Gfs . 
 			comment se fait il que GFS modélise de forte précipitation sous un anticyclone de 1025-1030 hpa hors pluie convective 🙄. Il s emballe jean Mich…
 	On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -595,7 +595,7 @@ Bonsoir,
 	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
 	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
 	Modifié dimanche à 18:37 par tao
-								18
+								19
 								11
 
 =======================
@@ -697,3 +697,46 @@ il y a une heure, guiguite91 a dit :
 	l'Amerloque confirme avec son run de midi : 
 	il y a au moins un signal - faible - que quelque chose se trame au niveau du kéblo de bas-art... comme disait le marle qui voulait casser le coffre-fort...
 	https://images.meteociel.fr/im/98/21816/animakc7.gif
+
+=======================
+
+Auteur: giec 2100
+Message:
+persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
+	https://images.meteociel.fr/im/8/17863/animyeb9.gif
+	mais non confirmé chez l'Américain : 
+	https://images.meteociel.fr/im/18/10273/animvqg4.gif
+	fin d'échéance bien trop lointaine pour distinguer le signal du bruit stochastique de la modélisation comme dirait Big Brother... 
+								1
+								1
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a une heure, giec 2100 a dit :
+			persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
+			https://images.meteociel.fr/im/8/17863/animyeb9.gif
+			mais non confirmé chez l'Américain : 
+			https://images.meteociel.fr/im/18/10273/animvqg4.gif
+			fin d'échéance bien trop lointaine pour distinguer le signal du bruit stochastique de la modélisation comme dirait Big Brother... 
+	On est bien d'accord sur l'analyse mais je ne me souvenais pas que Big Brother avait dit ça.
+	On croise les doigts pour que le blocage se termine mais ce qui m'inquiète un peu, c'est justement que ça ne fait pas vraiment blocage mais plutôt décalage vers le nord. Mais c'est peut-être une expression de mon inquiétude qui me pousse à voir quelque chose qui n'est pas là et à avoir une interprétation erronée de la situation.
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Il y a 1 heure, giec 2100 a dit :
+			persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
+			https://images.meteociel.fr/im/8/17863/animyeb9.gif
+			mais non confirmé chez l'Américain : 
+			https://images.meteociel.fr/im/18/10273/animvqg4.gif
+			fin d'échéance bien trop lointaine pour distinguer le signal du bruit stochastique de la modélisation comme dirait Big Brother... 
+	Des signaux sur des déterministes entre 250 et 300 heures ? vu l'échéance il vaut mieux regarder les moyennes de l'ensemble CEP et en se limitant à 250 heures :
+	Le signal est la oui pour un décalage à l'ouest des hautes pressions mais ce signal est encore assez fragile, il semble en tout cas qu'une grande partie du nord du pays  pourrait
+	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
+	On remarquera aussi une possibilité d'un creusement en méditerranée. 
+	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
+	Modifié il y a 32 minutes par petit âge glaciaire 11
+								3
