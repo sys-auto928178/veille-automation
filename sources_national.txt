@@ -347,11 +347,11 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Du 28 septembre au 04 octobre 2026 prévisions météo semaine 40
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Tendance hiver 2026-2027
+• Infoclimat Direct : Prévisions Sud-Ouest - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -359,9 +359,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 29 Septembre 2026.
-Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest, douceur généralisée au-dessus des normales, précipitations rares et localisées. Une dégradation orageuse méditerranéenne modérée est attendue en milieu de semaine 1, suivie d'un retour au sec. En semaine 2, le blocage se maintient avec une hypothèse minoritaire de déblocage en toute fin d'échéance..
+Résumé général précédent : Blocage anticyclonique persistant sur l’Europe de l’Ouest, douceur généralisée au-dessus des normales, précipitations rares et localisées. Une dégradation orageuse méditerranéenne modérée est attendue en milieu de semaine 1, suivie d’un retour au sec. En semaine 2, le blocage se maintient avec une hypothèse minoritaire de déblocage en toute fin d’échéance..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Incertitude sur les précipitations, possible dégradation orageuse localisée..
+Températures attendues précédemment : Pluies orageuses mercredi/jeudi, fraîchissement temporaire, retour de la douceur ensuite..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
@@ -589,7 +589,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 18 minutes par stormigen
+	Modifié il y a 2 heures par stormigen
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -742,7 +742,8 @@ Il y a 1 heure, giec 2100 a dit :
 	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 								4
+								1
 								1
 								1

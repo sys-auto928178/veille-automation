@@ -337,12 +337,12 @@ actuellement.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 29/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -350,90 +350,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 29 Septembre 2026.
-Résumé général HDF précédent : Sur la période du 29 septembre au 11 octobre, les Hauts-de-France connaîtront une évolution en trois phases distinctes : (1) un pic de chaleur exceptionnel mardi 29 (26-29°C), (2) une dégradation pluvieuse transitoire mercredi 30 avec des cumuls modérés (10-15 mm), puis (3) un retour durable au temps sec et ensoleillé sous un régime de blocage anticyclonique, avec des températures en baisse progressive mais restant douces pour la saison. Aucun phénomène météorologique dangereux n'est attendu sur la région.
-
-### [MOST_RELIABLE_WEEK]
-Semaine 1 (29 septembre - 4 octobre) : les prévisions sont plus fiables avec une meilleure convergence entre les modèles. La dégradation de mercredi et l'amélioration de jeudi sont bien cernées. La semaine 2 présente plus d'incertitudes concernant l'évolution des températures et un éventuel déblocage en fin de période.
-
-### [GLOBAL_SOLID_POINTS]
-- Temps sec et ensoleillé dominant après le passage pluvieux de mercredi
-- Blocage anticyclonique persistant pour la semaine 2
-- Températures au-dessus des normales malgré une baisse progressive
-
-### [GLOBAL_RECURRING_PHENOMENA]
-- Nuits claires favorisant des refroidissements marqués entre jeudi et dimanche
-- Vent de Nord-Est modéré, en particulier en fin de semaine 1 et pendant la semaine 2
-- Brumes ou brouillards localisés possibles sur le littoral et les vallées
-
-### [GLOBAL_AFFECTED_ZONES]
-Tous les départements HDF sont concernés par les mêmes conditions générales : Nord, Pas-de-Calais, Somme, Oise et Aisne. Les nuances locales concernent les cumuls de précipitations mercredi (plus importants en Flandre intérieure, Amiénois et Soissonnais) et les températures (plus élevées dans l'Aisne).
-
-### [GLOBAL_MAJOR_UNCERTAINTIES]
-- Intensité exacte des précipitations mercredi (scénarios extrêmes non confirmés)
-- Localisation précise des plus forts cumuls
-- Baisse des températures en semaine 2 (ampleur du refroidissement)
-- Possibilité d'un déblocage au-delà du 11 octobre
-
-### [GLOBAL_CONSENSUS_KPI]
-Élevé
-
-### [GLOBAL_CONSENSUS_NOTE]
-Bonne convergence entre ECMWF, GFS et UKMO sur le scénario général : dégradation mercredi puis retour au sec et à l'ensoleillement avec blocage anticyclonique.
-
-### [GLOBAL_SCENARIO_KPI]
-Sec et stable après dégradation transitoire
-
-### [GLOBAL_SCENARIO_NOTE]
-Scénario le plus probable : passage pluvieux mercredi, puis temps sec et ensoleillé sous anticyclone avec températures douces mais en baisse.
-
-### [GLOBAL_UNCERTAINTY_KPI]
-Modérée
-
-### [GLOBAL_UNCERTAINTY_NOTE]
-Incertitudes principales sur l'intensité des précipitations mercredi et l'évolution des températures en semaine 2. Le scénario général reste toutefois bien établi.
-
----
-
-### [LINKEDIN_POST]
-🌤️ **Prévisions Hauts-de-France : pic de chaleur, dégradation puis retour au calme**
-
-La région va connaître une semaine contrastée :
-
-☀️ **Mardi 29 septembre** : Pic de chaleur avec 26 à 29°C, des valeurs dignes d'un mois d'août !
-
-🌧️ **Mercredi 30 septembre** : Dégradation pluvieuse avec des averses généralisées et des cumuls jusqu'à 15 mm sur certains secteurs (Flandre intérieure, Amiénois, Soissonnais).
-
-☀️ **À partir de jeudi** : Retour au temps sec et ensoleillé, avec un week-end particulièrement agréable.
-
-📈 **Semaine prochaine** : Blocage anticyclonique confirmé, temps sec et stable, températures en baisse progressive mais restant douces pour la saison.
-
-⚠️ **Vigilance** : Les scénarios extrêmes de précipitations pour mercredi (50-70 mm) ne sont pas confirmés par les modèles de référence. La prudence reste de mise pour l'affinage des prévisions.
-
-#Météo #HautsDeFrance #Prévisions #MétéoFrance #Climat
-
----
-
-##.
+Résumé général HDF précédent : Tendance générale : pic de chaleur mardi 29, dégradation pluvieuse transitoire mercredi 30, puis blocage anticyclonique sec et stable jusqu'au 11 octobre. Températures en baisse progressive, restant au-dessus des normales. L'indicateur thermique national oscille entre 22,8°C et 25,8°C, confirmant une anomalie chaude persistante. Un possible déblocage en toute fin de période reste très incertain..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : ** Averses modérées mercredi, cumuls inégaux selon secteurs, amélioration nette ensuite.
-
-<strong>[W1_MODEL_AFFECTED_ZONES]</strong> Tous les départements HDF concernés par la dégradation mercredi ; impacts plus marqués sur Flandre intérieure, Amiénois, Soissonnais.
-
-<strong>[W1_MODEL_EXTRACTION_CONF]</strong> Élevée (80-90%)
-
-<strong>[W1_MODEL_SCENARIO_SUPPORT]</strong> Scénario majoritairement soutenu par les membres, cohérence entre les runs successifs.
-
-<strong>[W1_MODEL_STATUS]</strong> Confirmé / cohérent
-
-<strong>[W1_MODEL_MENTIONS_COUNT]</strong> 4 mentions dans les discussions
-
-<strong>[W1_MODEL_RUN]</strong> Run du 28/09/2026 à 12Z, confirmé par les runs suivants
-
-<strong>[W1_MODEL_TIMING]</strong> Dégradation mercredi 30 septembre en journée et nuit suivante
-
-<strong>[W1_MODEL_DETAILS]</strong> Les cartes CEP montrent un thalweg abordant la région mercredi, avec des précipitations notables mais transitoires. Retour de l'anticyclone dès jeudi, avec des températures en baisse mais restant supérieures aux normales de 2 à 4°C.
-
-**.
+Températures attendues précédemment : Averses parfois orageuses mercredi, nette amélioration jeudi, temps sec et ensoleillé le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 29 Septembre au Dimanche 4 Octobre 2026) ===
@@ -661,7 +580,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 18 minutes par stormigen
+	Modifié il y a 2 heures par stormigen
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -814,7 +733,8 @@ Il y a 1 heure, giec 2100 a dit :
 	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 								4
+								1
 								1
 								1
