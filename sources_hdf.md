@@ -315,19 +315,19 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps-Centre du Quebec
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi du temps-Centre du Quebec
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 30/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Mardi 29 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours, les Hauts-de-France connaissent un temps souvent sec et anticyclonique, avec une seule véritable dégradation pluvio-orageuse mercredi 30 septembre, suivie d’un net rafraîchissement, puis d’une nouvelle période stable et ensoleillée du 5 au 11 octobre. Le blocage devrait se maintenir, avec des signaux divergents en fin d’échéance..
+Dernier bulletin HDF généré le Mercredi 30 Septembre 2026.
+Résumé général HDF précédent : Sur l'ensemble des 15 prochains jours, les Hauts-de-France connaissent une dégradation orageuse le 30 septembre, suivie d'un net rafraîchissement, puis d'une longue période stable et anticyclonique avec un flux de Nord-Est sec, des gelées blanches possibles dans les terres, et une tendance durable jusqu'à la mi-octobre..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses parfois orageuses mercredi, cumuls 5 à 15 mm, puis grand soleil et fraîchissement..
+Températures attendues précédemment : Averses orageuses, vent de Sud-Est, éclaircies de plus en plus belles en seconde partie de nuit..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 30 Septembre au Dimanche 4 Octobre 2026) ===
@@ -541,7 +541,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 12 heures par stormigen
+	Modifié il y a 14 heures par stormigen
 
 =======================
 
@@ -703,7 +703,7 @@ Il y a 1 heure, giec 2100 a dit :
 	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
-	Modifié il y a 14 heures par petit âge glaciaire 11
+	Modifié il y a 16 heures par petit âge glaciaire 11
 								5
 								2
 								2
