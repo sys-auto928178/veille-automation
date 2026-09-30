@@ -1,125 +1,118 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
 **Généré le :** Mercredi 30 Septembre 2026
-**Période :** Semaine 1 (Mercredi 30 septembre au dimanche 4 octobre 2026) & Semaine 2 (Lundi 5 octobre au dimanche 11 octobre 2026)
+**Période :** Semaine 1 (Du mercredi 30 septembre au dimanche 4 octobre 2026) & Semaine 2 (Du lundi 5 au dimanche 11 octobre 2026)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Bon accord sur la semaine 1, plus partagé sur la semaine 2.*
-- **Fiabilité du scénario majoritaire :** Blocage anticyclonique persistant — *Hautes pressions souvent proches, avec possibilité de faibles pluies sur le nord.*
+- **Consensus des modèles :** Modéré — *Consensus assez bon pour la semaine 1, plus faible pour la semaine 2.*
+- **Fiabilité du scénario majoritaire :** Anticyclone puis dégradation par le nord-est. — *Scénario majoritaire : les hautes pressions se décalent à l’ouest, avec une faible dégradation sur le nord.*
 - **Stabilité des cartes/scénarios :** 6 / 110 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Élevée — *Le week-end des 10-11 octobre concentre les divergences.*
+- **Niveau d'incertitude global :** Modérée à forte en semaine 2. — *Écart-type important sur la trajectoire des basses pressions et sur l’étendue des précipitations.*
 
-## 🗓️ SEMAINE 1 : Mercredi 30 septembre au dimanche 4 octobre 2026
+## 🗓️ SEMAINE 1 : Du mercredi 30 septembre au dimanche 4 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Orages de sortie : Vigilance jaune orages ce soir sur les 5 départements, mais l'activité s'estompe rapidement.
-2. Éclaircies jeudi : Nuages et averses faibles le matin, puis soleil de plus en plus net l'après-midi.
-3. Beau temps vendredi/samedi : Soleil généreux, parfois voilé, températures douces de 20 à 23°C.
-4. Dimanche calme : Brumes possibles au réveil, puis belles éclaircies et douceur persistante.
-5. Nuits plus fraîches : Minimales en baisse, 7 à 11°C dans l’intérieur, 12 à 14°C près du littoral.
+1. Vigilance jaune orages : Mercredi 30/09, les cinq départements HDF sont concernés par des orages localisés.
+2. Amélioration jeudi : Les averses résiduelles du matin cèdent la place à des éclaircies.
+3. Week-end sec : Vendredi et samedi, l’anticyclone reprend la main sur les Hauts-de-France.
+4. Températures en baisse : Les maximales repassent près des normales après les 21 à 24 °C de mercredi.
+5. Dimanche plus nuageux : Faible dégradation possible par le nord, à surveiller.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-• Retour du soleil jeudi, puis beau temps sec vendredi/samedi sur l’ensemble des HDF.
-• Douceur diurne 20 à 23°C, avec nuits plus fraîches dans l’intérieur.
-• Vigilance jaune orages ce soir, puis risque orageux en forte baisse.
+- Baisse des températures en fin de semaine, vers des valeurs proches des normales.
+- Maintien d’un temps majoritairement sec sous anticyclone après jeudi.
+- Vent initial de secteur Sud à SSE, tournant ensuite au secteur Ouest à Nord-Ouest.
 **Points de divergence :**
-• Cumuls orageux de ce soir très hétérogènes : 10 mm en Avesnois/Santerre, jusqu’à 15-20 mm en Valois/Thiérache.
-• Fin de semaine 1 : CEP/GEM évoquent une anomalie froide, GFS reste franchement anticyclonique.
-• Maintien ou non de la douceur dimanche-lundi : scénarios encore partagés.
+- Intensité et localisation exactes des orages entre les cinq départements HDF.
+- Présence résiduelle de pluies jeudi selon la position de la zone barocline.
+- En semaine 2, certains scénarios maintiennent les hautes pressions, d’autres les décale à l’ouest avec des pluies possibles.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Météo-France (ARPEGE / bulletins XML)** (Documenté, prévision officielle de référence.) | Dégradation orageuse ce soir, puis net retour du soleil jeudi, avec un temps sec et calme jusqu’à lundi. | Risque d’orages localisés mercredi soir, cumuls 10 à 20 mm, puis éclaircies. | Les 5 départements HDF; littoral de la frontière belge à la baie de Somme. | Élevée (80% à 90%) : bulletins départementaux très détaillés pour chaque département. | Vigilance jaune orages sur le Nord et l’Aisne encore jeudi. Cumuls max attendus : 10 mm sur l’Avesnois et le Santerre, 15 mm sur le Valois, 20 mm sur la Thiérache. |
-| **ECMWF (CEP / CEPS)** (En surveillance, sous conditionnel.) | Blocage anticyclonique sur l’Europe, mais une anomalie froide d’altitude pourrait menacer les hautes pressions, avec des précipitations très inégales. | Temps souvent sec sur les HDF, mais un risque d’averses orageuses résiduelles existe en tout début de période. | Nord-ouest, nord de la France, HDF en marge des perturbations. | Modérée (60% à 70%) : CEP cité pour la France, pas de détail spécifique HDF dans les échanges. | Les cartes CEP montrent des précipitations possibles mais très inégales, avec un contraste nord-ouest/sud-est. Pour les HDF, le scénario dominant reste sec, mais une averse résiduelle n’est pas exclue. |
-| **GFS** (À filtrer; risque d’exagération des précipitations sous anticyclone.) | Anticyclone de 1025 à 1030 hPa assez résistant, mais parfois en marais barométrique capable de produire quelques pluies résiduelles. | Peu de pluie, soleil dominant, températures douces; pas de coup de froid net. | HDF / Europe de l’Ouest. | Modérée (60% à 70%) : tendance clairement citée, mais sans détail départemental. | GFS insiste sur la persistance anticyclonique. Le forum relève toutefois un possible marais barométrique, capable de donner quelques pluies même sous 1025 hPa. |
-| **UKMO** (Signal faible, à confirmer.) | Dégradation très atténuée, pluies inégalement réparties, privilégiant le nord-ouest et le sud-est. | Pour les HDF, risque d’averses limité, puis retour du sec. | Nord-ouest et sud-est de la France; HDF en marge possible. | Faible (40% à 50%) : brièvement évoqué en une carte, sans analyse HDF. | Le modèle britannique n’est pas détaillé pour les HDF; il suggère des pluies inégales sur la France. |
-| **GEM** (Hypothèse minoritaire.) | Hautes pressions attaquées par une anomalie froide d’altitude en fin de semaine 1. | Risque d’instabilité possible, mais très incertain. | France, HDF en marge. | Faible (40% à 50%) : évoqué en une sentence. | GEM est évoqué dans le topic, sans détail HDF. À ne pas prendre comme scénario principal. |
-| **ARPEGE** (À confirmer; utile pour la vigilance orages.) | Potentiel de précipitations en 48h, mais répartition très inégale et concrétisation incertaine. | Averses orageuses mercredi soir, puis nette amélioration jeudi. | France, HDF en marge. | Faible (40% à 50%) : brièvement évoqué par un membre. | Utilisé pour la vigilance : cumuls max attendus 10 à 20 mm localement sur Thiérache, Valois, Avesnois. |
+| **ECMWF / GFS / Météo-France XML / Guillaume Séchet** (Confirmé pour le début de semaine, incertain pour la fin.) | Orages le 30/09 puis retour d’un temps sec et anticyclonique ; baisse des températures en fin de semaine. Incertitude sur dimanche 04. | Orages localisés, rafales, puis nette amélioration ; fraîcheur relative le matin. | Nord, Pas-de-Calais, Somme, Oise, Aisne | Élevée (80 %) pour Météo-France XML ; modérée (65 %) pour ECMWF/GFS. | Températures de 21 à 24 °C, vent de secteur Sud à SSE 20-30 km/h, pression 1015-1016 hPa, cumuls de 1 à 3 mm/12h. Vigilance jaune orages sur les 5 départements. Baisse thermique ensuite, retour à des valeurs de saison. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Orages possibles en soirée sur l’Avesnois, le Valenciennois et le Cambrésis, puis dégagement et beau temps ensuite. | Min 13 à 15°C cette nuit; max 20-21°C jeudi, 20-22°C vendredi, 21-22°C samedi, 20-23°C dimanche/lundi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation et intensité des orages de ce soir incertaines; brumes possibles dimanche matin en Flandre maritime, région lilloise et Douaisis. |
-| **Pas-de-Calais (62)** | Averses faibles en première partie de nuit sur le littoral et l’est, puis soleil de plus en plus présent jeudi; belle journée vendredi/samedi. | Min 13 à 14°C cette nuit; max 19-20°C jeudi, 20-21°C vendredi, 20-21°C samedi, 19-21°C dimanche/lundi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Averses nocturnes localisées entre littoral et Haut-Artois; brumes possibles dimanche sur les côtes, l’Arrageois et le bassin minier. |
-| **Somme (80)** | Averses possibles en soirée avec coup de tonnerre isolé sur le Vermandois, puis nette amélioration jeudi; soleil parfois voilé samedi. | Min 12 à 14°C cette nuit; max 19-21°C jeudi, 20-21°C vendredi, 20-22°C samedi, 19-21°C dimanche/lundi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brumes et pluies possibles sur le littoral picard dimanche/lundi; cumuls orageux locaux à surveiller. |
-| **Oise (60)** | Pluies faibles en début de nuit puis retour des éclaircies; soleil généreux jeudi après-midi, voile nuageux samedi. | Min 12 à 14°C cette nuit; max 19-21°C jeudi, 20-22°C vendredi, 20-22°C samedi, 20-22°C dimanche/lundi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brumes possibles en fin de nuit sur le Compiégnois et le Noyonnais; cumuls orageux localement plus importants. |
-| **Aisne (02)** | Averses localement orageuses en début de nuit, puis amélioration; beau temps sec et ensoleillé de vendredi à lundi. | Min 13 à 15°C cette nuit; max 20-22°C jeudi, 21-23°C vendredi, 21-23°C samedi, 21-24°C dimanche/lundi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brumes/brouillards jeudi en fin de nuit sur les trois quarts Nord; cumuls orageux pouvant localement dépasser 20 mm. |
+| **Nord (59)** | Très nuageux à couvert, passages orageux en vigilance jaune ; éclaircies ensuite. | Maxi observé 21 °C à Lille et Dunkerque ; min non détaillée, fraîcheur relative. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des cellules orageuses incertaine ; évolution de la vigilance à surveiller. |
+| **Pas-de-Calais (62)** | Vigilance jaune pluie-inondation et orages ; ciel très nuageux, averses possibles. | 21 °C à Arras et à Boulogne-Sémaphore ; min non détaillée. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Hétérogénéité des cumuls ; intensité des cellules incertaine. |
+| **Somme (80)** | Vigilance jaune orages ; alternance de nuages et d’éclaircies, averses orageuses possibles. | 21 °C à Amiens, 22 °C à Cayeux-sur-Mer ; min non détaillée. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Évolution des cellules orageuses en soirée incertaine. |
+| **Oise (60)** | Vigilance jaune orages ; ciel très nuageux, averses orageuses possibles. | 22 °C à Beauvais-Tillé ; min non détaillée. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des orages et cumuls ponctuellement plus élevés. |
+| **Aisne (02)** | Vigilance jaune orages aujourd’hui et demain ; temps chaud et instable. | 24 °C à Aulnoy-sous-Laon ; min non détaillée. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Changement de vent et retour d’un flux nord modéré à surveiller. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Mercredi 30 septembre, soirée et nuit suivante** : Averses orageuses localisées, vigilance jaune, puis dissipation rapide et éclaircies en fin de nuit.
-- **Jeudi 1er octobre** : Éclaircies de plus en plus larges, soleil dominant l’après-midi sur toute la région.
-- **Vendredi 2 au samedi 3 octobre** : Beau temps sec, soleil parfois voilé, températures agréables de 20 à 23°C.
-- **Dimanche 4 au lundi 5 octobre** : Brumes matinales possibles, puis belles éclaircies et douceur persistante.
+- **Mercredi 30 septembre** : Orages en vigilance jaune, vent de Sud à SSE 20-30 km/h, températures 21-24 °C.
+- **Jeudi 1er octobre** : Averses résiduelles possibles le matin, puis éclaircies et baisse des températures.
+- **Vendredi 2 et samedi 3 octobre** : Temps sec, éclaircies, fraîcheur matinale, vent faible.
+- **Dimanche 4 octobre** : Nuages en provenance du nord, faible dégradation possible, précipitations localisées.
 
 **Points solides :**
-• Retour d’un temps sec et ensoleillé jeudi-vendredi, bien soutenu par les modèles.
-• Douceur diurne 20 à 23°C sur l’ensemble des HDF.
-• Nuits fraîches dans l’intérieur, 7 à 11°C, sauf littoral plus doux.
+- Vigilance jaune orages sur les cinq départements HDF ce mercredi 30/09.
+- Amélioration nette à partir de jeudi soir.
+- Absence de chaleur excessive ; maximales 20-24 °C.
 
 **Points fragiles :**
-• Évolution orageuse de ce soir : localisation et cumuls incertains.
-• Éventuelle anomalie froide en fin de semaine, CEP/GEM vs GFS.
-• Brumes et brouillards matinaux dimanche-lundi, plus ou moins denses selon les vallées.
+- Cumuls orageux très hétérogènes (1 à 3 mm/12h).
+- Changement de masse d’air en semaine 2 encore fragile.
+- Fiabilité des températures à partir de dimanche limitée.
 
 **À surveiller (prochains runs) :**
-CEP 00Z/12Z, GFS 00Z/06Z, UKMO 00Z, GEM 00Z, ARPEGE 00Z. Surveiller aussi les ensembles CEPS/GEFS pour la position des hautes pressions en début de semaine 2.
+Prochains runs ECMWF/GFS jeudi matin ; suivi des bulletins Météo-France BPSPC ; cartes de vigilance 06h.
 
 
-## 🗓️ SEMAINE 2 : Lundi 5 octobre au dimanche 11 octobre 2026
+## 🗓️ SEMAINE 2 : Du lundi 5 au dimanche 11 octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Blocage à suivre : Haute pression souvent proche, mais le sec ne signifie pas toujours un ciel totalement bleu.
-2. Douceur en retrait : Températures proches des normales après le 8 octobre, mais encore légèrement au-dessus.
-3. Nord à risques : Baisse des géopotentiels par le nord-est, petites averses possibles sur le nord de la France.
-4. Week-end indécis : Les modèles hésitent entre blocage, dorsale océanique ou déblocage pour le 10-11 octobre.
-5. Brumes matinales : Nuits souvent claires, brouillards et brumes probables sur les vallées et le littoral.
+1. Changement de masse d’air : Les hautes pressions pourraient se décaler à l’ouest, avec une baisse des géopotentiels par le nord-est.
+2. Précipitations : Les régions les plus nordiques de la France pourraient voir des pluies plus fréquentes, mais le signal est fragile.
+3. Températures : En baisse par rapport à la semaine 1, mais toujours un peu au-dessus des moyennes de saison.
+4. Vent : Faible à modéré, de secteur Est à Nord-Est, avec un passage possible au Nord modéré.
+5. Confiance limitée : Les scénarios divergent encore ; aucune certitude sur la localisation exacte des précipitations.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-• Blocage/dorsale anticyclonique dominant sur l’Europe pour l’essentiel de la semaine 2.
-• Températures en léger retrait, proches des normales en fin de période.
-• Pas de gros épisode pluvieux pour les HDF, mais petites averses possibles en milieu/fin de semaine.
+- Baisse des températures par rapport à la semaine 1.
+- Signal de précipitations plus probables sur le nord de la France.
+- Affaiblissement relatif des hautes pressions.
 **Points de divergence :**
-• Fin de semaine : CEP voit un décollement des hautes pressions vers l’ouest, GFS les maintient sur l’Europe.
-• Rôle d’une anomalie basse en Méditerranée : peut influencer le sud, mais aussi l’évolution du blocage.
-• Week-end 10-11 octobre : entre nouvelle dégradation, régime de dorsale ou énième blocage anticyclonique.
+- Certains scénarios maintiennent les hautes pressions sur l’Europe de l’Ouest.
+- D’autres accentuent une dégradation par le nord-est.
+- Localisation exacte des pluies encore incertaine.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP / CEPS / CEP IA)** (Scénario majoritaire, mais fragile.) | Régime de blocage persistant avec aménagements : la latitude des hauts géopotentiels et une éventuelle anomalie basse méditerranéenne restent les variables clés. | Pour les HDF, le scénario dominant reste sec; le risque d’averses augmente sur le nord de la France en toute fin de semaine. | Nord de la France, HDF, Bassin méditerranéen en marge. | Modérée (60% à 70%) : tendance clairement citée pour le nord de la France. | Le CEP envisage un possible décalage des hautes pressions vers l’ouest en fin d’échéance, avec baisse des géopotentiels par le nord-est. Le scénario d’une simple dorsale océanique reste privilégié; un nouveau blocage n’est pas exclu. |
-| **GFS** (Fiabilité moyenne; le modèle peut surjouer l’anticyclone.) | Anticyclone à perte de vue sur l’Europe, temps sec, avec une baisse thermique très timide; aucun signal de déblocage franc. | Peu ou pas de précipitations HDF; éclaircies fréquentes, brouillards matinaux. | HDF en marge nord de l’anticyclone; possible petite dégradation au nord-est. | Modérée (60% à 70%) : tendance clairement citée, mais sans détail HDF. | GFS est le plus anticyclonique. En fin d’échéance, quelques runs évoquent une poche froide, mais les moyennes d’ensemble ne confirment pas. Pour les HDF, temps sec et douceur proche des normales. |
-| **Météo-France (bulletins XML / ARPEGE)** (Documenté jusqu’au 9 octobre; week-end 10-11 non couvert.) | Temps encore souvent sec et ensoleillé jusqu’à mercredi, puis dégradation temporaire jeudi/vendredi avec baisse des températures. | Brumes mardi, averses mercredi, pluies temporaires jeudi/vendredi sur l’ouest; vent fort vendredi sur le littoral. | HDF avec nuances; littoral de la frontière belge à la baie de Somme. | Élevée (80% à 90%) : bulletins départementaux très détaillés. | Mardi : brumes fréquentes et éclaircies. Mercredi : vent Nord/Nord-Ouest modéré, averses possibles. Jeudi/vendredi : températures en baisse, vent Sud-Ouest assez fort sur le littoral vendredi; Oise et Aisne gardent du soleil. |
+| **ECMWF / GFS (projections long terme) + tendance Météo-France J+4 à J+7** (Hypothèse de travail ; indice de confiance 2 à 3 sur 5.) | Décalage à l’ouest des hautes pressions, baisse des géopotentiels par le nord-est, précipitations accrues sur le nord de la France ; températures en baisse. | Pluies faibles à modérées possibles sur le nord HDF, vent de secteur Nord-Est, fraîcheur relative. | Nord, Pas-de-Calais, Somme, Oise, Aisne, en particulier les zones les plus nordiques. | Faible à modérée (40-60 %) car peu de commentaires départementaux détaillés ; incertitudes fortes. | Météo-France indique un vent de secteur Nord-Est faible à modéré avec un indice de confiance de 3/5 lundi et mardi, puis 2/5 mercredi avec un passage au secteur Nord modéré. Les températures resteraient au-dessus des normales, mais en baisse. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Mardi : soleil entrecoupé de passages nuageux; mercredi : averses temporaires; jeudi/vendredi : éclaircies prédominantes avec risque d’averses. | Min intérieur ~10°C, littoral 14°C; max 20-22°C mardi/mercredi, en baisse jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Week-end 10-11 non détaillé par Météo-France; signaux modèles très partagés sur la fin d’échéance. |
-| **Pas-de-Calais (62)** | Mardi : éclaircies prédominantes, brumes possibles; mercredi : averses temporaires; jeudi/vendredi : plutôt ensoleillé, pluies temporaires possibles sur l’ouest vendredi. | Min 10 à 12°C; max 19-21°C mardi/mercredi, en baisse ensuite. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls des averses incertains; l’est du département pourrait rester plus sec. |
-| **Somme (80)** | Mardi : plutôt ensoleillé avec passages nuageux et brumes matinales; mercredi : risque d’averses; jeudi/vendredi : assez lumineux, pluies temporaires possibles sur littoral et Doullennais. | Min 9 à 11°C; max proches de 19°C mardi/mercredi, en baisse ensuite. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brumes fréquentes mardi matin; répartition des pluies de jeudi-vendredi encore incertaine. |
-| **Oise (60)** | Mardi : soleil sans partage sur une large moitié Sud, passages nuageux au Nord; mercredi : risque d’averses; jeudi/vendredi : temps largement ensoleillé. | Min voisines de 9°C; max voisines de 20°C mardi/mercredi, en baisse jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Épaisseur nuageuse de mercredi incertaine; le sud de l’Oise pourrait rester sec. |
-| **Aisne (02)** | Mardi : temps plutôt ensoleillé avec brumes locales; mercredi : passages nuageux, risque d’averses; jeudi/vendredi : soleil et ciel bleu prédominants. | Min 8 à 10°C; max 20-22°C mardi/mercredi, en baisse jeudi/vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Les secteurs sud du département pourraient rester au sec; week-end non détaillé. |
+| **Nord (59)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Pas-de-Calais (62)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Somme (80)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Oise (60)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
+| **Aisne (02)** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 5 - mardi 6 octobre** : Brumes matinales, éclaircies ensuite; températures 19 à 22°C.
-- **Mercredi 7 octobre** : Averses possibles, vent de Nord/Nord-Ouest modéré.
-- **Jeudi 8 - vendredi 9 octobre** : Baisse thermique; pluies temporaires sur l’ouest; vent assez fort vendredi sur le littoral.
-- **Samedi 10 - dimanche 11 octobre** : Incertitude marquée : blocage sec ou légère dégradation? À suivre.
+- **Lundi 5 et mardi 6 octobre** : Temps sec, nuages, fraîcheur relative, vent de secteur Est faible.
+- **Mercredi 7 octobre** : Possible dégradation par le nord-est, pluies faibles, vent Nord modéré.
+- **Jeudi 8 et vendredi 9 octobre** : Précipitations possibles sur les trois quarts nord des Hauts-de-France.
+- **Samedi 10 et dimanche 11 octobre** : Incertitude forte ; retour d’un temps plus calme ou persistance d’averses.
 
 **Points solides :**
-• Le régime sec et anticyclonique domine encore l’essentiel de la semaine 2.
-• La douceur s’atténue; retour proche des normales après le 7-8 octobre.
-• Pas d’orages forts ni de très fortes pluies en vue pour les HDF.
+- Pas de canicule ni de chaleur durable.
+- Retour à des températures plus proches des normales.
+- La région HDF reste concernée par une possible faiblesse des HP.
 
 **Points fragiles :**
-• Cumuls des averses de mercredi 7 octobre.
-• Vent assez fort vendredi 9 octobre sur le littoral.
-• Week-end 10-11 octobre totalement indécis.
+- Changement de masse d’air fragile.
+- Écart important entre les runs.
+- Confiance globale faible à moyenne pour les précipitations.
 
 **À surveiller (prochains runs) :**
-CEP 00Z/12Z, GFS 00Z/06Z, UKMO, GEM, CEP IA, GEFS/CEPS. Surveiller la position des hautes pressions jeudi/vendredi 8-9 et l’éventuelle anomalie méditerranéenne.
+ECMWF/GFS 12Z ; ensembles Météo-France 14 jours ; bulletin BPSPC Artois-Picardie.
 
 
 ========================================
@@ -127,35 +120,33 @@ CEP 00Z/12Z, GFS 00Z/06Z, UKMO, GEM, CEP IA, GEFS/CEPS. Surveiller la position d
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Sur 15 jours, les Hauts-de-France restent sous influence anticyclonique fréquente, avec un temps souvent sec et doux le jour, frais la nuit. Les orages de ce mercredi 30 septembre sont une exception. La tendance va vers un retour progressif vers les normales de saison en semaine 2, sans franche dégradation.
+Sur 15 jours, blocage anticyclonique fréquent, temps souvent sec et doux, orages localisés le 30/09, puis refroidissement relatif en semaine 2 tout en restant au-dessus des normales.
 
 ### Période la plus fiable
-Semaine 1 (30/09-04/10) : prévisions robustes, fort soutien des bulletins Météo-France.
+Semaine 1 (du 30/09 au 04/10) : fiabilité plus élevée pour les Hauts-de-France.
 
 ### Phénomènes récurrents
-Brumes et brouillards matinaux, fortes amplitudes thermiques jour/nuit, sécheresse de surface persistante avec déficit hydrique Artois-Picardie (P - ETP négatif).
+Anticyclone, orages de chaleur, brouillards matinaux, rafales sous orages.
 
 ### Principales incertitudes
-Évolution du blocage en fin de semaine 2; CEP vs GFS; localisation d’une éventuelle anomalie basse; cumuls des averses de mercredi 7; position exacte du vent fort vendredi 9.
+Chronologie et localisation des précipitations en semaine 2 ; amplitude exacte de la baisse thermique.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur le moment exact des orages ce soir et des pluies de mercredi 7 octobre; le passage à un air plus frais jeudi/vendredi peut avancer ou reculer.
-- **Localisation :** Localisation précise des orages de ce soir (Avesnois, Valois, Thiérache, Santerre), des averses de mercredi et du vent fort vendredi : littoral ou intérieur?
-- **Intensité :** Cumuls orageux de 10 à 20 mm selon les secteurs; les modèles divergent aussi sur la possibilité de pluies soutenues sous anticyclone en semaine 2.
-- **Informations manquantes :** Le week-end des 10-11 octobre n’est pas couvert par les bulletins Météo-France; l’ITN national évoque un risque de chaleur et d’orages à longue échéance, sans transposition directe aux HDF; pas de détail départemental sur la sécheresse des sols.
-- **Modèles sous-documentés :** UKMO, GEM et ARPEGE sont peu ou pas commentés pour les HDF. GFS, ECMWF et les bulletins Météo-France sont nettement plus documentés.
-- **Incertitudes images :** Les cartes GFS 6h et CEP IA en fin d’échéance sont très incertaines. Les diagrammes de Paris/Bordeaux/Marseille mentionnés dans le topic ne sont pas directement valables pour Lille, Dunkerque ou Amiens.
+- **Timing/Chronologie :** Doutes sur la chronologie exacte de la fin des orages et sur le basculement en semaine 2.
+- **Localisation :** Incertitude sur la localisation précise des cellules orageuses entre le Nord, le Pas-de-Calais, la Somme, l’Oise et l’Aisne.
+- **Intensité :** Les cumuls sous orages sont hétérogènes : 1 à 3 mm/12h selon les stations, mais des valeurs ponctuellement plus élevées sont possibles.
+- **Informations manquantes :** Les bulletins départementaux ne précisent pas les températures minimales sous abri, ni l’évolution détaillée de dimanche 04 et lundi 05.
+- **Modèles sous-documentés :** Peu de commentaires détaillés sur les runs GFS et ECMWF pour les Hauts-de-France en semaine 2 ; les sources sont essentiellement nationales.
+- **Incertitudes images :** Les cartes d’ensemble J+7 et les sorties graphiques ne sont pas reprises dans les bulletins XML disponibles.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-📢 Nouveau bulletin 15 jours pour les Hauts-de-France.
+🌦 Point météo Hauts-de-France – mercredi 30 septembre 2026
 
-☀️ Cette fin de semaine s’annonce belle et douce après les orages de ce mercredi : 20 à 23°C, nuits plus fraîches, brumes possibles le matin.
+Les cinq départements HDF sont en vigilance jaune orages ce soir. Après une journée douce avec 21 à 24 °C, une dégradation orageuse traverse le Nord, le Pas-de-Calais, la Somme, l’Oise et l’Aisne.
 
-⚠️ La semaine prochaine, le blocage anticyclonique résiste mais les températures reviennent près des normales. Petites averses possibles mercredi 7, vent assez fort vendredi 9 sur le littoral.
+Amélioration attendue jeudi, puis week-end sec et anticyclonique. Pour la semaine prochaine, un changement de masse d’air est possible : baisse des températures et précipitations plus probables sur le nord. La confiance reste modérée, prudence !
 
-🔭 Week-end 10-11 octobre : grande incertitude. Prudence !
-
-#Météo #HautsDeFrance #Prévisions #MonsieurMétéo #Infoclimat
+#Météo #HautsDeFrance #Orages #Vigilance

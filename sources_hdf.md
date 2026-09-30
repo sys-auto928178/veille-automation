@@ -283,7 +283,7 @@ Températures minimales : en baisse sur le Vermandois ainsi que sur la Thiérach
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 300935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 30 septembre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 30 septembre 2026 à 06H00 UTC, et évolution Dépression 959 hPa à l'ouest de l'Irlande se décalant vers l'Islande en se creusant. Thalweg associé balayant le golfe de Gascogne, la Manche puis la Mer du Nord. Anticyclone se renforçant demain sur les Açores avec dorsale associée atteignant le golfe de Gascogne en soirée. 3 - Prévisions pour l'après-midi du mercredi 30 septembre VENT : Sud à Sud-Est 4 à 5, mollissant secteur Sud-Ouest 3 à 4 en milieu d'après-midi. MER : peu agitée. HOULE : non significative, s'amplifiant Ouest à Sud-Ouest de 0.5 à 1 m en Manche en fin de matinée. TEMPS : couvert et pluvieux, parfois orageux. VISIBILITE : bonne, puis moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : Sud à Sud-Ouest 3 à 4, parfois 5. MER : peu agitée, devenant peu agitée à agitée, en Manche, en fin de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, et dans le détroit. TEMPS : pluie, averses, parfois orageux, au début. VISIBILITE : moyenne à mauvaise sous précipitations. 5 - Prévisions pour la journée du jeudi 1 octobre VENT : Ouest à Sud-Ouest 3 à 4, parfois 5. MER : peu agitée à agitée, localement peu agitée en Mer du Nord, devenant peu agitée à la fin. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, et dans le détroit. TEMPS : quelques pluie et averses, devenant ensoleillé l'après-midi. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : Ouest à Sud-Ouest 3 à 4, parfois 5, mollissant Sud à Sud-Ouest 2 à 4 en milieu de journée. MER : peu agitée, devenant belle à peu agitée à la fin. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, et dans le détroit. TEMPS : peu nuageux, quelques brumes en fin de nuit et matinée. VISIBILITE : moyenne à mauvaise par brume. 7 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Sud 2 à 3, localement 4. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Nord modéré. Indice de confiance : 2 sur 5 9 - Observations le mercredi 30 septembre 2026 à 09H00 UTC Dunkerque : vent Sud 10 noeuds, 1015 hPa en hausse. Cap Gris Nez : vent Sud 19 noeuds. Boulogne : vent Sud-Sud-Est 12 noeuds, 1014 hPa en hausse, couvert, pluies ou bruines, visibilité 4 milles. Prochain bulletin le mercredi 30 septembre 2026, vers 18H00 légales
+FQCT40 LFQQ 301630 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 30 septembre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mercredi 30 septembre 2026 à 12H00 UTC, et évolution Dépression 955 hPa à l'ouest de l'Irlande se décalant vers l'Islande en se creusant. Thalweg associé balayant le golfe de Gascogne, la Manche puis la Mer du Nord. Anticyclone se renforçant demain sur les Açores avec dorsale associée atteignant le golfe de Gascogne. 3 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : Sud à Sud-Ouest 3 à 4, virant Ouest à Sud-Ouest à la fin. MER : peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, et dans le détroit. TEMPS : pluie, averses, parfois orageux, au début. VISIBILITE : moyenne à mauvaise sous précipitations. 4 - Prévisions pour la journée du jeudi 1 octobre VENT : Ouest à Sud-Ouest 3 à 4, parfois 5, fraîchissant 4 à 5 l'après-midi. MER : peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, et dans le détroit. TEMPS : quelques pluie et averses, devenant ensoleillé l'après-midi. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 5 - Tendance pour la nuit du 1 au 2, et la journée du vendredi 2 octobre VENT : Ouest à Sud-Ouest 4 à 5, mollissant 3 à 4 en seconde partie de nuit, puis revenant Sud à Sud-Ouest en matinée. MER : peu agitée, localement belle à peu agitée en Mer du Nord. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, et dans le détroit. TEMPS : peu nuageux, quelques brumes en fin de nuit et matinée. VISIBILITE : moyenne à mauvaise par brume. 6 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Sud 3 à 4, mollissant et devenant variable 1 à 3 en cours de matinée. MER : belle à peu agitée. HOULE dominante d'Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Nord modéré. Indice de confiance : 2 sur 5 8 - Observations le mercredi 30 septembre 2026 à 15H00 UTC Dunkerque : vent Sud-Sud-Est 8 noeuds, mer belle, 1015 hPa en baisse, très nuageux à couvert, visibilité 5 milles. Cap Gris Nez : vent Sud 12 noeuds. Boulogne : vent Sud-Sud-Est 10 noeuds, 1014 hPa en baisse. Bouée Sandettie : vent Sud 14 noeuds, creux 6,0 mètres, 1014 hPa en baisse, visibilité 5 milles. Prochain bulletin le jeudi 1 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -311,11 +311,11 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi des volcans islandais
 • Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 30/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -323,9 +323,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 30 Septembre 2026.
-Résumé général HDF précédent : Blocage anticyclonique dominant avec douceur, puis baisse progressive des températures vers les normales et possible dégradation en fin de période..
+Résumé général HDF précédent : Sur 15 jours, les Hauts-de-France restent sous influence anticyclonique fréquente, avec un temps souvent sec et doux le jour, frais la nuit. Les orages de ce mercredi 30 septembre sont une exception. La tendance va vers un retour progressif vers les normales de saison en semaine 2, sans franche dégradation..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses orageuses mercredi, amélioration jeudi, soleil vendredi-samedi..
+Températures attendues précédemment : Risque d’orages localisés mercredi soir, cumuls 10 à 20 mm, puis éclaircies..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 30 Septembre au Dimanche 4 Octobre 2026) ===
@@ -352,7 +352,7 @@ il y a 30 minutes, serge26 a dit :
 								4
 								1
 								1
-								3
+								4
 								1
 								8
 
@@ -542,8 +542,8 @@ quelle nuit tropicale sur la France tout ca un 30 septembre!!!
 Auteur: Krholam
 Message:
 Elle est bien belle cette depression ! 
-								1
-								1
+								5
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -757,7 +757,7 @@ Le 27/09/2026 à 20:34, tao a dit :
 	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
 	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
 	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
-	Modifié il y a 6 heures par thib91
+	Modifié il y a 8 heures par thib91
 								5
 								1
 								1

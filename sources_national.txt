@@ -291,7 +291,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 300940 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 30 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 304 pour LANGUEDOC-ROUSSILLON, PROVENCE. 2 - Situation générale mercredi 30 septembre 2026 à 06H00 UTC, et évolution Gradient entre les hautes pressions 1023 hPa en Mer Tyrrhénienne, et une dépression relative 1017 hPa sur Roussillon, traversant le Golfe du Lion demain matin en se comblant. Flux de secteur Sud-Est associé sur le bassin. 3 - Prévisions pour l'après-midi du mercredi 30 septembre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6. Rafales, parfois fortes sous orages. - à l'est de Sicié : Est à Nord-Est 3 à 4, parfois 5 vers Sicié. MER : peu agitée à l'est de Sicié, mais agitée à l'ouest. HOULE : Sud 0.5 à 1 m. TEMPS : nuageux à très nuageux, orages à l'ouest de Cap Couronne. VISIBILITE : localement mauvaise à très mauvaise sous orage. 4 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6, devenant Variable dépressionnaire en seconde partie de nuit, mais fraîchissant parfois 7 sous orages avec fortes rafales. - à l'est de Sicié : Est à Nord-Est 3 à 4, parfois 5. MER : peu agitée à l'est de Sicié, mais agitée à l'ouest. HOULE : Sud 0.5 à 1 m, mais s'amplifiant localement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette. TEMPS : pluie et orages, parfois violents à l'ouest de Sicié. VISIBILITE : mauvaise à très mauvaise sous orage. 5 - Prévisions pour la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Variable dépressionnaire 4 à 6, mollissant secteur Nord-Est 3 à 5 l'après-midi. Rafales sous orages. - à l'est de Porquerolles : Est à Nord-Est 3 à 5. rafales sous orages. MER : peu agitée à agitée. HOULE : Sud 0.5 à 1 m, localement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette. TEMPS : pluie et orages, s'améliorant progressivement à l'ouest de Sicié l'après-midi. VISIBILITE : mauvaise à très mauvaise sous orage. 6 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : - à l'ouest de La Ciotat : Nord à Nord-Est 3 à 5, localement 6 au large de Beauduc, mollissant 2 à 4 l'après-midi. - à l'est de La Ciotat : secteur Nord-Est 3 à 5, mollissant secteur Est 2 à 4 l'après-midi. MER : peu agitée, parfois agitée vers le large la nuit, s'atténuant belle à peu agitée l'après-midi. HOULE : Sud à Sud-Est 0.5 à 1 m, s'amortissant progressivement par l'est l'après-midi. TEMPS : devenant peu nuageux et voilé à l'ouest d'Hyères, mais quelques averses parfois orageuses de Hyères à Saint-Raphaël. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses orageuses. 7 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Est à Nord-Est 3 à 4, mollissant et devenant variable 1 à 3 en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est devenant Nord-Est faible à modéré dans le golfe du Lion ; Secteur Sud autour de la Corse. Indice de confiance : 2 sur 5 9 - Observations le mercredi 30 septembre 2026 à 09H00 UTC Cap Camarat : vent Est 14 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1024 hPa en hausse. Porquerolles : vent Est 12 noeuds, rafales 23 noeuds. Cap Couronne : vent Est-Sud-Est 23 noeuds, rafales 33 noeuds, mer agitée, visibilité 8 milles. Prochain bulletin le mercredi 30 septembre 2026, vers 18H30 légales
+FQCT40 LFML 301620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 30 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 305 pour LANGUEDOC-ROUSSILLON, PROVENCE. 2 - Situation générale mercredi 30 septembre 2026 à 12H00 UTC, et évolution Hautes pressions 1023 hPa en Mer Tyrrhénienne. Dépression relative 1017 hPa sur le Roussillon, traversant le Golfe du Lion en fin de nuit, puis se comblant demain après-midi. Flux de secteur Sud-Est dominant sur le bassin. 3 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6, parfois 7 sous orages avec fortes rafales. - à l'est de Sicié : Est à Nord-Est 3 à 4, localement 5 vers Sicié. MER : peu agitée à l'est de Sicié, mais agitée à l'ouest. HOULE : Sud 0.5 à 1 m, s'amplifiant localement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette en seconde partie de nuit. TEMPS : pluies et orages, parfois violents à l'ouest de Sicié. VISIBILITE : mauvaise à très mauvaise sous orage. 4 - Prévisions pour la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Est à Nord-Est 5 à 6, localement 7 le matin sous orages à l'ouest de Sicié le matin avec fortes rafales, mollissant Nord-Est 3 à 5 l'après-midi. - à l'est de Porquerolles : Est à Nord-Est 4 à 5, mollissant Nord-Est 3 à 4 en fin d'après-midi. Rafales sous orages. MER : peu agitée à agitée. HOULE : Sud 0.5 à 1 m, mais temporairement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette le matin. TEMPS : pluies et orages, s'améliorant progressivement par l'ouest en fin de journée. VISIBILITE : mauvaise à très mauvaise sous orage. 5 - Tendance pour la nuit du 1 au 2, et la journée du vendredi 2 octobre VENT : - à l'ouest de La Ciotat : secteur Nord 3 à 5, localement 6 au large de la Camargue, mollissant secteur Est 2 à 4 l'après-midi. - à l'est de La Ciotat : Nord à Nord-Est 2 à 4, virant Est 3 à 4 le matin. MER : s'atténuant peu agitée la nuit, puis belle à peu agitée l'après-midi. HOULE : Sud à Sud-Est 0.5 à 1 m, s'amortissant progressivement par l'est l'après-midi. TEMPS : devenant peu nuageux et voilé à l'ouest d'Hyères, mais quelques averses parfois orageuses de Hyères à Saint-Raphaël. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses orageuses. 6 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Est à Nord-Est 2 à 4, virant temporairement secteur Sud-Est en cours de matinée. MER : belle à peu agitée. HOULE dominante de Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est devenant Nord-Est faible à modéré dans le golfe du Lion ; Secteur Sud autour de la Corse. Indice de confiance : 2 sur 5 8 - Observations le mercredi 30 septembre 2026 à 15H00 UTC Cap Camarat : vent Est 14 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 17 noeuds, 1022 hPa en baisse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 25 noeuds. Cap Couronne : vent Est-Sud-Est 19 noeuds, rafales 29 noeuds, mer peu agitée, visibilité 8 milles. Prochain bulletin le jeudi 1 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -320,10 +320,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Recensement des tornades en France
+• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 30/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -331,9 +331,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mercredi 30 Septembre 2026.
-Résumé général précédent : Temps anticyclonique sur la majeure partie de la France, avec un flux zonal d'Ouest-Nord-Ouest. Chaleur persistante sur le sud-est, puis retour progressif aux normales. Incertitude sur la semaine 2 avec un signal fragile de décalage des hautes pressions..
+Résumé général précédent : Sur les deux semaines, un régime de blocage anticyclonique persistant, avec une douceur marquée surtout au sud et à l'est. Les températures devraient rester au-dessus des normales, avec une possible baisse progressive en fin de deuxième semaine. Les précipitations seront rares, sauf sur le sud-est en début de période..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies soutenues sur les Bouches-du-Rhône, orages sur la Gironde, vent de Sud à Sud-Est soutenu, chaleur persistante sur le sud-est..
+Températures attendues précédemment : Temps sec et stable, douceur, mais avec des signaux contradictoires en fin d'échéance..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 30 Septembre au Dimanche 4 Octobre 2026) ===
@@ -360,7 +360,7 @@ il y a 30 minutes, serge26 a dit :
 								4
 								1
 								1
-								3
+								4
 								1
 								8
 
@@ -550,8 +550,8 @@ quelle nuit tropicale sur la France tout ca un 30 septembre!!!
 Auteur: Krholam
 Message:
 Elle est bien belle cette depression ! 
-								1
-								1
+								5
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -765,7 +765,7 @@ Le 27/09/2026 à 20:34, tao a dit :
 	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
 	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
 	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
-	Modifié il y a 6 heures par thib91
+	Modifié il y a 8 heures par thib91
 								5
 								1
 								1
