@@ -6,155 +6,127 @@
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur le blocage et la douceur; fortes divergences sur les pluies.*
-- **Fiabilité du scénario majoritaire :** Blocage anticyclonique — *Maintien probable d'un temps sec, doux et souvent ensoleillé, avec un risque méditerranéen non majoritaire.*
-- **Stabilité des cartes/scénarios :** 6 / 105 — *6 cartes sur 105 analysées*
-- **Niveau d'incertitude global :** Fin de semaine 2 incertaine — *Signaux de déblocage trop lointains et non confirmés.*
+- **Consensus des modèles :** Modéré — *Accord sur la chaleur, intensité débattue*
+- **Fiabilité du scénario majoritaire :** Forte chaleur possible — *Intensité débattue en semaine 2*
+- **Stabilité des cartes/scénarios :** 6 / 109 — *6 cartes sur 109 analysées*
+- **Niveau d'incertitude global :** Intensité — *Écart GFS et ECMWF*
 
 ## 🗓️ SEMAINE 1 : Du mercredi 30 septembre au dimanche 4 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Mercredi instable : Des averses parfois orageuses concernent une grande partie du pays, avant une nette amélioration.
-2. Douceur persistante : Les températures restent nettement au-dessus des normales, surtout dans le sud-est.
-3. Méditerranée sous surveillance : Épisode pluvio-orageux actif mais modéré, vigilance orange sur les Bouches-du-Rhône.
-4. Pluies très inégales : Le nord-ouest et le sud-est sont favorisés, les autres régions souvent au sec.
-5. Blocage tenace : Le scénario anticyclonique se renforce pour le week-end et les jours suivants.
+1. Vigilance orange : Pluie-inondation sur les Bouches-du-Rhône, orages et vent de Sud-Est.
+2. Nuit tropicale : Douceur très marquée pour un 30 septembre sur l'ensemble du pays.
+3. Baisse thermique : Retour aux normales de saison attendu lundi 5 octobre.
+4. Épisode cévenol : Intensité incertaine sur Languedoc et Ardèche dimanche.
+5. Vent sensible : Rafales sous orages à l'ouest de Sicié, jusqu'à 55 km/h.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-• Une baisse thermique temporaire est envisagée jeudi, avant un probable retour de la douceur en fin de semaine.
-• Les précipitations devraient être très inégales, avec un nord-ouest et un quart sud-est plus exposés.
-• L'épisode méditerranéen ne semble pas exceptionnel, mais il justifie une vigilance orange sur les Bouches-du-Rhône.
+1. Baisse des températures au nord comme au sud à partir de lundi.
+2. Maintien d'un flux de sud chaud sur la Méditerranée.
+3. Vigilance orange pluie-inondation sur les Bouches-du-Rhône.
 **Points de divergence :**
-• Position et intensité des pluies : GFS exagère selon certains membres, alors que CEP/UKMO montrent un potentiel réel.
-• Retour aux normales thermiques : certains membres doutent d'une vraie baisse, surtout sur le sud-est et la Corse.
-• Fin de période : blocage solide ou attaques d'anomalies froides ? Les scénarios GFS/GEM restent minoritaires.
+1. Intensité et localisation de l'épisode cévenol sur Languedoc-Ardèche.
+2. Comportement des hautes pressions en début de semaine prochaine.
+3. Durée du retour aux normales de saison.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS** (Documenté) | Hautes pressions souvent dominantes mais GFS alterne entre coups de froid et coups de chaud; quelques sorties exagèrent des pluies sous anticyclone. | Temps sec et doux dans l'ensemble; risque d'averses malgré un champ de pression élevé. | Nord-ouest, centre, sud-est | Élevée (85%) | GFS est utilisé pour illustrer la persistance de l'anticyclone et quelques scénarios d'attaques par des anomalies froides. Des membres jugent ses fortes précipitations sous 1025-1030 hPa excessives, d'autres évoquent un marais barométrique favorable aux averses. |
-| **ECMWF / CEP** (Documenté) | Scénario de précipitations inégales, avec un potentiel pluvieux sur le nord-ouest et le sud-est; consensus sur une baisse thermique temporaire puis douceur persistante. | Averses ou pluies localisées, plus fréquentes en Méditerranée; amélioration en milieu de semaine. | Nord-ouest, sud-est, piémonts | Élevée (85%) | CEP/ECMWF montrent un potentiel de précipitations mais une répartition très inégale. Le consensus est plus solide pour une baisse des températures avant un retour de la douceur en fin de topic. |
-| **UKMO** (Brièvement documenté) | Participe au scénario de précipitations inégales, notamment sur le nord-ouest et le sud-est; pas de détails supplémentaires. | Pluies localisées possibles, à répartition très hétérogène. | Nord-ouest, sud-est | Faible (45%) | UKMO est cité une fois dans le cadre des cartes de précipitations attendues entre mardi et mercredi. Pas d'analyse détaillée des membres. |
-| **GEM** (Brièvement documenté) | Scénario minoritaire d'anticyclone attaqué par des anomalies froides d'altitude, avec possible instabilité malgré les hautes pressions. | Instabilité possible et précipitations malgré un temps qui semble calme en surface. | Parties centrales et sud du pays selon les runs | Faible (45%) | GEM apparaît dans la liste des modèles montrant des scénarios où les hautes pressions sont attaquées par des anomalies froides. Hypothèse minoritaire et très incertaine. |
-| **ARPEGE** (Brièvement documenté) | Potentiel de précipitations méditerranéennes en cours de concrétisation, à surveiller. | Averses et orages sur le pourtour méditerranéen, plus marqués mercredi. | Sud-est, Languedoc, Provence | Faible (45%) | Une carte ARPEGE a été partagée pour illustrer le potentiel de précipitations, sans analyse détaillée. La vigilance orange sur les Bouches-du-Rhône confirme un épisode actif. |
+| **Consensus des modèles (dont GFS et ECMWF)** (partiel) | Baisse généralisée des températures avec retour aux normales de saison, mais flux de sud chaud persistant sur la Méditerranée (+2 à +4°C). | Dégradation orageuse sur l'Ouest lundi, épisode méditerranéen/cévenol sur Languedoc-Ardèche. | Ouest, Languedoc, Ardèche, PACA, Corse. | Faible (45%) | Le consensus est solide sur la baisse thermique, mais l'intensité de la dégradation cévenole reste à affiner. |
+| **Météo-France (bulletins officiels)** (documenté) | Vigilance orange pluie-inondation sur les Bouches-du-Rhône, vigilance jaune orages sur Paris et la Gironde. | Pluies orageuses sur le Sud-Est, vent de Sud-Est à Est-Sud-Est. | Bouches-du-Rhône, Gironde, Haute-Garonne, Rhône. | Élevée (85%) | Observations détaillées : températures, vent, pression, vigilances. Indice de confiance 3/5 pour dimanche et lundi, 2/5 pour mercredi 7. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Averses irrégulières en début de période, puis éclaircies et temps sec. | Douces, sans précision locale disponible. | faible | ECMWF, UKMO | Pas de bulletin départemental précis; répartition exacte des averses incertaine. |
-| **Nord** | Averses mercredi 30, puis nette amélioration avec soleil jeudi/vendredi, voile samedi. | Max 25-26°C mercredi, 21-24°C ensuite; min 10-16°C. | elevee | Météo-France, GFS, ECMWF | Cumuls d'averses mercredi encore incertains; amélioration jeudi assez fiable. |
-| **Nord-Est** | Zone peu documentée; temps généralement sec et doux. | Non documenté précisément; douceur générale probable. | non_estimable | ECMWF | Absence de bulletin détaillé et de commentaires spécifiques pour cette zone. |
-| **Ouest et Façade Atlantique** | Très nuageux mercredi avec averses, nette amélioration jeudi, soleil vendredi. | Max 24-27°C mercredi, 22-23°C jeudi, 25-28°C samedi; min 10-16°C. | elevee | Météo-France, ECMWF, GFS | Cumuls des Landes girondines et évolution du risque orageux en soirée. |
-| **Centre** | Maussade mercredi avec averses, éclaircies vendredi, beau samedi. | Max 23-25°C mercredi, 18-21°C jeudi, 24-26°C samedi; min 9-16°C. | elevee | Météo-France | Intensité des averses mercredi et pluies éparses jeudi difficiles à cerner. |
-| **Sud-Ouest** | Nuageux puis éclaircies mercredi, soleil vendredi/samedi; averses sur le relief. | Max 27-30°C mercredi, 20-22°C jeudi, 23-27°C vendredi/samedi; min 10-16°C. | elevee | Météo-France, ECMWF | Averses de relief et limite pluie-neige selon l'évolution thermique. |
-| **Sud-Est et Vallée du Rhône** | Épisode pluvio-orageux marqué mercredi, amélioration jeudi, soleil voilé ensuite. | Max 24-27°C mercredi, 22-25°C jeudi, 25-27°C vendredi/samedi; min 12-21°C. | elevee | Météo-France, ECMWF, GFS | Position exacte des plus fortes pluies et évolution orageuse en soirée. |
-| **Méditerranée et Corse** | Risque orageux marqué sur le Languedoc/Gard/Bouches-du-Rhône, puis variable. | Très douces, +2 à +4°C au-dessus des normales en PACA et Corse. | elevee | Météo-France, ECMWF, GFS, UKMO | Extension vers le Gard/Hérault et intensité des cumuls. |
+| **Nord-Ouest** | Ciel très nuageux, averses possibles dans la nuit. | Maximales 18 à 21°C, douceur nocturne marquée. | faible | MF | Localisation exacte des averses non précisée |
+| **Nord** | Très nuageux, averses possibles, vigilance jaune orages aujourd'hui. | 20°C à Paris-Montsouris, 21°C au Luxembourg. | elevee | MF | Évolution orageuse en soirée |
+| **Nord-Est** | Non précisé, probablement nuageux. | Non documenté | non_estimable | Météo-France XML, ECMWF, GFS | Absence de données dans la discussion |
+| **Ouest et Façade Atlantique** | Ciel variable, vigilance jaune orages, vent de Sud à Sud-Ouest. | 22°C à Bordeaux, Cap-Ferret et Libourne. | elevee | MF | Intensité des orages |
+| **Centre** | Non documenté spécifiquement, ciel probablement chargé. | Maximales 18 à 21°C (fourchette nationale). | faible | MF | Pas de données locales |
+| **Sud-Ouest** | Nuageux, peu de soleil, vent de Sud-Est à Sud-Sud-Est. | 21°C à Toulouse, 16°C à Luchon, 20°C à Saint-Félix. | elevee | MF | Intensité de l'épisode méditerranéen |
+| **Sud-Est et Vallée du Rhône** | Vigilance verte, vent de Sud-Est assez fort, averses orageuses possibles. | 22°C à Lyon, 15°C aux Sauvages. | moderee | MF | Cumuls cévenols très incertains |
+| **Méditerranée et Corse** | Vigilance orange pluie-inondation, vent d'Est à Sud-Est fort, orages. | 25°C à Marignane, 23°C à Aix, +2 à +4°C au-dessus des normales. | elevee | MF | Cumuls et localisation des fortes pluies |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Mercredi 30 septembre** : Averses et orages, notamment en Méditerranée et sur le nord-ouest, sous une douceur marquée.
-- **Jeudi 1er octobre** : Amélioration nette avec retour du soleil après dissipation des pluies, températures en baisse.
-- **Vendredi 2 - samedi 3 octobre** : Temps sec et ensoleillé, voile nuageux, remontée thermique par le sud-ouest.
-- **Dimanche 4 octobre** : Soleil généreux, températures encore au-dessus des normales, blocage anticyclonique bien installé.
+- **Mercredi 30 septembre 2026** : Vigilance orange pluie-inondation sur les Bouches-du-Rhône, vent d'Est à Sud-Est, orages.
+- **Jeudi 1er et vendredi 2 octobre 2026** : Accalmie relative, ciel très nuageux, averses résiduelles possibles.
+- **Samedi 3 et dimanche 4 octobre 2026** : Dégradation orageuse sur l'Ouest et épisode méditerranéen/cévenol à surveiller.
+- **Dimanche 4 et lundi 5 octobre 2026** : Baisse généralisée des températures, retour aux normales de saison.
 
 **Points solides :**
-• Amélioration nette jeudi-vendredi après le passage instable de mercredi.
-• Températures au-dessus des normales, surtout sur le sud-est.
-• Épisode méditerranéen actif mais modéré, avec vigilance orange sur les Bouches-du-Rhône.
+1. Vigilance orange pluie-inondation sur les Bouches-du-Rhône confirmée.
+2. Douceur nocturne généralisée (nuits tropicales) sur une grande partie du pays.
+3. Vent de Sud-Est sensible en Méditerranée, rafales sous orages.
 
 **Points fragiles :**
-• Cumuls exacts de l'épisode méditerranéen (60 à 70 mm possibles à affiner).
-• Répartition géographique des pluies sur le nord-ouest et le centre.
-• Évolution thermique de dimanche et risque de retour de la douceur.
+1. Localisation et intensité de l'épisode cévenol dimanche.
+2. Durée de la baisse des températures en début de semaine prochaine.
+3. Comportement des HP en Atlantique en fin de semaine.
 
 **À surveiller (prochains runs) :**
-À surveiller les runs 00Z et 12Z du CEP et de GFS, ainsi que les sorties UKMO/GEM, pour affiner la répartition des pluies et la trajectoire du blocage anticyclonique du week-end.
+- Prochains runs d'ECMWF et GFS pour affiner l'épisode cévenol.
+- Évolution des indices de confiance Météo-France (2 à 3/5).
 
 
 ## 🗓️ SEMAINE 2 : Du lundi 5 au dimanche 11 octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Anticyclone installé : Un temps souvent sec et ensoleillé domine, malgré des passages nuageux.
-2. Douceur tenace : Les températures demeurent au-dessus des normales, avec une baisse plus nette à l'ouest.
-3. Méditerranée à surveiller : Une anomalie pluvieuse reste possible, mais l'hypothèse n'est pas majoritaire.
-4. Nord en première ligne : Une baisse des géopotentiels pourrait apporter des précipitations aux régions nordiques.
-5. Déblocage incertain : Des signaux faibles de fin de blocage apparaissent, mais ils restent lointains.
+1. Blocage anticyclonique : Haute pression entre l'Atlantique nord et l'Europe de l'Ouest.
+2. Flux zonal d'ONO : Écoulement anticyclonique, faible dégradation au nord-est.
+3. Hypothèse fragile : Décalage à l'ouest des HP soutenu par les ensembles européens.
+4. Méditerranée chaude : Températures toujours supérieures de +2 à +4°C aux normales.
+5. Incertitude forte : Signal non majoritaire, à confirmer.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-• Blocage anticyclonique majoritaire sur l'Europe, avec un temps souvent sec.
-• Températures au-dessus des normales, malgré une baisse plus nette côté atlantique.
-• Précipitations qui devraient rester déficitaires sur la plupart des régions, avec un risque plus important en Méditerranée.
+1. Maintien d'un temps globalement anticyclonique sur la majeure partie du pays.
+2. Températures méditerranéennes toujours supérieures aux normales.
+3. Flux d'ONO généralisé, faible dégradation au nord-est.
 **Points de divergence :**
-• Maintien total du blocage vs amorce de déblocage en fin d'échéance (CEP IA vs GFS).
-• Passage d'une anomalie au nord des îles britanniques vs creusement méditerranéen.
-• Amplitude de la baisse thermique : forte à l'ouest, quasi nulle sur le bassin méditerranéen.
+1. Position exacte des hautes pressions (décalage à l'ouest ou non).
+2. Intensité de la dégradation sur le nord du pays.
+3. Évolution des températures en Méditerranée.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS** (Documenté) | Anticyclone à perte de vue, temps sec et doux; seulement une lente baisse thermique; pas de déblocage franc en vue. | Temps sec, ensoleillé, doux; quelques passages nuageux. | Majeure partie du pays | Élevée (85%) | GFS est utilisé pour illustrer la persistance de l'anticyclone. Les membres mettent en garde contre une lecture trop fine d'un run isolé (surtout GFS 6h); la tendance de fond reste sèche et au-dessus des normales. |
-| **ECMWF / CEP** (Documenté) | Blocage anticyclonique majoritaire; des anomalies basses pourraient circuler près de la Méditerranée mais l'hypothèse reste minoritaire et fragile. | Temps souvent sec; possibilité d'averses sur le sud et le nord-est en cas d'anomalie. | Nord-est, Méditerranée, parties sud | Élevée (85%) | CEP/ECMWF confirment le blocage, avec un signal fragile pour un décalage des hautes pressions vers l'ouest et une baisse des géopotentiels par le nord-est. Le creusement méditerranéen est une option non majoritaire. |
-| **CEPS (ensemble CEP)** (Documenté) | Blocage anticyclonique qui se maintient, le système atlantique passant plus au nord; possibilité non majoritaire d'anomalies méditerranéennes. | Temps sec et doux; risque pluvieux plus probable en Méditerranée si anomalie se confirme. | Atlantique, nord de l'Europe, Méditerranée | Élevée (85%) | Le CEPS est utilisé pour évaluer la trajectoire des perturbations atlantiques : il tend à les renvoyer vers le nord, ce qui maintient le blocage. Une hypothèse d'anomalies près de la Méditerranée est soutenue par les ensembles sub-saisonniers, mais elle reste minoritaire. |
-| **CEP IA (AIFS)** (Partiellement documenté) | Signal faible et persistant de déblocage en fin d'échéance, non confirmé par GFS; régime de blocage encore dominant. | Possible retour d'un temps plus instable en toute fin de période, très incertain. | Europe de l'Ouest, France | Modérée (65%) | Le CEP IA montre une persistance du signal de déblocage en fin d'échéance, mais ce signal n'est pas confirmé par GFS et reste trop lointain pour être fiable. |
-| **Modèle saisonnier ECMWF** (Brièvement documenté) | Masse d'air sèche et au-dessus des normales pour la semaine prochaine, cohérente avec le blocage. | Temps sec, doux, peu de précipitations. | France entière | Modérée (65%) | Cité pour appuyer la tendance sèche et douce, sans détail supplémentaire. |
+| **ECMWF (ensembliste sub-saisonnier)** (partiel) | Décalage à l'ouest des hautes pressions, signal fragile ; étalement des HP entre Atlantique et Europe de l'Ouest, flux zonal d'ONO. | Faible dégradation au nord du pays, plus proche de la zone barocline. | Nord et nord-est de la France. | Modérée (65%) | Hypothèse non majoritaire, soutenue depuis des semaines par les ensembles européens sub-saisonniers. Signal encore fragile. |
+| **GFS (américain)** (insuffisant) | Non explicitement cité dans la discussion S2. | Non documenté. | Non déterminable. | Non estimable | Aucune mention exploitable du modèle GFS dans la discussion S2. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Blocage sec et doux; baisse thermique plus marquée sur la façade atlantique. | Max en baisse en fin de semaine, proches des normales. | moderee | ECMWF, GFS | Ampleur de la baisse thermique et possibilité de précipitations en fin de semaine. |
-| **Nord** | Beau temps sec et ensoleillé; risque de pluie temporaire mardi/mercredi sur Paris. | Max 22-24°C, min 10-12°C; baisse en fin de semaine. | elevee | Météo-France, ECMWF, GFS | Risque de pluie mardi/mercredi sur Paris, puis retour sec; week-end incertain. |
-| **Nord-Est** | Blocage, mais air plus frais possible par le nord-est en fin de semaine. | En baisse, proches ou légèrement au-dessus des normales. | faible | ECMWF, CEPS | Signal de baisse des géopotentiels fragile; précipitations possibles mais non garanties. |
-| **Ouest et Façade Atlantique** | Risque de pluie mardi/mercredi, amélioration jeudi après-midi, soleil vendredi. | Max 24°C mardi/mercredi (21°C littoral), en baisse ensuite; min 12-17°C. | elevee | Météo-France, ECMWF | Durée du passage pluvieux et extension des pluies littorales jeudi. |
-| **Centre** | Temps sec et souvent ensoleillé, risque de pluie temporaire; baisse thermique en fin de semaine. | Max 20-23°C, min 10-13°C; en baisse jeudi/vendredi. | elevee | Météo-France | Contraste entre région lyonnaise (sec) et autres secteurs (pluie) jeudi/vendredi. |
-| **Sud-Ouest** | Nuageux avec risque de pluie en début de semaine, éclaircies et fraîcheur ensuite. | Max 23-25°C mardi/mercredi, en baisse jeudi/vendredi; min 11-15°C. | elevee | Météo-France, ECMWF | Limite pluie-neige et intensité des averses en montagne. |
-| **Sud-Est et Vallée du Rhône** | Temps variable, passages nuageux et risque d'averses; baisse thermique en fin de semaine. | Max 24-26°C mardi/mercredi, en baisse; min 12-19°C. | elevee | Météo-France, GFS, ECMWF | Rafales de nord et timing de la baisse thermique. |
-| **Méditerranée et Corse** | Blocage, vent d'Est/Sud-Est faible à modéré; possibilité non majoritaire d'anomalie pluvieuse. | Très douces, probablement au-dessus des normales. | moderee | ECMWF, CEPS, Météo-France | Hypothèse d'anomalie méditerranéenne non majoritaire; sinon temps sec et très doux. |
+| **Nord-Ouest** | Temps sec, flux d'ONO anticyclonique. | Non précisé, probablement de saison. | faible | ECMWF | Peu de données dans la discussion |
+| **Nord** | Possible dégradation près de la zone barocline. | Non documenté | faible | ECMWF | Signal fragile et non majoritaire |
+| **Nord-Est** | Faible dégradation possible, plus proche de la zone barocline. | Non documenté | faible | ECMWF | Scénario non majoritaire |
+| **Ouest et Façade Atlantique** | Probablement sec sous l'anticyclone. | Non documenté | faible | ECMWF, GFS, Guillaume Séchet | Pas de données locales |
+| **Centre** | Non documenté. | Non documenté | non_estimable | ECMWF, GFS, Guillaume Séchet | Absence de données |
+| **Sud-Ouest** | Non documenté spécifiquement. | Non documenté | non_estimable | ECMWF, GFS, Guillaume Séchet | Absence de données |
+| **Sud-Est et Vallée du Rhône** | Non documenté spécifiquement. | Non documenté | non_estimable | ECMWF, GFS, Guillaume Séchet | Absence de données |
+| **Méditerranée et Corse** | Températures supérieures de +2 à +4°C aux normales, pas de retour de saison. | 25°C attendus, flux de sud chaud. | moderee | ECMWF | Intensité du flux de sud |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 5 - mardi 6 octobre** : Blocage installé, temps sec et doux, avec risque de pluie temporaire sur l'ouest et Paris.
-- **Mercredi 7 - jeudi 8 octobre** : Passage nuageux, vent de nord et premières baisses thermiques.
-- **Vendredi 9 - samedi 10 octobre** : Éclaircies, fraîcheur relative, risque d'averses localisées en Méditerranée.
-- **Dimanche 11 octobre** : Incertitude forte : maintien du blocage ou amorce de déblocage.
+- **Lundi 5 et mardi 6 octobre 2026** : Temps anticyclonique, flux d'ONO, sec sur la plupart des régions.
+- **Mercredi 7 et jeudi 8 octobre 2026** : Possible affaiblissement des HP, faible dégradation au nord-est.
+- **Vendredi 9 et samedi 10 octobre 2026** : Maintien de l'incertitude, signal fragile.
+- **Dimanche 11 octobre 2026** : Tendance au retour à un temps sec et anticyclonique, à confirmer.
 
 **Points solides :**
-• Persistance probable de l'anticyclone et d'un temps sec.
-• Douceur générale au-dessus des normales.
-• Faible pluviométrie attendue sur la majorité du pays.
+1. Signal anticyclonique majoritaire pour la semaine 2.
+2. Températures méditerranéennes toujours supérieures aux normales.
+3. Flux zonal d'ONO globalement anticyclonique.
 
 **Points fragiles :**
-• Hypothèse de déblocage en toute fin de période, encore très incertaine.
-• Creusement méditerranéen, soutenu par les seuls ensemblistes sub-saisonniers.
-• Prévision des précipitations pour le week-end des 10-11 octobre quasi impossible à ce stade.
+1. Hypothèse de décalage des HP à l'ouest (non majoritaire).
+2. Intensité de la dégradation au nord du pays.
+3. Échéance au-delà de mercredi 7 octobre (confiance 2/5).
 
 **À surveiller (prochains runs) :**
-À suivre en priorité les moyennes d'ensemble CEP/CEPS et les runs 06Z/12Z de GFS pour confirmer ou infirmer un déblocage en fin de semaine; échéance lointaine à interpréter avec prudence.
+- Prochains ensembles européens sub-saisonniers pour confirmer ou infirmer le décalage.
+- Évolution des HP en Atlantique.
 
 
 ========================================
 
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
-### Tendance 15 jours
-Les 15 prochains jours devraient être dominés par un blocage anticyclonique, avec un temps souvent sec et doux pour la saison. Les températures resteraient au-dessus des normales, avec une baisse temporaire en début de période puis un nouveau regain de douceur. Les précipitations devraient rester rares, sauf en Méditerranée et ponctuellement sur les régions du nord-ouest.
-
-### Période la plus fiable
-Semaine 1 (30 septembre - 4 octobre), mieux documentée par les bulletins départementaux et un consensus plus net.
-
-### Phénomènes récurrents
-Blocage anticyclonique récurrent, épisodes méditerranéens ponctuels, sécheresse de surface persistante.
-
-### Principales incertitudes
-Fin du blocage, intensité des anomalies méditerranéennes, retour durable aux températures de saison.
-
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Chronologie de l'épisode méditerranéen (30/09-01/10) et du possible déblocage en fin de semaine 2.
-- **Localisation :** Répartition exacte des fortes pluies (Gard, Hérault, Bouches-du-Rhône) et des averses du nord-ouest; zones nord-est peu documentées.
-- **Intensité :** Cumuls méditerranéens (60-70 mm possibles), force des orages, ampleur de la baisse thermique en fin de semaine 2.
-- **Informations manquantes :** Pas de bulletin détaillé pour la Bretagne, la Normandie, le Grand Est, la Corse; vent souvent non documenté; week-end des 10-11 octobre très peu couvert.
-- **Modèles sous-documentés :** UKMO, GEM, ARPEGE, CEP IA et modèle saisonnier ECMWF sont peu commentés; leur poids dans le scénario final reste difficile à évaluer.
-- **Incertitudes images :** Cartes de cumuls parfois trompeuses; un graphique de jours sans pluie erroné a été signalé et supprimé. Les runs déterministes lointains (GFS 6h, CEP IA) doivent être lus avec précaution.
-
-
-========================================
-
-## 📝 PROPOSITION DE POST LINKEDIN
-🌤️ Point météo 15 jours : l'automne démarre sous le signe d'un blocage anticyclonique durable. Les températures devraient rester souvent au-dessus des normales, avec un contraste entre un nord-ouest parfois arrosé et un quart sud-est plus doux. En Méditerranée, un épisode pluvio-orageux actif est en cours sur les Bouches-du-Rhône, avec une amélioration attendue dès jeudi. Pour la semaine prochaine, l'incertitude est encore forte sur la fin du blocage : les modèles évoquent une possible évolution, mais rien n'est figé. Restons prudents et suivons les prochains runs ! #Météo #Prévisions #Automne

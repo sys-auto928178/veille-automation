@@ -319,24 +319,16 @@ Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 300425 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 30 septembre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 302 pour LANGUEDOC-ROUSSILLON, PROVENCE 2 - Situation générale mercredi 30 septembre 2026 à 00H00 UTC, et évolution Hautes pressions 1018 à 1023 hPa sur le nord du bassin. Dépression relative 1017-1018 hPa sur le Golfe du Lion, quasi-stationnaire, puis se comblant lentement demain matin et se décalant vers l'est. 3 - Prévisions pour la journée du mercredi 30 septembre VENT : Est à Sud-Est 5 à 6 à l'ouest de Sicié, mais Est 3 à 4, parfois 5, à l'est de Sicié. Rafales, parfois fortes, sous orages. MER : peu agitée à l'est de Sicié, agitée à l'ouest de Sicié. HOULE : Sud 0.5 à 1 m. TEMPS : pluie et orages. VISIBILITE : mauvaise à très mauvaise sous orages. 4 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : - à l'ouest de Sicié : Est à Sud-Est 4 à 5, parfois 6. Rafales, parfois fortes sous orages. - à l'est de Sicié : Est à Nord-Est 3 à 4, parfois 5. MER : peu agitée, localement peu agitée à agitée à l'ouest de Sicié. HOULE : Sud 0.5 à 1 m. TEMPS : pluie et orages. VISIBILITE : mauvaise à très mauvaise sous orages. 5 - Prévisions pour la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Est à Sud-Est 4 à 5, parfois 6, revenant progressivement secteur Nord-Est 2 à 4 l'après-midi. Rafales sous orages. - à l'est de Porquerolles : Est à Nord-Est 2 à 4, parfois 5. MER : peu agitée, localement peu agitée à agitée à l'ouest de Sicié jusqu'en milieu d'après-midi. HOULE : Sud 0.5 à 1 m, localement Sud à Sud-Est 1 à 1.5 m de Port-Camargue au Cap Croisette. TEMPS : pluie et orages, s'améliorant en fin de journée. VISIBILITE : mauvaises sous orages. 6 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : De Port Camargue à Fos secteur Nord-Est 3 à 4, fraîchissant temporairement 5 en début de nuit. De Fos à St Raphaël Nord à Nord-Est 2 à 4, revenant Nord à Nord-Ouest en début de nuit, puis à l'Est en début de matinée. MER : peu agitée. HOULE de Sud à Sud-Est inférieure à 1 m, s'orientant en milieu d'après-midi au Nord-Est. 7 - Tendance pour les jours suivants Samedi 3 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Dimanche 4 octobre secteur Est faible à modéré Indice de confiance : 3 sur 5 Lundi 5 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 Mardi 6 octobre Est à Sud-Est faible à modéré Indice de confiance : 3 sur 5 8 - Observations le mercredi 30 septembre 2026 à 03H00 UTC Cap Camarat : vent Est 17 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1022 hPa en baisse. Porquerolles : vent Est 12 noeuds, rafales 23 noeuds. Cap Couronne : vent Est 21 noeuds, rafales 31 noeuds, mer peu agitée, visibilité 8 milles. Prochain bulletin le mercredi 30 septembre 2026, vers 13H00 légales
+FQCT40 LFML 300940 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 30 septembre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 304 pour LANGUEDOC-ROUSSILLON, PROVENCE. 2 - Situation générale mercredi 30 septembre 2026 à 06H00 UTC, et évolution Gradient entre les hautes pressions 1023 hPa en Mer Tyrrhénienne, et une dépression relative 1017 hPa sur Roussillon, traversant le Golfe du Lion demain matin en se comblant. Flux de secteur Sud-Est associé sur le bassin. 3 - Prévisions pour l'après-midi du mercredi 30 septembre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6. Rafales, parfois fortes sous orages. - à l'est de Sicié : Est à Nord-Est 3 à 4, parfois 5 vers Sicié. MER : peu agitée à l'est de Sicié, mais agitée à l'ouest. HOULE : Sud 0.5 à 1 m. TEMPS : nuageux à très nuageux, orages à l'ouest de Cap Couronne. VISIBILITE : localement mauvaise à très mauvaise sous orage. 4 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6, devenant Variable dépressionnaire en seconde partie de nuit, mais fraîchissant parfois 7 sous orages avec fortes rafales. - à l'est de Sicié : Est à Nord-Est 3 à 4, parfois 5. MER : peu agitée à l'est de Sicié, mais agitée à l'ouest. HOULE : Sud 0.5 à 1 m, mais s'amplifiant localement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette. TEMPS : pluie et orages, parfois violents à l'ouest de Sicié. VISIBILITE : mauvaise à très mauvaise sous orage. 5 - Prévisions pour la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Variable dépressionnaire 4 à 6, mollissant secteur Nord-Est 3 à 5 l'après-midi. Rafales sous orages. - à l'est de Porquerolles : Est à Nord-Est 3 à 5. rafales sous orages. MER : peu agitée à agitée. HOULE : Sud 0.5 à 1 m, localement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette. TEMPS : pluie et orages, s'améliorant progressivement à l'ouest de Sicié l'après-midi. VISIBILITE : mauvaise à très mauvaise sous orage. 6 - Prévisions pour la nuit du 1 au 2 et la journée du vendredi 2 octobre VENT : - à l'ouest de La Ciotat : Nord à Nord-Est 3 à 5, localement 6 au large de Beauduc, mollissant 2 à 4 l'après-midi. - à l'est de La Ciotat : secteur Nord-Est 3 à 5, mollissant secteur Est 2 à 4 l'après-midi. MER : peu agitée, parfois agitée vers le large la nuit, s'atténuant belle à peu agitée l'après-midi. HOULE : Sud à Sud-Est 0.5 à 1 m, s'amortissant progressivement par l'est l'après-midi. TEMPS : devenant peu nuageux et voilé à l'ouest d'Hyères, mais quelques averses parfois orageuses de Hyères à Saint-Raphaël. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses orageuses. 7 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Est à Nord-Est 3 à 4, mollissant et devenant variable 1 à 3 en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est devenant Nord-Est faible à modéré dans le golfe du Lion ; Secteur Sud autour de la Corse. Indice de confiance : 2 sur 5 9 - Observations le mercredi 30 septembre 2026 à 09H00 UTC Cap Camarat : vent Est 14 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1024 hPa en hausse. Porquerolles : vent Est 12 noeuds, rafales 23 noeuds. Cap Couronne : vent Est-Sud-Est 23 noeuds, rafales 33 noeuds, mer agitée, visibilité 8 milles. Prochain bulletin le mercredi 30 septembre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (J+2 et J+3) :
-J+2 et J+3 ﻿Jeudi, jusqu'en fin d'après-midi, des orages avec de très 
-fortes intensités pluvieuses en peu de temps devraient 
-concerner l'est de l'Hérault, le Gard et les Bouches-du-
-Rhône. Ce phénomène est associé à un risque fort de 
-vigilance orange. Vendredi, retour d'un temps plus calme, encore légèrement 
-perturbé.
+Poursuite de fortes chaleurs sur une grande partie du pays. Risque d'orages localisés sur les régions centrales et le nord.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (De J+4 à J+7) :
-De J+4 à J+7 ﻿Passages orageux entre samedi et dimanche. Ces orages 
-pourraient être localement forts, notamment sur un grand 
-quart sud-ouest du pays, mais il y a beaucoup d'incertitude 
-actuellement.
+Baisse progressive des températures par l'ouest et le nord. Maintien d'un risque d'orages d'évolution diurne et de chaleur résiduelle au sud-est.
 
 === RISQUE D'ORAGES & INDICES CONVECTIFS (KERAUNOS, BLITZORTUNG, METEOTEL XML) ===
 • Blitzortung / Keraunos : Détection des impacts de foudre en temps réel (Token 0). Indice de convection CAPE/LI sous surveillance.
@@ -349,10 +341,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -361,23 +353,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mercredi 30 Septembre 2026.
-Résumé général précédent : Temps sec et doux sous un blocage anticyclonique, avec une baisse thermique progressive; rares dégradations orageuses (Méditerranée, Sud-Ouest); incertitude forte sur la fin de la période..
+Résumé général précédent : Les 15 prochains jours devraient être dominés par un blocage anticyclonique, avec un temps souvent sec et doux pour la saison. Les températures resteraient au-dessus des normales, avec une baisse temporaire en début de période puis un nouveau regain de douceur. Les précipitations devraient rester rares, sauf en Méditerranée et ponctuellement sur les régions du nord-ouest..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses éparses mercredi, amélioration jeudi-vendredi, douceur..
+Températures attendues précédemment : Temps sec et doux dans l'ensemble; risque d'averses malgré un champ de pression élevé..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 30 Septembre au Dimanche 4 Octobre 2026) ===
-Auteur: Ciel d&#039;encre
-Message:
-il y a 31 minutes, serge26 a dit :
-			et avec un peu de texte??? non? pense qu'il y a aussi des novices qui lisent ce forum, merci pour eux
-	A un handicap général de 80% et il fait beaucoup d'efforts pour la communauté et pour s'exprimer, merci d'être compréhensif.
-	C'est écrit dans sa signature et je pense que tu n'es pas novice sur ce forum. 
-								11
-								5
-
-=======================
-
 Auteur: Mazz37
 Message:
 il y a 48 minutes, Ciel d&amp;#x27;encre a dit :
@@ -577,7 +558,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 20 heures par stormigen
+	Modifié il y a 22 heures par stormigen
 
 =======================
 
@@ -587,6 +568,13 @@ Il y a 3 heures, stormigen a dit :
 			Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
 	C'est bien pour ça que j'ai précisé "une sorte de marais barométrique" 😉. Quoi qu'il en soit, si les conditions sont réunies, il peut pleuvoir même avec une pression atmosphérique de 1025 hPa.
 								2
+
+=======================
+
+Auteur: Virgile
+Message:
+quelle nuit tropicale sur la France tout ca un 30 septembre!!!
+								5
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -739,7 +727,7 @@ Il y a 1 heure, giec 2100 a dit :
 	bénéficier d'un changement de masse d'air en altitude avec la baisse des géopotentiels par le nord-est et des possibilité de précipitations accrues les régions françaises  les plus nordiques.
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
-	Modifié il y a 22 heures par petit âge glaciaire 11
+	Modifié hier à 09:29 par petit âge glaciaire 11
 								5
 								2
 								2
@@ -782,4 +770,23 @@ GFS nous propose un anticyclone à perte de vue et donc jusqu'à la fin du prés
 	Eté exceptionnel et automne exceptionnel.
 	Sinon, les prévisions saisonnières de la Chaîne Météo tiennent globalement la route. Elles envisagent un anticyclone tout le mois d'octobre et le retour des dépressions qu'en novembre.
 								1
+								2
+
+=======================
+
+Auteur: thib91
+Message:
+Le 27/09/2026 à 20:34, tao a dit :
+			Bonsoir,
+			la semaine en question devrait se dérouler sous un régime de blocage:
+			Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
+			La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
+	Quelques jours plus tard, pour la même échéance...
+	Tendance à un régime hybride de dorsale/anticyclone positionné sur le proche Atlantique, qui je trouve ressemble de + en + à une évolution vers un nouveau blocage.
+	On perçoit cet hybridité sur le diagramme présentant la probabilité des régimes de temps sur la région Euro-Atlantique.
+	En somme forte probabilité d'un flux à tendance anticyclonique, globalement sec pour à peu près tout le monde. 
+	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
+	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
+	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
+	Modifié il y a 22 minutes par thib91
 								1
