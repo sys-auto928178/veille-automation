@@ -69,40 +69,40 @@ Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
-Emis le : 30/09/2026 16:45
+Emis le : 30/09/2026 22:05
 
 Vigilance :
-Attention, aujourd'hui, le département du Pas-de-Calais est en vigilance jaune pour les phénomènes pluie-inondation et orages. Demain, il sera en vigilance verte.
+Attention, aujourd'hui, le département du Pas-de-Calais est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Arras : température de 21 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 30 km/h, cumul de précipitations en 12h : 1 mm.
-A Boulogne-Sémaphore : température de 21 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 30 km/h.
+Aujourd'hui on observait à 21h :
+A Arras : température de 20 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 20 km/h, cumul de précipitations en 12h : 3 mm.
+A Boulogne-Sémaphore : température de 18 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 20 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
-Éclaircies et passages nuageux alternent toute la nuit. Ces derniers délivrent quelques averses en première partie de nuit, sur les côtes de la Manche ainsi que sur la moitié Est du département.
-On attend au maximum jusqu'à 5 millimètres de pluie sur le Haut-Artois.
+Sous un ciel à dominante nuageuse, quelques averses tombent, sur le littoral ainsi que sur la moitié Est du département, en première partie de nuit. Puis, en seconde partie de nuit, le temps devient sec, avec des périodes étoilées un peu plus larges.
+10 millimètres est le cumul maximum de pluie attendu près de la Mer du Nord.
 En fin de nuit, établissement d'un vent de Sud-Ouest, modéré par endroits.
-Températures minimales : de 13 à 14 degrés.
+Températures minimales : entre 13 et 14 degrés.
 
 • Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Le matin, les nuages donnent de faibles averses sur les côtes de la Manche ainsi que sur le Haut-Artois. Ils s'effacent assez vite en cours de matinée au profit de belles apparitions du soleil. Rapidement le soleil domine, le ciel est souvent bleu, même si par places, quelques nuages sont encore présents. Pour la nuit : Le ciel est clair toute la nuit.
+Le matin, les nuages donnent de faibles averses sur les côtes de la Manche ainsi que sur le Haut-Artois. Ils s'effacent assez vite en cours de matinée au profit de belles apparitions du soleil. Rapidement le soleil domine, le ciel est souvent bleu, même si par places, quelques nuages sont encore présents. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
 Vent d'Ouest à Sud-Ouest modéré, en journée et jusqu'en milieu de nuit ; puis s'atténuant.
 Températures maximales pour le jour : entre 19 et 20 degrés.
 Températures minimales pour la nuit suivante : de 9 à 11 degrés.
 
 • Pour la journée de vendredi 02 et la nuit suivante :
-Le soleil est généreux de son lever à son coucher. Quelques nuages circulent ça et là en fin de journée. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
+Le soleil est généreux de son lever à son coucher. Quelques nuages circulent ça et là en fin de journée. Pour la nuit : Le ciel est généralement voilé.
 Vent faible, variable.
-Températures maximales pour le jour : comprises entre 20 et 21 degrés.
-Températures minimales pour la nuit suivante : entre 8 et 10 degrés.
+Températures maximales pour le jour : de 20 à 21 degrés.
+Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés.
 
 • Pour la journée de samedi 03 :
 Toute la journée, le ciel est bien lumineux. Les nuages déjà peu nombreux en matinée, se font encore plus discrets en cours d'après-midi. Par endroits le soleil est voilé, mais c'est tout de même l'impression de beau temps qui prédomine.
 Vent variable, faible.
-Températures maximales : comprises entre 20 et 21 degrés.
+Températures maximales : entre 20 et 21 degrés.
 
 • Pour dimanche 04 et lundi 05 :
 Sur les côtes de la Manche ainsi que de l'Arrageois au bassin minier, soleil prédominant, risque de temps passagèrement brumeux. Sur les autres régions, soleil prédominant.
@@ -310,12 +310,12 @@ ensuite.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Septembre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Septembre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Le jeu de l'hiver 2026/2027
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Septembre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 30/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -323,9 +323,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 30 Septembre 2026.
-Résumé général HDF précédent : Sur 15 jours, blocage anticyclonique fréquent, temps souvent sec et doux, orages localisés le 30/09, puis refroidissement relatif en semaine 2 tout en restant au-dessus des normales..
+Résumé général HDF précédent : Blocage anticyclonique dominant sur l’Europe, temps sec et doux pour la saison. Orages localisés le 30/09, puis temps calme et ensoleillé. En semaine 2, persistance du blocage avec une légère baisse des températures, toujours au-dessus des normales. Un possible déblocage en fin d’échéance est à surveiller, mais les incertitudes restent fortes..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Orages localisés, rafales, puis nette amélioration ; fraîcheur relative le matin..
+Températures attendues précédemment : Temps généralement sec et ensoleillé, orages localisés possibles en début de période, fraîcheur nocturne..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 30 Septembre au Dimanche 4 Octobre 2026) ===
@@ -757,8 +757,8 @@ Le 27/09/2026 à 20:34, tao a dit :
 	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
 	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
 	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
-	Modifié il y a 10 heures par thib91
-								6
+	Modifié il y a 12 heures par thib91
+								7
 								1
 								1
 								2
