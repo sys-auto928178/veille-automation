@@ -15,46 +15,46 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL NORD (DEPT59) ===
-Emis le : 30/09/2026 09:30
+Emis le : 30/09/2026 12:30
 
 Vigilance :
 Attention, aujourd'hui, le département du Nord est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Lille-Lesquin : température de 20 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 20 km/h, pression niveau mer 1015 hPa.
-A Dunkerque : température de 20 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 25 km/h.
+Aujourd'hui on observait à 12h :
+A Lille-Lesquin : température de 20 degrés, vent de secteur Sud soufflant jusqu'à 20 km/h, pression niveau mer 1016 hPa.
+A Dunkerque : température de 20 degrés, vent de secteur Sud soufflant jusqu'à 25 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui mercredi 30 :
-Des nuages épais apportent quelques gouttes ici ou là, puis les pluies faibles deviennent un peu plus fréquentes, l'après-midi.
-Le maximum de pluie attendu est de l'ordre de 10 millimètres en Flandre intérieure.
+• Pour cet après-midi :
+Le temps est très nuageux et dès la mi-journée, des averses parfois orageuses éclatent, de la côte à la région lilloise. Ce temps instable se généralise en fin d'après-midi.
+On prévoit au maximum jusqu'à 15 millimètres de pluie en Flandre maritime.
 Vent modéré, de Sud.
-Températures maximales : comprises entre 22 et 25 degrés.
+Températures maximales : depuis la côte jusqu'au Valenciennois et au Cambrésis comprises entre 21 et 24 degrés. 26 degrés sur l'Avesnois. Ces températures se situent par endroits bien au-dessus des valeurs normalement observées.
 
 • Pour la nuit prochaine :
-Les averses locales se raréfient au fil des heures au profit d'éclaircies de plus en plus belles.
-On prévoit au maximum jusqu'à 10 millimètres de pluie sur le Valenciennois et le Cambrésis.
-En début de nuit, vent de Sud soufflant modérément, sur l'Avesnois, le Valenciennois et le Cambrésis ; puis atténuation.
-Températures minimales : comprises entre 13 et 15 degrés.
+Des orages sont possibles en soirée, sur l'Avesnois, le Valenciennois et le Cambrésis. L'activité orageuse s'estompe rapidement. Le ciel se dégage peu à peu en cours de nuit.
+Les plus forts cumuls de pluie peuvent avoisiner 10 millimètres sur l'Avesnois.
+En début de nuit, vent de Sud modéré, sur l'Avesnois, le Valenciennois et le Cambrésis ; atténuation ensuite.
+Températures minimales : entre 13 et 15 degrés.
 
 • Pour demain jeudi 01 octobre en journée et la nuit suivante :
-C'est un temps ensoleillé qui prédomine. Les quelques nuages présents en matinée, dans l'intérieur, se dissipent en fin de journée. Pour la nuit : Le ciel est clair toute la nuit.
-Vent d'Ouest à Sud-Ouest temporairement modéré, en Flandre maritime.
-Températures maximales pour le jour : de 20 à 21 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur entre 8 et 10 degrés. 13 degrés en Flandre maritime.
+Nuages et belles éclaircies se partagent le ciel le matin. Au fil des heures, les nuages disparaissent et c'est sous un ciel bien dégagé que se termine la journée. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+Vent d'Ouest à Sud-Ouest, modéré, en journée ; puis atténuation.
+Températures maximales pour le jour : comprises entre 20 et 21 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur entre 8 et 11 degrés. 13 degrés en Flandre maritime.
 
 • Pour la journée de vendredi 02 et la nuit suivante :
-La journée est ensoleillée. Il faut attendre la fin d'après-midi, pour voir le soleil voilé par des nuages, en Flandre intérieure. Pour la nuit : La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
+Le soleil règne presque en maître du matin au soir, seuls quelques passages nuageux le contrarient un peu en fin de journée. Pour la nuit : Le ciel est généralement voilé.
 Vent variable, faible.
-Températures maximales pour le jour : entre 20 et 23 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur entre 8 et 9 degrés. 12 degrés en Flandre maritime.
+Températures maximales pour le jour : de 20 à 22 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur de 8 à 10 degrés. 12 degrés en Flandre maritime.
 
 • Pour la journée de samedi 03 :
 Toute la journée, le ciel est bien lumineux. Les nuages déjà peu nombreux en matinée, se font encore plus discrets en cours d'après-midi. Par endroits le soleil est voilé, mais c'est tout de même l'impression de beau temps qui prédomine.
 Vent faible, variable.
-Températures maximales : de 20 à 23 degrés.
+Températures maximales : de 21 à 22 degrés.
 
 • Pour dimanche 04 et lundi 05 :
 En Flandre intérieure, risque de brume se dissipant en deuxième partie de nuit de samedi à dimanche. Sur les autres régions, le soleil brille généreusement.
@@ -75,45 +75,46 @@ Températures minimales : en baisse en Flandre intérieure ainsi que sur l'Avesn
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
-Emis le : 30/09/2026 09:30
+Emis le : 30/09/2026 12:30
 
 Vigilance :
 Attention, aujourd'hui, le département du Pas-de-Calais est en vigilance jaune pour les phénomènes pluie-inondation et orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Arras : température de 20 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 20 km/h.
-A Boulogne-Sémaphore : température de 19 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 35 km/h.
+Aujourd'hui on observait à 12h :
+A Arras : température de 20 degrés, vent de secteur Sud soufflant jusqu'à 25 km/h.
+A Boulogne-Sémaphore : température de 19 degrés, vent de secteur Sud-Est soufflant jusqu'à 30 km/h.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui mercredi 30 :
-Le temps est bien gris. Sous un ciel très nuageux à couvert, des averses sont possibles, toute la journée. Elles sont plus fréquentes en fin d'après-midi.
-Le maximum de pluie attendu est de l'ordre de 15 millimètres sur les côtes de la Manche.
-Vent de Sud, modéré.
-Températures maximales : de 21 à 24 degrés.
+• Pour cet après-midi :
+La mi-journée est grise, avec des orages. En fin d'après-midi, une amélioration relative se produit. Cependant, quelques averses sont à craindre. Le risque orageux persiste, sur les côtes de la Manche, sur le Haut-Artois ainsi que de l'Arrageois au bassin minier.
+10 millimètres est le cumul maximum de pluie attendu près de la Mer du Nord.
+Vent de Sud modéré, dans l'intérieur, mais aussi dans le Calaisis.
+Températures maximales : entre 21 et 22 degrés.
 
 • Pour la nuit prochaine :
-En début de nuit, les nuages sont très nombreux, et de faibles pluies se produisent par places. Les éclaircies reviennent dès le milieu de nuit sur les trois quarts Ouest du département, puis se généralisent.
-En fin de nuit, établissement d'un vent de Sud-Ouest, modéré par endroits.
-Températures minimales : comprises entre 12 et 14 degrés.
+Éclaircies et passages nuageux alternent toute la nuit. Ces derniers délivrent quelques averses en première partie de nuit, sur les côtes de la Manche ainsi que sur la moitié Est du département.
+Les plus forts cumuls de pluie attendus sont de 5 millimètres sur le Haut-Artois.
+En fin de nuit, vent s'établissant au Sud-Ouest, localement modéré.
+Températures minimales : comprises entre 13 et 14 degrés.
 
 • Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Le temps est majoritairement sec dans la journée, même si quelques averses sont possibles en matinée, sur les côtes de la Manche. Les quelques nuages, déjà discrets en matinée, se dissipent rapidement et le soleil brille largement. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
-En journée et jusqu'en milieu de nuit, vent d'Ouest à Sud-Ouest, modéré ; puis faiblissant.
-Températures maximales pour le jour : entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : entre 9 et 11 degrés.
+Le matin, les nuages donnent de faibles averses sur les côtes de la Manche ainsi que sur le Haut-Artois. Ils s'effacent assez vite en cours de matinée au profit de belles apparitions du soleil. Rapidement le soleil domine, le ciel est souvent bleu, même si par places, quelques nuages sont encore présents. Pour la nuit : Le ciel est bien étoilé.
+Vent d'Ouest à Sud-Ouest, modéré, en journée et jusqu'en milieu de nuit ; puis atténuation.
+Températures maximales pour le jour : de 19 à 20 degrés.
+Températures minimales pour la nuit suivante : comprises entre 9 et 11 degrés.
 
 • Pour la journée de vendredi 02 et la nuit suivante :
-La journée est ensoleillée. Il faut attendre la fin d'après-midi, pour voir le soleil voilé par des nuages, sur les côtes de la Manche ainsi que sur les reliefs de l'Artois. Pour la nuit : Le ciel est généralement voilé.
-En milieu d'après-midi, vent s'établissant au Sud-Ouest modéré, près de la Mer du Nord ; puis atténuation.
-Températures maximales pour le jour : de 20 à 21 degrés.
-Températures minimales pour la nuit suivante : entre 7 et 9 degrés.
+Le soleil est généreux de son lever à son coucher. Quelques nuages circulent ça et là en fin de journée. Pour la nuit : Le ciel est voilé, mais laisse apparaître les étoiles.
+Vent faible, variable.
+Températures maximales pour le jour : comprises entre 20 et 21 degrés.
+Températures minimales pour la nuit suivante : de 8 à 10 degrés.
 
 • Pour la journée de samedi 03 :
-Un voile nuageux masque temporairement le soleil, qui devient plus franc en fin de journée.
-Vent faible, variable.
-Températures maximales : de 20 à 22 degrés.
+Toute la journée, le ciel est bien lumineux. Les nuages déjà peu nombreux en matinée, se font encore plus discrets en cours d'après-midi. Par endroits le soleil est voilé, mais c'est tout de même l'impression de beau temps qui prédomine.
+Vent variable, faible.
+Températures maximales : de 20 à 21 degrés.
 
 • Pour dimanche 04 et lundi 05 :
 Sur les côtes de la Manche, sur le Ternois ainsi que sur le bassin minier, soleil, risque de temps passagèrement brumeux. Sur les autres régions, temps largement ensoleillé.
@@ -134,45 +135,45 @@ Températures minimales : en baisse sur les côtes de la Manche ainsi que sur le
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL SOMME (DEPT80) ===
-Emis le : 30/09/2026 09:30
+Emis le : 30/09/2026 12:30
 
 Vigilance :
 Attention, aujourd'hui, le département de la Somme est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Amiens-Glisy : température de 21 degrés, vent de secteur Sud soufflant jusqu'à 20 km/h, pression niveau mer 1015 hPa.
-A Cayeux-sur-Mer : température de 20 degrés, vent de secteur Sud soufflant jusqu'à 30 km/h.
+Aujourd'hui on observait à 12h :
+A Amiens-Glisy : température de 19 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 15 km/h, pression niveau mer 1016 hPa, cumul de précipitations en 12h : 2 mm.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui mercredi 30 :
-Quelques averses tombent toute la journée. La couche, très nuageuse en début de période, laisse entrevoir quelques éclaircies l'après-midi.
-On prévoit au maximum jusqu'à 20 millimètres de pluie sur le Ponthieu et le Vimeu.
+• Pour cet après-midi :
+Des averses, localement orageuses, tombent en début d'après-midi. Elles se poursuivent, sur le littoral picard ainsi que sur le Vermandois. Quand les averses cessent, de belles éclaircies se développent.
+Les plus forts cumuls de pluie peuvent avoisiner 15 millimètres sur le littoral picard.
 Vent de Sud à Sud-Ouest, modéré.
-Températures maximales : entre 23 et 26 degrés, et entre 21 et 22 degrés sur le Vimeu, le Ponthieu et le Doullennais. Ces températures se situent par endroits bien au-dessus des valeurs normalement observées.
+Températures maximales : entre 21 et 23 degrés.
 
 • Pour la nuit prochaine :
-En début de nuit, les nuages sont très nombreux, et de faibles pluies se produisent par places. Les éclaircies reviennent dès le milieu de nuit sur le Santerre ainsi que sur les deux tiers ouest du département, puis se généralisent.
-En seconde partie de nuit, vent s'établissant au Sud-Ouest modéré, sur le littoral picard.
-Températures minimales : de 13 à 14 degrés.
+En début de soirée, des averses sont possibles ici ou là. Des coups de tonnerre se font même entendre sur le Vermandois. Le risque orageux disparaît rapidement, mais des averses perdurent sur le Doullennais ainsi que sur le Santerre et le Vermandois. En seconde partie de nuit, le temps est sec.
+Les plus forts cumuls de pluie attendus sont de 10 millimètres sur le Santerre.
+En fin de nuit, vent s'établissant au Sud-Ouest, localement modéré.
+Températures minimales : comprises entre 12 et 14 degrés.
 
 • Pour demain jeudi 01 octobre en journée et la nuit suivante :
-C'est une belle journée qui s'annonce, largement ensoleillée malgré quelques passages nuageux en matinée. Pour la nuit : Le ciel est bien étoilé.
-Vent d'Ouest à Sud-Ouest, modéré, en journée et jusqu'en milieu de nuit ; puis atténuation.
+Quelques nuages sont présents en matinée, sur une grande moitié Est du département. L'après-midi est ensoleillée pour tous. Pour la nuit : Les étoiles sont largement visibles. Juste avant l'aurore, elles sont toutefois masquées par des nuages, sur le Vermandois.
+Vent modéré sur le littoral picard, d'Ouest à Sud-Ouest, en journée et début de nuit ; et de Sud, en fin de nuit.
 Températures maximales pour le jour : de 19 à 21 degrés.
-Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés.
+Températures minimales pour la nuit suivante : de 8 à 11 degrés.
 
 • Pour la journée de vendredi 02 et la nuit suivante :
-Le soleil règne presque en maître du matin au soir, seuls quelques passages nuageux le contrarient un peu en fin de journée. Pour la nuit : La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit sur le littoral picard.
+Le soleil, très présent le matin, est moins éclatant l'après-midi, souvent voilé par des passages de nuages élevés. Pour la nuit : La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit sur le littoral picard.
 Vent faible, variable.
 Températures maximales pour le jour : comprises entre 20 et 21 degrés.
-Températures minimales pour la nuit suivante : entre 7 et 9 degrés.
+Températures minimales pour la nuit suivante : comprises entre 7 et 10 degrés.
 
 • Pour la journée de samedi 03 :
-Un voile nuageux filtre le soleil.
-Vent faible, variable.
-Températures maximales : comprises entre 20 et 22 degrés.
+Le soleil est généralement voilé par des nuages.
+Vent variable, faible.
+Températures maximales : de 20 à 22 degrés.
 
 • Pour dimanche 04 et lundi 05 :
 Sur le littoral picard, dissipation des risques de brume dimanche en matinée et jusqu'à la mi-journée. Sur les autres régions, beau temps ensoleillé.
@@ -193,44 +194,45 @@ Températures minimales : en baisse sur le Doullennais ainsi que sur le Vermando
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL OISE (DEPT60) ===
-Emis le : 30/09/2026 09:30
+Emis le : 30/09/2026 12:30
 
 Vigilance :
 Attention, aujourd'hui, le département de l'Oise est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Beauvais-Tillé : température de 20 degrés, vent de secteur Sud soufflant jusqu'à 25 km/h, pression niveau mer 1015 hPa, cumul de précipitations en 12h : 1 mm.
+Aujourd'hui on observait à 12h :
+A Beauvais-Tillé : température de 20 degrés, vent de secteur Sud-Est soufflant jusqu'à 20 km/h, pression niveau mer 1016 hPa, cumul de précipitations en 12h : 3 mm.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui mercredi 30 :
-Les nuages, ponctués d'averses, laissent quelquefois passer le soleil.
-Le maximum de pluie attendu est de l'ordre de 10 millimètres sur le pays de Bray et la Picardie verte.
+• Pour cet après-midi :
+De la mi-journée jusqu'au soir, le temps est couvert et orageux. En cours d'après-midi, les averses sont plus fréquentes.
+Les plus forts cumuls de pluie attendus sont de 20 millimètres sur le Beauvaisis et le Clermontois.
 Vent modéré, de Sud.
-Températures maximales : de 23 à 26 degrés, et 22 degrés sur le pays de Bray et la Picardie verte.
+Températures maximales : de 22 à 23 degrés.
 
 • Pour la nuit prochaine :
-En début de nuit, les nuages sont très nombreux, et de faibles pluies se produisent par places. Les éclaircies reviennent dès le milieu de nuit sur le Vexin français et le pays de Thelle ainsi que sur une large moitié Nord du département, puis se généralisent.
-Vent variable, faible.
+En début de nuit, les nuages sont très nombreux, et de faibles pluies se produisent par places. Les éclaircies reviennent dès le milieu de nuit sur le Valois Multien ainsi que du Vexin français au Plateau Picard, puis se généralisent.
+On prévoit au maximum jusqu'à 15 millimètres de pluie sur le Valois Multien.
+En début de nuit, vent d'Ouest-Sud-Ouest soufflant modérément, sur le Valois Multien ; puis atténuation.
 Températures minimales : comprises entre 12 et 14 degrés.
 
 • Pour demain jeudi 01 octobre en journée et la nuit suivante :
 Les éclaircies, déjà belles le matin, se font de plus en plus larges, et l'après-midi est très ensoleillée. Pour la nuit : La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit sur le Compiégnois et le Noyonnais.
-Vent d'Ouest modéré, jusqu'en milieu d'après-midi ; puis s'atténuant.
-Températures maximales pour le jour : entre 20 et 22 degrés.
-Températures minimales pour la nuit suivante : entre 7 et 9 degrés, et 5 degrés sur le Plateau Picard.
+Vent d'Ouest, modéré, jusqu'en milieu d'après-midi ; puis atténuation.
+Températures maximales pour le jour : de 19 à 21 degrés.
+Températures minimales pour la nuit suivante : entre 6 et 9 degrés.
 
 • Pour la journée de vendredi 02 et la nuit suivante :
-Le soleil règne presque en maître du matin au soir, seuls quelques passages nuageux le contrarient un peu en fin de journée. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
-Vent faible, variable.
-Températures maximales pour le jour : de 21 à 22 degrés.
+La matinée est ensoleillée. Le ciel se voile l'après-midi. Pour la nuit : Le ciel est voilé, mais laisse apparaître les étoiles.
+Vent variable, faible.
+Températures maximales pour le jour : entre 20 et 22 degrés.
 Températures minimales pour la nuit suivante : comprises entre 6 et 9 degrés.
 
 • Pour la journée de samedi 03 :
-Un voile nuageux filtre le soleil.
-Vent variable, faible.
-Températures maximales : de 20 à 23 degrés.
+Les nuages élevés sont omniprésents, mais l'ambiance reste lumineuse.
+Vent faible, variable.
+Températures maximales : comprises entre 20 et 22 degrés.
 
 • Pour dimanche 04 et lundi 05 :
 Beau temps sec et bien ensoleillé.
@@ -251,44 +253,45 @@ Températures minimales : stables.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL AISNE (DEPT02) ===
-Emis le : 30/09/2026 09:30
+Emis le : 30/09/2026 12:30
 
 Vigilance :
 Attention, aujourd'hui, le département de l'Aisne est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 09h :
-A Aulnoy-sous-Laon : température de 21 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 15 km/h.
+Aujourd'hui on observait à 12h :
+A Aulnoy-sous-Laon : température de 22 degrés, vent de secteur Sud-Est soufflant jusqu'à 10 km/h, cumul de précipitations en 12h : 1 mm.
 
 Prévisions pour les tout prochains jours :
 
-• Pour aujourd'hui mercredi 30 :
-Le matin, les nuages, peu nombreux, laissent passer le soleil. Puis, progressivement, le ciel devient plus gris, et des averses se produisent ici ou là.
-Vent modéré, de Sud.
-Températures maximales : entre 25 et 28 degrés. Ces températures sont au-dessus des valeurs de saison, localement très au-dessus.
+• Pour cet après-midi :
+En début d'après-midi, des pluies éparses tombent, sur le Vermandois. Ensuite, le temps pluvieux se généralise et des orages sont possibles.
+Les plus forts cumuls de pluie peuvent avoisiner 5 millimètres sur le Vermandois.
+Vent de Sud, généralement modéré.
+Températures maximales : comprises entre 24 et 27 degrés. Ces températures se situent au-dessus des valeurs de saison, par endroits bien au-dessus.
 
 • Pour la nuit prochaine :
-Le ciel est couvert. Quelques averses tombent en soirée. Elles cessent après minuit. Le ciel reste bâché, en fin de nuit, avec des brumes qui peuvent se former localement.
-Les plus forts cumuls de pluie peuvent avoisiner 10 millimètres sur la Champagne crayeuse.
-En début de nuit, vent de Sud à Sud-Ouest, localement modéré. Nouveau renforcement en fin de nuit, sur le Tardenois, avec orientation à l'Ouest-Sud-Ouest.
-Températures minimales : comprises entre 13 et 15 degrés.
+En début de nuit, des averses localement orageuses se produisent. Ensuite, le risque orageux disparaît et les averses se font plus rares. En seconde partie de nuit, le temps devient sec et les étoiles se montrent un peu entre les nombreux nuages. Des brumes ou de légers brouillards se forment, sur la Thiérache ainsi que sur le Tardenois.
+On prévoit au maximum jusqu'à 20 millimètres de pluie sur la Thiérache.
+Vent de Sud à Sud-Ouest, généralement modéré, en première partie de nuit ; puis atténuation.
+Températures minimales : de 13 à 15 degrés.
 
 • Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Un voile nuageux masque temporairement le soleil, qui devient plus franc en fin de journée. Pour la nuit : Les nuages laissent une large place aux étoiles en cours de nuit. Attention toutefois, car avant l'aube, des bancs de brouillards se développent sur le Vermandois.
-En seconde partie de journée, vent s'établissant à l'Ouest, généralement modéré ; puis atténuation.
-Températures maximales pour le jour : de 21 à 22 degrés.
-Températures minimales pour la nuit suivante : de 8 à 10 degrés.
+Les nuages et les éclaircies se partagent le ciel, qui se dégage en fin de journée. Pour la nuit : La nuit est belle. En fin de nuit, à la faveur des éclaircies nocturnes, des brumes et brouillards se forment sur les trois quarts Nord du département.
+Etablissement, en seconde partie de journée, d'un vent d'Ouest, généralement modéré ; atténuation ensuite.
+Températures maximales pour le jour : comprises entre 20 et 22 degrés.
+Températures minimales pour la nuit suivante : entre 7 et 9 degrés.
 
 • Pour la journée de vendredi 02 et la nuit suivante :
-L'ensoleillement est excellent et le soleil règne sans partage. Pour la nuit : Le ciel de la nuit, d'abord clair, va peu à peu se voiler, mais les éclaircies restent belles.
-Vent variable, faible.
-Températures maximales pour le jour : de 21 à 23 degrés.
-Températures minimales pour la nuit suivante : comprises entre 7 et 10 degrés.
+Après dissipation des brouillards sur le Vermandois, le soleil brille partout toute la journée. En fin de journée, le ciel se voile. Pour la nuit : Le ciel est généralement voilé.
+Vent faible, variable.
+Températures maximales pour le jour : entre 21 et 23 degrés.
+Températures minimales pour la nuit suivante : de 7 à 10 degrés.
 
 • Pour la journée de samedi 03 :
-Les nuages élevés sont omniprésents, mais l'ambiance reste lumineuse.
-À la tombée du jour, vent de Nord modéré, sur la Thiérache.
-Températures maximales : comprises entre 22 et 24 degrés.
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable.
+Vent variable, faible.
+Températures maximales : entre 21 et 23 degrés.
 
 • Pour dimanche 04 et lundi 05 :
 Le soleil brille généreusement.
@@ -315,10 +318,16 @@ FQCT40 LFQQ 300935 Origine Météo-France . Bulletin côtier pour la bande des 2
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (J+2 et J+3) :
-Poursuite de fortes chaleurs sur une grande partie du pays. Risque d'orages localisés sur les régions centrales et le nord.
+J+2 et J+3 ﻿Des orages devraient concerner le relief surtout samedi mais 
+le risque est réduit par rapport au scénario de la veille et la 
+probabilité de Vigilance orange est désormais quasi nulle.
 
 • Bulletin Officiel Météo-France « Prochains Jours » (De J+4 à J+7) :
-Baisse progressive des températures par l'ouest et le nord. Maintien d'un risque d'orages d'évolution diurne et de chaleur résiduelle au sud-est.
+De J+4 à J+7 ﻿Le risque d'orage indiqué hier perdure sur le sud-ouest 
+dimanche mais avec une probabilité quasi nulle de Vigilance 
+orange.
+Pas de phénomène météorologique dangereux prévu 
+ensuite.
 
 === RISQUE D'ORAGES & INDICES CONVECTIFS (KERAUNOS, BLITZORTUNG, METEOTEL XML) ===
 • Blitzortung / Keraunos : Détection des impacts de foudre en temps réel (Token 0). Indice de convection CAPE/LI sous surveillance.
@@ -330,12 +339,12 @@ Baisse progressive des températures par l'ouest et le nord. Maintien d'un risqu
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - Septembre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Septembre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 30/09/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -343,9 +352,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mercredi 30 Septembre 2026.
-Résumé général HDF précédent : Anticyclone dominant sur le nord de l'Europe. Dégradation orageuse mercredi 30 puis temps sec et lumineux. Douceur persistante, légère baisse thermique en semaine 2. Possible déblocage en toute fin d'échéance, très incertain..
+Résumé général HDF précédent : .
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses parfois orageuses mercredi, éclaircies ensuite ; cumuls hétérogènes, localement notables..
+Températures attendues précédemment : Vigilance jaune orages et pluie-inondation, fortes averses possibles, vent de Sud à Sud-Est. (116 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 30 Septembre au Dimanche 4 Octobre 2026) ===
@@ -548,7 +557,7 @@ Message:
 Il y a 3 heures, ggdu19 a dit :
 			On est sur une sorte de marais barométrique plutôt qu'une situation fortement anticyclonique. Du coup, malgré un champ de pression à 1025 hpa, il peut pleuvoir 😉
 	Du coup ça semblait plus être une exagération de GFS qui ne voit pratiquement plus rien et c était bien normal. Un marais barométrique tourne autour de 1015hpa. Là on est un peux haut 😝. 
-	Modifié il y a 22 heures par stormigen
+	Modifié hier à 11:42 par stormigen
 
 =======================
 
@@ -564,7 +573,9 @@ Il y a 3 heures, stormigen a dit :
 Auteur: Virgile
 Message:
 quelle nuit tropicale sur la France tout ca un 30 septembre!!!
-								5
+								7
+								3
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: tao
@@ -741,7 +752,7 @@ Message:
 	rien à voir là-dedans...
 								1
 								1
-								1
+								2
 
 =======================
 
@@ -760,7 +771,7 @@ GFS nous propose un anticyclone à perte de vue et donc jusqu'à la fin du prés
 	Eté exceptionnel et automne exceptionnel.
 	Sinon, les prévisions saisonnières de la Chaîne Météo tiennent globalement la route. Elles envisagent un anticyclone tout le mois d'octobre et le retour des dépressions qu'en novembre.
 								1
-								2
+								3
 
 =======================
 
@@ -778,5 +789,8 @@ Le 27/09/2026 à 20:34, tao a dit :
 	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
 	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
 	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
-	Modifié il y a 22 minutes par thib91
+	Modifié il y a 4 heures par thib91
+								5
+								1
+								1
 								1
