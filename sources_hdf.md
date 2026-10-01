@@ -330,12 +330,11 @@ en Vigilance Orange est faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
+• Infoclimat Direct : Suivi de l'englacement au p&#xF4;le nord
+• Infoclimat Direct : WSwin et Awekas
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
+• Infoclimat Direct : Suivi de la secheresse
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 01/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -343,9 +342,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 1 Octobre 2026.
-Résumé général HDF précédent : Sur 15 jours, douceur anormale persistante, pas de froid durable, alternance de flux ouest/sud-ouest, quelques averses, échéance plus indécise à partir du 5-7 octobre..
+Résumé général HDF précédent : Sur la période des 15 jours à venir, les Hauts-de-France restent sous l'influence d'un anticyclone dominant, avec un temps sec et très doux pour la saison. Une seule dégradation pluvieuse est envisagée en milieu de semaine 2, mais elle ne semble pas marquer un changement durable de régime..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses littorales, rafales SO 30 km/h, cumuls 0-3 mm, mer peu agitée..
+Températures attendues précédemment : Temps généralement ensoleillé avec voile nuageux possible, très faible risque d'averses, brouillards matinaux localisés..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 1 au Dimanche 4 Octobre 2026) ===
@@ -567,35 +566,6 @@ Elle est bien belle cette depression ! 
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: tao
-Message:
-Bonsoir,
-	la semaine en question devrait se dérouler sous un régime de blocage:
-	Une fois ce chapitre écrit, nous pourrions refermer le livre et prendre notre mal en patience. Un chapitre comporte plusieurs pages, et un régime de circulation n'est pas une caricature stable et immuable. Ce régime de blocage ne sera pas forcément sec, chaud et marqué par un vent venu de l'est. Des aménagements restent possibles voire probables au fil des pages:
-	La variable d'ajustement pourrait se situer dans la latitude de l'amas de hauts géopotentiels et de la circulation éventuelle d'anomalies basses dans les parages du bassin méditerranéen. Il s'agit d'une éventualité soumise au conditionnel mais qui pourrait, sur la partie sud du pays, donner une saveur particulière à ce régime de blocage. Cette hypothèse qui n'est pas majoritaire est soutenue depuis des semaines par les ensemblistes européens sub saisonniers. Si c'est un essai en coin, il faudra un bon botteur pour le transformer. Ceci dit ce serait pleinement une configuration de saison qui présenterait l'avantage d'être moins morne qu'une nouvelle semaine sèche et stable.
-	Modifié dimanche à 18:37 par tao
-								19
-								12
-
-=======================
-
-Auteur: Krholam
-Message:
-On garde espoir que les choses bougent. La Cyclogenese sur l’atlantique est bien en marche avec un systeme depressionnaire qui pourrait se former entre le Labrador et le Groenland
-	A voir si ça sera suffisant pour faire bouger les HP sur nous
-								4
-
-=======================
-
-Auteur: nickdu77
-Message:
-C'est effectivement tangent. CEPS semble plutôt voir - hélas - le machin passer au nord. On commence à a voir l'habitude mais, comme c'est encore lointain, rien n'est joué. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? Et plus généralement, vais-je passer Noël en T-shirt? Est-ce que je dois mettre une photo de renne sur un de mes T-shirt pour le réveillon?
-								4
-								2
-								4
-
-=======================
-
 Auteur: giec 2100
 Message:
 Il y a 3 heures, nickdu77 a dit :
@@ -718,7 +688,7 @@ Il y a 1 heure, giec 2100 a dit :
 	On remarquera aussi une possibilité d'un creusement en méditerranée. 
 	De l'air plus frais pourrait commencer à s'infiltrer par le nord :
 	Modifié mardi à 09:29 par petit âge glaciaire 11
-								5
+								6
 								2
 								2
 								1
@@ -798,8 +768,19 @@ Oui, il y a eu un peu d'évolution ici. La propagation rétrograde du blocage es
 Auteur: Plancher
 Message:
 Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
+								2
 								1
-								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a 46 minutes, Plancher a dit :
+			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
+	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
+	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
+	Modifié il y a 2 heures par giec 2100
+								2
 
 =======================
 
@@ -807,4 +788,37 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 8 minutes par edel
+	Modifié il y a 2 heures par edel
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Ok. Mais comment expliquer de tels niveaux de températures quasiment à la fin de la première décade d'octobre sans flux de Sud ?
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a une heure, Plancher a dit :
+			Ok. Mais comment expliquer de tels niveaux de températures quasiment à la fin de la première décade d'octobre sans flux de Sud ?
+	nous sommes plutôt sous l'influence de la grosse réserve d'air chaud de la zone intertropicale, la zone polaire restant à recharger en air froid, la baisse de la durée du jour aidant au processus :
+	hypothèse perso à défendre, comme dans les ZAD...
+	https://images.meteociel.fr/im/22/1104/animwks4.gif
+	à méso-échelle on a aussi la courbure des isobares autour des anticyclones ou des dorsales, qui déboulent sans arrêt sur le pays, nous fabriquant ces flux de S à SW :
+	https://images.meteociel.fr/im/91/7803/animnvd3.gif
+	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
+	régime infect...
+	Modifié il y a 1 heure par giec 2100
+								1
+
+=======================
+
+Auteur: Nicolas L
+Message:
+Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre. 
+	GEM ce matin faisait entrer la pluie par le Nord du pays à partir du 7 Octobre. 
+	ICON également avec un temps humide dès le 7 Octobre. On voit par la suite que la zone barocline commencerait à descendre vers le sud.
+	Les signaux ne sont pas majoritaires, mais bien présents quand même. Nous ne sommes pas sur un scénario de blocage à n’en plus finir jusqu’à la fin des runs, ce qui laisse quand même un espoir. 
+								2
