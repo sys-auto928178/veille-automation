@@ -279,7 +279,7 @@ Températures minimales : en baisse sur les trois quarts Sud du département, ai
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 010950 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 1 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 1 octobre 2026 à 06H00 UTC, et évolution Dépression 965 hPa au sud-ouest immédiat de l'Islande, s'évacuant vers le nord-ouest. Flux d'Ouest à Sud-Ouest modéré associé sur la Manche. Anticyclone 1028 hPa au nord-est des Açores, se décalant vers le nord-est, prévu 1031 hPa sur le nord de la France cette nuit, puis 1033 hPa sur le nord de l'Allemagne demain à la mi-journée, dorsale associée vers la Bretagne. 3 - Prévisions pour l'après-midi du jeudi 1 octobre VENT : Ouest à Sud-Ouest fraîchissant 4 à 5. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : devenant ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du jeudi 1 octobre au vendredi 2 octobre VENT : Ouest à Sud-Ouest 4 à 5, mollissant 2 à 4 en seconde partie de nuit. MER : s'atténuant peu agitée, puis belle à peu agitée en fin de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : ciel clair à peu nuageux, passages nuageux en fin de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du vendredi 2 octobre VENT : revenant Sud à Sud-Ouest 3 à 4, puis mollissant progressivement 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : peu nuageux, passages nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Sud à Sud-Est 2 à 3, devenant Variable 1 à 3 à la mi-journée. MER : belle en mer du nord, belle à peu agitée en Manche. HOULE : devenant non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : Variable 1 à 3. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Lundi 5 octobre Est faible à modéré sur la pointe bretonne, Sud-Ouest faible à modéré en Mer du Nord. Indice de confiance : 3 sur 5 Mardi 6 octobre Est faible à modéré sur la pointe bretonne, Sud-Ouest faible à modéré en Mer du Nord. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Nord faible à modéré. Indice de confiance : 2 sur 5 Jeudi 8 octobre Secteur Nord faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le jeudi 1 octobre 2026 à 09H00 UTC Dunkerque : vent Ouest-Sud-Ouest 6 noeuds, 1022 hPa en hausse. Cap Gris Nez : vent Ouest-Sud-Ouest 16 noeuds. Boulogne : vent Ouest-Sud-Ouest 8 noeuds, 1022 hPa en hausse, clair ou peu nuageux, visibilité 8 milles. Prochain bulletin le jeudi 1 octobre 2026, vers 18H00 légales
+FQCT40 LFQQ 011615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 1 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 1 octobre 2026 à 12H00 UTC, et évolution Dépression 972 hPa à l'ouest immédiat de l'Islande, s'évacuant vers l'ouest en se comblant. Anticyclone 1028 hPa des Açores au golfe de Gascogne, se décalant vers le nord-est, prévu 1031 hPa sur le nord de la France cette nuit, puis 1033 hPa sur le nord de l'Allemagne demain à la mi-journée, dorsale associée vers la Bretagne. 3 - Prévisions pour la nuit du jeudi 1 octobre au vendredi 2 octobre VENT : Ouest à Sud-Ouest 4 à 5, mollissant 3 à 4 en milieu de nuit, puis 2 à 3 en fin de nuit. MER : s'atténuant peu agitée, puis belle à peu agitée en fin de nuit. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : ciel clair à peu nuageux, passages nuageux en fin de nuit. VISIBILITE : bonne. 4 - Prévisions pour la journée du vendredi 2 octobre VENT : revenant Sud à Sud-Ouest 3 à 4, puis mollissant progressivement 1 à 3 l'après-midi. MER : belle à peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : peu nuageux, passages nuageux l'après-midi. VISIBILITE : bonne. 5 - Tendance pour la nuit du 2 au 3, et la journée du samedi 3 octobre VENT : revenant Sud à Sud-Est 2 à 3, puis devenant Variable 1 à 3 à la mi-journée. MER : belle en mer du Nord, belle à peu agitée en Manche. HOULE : devenant non significative. TEMPS : peu nuageux à nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : Variable 1 à 3. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Lundi 5 octobre Est faible à modéré sur la pointe bretonne, Sud-Ouest faible à modéré en Mer du Nord. Indice de confiance : 3 sur 5 Mardi 6 octobre Est faible à modéré sur la pointe bretonne, Sud-Ouest faible à modéré en Mer du Nord. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Nord faible à modéré. Indice de confiance : 2 sur 5 Jeudi 8 octobre Secteur Nord faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le jeudi 1 octobre 2026 à 15H00 UTC Dunkerque : vent Ouest 12 noeuds, mer belle, 1025 hPa en hausse, nuageux avec éclaircies, visibilité 5 milles. Cap Gris Nez : vent Ouest-Sud-Ouest 17 noeuds. Boulogne : vent Ouest-Sud-Ouest 10 noeuds, 1026 hPa en hausse. Bouée Sandettie : vent Sud-Ouest 17 noeuds, creux 0,4 mètre, 1025 hPa en baisse, visibilité 10 milles. Prochain bulletin le vendredi 2 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -305,12 +305,12 @@ en Vigilance Orange est faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Recensement des tornades en France
-• Infoclimat Direct : Production d'électricité renouvelable et météo
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Le topic du Jardinage
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 01/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -318,9 +318,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 1 Octobre 2026.
-Résumé général HDF précédent : Sur l’ensemble des deux semaines (1er au 11 octobre), les Hauts-de-France restent dominés par un temps sec, ensoleillé et anormalement doux, avec une seule dégradation pluvieuse possible autour du 7 octobre, suivie d’un net fléchissement thermique sans retour durable aux normales..
+Résumé général HDF précédent : Du 1er au 15 octobre, prédominance des hautes pressions sur l’Atlantique et l’Europe ; la région HDF reste sous un flux de sud-ouest sec et doux. Une dégradation est possible autour du 7-8 octobre, avec un net recul des températures, mais sans retour durable à un temps perturbé..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses isolées sur Valenciennois, Cambrésis, Vermandois ; brouillards matinaux possibles..
+Températures attendues précédemment : Ciel voilé puis ensoleillé, brumes matinales, pas de pluie..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 1 au Dimanche 4 Octobre 2026) ===
@@ -738,6 +738,7 @@ Oui, il y a eu un peu d'évolution ici. La propagation rétrograde du blocage es
 	Le talweg devrait concerner le pays, donc vers mercredi ; on surveillera évidemment le bassin méditerranéen dans ces conditions (sur toute la semaine, d'ailleurs). Même si le talweg circulerait, les modèles réagissent sensiblement sur la zone et, même dès lundi, certains comme ARPEGE ou GEM voient les prémices de la formation d'un médicane entre Baléares, Corse et continent ; c'était le cas d'UKMO hier soir. L'isolation du talweg en cut-off n'est pas exclue pour la seconde partie de semaine.
 	Pour le reste du pays, notamment le Nord et l'humidité, le signal de fond reste sec, malheureusement ; l'AA serait trop proche de nous avec une tendance à un flux de NO anticyclonique. Quelques possibilités d'humidité, mais cela reste bien mince pour l'instant ; il conviendra de voir l'évolution de l'AA (retrait et amplitude) : le nord du continent devrait se libérer des HG mais le jet n'a pas l'air de vouloir descendre en latitude encore pour autant.
 								4
+								1
 
 =======================
 
@@ -756,8 +757,8 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 4 heures par giec 2100
-								2
+	Modifié il y a 6 heures par giec 2100
+								3
 
 =======================
 
@@ -765,7 +766,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 4 heures par edel
+	Modifié il y a 6 heures par edel
 								1
 
 =======================
@@ -787,7 +788,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
 								2
 
 =======================
@@ -798,5 +799,5 @@ Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce 
 	GEM ce matin faisait entrer la pluie par le Nord du pays à partir du 7 Octobre. 
 	ICON également avec un temps humide dès le 7 Octobre. On voit par la suite que la zone barocline commencerait à descendre vers le sud.
 	Les signaux ne sont pas majoritaires, mais bien présents quand même. Nous ne sommes pas sur un scénario de blocage à n’en plus finir jusqu’à la fin des runs, ce qui laisse quand même un espoir. 
-								3
+								5
 								2

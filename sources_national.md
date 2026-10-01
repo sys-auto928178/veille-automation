@@ -288,7 +288,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse sur la plaine et le piémont.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 011005 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 1 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 1 octobre 2026 à 06H00 UTC, et évolution Hautes pressions 1023 hPa sur la Mer Tyrrhénienne. Dépression relative 1019 hPa sur Roussillon, balayant le Golfe du Lion l'après-midi, puis se comblant la nuit. 3 - Prévisions pour l'après-midi du jeudi 1 octobre VENT : - à l'ouest du Levant : Nord à Nord-Est 3 à 5. Rafales, fortes sous orages. - à l'est du Levant : Est à Nord-Est 4 à 5, mollissant secteur Est 2 à 4 en fin de journée. MER : peu agitée à agitée. HOULE : Sud 0.5 à 1 m. TEMPS : averses orageuses, s'améliorant progressivement par l'ouest l'après-midi. VISIBILITE : bonne, mais localement mauvaise sous averses. 4 - Prévisions pour la nuit du jeudi 1 octobre au vendredi 2 octobre VENT : - à l'ouest du Cap Croisette : secteur Nord 4 à 5, parfois 6 au large de la Camargue en seconde partie de nuit. - à l'est du Cap Croisette : Est à Nord-Est 3 à 4, parfois 5. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : rares averses à l'est du Cap Sicié en première partie de nuit. VISIBILITE : bonne, mais localement moyenne sous averses. 5 - Prévisions pour la journée du vendredi 2 octobre VENT : - à l'ouest du Cap Croisette : Nord à Nord-Est 3 à 5, mollissant secteur Est 2 à 4 l'après-midi. - à l'est de Cap Croisette : secteur Nord-Est 3 à 4, virant secteur Est parfois 5 dans l'après-midi. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m à l'ouest de Cap Croisette. TEMPS : quelques averses parfois orageuses. VISIBILITE : bonne, mais localement moyenne sous averses orageuses. 6 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : secteur Est 3 à 4,fraîchissant 4 à 5 en seconde partie de nuit. MER : peu agitée, devenant peu agitée à agitée en matinée. HOULE : devenant non significative. TEMPS : pluie ou averses, parfois orageuses, s'améliorant progressivement par l'est l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : Est 3 à 4, parfois 5 de Port Camargue à la Ciotat. MER : peu agitée, localement agitée de Port Camargue à Marseille. HOULE : De Port Camargue à Camarat houle de Sud-Est 0,5 à 1 m, s'amplifiant 1 à 1,5 m en milieu d'après-midi de Port Camargue à Marseille. De Camarat à St Raphaël houle de Nord-Est 0,5 à 1 m, s'orientant en début de nuit au Sud. 8 - Tendance pour les jours suivants Lundi 5 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Sud-Est faible à modéré dans le Golfe de Gascogne, Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud faible à modéré. Indice de confiance : 2 sur 5 Jeudi 8 octobre Nord-Ouest modéré à assez fort dans le Golfe de Gascogne, Sud-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 9 - Observations le jeudi 1 octobre 2026 à 09H00 UTC Cap Camarat : vent Nord-Nord-Ouest 8 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est-Nord-Est 6 noeuds, 1024 hPa en hausse. Porquerolles : vent Est-Nord-Est 6 noeuds, rafales 17 noeuds. Cap Couronne : vent Nord-Est 6 noeuds. Prochain bulletin le jeudi 1 octobre 2026, vers 18H30 légales
+FQCT40 LFML 011615 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 1 octobre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale jeudi 1 octobre 2026 à 12H00 UTC, et évolution Hautes pressions 1023 sur la Mer Tyrrhénienne. Dépression orageuse relative 1021 hPa à l'ouest de la Corse, quasi-stationnaire. 3 - Prévisions pour la nuit du jeudi 1 octobre au vendredi 2 octobre VENT : - à l'ouest de la Ciotat : secteur Nord 3 à 4, fraîchissant 4 à 5 à l'ouest de Beauduc en seconde partie de nuit. - à l'est de la Ciotat : Est à Nord-Est 3 à 4, fraîchissant parfois 5 vers le large en seconde partie de nuit. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : pluie ou averses à l'est du Cap Croisette en première partie de nuit. VISIBILITE : bonne, mais localement moyenne sous averses. 4 - Prévisions pour la journée du vendredi 2 octobre VENT : - à l'ouest du Cap Croisette : Nord à Nord-Est 4 à 5, mollissant secteur Est 2 à 4 l'après-midi. - à l'est de Cap Croisette : secteur Nord-Est 3 à 4, virant secteur Est parfois 5 dans l'après-midi. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m à l'ouest de Cap Croisette. TEMPS : quelques averses parfois orageuses. VISIBILITE : bonne, mais localement moyenne sous averses orageuses. 5 - Tendance pour la nuit du 2 au 3, et la journée du samedi 3 octobre VENT : secteur Est 2 à 4, fraîchissant 4 à 5 en seconde partie de nuit, parfois 6. MER : peu agitée, devenant peu agitée à agitée en matinée. HOULE : devenant non significative. TEMPS : pluie ou averses, parfois orageuses, s'améliorant progressivement par l'est l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : Est 3 à 4, parfois 5 de Port Camargue à la Ciotat. MER : peu agitée, localement agitée de Port Camargue à Marseille. HOULE : De Port Camargue à Camarat houle de Sud-Est 0,5 à 1 m, s'amplifiant 1 à 1,5 m en milieu d'après-midi de Port Camargue à Marseille. De Camarat à St Raphaël houle de Nord-Est 0,5 à 1 m, s'orientant en début de nuit au Sud. 7 - Tendance pour les jours suivants Lundi 5 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Sud-Est faible à modéré dans le Golfe de Gascogne, Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud faible à modéré. Indice de confiance : 2 sur 5 Jeudi 8 octobre Nord-Ouest modéré à assez fort dans le Golfe de Gascogne, Sud-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 8 - Observations le jeudi 1 octobre 2026 à 15H00 UTC Cap Camarat : vent Nord-Nord-Est 6 noeuds, très nuageux à couvert, visibilité 5 milles. Le Levant : vent Nord-Est 6 noeuds, 1024 hPa en baisse. Porquerolles : vent Est-Nord-Est 6 noeuds, rafales 19 noeuds. Cap Couronne : vent Nord-Nord-Est 4 noeuds, mer peu agitée, visibilité 8 milles. Prochain bulletin le vendredi 2 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -314,12 +314,12 @@ en Vigilance Orange est faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Recensement des tornades en France
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Production d'électricité renouvelable et météo
 • Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 01/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -327,9 +327,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 1 Octobre 2026.
-Résumé général précédent : .
+Résumé général précédent : Deux semaines contrastées : période 1 stable et anticyclonique, période 2 plus incertaine avec une dégradation possible en milieu de semaine, puis probable retour d'un temps sec et doux. La douceur reste le fil conducteur..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Risque de pluies faibles malgré la pression élevée, surtout près des reliefs..
+Températures attendues précédemment : Plutôt sec, ciel voilé, averses localisées possibles sur l'arc méditerranéen..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 1 au Dimanche 4 Octobre 2026) ===
@@ -747,6 +747,7 @@ Oui, il y a eu un peu d'évolution ici. La propagation rétrograde du blocage es
 	Le talweg devrait concerner le pays, donc vers mercredi ; on surveillera évidemment le bassin méditerranéen dans ces conditions (sur toute la semaine, d'ailleurs). Même si le talweg circulerait, les modèles réagissent sensiblement sur la zone et, même dès lundi, certains comme ARPEGE ou GEM voient les prémices de la formation d'un médicane entre Baléares, Corse et continent ; c'était le cas d'UKMO hier soir. L'isolation du talweg en cut-off n'est pas exclue pour la seconde partie de semaine.
 	Pour le reste du pays, notamment le Nord et l'humidité, le signal de fond reste sec, malheureusement ; l'AA serait trop proche de nous avec une tendance à un flux de NO anticyclonique. Quelques possibilités d'humidité, mais cela reste bien mince pour l'instant ; il conviendra de voir l'évolution de l'AA (retrait et amplitude) : le nord du continent devrait se libérer des HG mais le jet n'a pas l'air de vouloir descendre en latitude encore pour autant.
 								4
+								1
 
 =======================
 
@@ -765,8 +766,8 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 4 heures par giec 2100
-								2
+	Modifié il y a 6 heures par giec 2100
+								3
 
 =======================
 
@@ -774,7 +775,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 4 heures par edel
+	Modifié il y a 6 heures par edel
 								1
 
 =======================
@@ -796,7 +797,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
 								2
 
 =======================
@@ -807,5 +808,5 @@ Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce 
 	GEM ce matin faisait entrer la pluie par le Nord du pays à partir du 7 Octobre. 
 	ICON également avec un temps humide dès le 7 Octobre. On voit par la suite que la zone barocline commencerait à descendre vers le sud.
 	Les signaux ne sont pas majoritaires, mais bien présents quand même. Nous ne sommes pas sur un scénario de blocage à n’en plus finir jusqu’à la fin des runs, ce qui laisse quand même un espoir. 
-								3
+								5
 								2
