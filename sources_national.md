@@ -333,9 +333,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 1 Octobre 2026.
-Résumé général précédent : Blocage anticyclonique persistant sur l'Europe de l'Ouest : temps sec, très doux et souvent ensoleillé jusqu'au 11 octobre. Les températures restent au-dessus des normales, avec un repli progressif en seconde semaine. Précipitations limitées à de courts épisodes localisés, surtout sur le nord-ouest, le sud-ouest et la Méditerranée..
+Résumé général précédent : Sur les 15 jours à venir, tendance anticyclonique sur une grande partie de l'Europe de l'ouest, avec des hautes pressions entre l'Atlantique nord et l'Europe continentale. Le signal est encore fragile et minoritaire dans les modèles..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies modérées sur le nord-ouest et le sud-est, puis retour au sec pour la fin de semaine..
+Températures attendues précédemment : Orages, vigilance, pluies méditerranéennes, chaleur nocturne, baisse thermique..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 1 au Dimanche 4 Octobre 2026) ===
@@ -768,7 +768,7 @@ Le 27/09/2026 à 20:34, tao a dit :
 	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
 	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
 	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
-	Modifié il y a 16 heures par thib91
+	Modifié il y a 18 heures par thib91
 								7
 								1
 								1
