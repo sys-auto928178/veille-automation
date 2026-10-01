@@ -307,10 +307,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Le topic du Jardinage
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 01/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -318,9 +318,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 1 Octobre 2026.
-Résumé général HDF précédent : Du 1er au 15 octobre, prédominance des hautes pressions sur l’Atlantique et l’Europe ; la région HDF reste sous un flux de sud-ouest sec et doux. Une dégradation est possible autour du 7-8 octobre, avec un net recul des températures, mais sans retour durable à un temps perturbé..
+Résumé général HDF précédent : Sur la période des 15 jours, la région Hauts-de-France connaîtra un temps anticyclonique sec et doux jusqu'au 6 octobre, suivi d'une dégradation modérée avec pluies faibles et baisse des températures du 7 au 10, avant un possible retour d'un temps plus sec mais frais en fin de période..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Ciel voilé puis ensoleillé, brumes matinales, pas de pluie..
+Températures attendues précédemment : Temps calme, ciel voilé à ensoleillé, brumes matinales, températures au-dessus des normales de 3 à 5°C..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 1 au Dimanche 4 Octobre 2026) ===
@@ -542,28 +542,6 @@ Elle est bien belle cette depression ! 
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-Il y a 3 heures, nickdu77 a dit :
-			. Ce qui m'intrigue aussi, c'est ce qu'il y a au large du Portugal. C'est moi qui fait une fixette ou ça ressemble à une goutte froide? 
-	bien que ça soit lointain, en fin d'échéance, ça pourrait annoncer... un déblocage : 
-	 mais l'expérience des foirades en la matière est tellement fournie que l'on va gentiment patienter au frais... 
-								3
-								1
-
-=======================
-
-Auteur: symaski62
-Message:
-oh   brrrrr    🥶       wow   😱     prochaine   je froide     
-								5
-								4
-								2
-								1
-								2
-
-=======================
-
 Auteur: nickdu77
 Message:
 il y a 50 minutes, symaski62 a dit :
@@ -757,7 +735,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								3
 
 =======================
@@ -766,7 +744,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 6 heures par edel
+	Modifié il y a 8 heures par edel
 								1
 
 =======================
@@ -788,7 +766,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 5 heures par giec 2100
+	Modifié il y a 7 heures par giec 2100
 								2
 
 =======================
@@ -799,5 +777,23 @@ Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce 
 	GEM ce matin faisait entrer la pluie par le Nord du pays à partir du 7 Octobre. 
 	ICON également avec un temps humide dès le 7 Octobre. On voit par la suite que la zone barocline commencerait à descendre vers le sud.
 	Les signaux ne sont pas majoritaires, mais bien présents quand même. Nous ne sommes pas sur un scénario de blocage à n’en plus finir jusqu’à la fin des runs, ce qui laisse quand même un espoir. 
-								5
+								6
 								2
+
+=======================
+
+Auteur: Plancher
+Message:
+Ce soir, c'est le match entre GFS et CEP. Le rouge vs le vert.
+	Il y a une grosse divergence dans les prévisions surtout à partir de jeudi.
+
+=======================
+
+Auteur: Paulo
+Message:
+Il y a 5 heures, Nicolas L a dit :
+			Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre. 
+	Une partie du pays certes, mais CEP ce soir n'est pas encourageant pour cette première décade en matière de précipitations pour les départements du Centre-Ouest très touchés par la sécheresse.
+	GFS est encore pire pour cette même échéance.
+								1
+								1
