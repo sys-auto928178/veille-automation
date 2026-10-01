@@ -15,285 +15,307 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL PARIS ET PETITE COURONNE (DEPT75) ===
-Emis le : 01/10/2026 00:30
+Emis le : 01/10/2026 06:30
 
 Vigilance :
-Attention, aujourd'hui, Paris et sa petite couronne sont en vigilance jaune pour le phénomène orages.
+Aujourd'hui et demain, Paris et sa petite couronne sont en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 00h :
-A Paris-Montsouris : température de 19 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 20 km/h, pression niveau mer 1017 hPa, cumul de précipitations en 12h : 15 mm.
-Au Jardin du Luxembourg : température de 20 degrés.
+Aujourd'hui on observait à 06h :
+A Paris-Montsouris : température de 17 degrés, vent de secteur Ouest soufflant jusqu'à 20 km/h, pression niveau mer 1020 hPa, cumul de précipitations en 12h : 10 mm.
+Au Jardin du Luxembourg : température de 18 degrés.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cette nuit :
-La soirée débute sous les orages. Le temps se calme ensuite pour laisser place à des averses plus ou moins intenses. Dans la nuit, le temps s'assèche à l'ouest ainsi que sur le nord et les nuages laissent parfois apercevoir les étoiles.
-On attend au maximum jusqu'à 15 millimètres de pluie à Orly.
-En début de nuit, vent de Sud-Sud-Ouest, modéré par endroits ; puis faiblissant.
-Températures minimales : entre 15 et 16 degrés.
+• Pour aujourd'hui jeudi 01 octobre :
+Si le soleil doit composer avec quelques petits nuages le matin, à l'extérieur de Paris, il s'impose finalement l'après-midi et règne en maître le reste de la journée.
+En début d'après-midi, établissement d'un vent d'Ouest, modéré par endroits ; puis atténuation.
+Températures maximales : comprises entre 21 et 22 degrés.
 
-• Pour demain jeudi 01 octobre en journée et la nuit suivante :
-La journée s'annonce très ensoleillée, malgré quelques nuages passagers, totalement inoffensifs, présents le matin, sur le sud-est. Pour la nuit : Le ciel est souvent clair, ce n'est qu'avant l'aube que quelques nuages viennent prendre un peu de place.
-En milieu d'après-midi, vent s'orientant Ouest-Nord-Ouest modéré, sur la Seine-Saint-Denis ; atténuation ensuite.
-Températures maximales pour le jour : de 21 à 22 degrés.
-Températures minimales pour la nuit suivante : de 10 à 12 degrés.
+• Pour la nuit prochaine :
+La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
+Vent variable, faible.
+Températures minimales : comprises entre 10 et 12 degrés.
 
-• Pour la journée de vendredi 02 et la nuit suivante :
-Le soleil est généralement voilé par des nuages. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
+• Pour demain vendredi 02 en journée et la nuit suivante :
+Le soleil est généralement voilé par des nuages. Pour la nuit : Le ciel est généralement voilé.
 Vent faible, variable.
-Températures maximales pour le jour : entre 21 et 22 degrés.
-Températures minimales pour la nuit suivante : comprises entre 10 et 12 degrés.
+Températures maximales pour le jour : de 21 à 22 degrés.
+Températures minimales pour la nuit suivante : entre 10 et 12 degrés.
 
-• Pour la journée de samedi 03 :
-Un voile nuageux filtre le soleil.
+• Pour la journée de samedi 03 et la nuit suivante :
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : Les quelques nuages de la soirée se font de plus en plus discrets en cours de nuit.
 Vent variable, faible.
-Températures maximales : de 22 à 24 degrés.
+Températures maximales pour le jour : entre 22 et 24 degrés.
+Températures minimales pour la nuit suivante : entre 10 et 12 degrés.
 
-• Pour dimanche 04 et lundi 05 :
-Temps généralement ensoleillé.
-Vent variable, faible.
-Températures minimales : entre 10 et 12 degrés.
-Températures maximales : proches de 22 degrés.
+• Pour la journée de dimanche 04 :
+L'ensoleillement est excellent et le soleil règne sans partage.
+Vent faible, variable.
+Températures maximales : de 23 à 25 degrés.
 
-• Pour mardi 06 et mercredi 07 :
-À l'ouest ainsi que sur le nord, risque de pluie de mercredi matin jusqu'à la mi-journée. Ailleurs, le soleil brille sans partage.
-Mercredi après-midi et en fin de journée, vent de Nord modéré, sur le Val de Marne.
-Températures minimales : entre 10 et 12 degrés.
-Températures maximales : de 21 à 23 degrés.
-
-• Pour jeudi 08 et vendredi 09 :
+• Pour lundi 05 et mardi 06 :
 Soleil prédominant.
-Jeudi en matinée et jusqu'à la mi-journée, vent de Nord-Nord-Ouest, modéré. Vendredi en matinée jusqu'à la mi-journée, le vent reprend par endroits, en s'orientant au Nord-Ouest.
-Températures minimales : en baisse sauf au sud.
+Vent faible, variable.
+Températures minimales : entre 10 et 12 degrés.
+Températures maximales : voisines de 23 degrés.
+
+• Pour mercredi 07 et jeudi 08 :
+Temps plutôt ensoleillé, en dépit de quelques passages nuageux, risque de pluie ou d'averses temporaire.
+Jeudi en matinée jusqu'à la mi-journée, vent de Nord, modéré.
+Températures minimales : voisines de 11 degrés.
+Températures maximales : proches de 20 degrés.
+
+• Pour vendredi 09 et samedi 10 :
+Soleil et ciel bleu prédominent.
+Samedi en matinée jusqu'à la mi-journée, vent de Sud-Ouest, souvent modéré.
+Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 01/10/2026 00:30
+Emis le : 01/10/2026 06:30
 
 Vigilance :
-Attention, aujourd'hui, le département des Bouches-du-Rhône est en vigilance orange pour le phénomène pluie-inondation et en vigilance jaune pour les phénomènes orages et crues.
+Attention, aujourd'hui, le département des Bouches-du-Rhône est en vigilance jaune pour les phénomènes pluie-inondation, orages et crues. Demain, il sera en vigilance jaune pour le phénomène crues.
 
 Observations :
-Aujourd'hui on observait à 00h :
-A Marignane : température de 21 degrés, vent de secteur Est soufflant jusqu'à 30 km/h, pression niveau mer 1022 hPa, cumul de précipitations en 12h : 7 mm.
-A Aix-en-Provence : température de 20 degrés, vent de secteur Est soufflant jusqu'à 20 km/h, cumul de précipitations en 12h : 5 mm.
+Aujourd'hui on observait à 06h :
+A Marignane : température de 20 degrés, vent de secteur Est soufflant jusqu'à 25 km/h, pression niveau mer 1022 hPa, cumul de précipitations en 12h : 25 mm.
+A Aix-en-Provence : température de 18 degrés, vent de secteur Est soufflant jusqu'à 25 km/h, cumul de précipitations en 12h : 20 mm.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cette nuit :
-Des averses pouvant être orageuses tombent toute la nuit. Elles sont plus organisées en soirée du Rhône à Aix et à Marseille. L'activité est moins grande en milieu de nuit, mais ce n'est qu'éphémère, car le risque orageux se généralise avant l'aurore.
-Le maximum de pluie attendu est de l'ordre de 80 millimètres d'Arles au Golfe de Fos.
-Vent d'Est, faible à modéré, avec des rafales proches de 55 km/h, de la Camargue au Golfe de Fos, au lever du jour.
-Températures minimales : de 17 à 20 degrés, et 21 degrés de Marseille à La Ciotat.
+• Pour aujourd'hui jeudi 01 octobre :
+Le ciel est nuageux, avec des averses possibles toute la journée. Cependant, en fin d'après-midi, de belles éclaircies sont présentes, très localement.
+On prévoit au maximum jusqu'à 20 millimètres de pluie de Marseille à La Ciotat.
+Petit vent d'Est à Nord-Est généralement faible.
+Températures maximales : entre 21 et 24 degrés, et 20 degrés dans le val de Durance.
 
-• Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Le ciel est bien chargé, avec des pluies en début de matinée. En cours de journée, des éclaircies se forment, mais des averses sont possibles jusqu'au soir. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
-On attend au maximum jusqu'à 25 millimètres de pluie entre Trets et Aubagne.
-Petit vent de secteur Nord-Est généralement faible.
-Températures maximales pour le jour : entre 22 et 25 degrés sur l'axe Châteaurenard, Salon, Marseille. Sur les autres régions comprises entre 20 et 23 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur du département de 12 à 15 degrés. De 16 à 18 degrés sur le cordon littoral.
+• Pour la nuit prochaine :
+Un voile nuageux ternit généralement l'éclat des étoiles.
+Vent de Nord assez faible.
+Températures minimales : comprises entre 15 et 18 degrés sur l'axe Châteaurenard, Salon, Marseille. Sur les autres régions comprises entre 12 et 15 degrés.
 
-• Pour la journée de vendredi 02 et la nuit suivante :
-Les nuages élevés sont omniprésents, mais l'ambiance reste lumineuse. Pour la nuit : Le ciel est voilé, mais laisse apparaître les étoiles.
-Vent faible dans l'ensemble.
-Températures maximales pour le jour : entre 25 et 26 degrés.
-Températures minimales pour la nuit suivante : entre 13 et 16 degrés, et comprises entre 17 et 18 degrés sur la Camargue et les Calanques.
+• Pour demain vendredi 02 en journée et la nuit suivante :
+Toute la journée, de belles éclaircies occupent le ciel. Cependant, en début d'après-midi, des nuages bourgeonnent, sur le pays d'Aix, et peuvent laisser tomber quelques gouttes. La fin de journée est de nouveau sèche. Pour la nuit : Le ciel est généralement voilé.
+Vent généralement faible.
+Températures maximales pour le jour : de 25 à 27 degrés.
+Températures minimales pour la nuit suivante : entre 13 et 16 degrés, et de 17 à 18 degrés sur la Camargue et les Calanques.
 
-• Pour la journée de samedi 03 :
+• Pour la journée de samedi 03 et la nuit suivante :
+Le soleil est généralement voilé par des nuages. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
+Vent faible de Sud à Sud-Est.
+Températures maximales pour le jour : de 25 à 26 degrés.
+Températures minimales pour la nuit suivante : dans les terres entre 12 et 15 degrés. Entre 16 et 18 degrés sur le cordon littoral.
+
+• Pour la journée de dimanche 04 :
 De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable.
-Vent de Sud à Sud-Est assez faible.
-Températures maximales : de 25 à 26 degrés.
+Vent faible de Sud-Ouest.
+Températures maximales : de 26 à 28 degrés.
 
-• Pour dimanche 04 et lundi 05 :
-Du pays d'Aix jusqu'à Peyrolles, risque de pluie de dimanche à la mi-journée jusqu'en fin de journée. Ailleurs, temps largement ensoleillé.
-Vent faible à modéré dans l'ensemble.
-Températures minimales : dans l'intérieur du département comprises entre 11 et 14 degrés. Entre 16 et 19 degrés près du littoral.
-Températures maximales : comprises entre 25 et 27 degrés.
+• Pour lundi 05 et mardi 06 :
+Autour des Alpilles, sur le pays d'Aix ainsi qu'autour de la Sainte Baume, risque de pluie ou d'averses de mardi à la mi-journée jusqu'en fin de journée. Ailleurs, temps largement ensoleillé.
+Vent faible à modéré d'Est à Sud-Est.
+Températures minimales : dans les terres entre 11 et 14 degrés. Entre 16 et 19 degrés sur la frange littorale.
+Températures maximales : de 25 à 27 degrés.
 
-• Pour mardi 06 et mercredi 07 :
-Autour de la Sainte Baume ainsi que du Rhône à Aix et à Marseille, éclaircies prédominantes. Risque de fréquentes brumes possibles jusqu'à mercredi à la mi-journée, et risque de pluie ou d'averses temporaire. Sur les autres régions, beau temps ensoleillé.
-Vent généralement faible à modéré.
-Températures minimales : du Rhône à Aix et à Marseille voisines de 13 à 16 degrés. Proches de 10 degrés sur le val de Durance et la Sainte Baume.
-Températures maximales : entre 24 et 26 degrés.
+• Pour mercredi 07 et jeudi 08 :
+Ciel nuageux s'éclaircissant par moments. Risque de temps passagèrement brumeux, risque de pluie ou d'averses jusqu'à jeudi en fin de journée.
+Vent assez fort à Marseille et dans les Calanques, de Sud-Est mercredi après-midi et en fin de journée ; et de Nord-Ouest, de la matinée de jeudi jusqu'en début de nuit suivante. Avec risque de fortes rafales.
+Températures minimales : dans l'intérieur du département de 12 à 15 degrés. Comprises entre 16 et 18 degrés près du littoral.
+Températures maximales : comprises entre 22 et 24 degrés.
 
-• Pour jeudi 08 et vendredi 09 :
-Sur le pays aixois ainsi qu'entre Trets et Aubagne, risque de brume se dissipant jeudi en matinée et jusqu'à la mi-journée. Ailleurs, temps largement ensoleillé.
-De la matinée de jeudi jusqu'au lendemain en fin de journée, Mistral, assez fort par endroits. Avec risque de fortes rafales du Rhône à l'étang de Berre et jusqu'aux Calanques.
+• Pour vendredi 09 et samedi 10 :
+Sur le pays aixois ainsi qu'entre Trets et Aubagne, temps plutôt ensoleillé, en dépit de quelques passages nuageux. Temps changeant accompagné de possibles ondées éparses, puis temps pluvieux de samedi à la mi-journée jusqu'en fin de journée. Sur les autres régions, temps largement ensoleillé.
+Jusqu'en fin de journée de vendredi, vent de Nord à Nord-Ouest assez fort, de Marseille à La Ciotat. Avec risque de fortes rafales.
 Températures minimales : en baisse.
-Températures maximales : en baisse.
+Températures maximales : en baisse de Châteaurenard à Salon ainsi que sur la Camargue et les Calanques.
 
 === BULLETIN DÉPARTEMENTAL GIRONDE (DEPT33) ===
-Emis le : 01/10/2026 00:30
+Emis le : 01/10/2026 06:30
 
 Vigilance :
-Attention, aujourd'hui, le département de la Gironde est en vigilance jaune pour le phénomène orages.
+Aujourd'hui et demain, le département de la Gironde est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 00h :
-A Bordeaux : température de 16 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1022 hPa, cumul de précipitations en 12h : 25 mm.
-Au Cap-Ferret : température de 17 degrés, vent de secteur Ouest soufflant jusqu'à 35 km/h.
-A Libourne : température de 16 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 25 km/h, cumul de précipitations en 12h : 25 mm.
+Aujourd'hui on observait à 06h :
+A Bordeaux : température de 17 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1024 hPa, cumul de précipitations en 12h : 20 mm.
+Au Cap-Ferret : température de 19 degrés, vent de secteur Ouest soufflant jusqu'à 35 km/h.
+A Libourne : température de 16 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 10 km/h, cumul de précipitations en 12h : 25 mm.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cette nuit :
-En début de soirée, des averses sont attendues. Elles prennent parfois un caractère orageux sur la majeure partie sud du département, et de la grêle peut se mêler aux pluies. Rapidement, les orages s'atténuent, les averses se font de plus en plus rares, puis en seconde partie de nuit le temps devient sec.
-25 millimètres est le cumul maximum de pluie attendu sur l'Entre-Deux-Mers.
-En début de nuit, vent d'Ouest assez fort, sur l'Entre-Deux-Mers ; atténuation ensuite.
-Températures minimales : comprises entre 14 et 16 degrés.
+• Pour aujourd'hui jeudi 01 octobre :
+Le début de journée est gris sous les nuages, et de faibles pluies se produisent par places. Les éclaircies reviennent dès la fin de matinée sur le Libournais, sur l'agglomération bordelaise ainsi que sur le bord de mer, puis se généralisent en début d'après-midi.
+L'après-midi jusqu'en début de soirée, vent s'établissant au Nord-Ouest modéré, sur le bord de mer.
+Températures maximales : entre 21 et 22 degrés.
 
-• Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Le matin, le ciel est très nuageux et des averses se produisent par places. De belles éclaircies se développent au fil des heures, puis le soleil s'impose. L'après-midi, le soleil brille partout. Pour la nuit : Le ciel est étoilé, avec quelques petits nuages en seconde partie de nuit, sur le Sud-Est du département.
-En fin d'après-midi, vent de Nord-Ouest, localement modéré. Après une atténuation, vent s'établissant en fin de nuit, au Nord-Est, sur le bord de mer.
-Températures maximales pour le jour : de 21 à 22 degrés.
-Températures minimales pour la nuit suivante : entre 11 et 12 degrés.
+• Pour la nuit prochaine :
+C'est une nuit assez bien dégagée qui nous attend. Un voile nuageux envahit petit à petit notre ciel en cours de nuit.
+Vent de Nord, modéré, en début de nuit, sur le littoral ; après une atténuation, reprise du vent, en fin de nuit, avec orientation au Nord-Est.
+Températures minimales : de 10 à 12 degrés, et 8 degrés sur le littoral.
 
-• Pour la journée de vendredi 02 et la nuit suivante :
-Le soleil règne en maître. Quelques rares nuages peuvent apparaître en fin de matinée, sur le Sud-Est du département. Pour la nuit : La soirée est bien dégagée. En cours de nuit, des nuages arrivent et se font de plus en plus nombreux. Ils ne laissent que peu de place aux éclaircies en fin de nuit.
-Vent de Nord-Est modéré, sur le Médoc et le Blayais.
-Températures maximales pour le jour : comprises entre 23 et 25 degrés.
-Températures minimales pour la nuit suivante : de 13 à 16 degrés.
+• Pour demain vendredi 02 en journée et la nuit suivante :
+Les nuages élevés sont omniprésents, mais l'ambiance reste lumineuse. Pour la nuit : Le ciel est variable. Des averses sont possibles ici ou là en soirée sur le Sud-Est du département. Elles cessent rapidement.
+Vent de Nord-Est modéré, sur l'Ouest du département.
+Températures maximales pour le jour : de 24 à 25 degrés.
+Températures minimales pour la nuit suivante : entre 13 et 16 degrés.
 
-• Pour la journée de samedi 03 :
-De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable.
-En fin d'après-midi, vent s'établissant au Nord modéré, sur le bord de mer.
-Températures maximales : de 24 à 27 degrés, et 22 degrés sur le littoral.
+• Pour la journée de samedi 03 et la nuit suivante :
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
+En fin d'après-midi et la nuit suivante, vent de Nord à Nord-Est modéré, sur le bord de mer.
+Températures maximales pour le jour : comprises entre 24 et 27 degrés, et 22 degrés sur le littoral.
+Températures minimales pour la nuit suivante : entre 13 et 15 degrés, et 18 degrés sur le littoral.
 
-• Pour dimanche 04 et lundi 05 :
-Risque de pluie ou d'averses de dimanche matin jusqu'en fin de journée.
-Vent de Nord-Est temporairement modéré, sur le bord de mer.
-Températures minimales : de 12 à 15 degrés, et 17 degrés sur le littoral.
-Températures maximales : de 25 à 27 degrés, et 22 degrés sur le littoral.
+• Pour la journée de dimanche 04 :
+Quelques nuages sont présents en matinée, sur la majeure partie sud du département. L'après-midi est ensoleillée pour tous.
+Vent de Nord à Nord-Est modéré, sur le bord de mer.
+Températures maximales : de 26 à 28 degrés, et 24 degrés sur le littoral.
 
-• Pour mardi 06 et mercredi 07 :
-Autour de l'estuaire de la Gironde, sur l'agglomération bordelaise ainsi que sur le Sud-Est du département, éclaircies prédominantes, risque de pluie ou d'averses temporaire. Ailleurs, le soleil brille sans partage.
-Jusqu'au petit matin de mardi, vent d'Est, modéré sur le bord de mer. De mardi après-midi jusqu'en début de nuit de mercredi à jeudi le vent se renforce à nouveau par endroits et s' oriente au Nord à Nord-Est.
-Températures minimales : entre 11 et 14 degrés, et 17 degrés sur le littoral.
-Températures maximales : proches de 26 degrés, et 22 degrés sur le littoral.
+• Pour lundi 05 et mardi 06 :
+Autour de l'estuaire de la Gironde ainsi que sur la moitié Sud-Est du département, risque de pluie ou d'averses de mardi à la mi-journée jusqu'en début de nuit. Sur les autres régions, temps généralement ensoleillé.
+Vent temporairement modéré sur le bord de mer.
+Températures minimales : entre 13 et 16 degrés.
+Températures maximales : entre 25 et 27 degrés, et 23 degrés sur le littoral.
 
-• Pour jeudi 08 et vendredi 09 :
+• Pour mercredi 07 et jeudi 08 :
+Risque de pluie ou d'averses jusqu'à jeudi en fin de journée.
+Vent modéré, de Sud-Ouest puis Nord.
+Températures minimales : de 11 à 13 degrés, et 17 degrés sur le littoral.
+Températures maximales : de 20 à 23 degrés.
+
+• Pour vendredi 09 et samedi 10 :
 Soleil et ciel bleu prédominent.
-Vent généralement modéré, de Nord à Nord-Est.
+Vent de Nord à Nord-Est, généralement modéré.
 Températures minimales : en baisse.
-Températures maximales : en baisse.
+Températures maximales : en baisse sur le Bassin d'Arcachon, sur le Libournais, sur l'agglomération bordelaise ainsi que sur l'Entre-Deux-Mers.
 
 === BULLETIN DÉPARTEMENTAL RHÔNE (DEPT69) ===
-Emis le : 01/10/2026 00:30
+Emis le : 01/10/2026 06:30
 
 Vigilance :
-Attention, aujourd'hui, le département du Rhône est en vigilance jaune pour le phénomène orages.
+Attention, aujourd'hui, le département du Rhône est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 00h :
-A Lyon : température de 20 degrés, vent de secteur Sud-Est soufflant jusqu'à 25 km/h, pression niveau mer 1021 hPa.
-Aux Sauvages : température de 17 degrés, vent de secteur Sud-Est soufflant jusqu'à 55 km/h.
+Aujourd'hui on observait à 06h :
+A Lyon : température de 21 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 25 km/h, pression niveau mer 1022 hPa.
+Aux Sauvages : température de 16 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 25 km/h.
 A Brindas : température de 18 degrés.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cette nuit :
-La soirée bénéficie de quelques éclaircies. En seconde partie de nuit, des averses tombent. Elles prennent localement un caractère orageux.
-En milieu de nuit, vent s'établissant au Sud-Sud-Est modéré, en région lyonnaise ; puis atténuation.
-Températures minimales : comprises entre 13 et 16 degrés, et 17 degrés en agglomération lyonnaise.
+• Pour aujourd'hui jeudi 01 octobre :
+Dans une atmosphère agitée, le ciel est très changeant avec quelques éclaircies et de nombreux nuages. Ces derniers donnent des averses parfois marquées, et un coup de tonnerre n'est pas exclu en matinée, sauf en région lyonnaise.
+Le maximum de pluie attendu est de l'ordre de 10 millimètres sur l'Est-Lyonnais.
+L'après-midi, vent s'établissant au Nord à Nord-Ouest, généralement modéré ; puis atténuation.
+Températures maximales : de 18 à 21 degrés.
 
-• Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Dans une atmosphère agitée, le ciel est très changeant avec quelques éclaircies et de nombreux nuages. Ces derniers donnent des averses parfois marquées, et un coup de tonnerre n'est pas exclu en matinée, sauf en région lyonnaise. Pour la nuit : Belle nuit en perspective, avec par endroits quelques nuages.
-On attend au maximum jusqu'à 10 millimètres de pluie sur l'Est-Lyonnais.
-Etablissement, en début d'après-midi, d'un vent de Nord-Ouest modéré, sur le relief ; atténuation ensuite.
-Températures maximales pour le jour : entre 18 et 20 degrés.
-Températures minimales pour la nuit suivante : entre 10 et 13 degrés.
+• Pour la nuit prochaine :
+Un voile nuageux ternit souvent l'éclat des étoiles.
+Vent faible, variable.
+Températures minimales : comprises entre 10 et 13 degrés.
 
-• Pour la journée de vendredi 02 et la nuit suivante :
-La journée débute avec un ciel ensoleillé à peine ponctué de nuage par endroits. Au cours de la journée, un voile apparaît, mais sans altérer l'impression de beau temps. Pour la nuit : De façon générale, de petites éclaircies se développent. Des brumes ou brouillards légers peuvent se former en fin de nuit, sur l'Est-Lyonnais.
-En fin de matinée, vent de Nord soufflant modérément, en Val de Saône ; puis atténuation.
-Températures maximales pour le jour : de 20 à 23 degrés.
-Températures minimales pour la nuit suivante : comprises entre 9 et 12 degrés.
+• Pour demain vendredi 02 en journée et la nuit suivante :
+Après un début de journée ensoleillé avec de belles éclaircies, le ciel se voile. Pour la nuit : De façon générale, de petites éclaircies se développent. Des brumes ou brouillards légers peuvent se former en fin de nuit, sur l'Est-Lyonnais.
+Vent de Nord, localement modéré, en milieu de journée ; puis atténuation.
+Températures maximales pour le jour : entre 20 et 23 degrés.
+Températures minimales pour la nuit suivante : de 9 à 12 degrés.
 
-• Pour la journée de samedi 03 :
-Un voile nuageux filtre le soleil.
+• Pour la journée de samedi 03 et la nuit suivante :
+Le soleil est généralement voilé par des nuages. Pour la nuit : Le ciel est généralement voilé.
+Vent variable, faible.
+Températures maximales pour le jour : entre 22 et 25 degrés.
+Températures minimales pour la nuit suivante : comprises entre 11 et 14 degrés.
+
+• Pour la journée de dimanche 04 :
+Un voile nuageux masque temporairement le soleil, qui devient plus franc en fin de journée.
 Vent variable, faible.
 Températures maximales : de 22 à 25 degrés.
 
-• Pour dimanche 04 et lundi 05 :
-En Val de Saône, temps largement ensoleillé. Sur les autres régions, temps plutôt ensoleillé, en dépit de quelques passages nuageux. Risque de brume localement jusqu'à lundi au petit matin, et risque de pluie ou d'averses temporaire.
-Vent faible, variable.
-Températures minimales : entre 11 et 14 degrés.
-Températures maximales : entre 21 et 24 degrés.
+• Pour lundi 05 et mardi 06 :
+En région lyonnaise, risque de brume en seconde partie de nuit de lundi à mardi. Ailleurs, beau temps ensoleillé.
+Mardi en matinée jusqu'à la mi-journée, vent de Sud-Sud-Est modéré, dans le Beaujolais.
+Températures minimales : de 10 à 13 degrés.
+Températures maximales : de 21 à 24 degrés.
 
-• Pour mardi 06 et mercredi 07 :
-En région lyonnaise, beau temps ensoleillé. Ailleurs, risque de pluie ou d'averses de mercredi à la mi-journée jusqu'en fin de journée.
-Mercredi en matinée jusqu'à la mi-journée, vent de Sud-Sud-Ouest modéré, en région lyonnaise.
-Températures minimales : de 9 à 12 degrés.
-Températures maximales : de 21 à 23 degrés.
+• Pour mercredi 07 et jeudi 08 :
+Risque de pluie ou d'averses dès le début de matinée de mercredi.
+Vent modéré en région lyonnaise, de Sud mercredi en matinée et jusqu'à la mi-journée ; et de Nord à Nord-Ouest, de jeudi tôt le matin jusqu'en début de nuit.
+Températures minimales : entre 10 et 12 degrés.
+Températures maximales : comprises entre 19 et 22 degrés.
 
-• Pour jeudi 08 et vendredi 09 :
-Risque de pluie ou d'averses de jeudi matin jusqu'en fin de journée.
-De jeudi tôt le matin jusqu'en début de nuit de vendredi à samedi, vent de Nord, souvent modéré.
+• Pour vendredi 09 et samedi 10 :
+Dans les monts du Lyonnais ainsi qu'au confluent Brévenne Turdine Azergues, risque de pluie de vendredi matin jusqu'à la mi-journée. Sur les autres régions, temps largement ensoleillé.
+Vent de Nord temporairement modéré, en Val de Saône.
 Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 01/10/2026 00:30
+Emis le : 01/10/2026 06:30
 
 Vigilance :
-Attention, aujourd'hui, le département de la Haute-Garonne est en vigilance jaune pour le phénomène orages.
+Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 00h :
-A Toulouse-Blagnac : température de 21 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 35 km/h, pression niveau mer 1020 hPa.
-A Luchon : température de 16 degrés, vent de secteur Nord soufflant jusqu'à 25 km/h.
-A Saint-Félix-Lauragais : température de 19 degrés, vent de secteur Sud soufflant jusqu'à 35 km/h.
+Aujourd'hui on observait à 06h :
+A Toulouse-Blagnac : température de 18 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 30 km/h, pression niveau mer 1024 hPa.
+A Luchon : température de 15 degrés, vent de secteur Nord soufflant jusqu'à 30 km/h.
+A Saint-Félix-Lauragais : température de 17 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 35 km/h, cumul de précipitations en 12h : 2 mm.
 
 Prévisions pour les tout prochains jours :
 
-• Pour cette nuit :
-Le ciel est nuageux à très nuageux, et généralement sec. Cependant, quelques averses sont possibles en seconde partie de nuit, dans l'Agglomération toulousaine, sur les coteaux de Gascogne ainsi que sur le piémont et la montagne. La pluie concerne d'abord toutes les altitudes, puis la neige tombe jusqu'à 3250 mètres en fin de nuit.
-En début de nuit, vent de Sud-Est assez fort, du Lauragais aux coteaux de Cadours ; atténuation ensuite. Rafales atteignant 55 km/h.
-Températures minimales : de 13 à 16 degrés.
+• Pour aujourd'hui jeudi 01 octobre :
+Les nuages, très présents le matin, se fractionnent et quelques éclaircies percent. Cependant, sur le piémont et la montagne, de petites averses sont possibles l'après-midi. Les chutes de neige se produisent au-dessus de 3200 mètres. Cependant, en début d'après-midi, la pluie concerne toutes les altitudes.
+Jusqu'en milieu d'après-midi, vent de Nord-Ouest généralement, modéré ; puis faiblissant.
+Températures maximales : sur la plaine et le piémont de 19 à 22 degrés. 18 degrés sur le Cagire et le Luchonnais.
 
-• Pour demain jeudi 01 octobre en journée et la nuit suivante :
-Le ciel est couvert toute la matinée. Les nuages peuvent donner quelques averses, sur le piémont et la montagne. En cours d'après-midi, quelques éclaircies se développent par places. Il neige au-dessus de 3200 mètres, mais temporairement en fin de matinée, il pleut à toute altitude. Pour la nuit : Le ciel est souvent bien chargé, avec même quelques averses en soirée sur le Cagire et le Luchonnais, puis des brumes en fin de nuit. Il neige à partir de 3100 mètres.
-Vent généralement de Nord-Ouest modéré, jusqu'en milieu d'après-midi ; puis s'atténuant.
-Températures maximales pour le jour : sur la plaine et le piémont entre 19 et 22 degrés. 18 degrés sur le Cagire et le Luchonnais.
-Températures minimales pour la nuit suivante : entre 11 et 14 degrés.
+• Pour la nuit prochaine :
+Les éclaircies sont nombreuses et souvent larges. Des averses clairsemées tombent en soirée, sur le Cagire et le Luchonnais. La limite pluie-neige s'abaisse jusqu'à 3200 mètres. Après, le temps reste sec partout.
+Vent variable, faible.
+Températures minimales : comprises entre 11 et 14 degrés.
 
-• Pour la journée de vendredi 02 et la nuit suivante :
-Le soleil brille généreusement, même si des nuages peuvent venir un peu le contester en fin de journée. Après une matinée ensoleillée, des averses se produisent l'après-midi, sur le Cagire et le Luchonnais. Elles se raréfient en début de soirée. Pour la nuit : Les brouillards et les plaques de grisaille, présents çà et là très localement en soirée, se dissipent. La nuit est alors assez bien dégagée.
-On attend au maximum jusqu'à 5 millimètres de pluie sur le Cagire et le Luchonnais.
-En fin d'après-midi et la nuit suivante, vent s'établissant à l'Est modéré, sur le Midi Toulousain.
-Températures maximales pour le jour : sur la plaine et le piémont de 24 à 27 degrés. 22 degrés sur le Cagire et le Luchonnais.
-Températures minimales pour la nuit suivante : sur le Midi Toulousain comprises entre 14 et 17 degrés. Comprises entre 11 et 13 degrés sur le piémont et la montagne.
+• Pour demain vendredi 02 en journée et la nuit suivante :
+Le soleil domine dans un ciel parsemé de petits nuages. L'après-midi, ces nuages prennent de l'ampleur dans le Volvestre ainsi que sur le piémont et la montagne et peuvent lâcher quelques averses. Pour la nuit : Quelques averses sont attendues en soirée, sur la grande plaine toulousaine ainsi qu'au sud-ouest du département, mais elles cessent rapidement. C'est de la neige qui tombe au-dessus de 3200 mètres. Puis, le ciel nocturne est partout peu nuageux, parfois voilé.
+L'après-midi et la nuit suivante, établissement d'un vent d'Est à Sud-Est, souvent modéré.
+Températures maximales pour le jour : sur la plaine et le piémont entre 24 et 27 degrés. 23 degrés sur le Cagire et le Luchonnais.
+Températures minimales pour la nuit suivante : sur le Midi Toulousain comprises entre 14 et 17 degrés. Entre 11 et 13 degrés sur le piémont et la montagne.
 
-• Pour la journée de samedi 03 :
-La journée est souvent bien ensoleillée malgré les passages nuageux. Toutefois, les nuages deviennent plus nombreux, sur les coteaux de Gascogne, dans le Volvestre ainsi que sur le Cagire et le Luchonnais, et quelques averses sont alors possibles l'après-midi. Il s'agit d'abord de pluie à toute altitude, puis la neige apparaît progressivement jusqu'à 3200 mètres en milieu d'après-midi.
-Les plus forts cumuls de pluie peuvent avoisiner 10 millimètres sur le Cagire et le Luchonnais.
-Vent généralement modéré, d'Est à Sud-Est.
+• Pour la journée de samedi 03 et la nuit suivante :
+La journée est souvent bien ensoleillée malgré les passages nuageux. Toutefois, les nuages deviennent plus nombreux, sur les coteaux de Gascogne, dans le Volvestre ainsi que sur le Cagire et le Luchonnais, et quelques averses sont alors possibles l'après-midi. Il s'agit d'abord de pluie à toute altitude, puis la neige apparaît progressivement jusqu'à 3200 mètres en cours d'après-midi. Pour la nuit : Le ciel est étoilé en début de soirée. Progressivement les nuages s'imposent. Des brumes se forment dans le Volvestre en fin de nuit.
+On attend au maximum jusqu'à 10 millimètres de pluie sur le Cagire et le Luchonnais.
+Vent généralement d'Est à Sud-Est modéré, en journée et début de nuit ; puis s'atténuant.
+Températures maximales pour le jour : comprises entre 23 et 26 degrés.
+Températures minimales pour la nuit suivante : sur le Midi Toulousain de 14 à 17 degrés. Entre 11 et 12 degrés sur le piémont et la montagne.
+
+• Pour la journée de dimanche 04 :
+Les périodes ensoleillées dominent les passages nuageux. L'après-midi, des nuages un peu plus développés peuvent donner quelques averses dans le Volvestre ainsi que sur le Cagire et le Luchonnais. Il s'agit d'abord de pluie à toute altitude, puis la neige apparaît progressivement jusqu'à 3200 mètres en milieu d'après-midi.
+Les plus forts cumuls de pluie attendus sont de 5 millimètres sur le Cagire et le Luchonnais.
+Vent généralement modéré, de Sud-Est.
+Températures maximales : sur la plaine et le piémont entre 24 et 27 degrés. 23 degrés sur le Cagire et le Luchonnais.
+
+• Pour lundi 05 et mardi 06 :
+Dans le Volvestre ainsi que sur le piémont et la montagne, soleil entrecoupé de quelques passages nuageux. Risque de fréquentes brumes possibles et risque de pluie ou d'averses temporaire. Sur les autres régions, temps généralement ensoleillé.
+De lundi matin jusqu'en début de nuit de mardi à mercredi, sur le Cagire et le Luchonnais, la limite pluie-neige s'établit autour de 3100 mètres.
+De la matinée de lundi jusqu'en début de nuit de mardi à mercredi, vent d'Est à Sud-Est, généralement modéré.
+Températures minimales : voisines de 12 à 15 degrés, et 16 degrés dans l'Agglomération toulousaine.
 Températures maximales : comprises entre 23 et 26 degrés.
 
-• Pour dimanche 04 et lundi 05 :
-Ciel nuageux s'éclaircissant par moments. Risque de fréquentes brumes possibles et risque de pluie et d'temps passagèrement orageux.
-Jusqu'à lundi en fin de journée, sur le Cagire et le Luchonnais, la limite pluie-neige s'établit autour de 3100 mètres.
-Vent d'Est-Sud-Est, modéré, dimanche en matinée et jusqu'en fin de journée, sur le Lauragais ; puis de la matinée de lundi jusqu'en fin de journée par endroits.
-Températures minimales : sur la plaine et le piémont comprises entre 13 et 16 degrés. 11 degrés sur le Cagire et le Luchonnais.
-Températures maximales : entre 23 et 26 degrés.
+• Pour mercredi 07 et jeudi 08 :
+Risque de pluie et d'orage.
+Sur le Cagire et le Luchonnais jusqu'au milieu de nuit de mercredi à jeudi, la limite pluie-neige s'abaisse de 3000 à 2700 mètres ; de la seconde partie de nuit de mercredi à jeudi jusqu'en début de nuit suivante, elle descend de 2400 à 2200 mètres.
+Vent de Sud-Est virant Ouest-Nord-Ouest modéré, sur la plaine et le piémont.
+Températures minimales : de 10 à 13 degrés, et 14 degrés dans l'Agglomération toulousaine.
+Températures maximales : de 19 à 22 degrés, et 23 degrés sur le Lauragais.
 
-• Pour mardi 06 et mercredi 07 :
-Temps plutôt ensoleillé, en dépit de quelques passages nuageux. Risque de brume localement jusqu'à la mi-journée de mardi, et risque de pluie et d'temps passagèrement orageux.
-Sur le Cagire et le Luchonnais la limite pluie-neige s'abaisse de 3000 à 2800 mètres, de mardi matin jusqu'en début de nuit de mercredi à jeudi.
-De la matinée de mardi jusqu'au milieu de nuit suivante, vent de Sud-Est, modéré du Lauragais au muretain. De la matinée de mercredi jusqu'en fin de journée, le vent reprend par endroits, en s'orientant Ouest à Nord-Ouest.
-Températures minimales : de 10 à 13 degrés, et voisines de 14 degrés du Lauragais aux coteaux de Cadours.
-Températures maximales : comprises entre 24 et 27 degrés.
-
-• Pour jeudi 08 et vendredi 09 :
-Dans le Volvestre, sur le piémont et la montagne ainsi que sur les plaines et coteaux de Gascogne, soleil entrecoupé de quelques passages nuageux. Risque de pluie ou d'averses, risque de brume localement en seconde partie de nuit de jeudi à vendredi. Ailleurs, temps largement ensoleillé.
-Jusqu'à vendredi en fin de journée, sur le Cagire et le Luchonnais, la limite pluie-neige s'établit de 2000 à 2400 mètres.
-Vent modéré sur la plaine et le piémont, d'Ouest à Nord-Ouest de jeudi tôt le matin jusqu'au milieu de nuit suivante ; et de Nord-Ouest, de la matinée de vendredi jusqu'en fin de journée.
+• Pour vendredi 09 et samedi 10 :
+Sur le piémont et la montagne, éclaircies prédominantes, risque de pluie ou d'averses temporaire. Ailleurs, soleil prédominant.
+Jusqu'en début de nuit de samedi à dimanche, sur le Cagire et le Luchonnais, la limite pluie neige s'établit de 2200 à 2600 mètres.
+Vent de Nord-Ouest temporairement modéré, sur la plaine et le piémont.
 Températures minimales : en baisse.
-Températures maximales : en baisse.
+Températures maximales : en baisse sur la plaine et le piémont.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 301620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 30 septembre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 305 pour LANGUEDOC-ROUSSILLON, PROVENCE. 2 - Situation générale mercredi 30 septembre 2026 à 12H00 UTC, et évolution Hautes pressions 1023 hPa en Mer Tyrrhénienne. Dépression relative 1017 hPa sur le Roussillon, traversant le Golfe du Lion en fin de nuit, puis se comblant demain après-midi. Flux de secteur Sud-Est dominant sur le bassin. 3 - Prévisions pour la nuit du mercredi 30 septembre au jeudi 1 octobre VENT : - à l'ouest de Sicié : Est à Sud-Est 5 à 6, parfois 7 sous orages avec fortes rafales. - à l'est de Sicié : Est à Nord-Est 3 à 4, localement 5 vers Sicié. MER : peu agitée à l'est de Sicié, mais agitée à l'ouest. HOULE : Sud 0.5 à 1 m, s'amplifiant localement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette en seconde partie de nuit. TEMPS : pluies et orages, parfois violents à l'ouest de Sicié. VISIBILITE : mauvaise à très mauvaise sous orage. 4 - Prévisions pour la journée du jeudi 1 octobre VENT : - à l'ouest de Porquerolles : Est à Nord-Est 5 à 6, localement 7 le matin sous orages à l'ouest de Sicié le matin avec fortes rafales, mollissant Nord-Est 3 à 5 l'après-midi. - à l'est de Porquerolles : Est à Nord-Est 4 à 5, mollissant Nord-Est 3 à 4 en fin d'après-midi. Rafales sous orages. MER : peu agitée à agitée. HOULE : Sud 0.5 à 1 m, mais temporairement Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette le matin. TEMPS : pluies et orages, s'améliorant progressivement par l'ouest en fin de journée. VISIBILITE : mauvaise à très mauvaise sous orage. 5 - Tendance pour la nuit du 1 au 2, et la journée du vendredi 2 octobre VENT : - à l'ouest de La Ciotat : secteur Nord 3 à 5, localement 6 au large de la Camargue, mollissant secteur Est 2 à 4 l'après-midi. - à l'est de La Ciotat : Nord à Nord-Est 2 à 4, virant Est 3 à 4 le matin. MER : s'atténuant peu agitée la nuit, puis belle à peu agitée l'après-midi. HOULE : Sud à Sud-Est 0.5 à 1 m, s'amortissant progressivement par l'est l'après-midi. TEMPS : devenant peu nuageux et voilé à l'ouest d'Hyères, mais quelques averses parfois orageuses de Hyères à Saint-Raphaël. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses orageuses. 6 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Est à Nord-Est 2 à 4, virant temporairement secteur Sud-Est en cours de matinée. MER : belle à peu agitée. HOULE dominante de Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est devenant Nord-Est faible à modéré dans le golfe du Lion ; Secteur Sud autour de la Corse. Indice de confiance : 2 sur 5 8 - Observations le mercredi 30 septembre 2026 à 15H00 UTC Cap Camarat : vent Est 14 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 17 noeuds, 1022 hPa en baisse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 25 noeuds. Cap Couronne : vent Est-Sud-Est 19 noeuds, rafales 29 noeuds, mer peu agitée, visibilité 8 milles. Prochain bulletin le jeudi 1 octobre 2026, vers 06H30 légales
+FQCT40 LFML 010410 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le jeudi 1 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 306 pour PROVENCE 2 - Situation générale jeudi 1 octobre 2026 à 00H00 UTC, et évolution Hautes pressions 1023 hPa sur la Mer Tyrrhénienne. Dépression relative 1019 hPa sur Roussillon, balayant le Golfe du Lion puis se comblant l'après-midi. 3 - Prévisions pour la journée du jeudi 1 octobre VENT : - à l'ouest du Levant : Est à Nord-Est 5 à 6, localement 7 le matin sous orages de Marseille au Levant, mollissant Nord à Nord-Est 3 à 5 l'après-midi. Rafales, fortes sous orages. - à l'est du Levant : Est à Nord-Est 4 à 5. MER : peu agitée à agitée. HOULE : Sud 0.5 à 1 m, mais Sud-Est 1 à 1.5 m à l'ouest de Cap Croisette. TEMPS : pluies et orages, s'améliorant progressivement par l'ouest l'après-midi. VISIBILITE : bonne, mais localement mauvaise à très mauvaise sous orage. 4 - Prévisions pour la nuit du jeudi 1 octobre au vendredi 2 octobre VENT : - à l'ouest du Cap Croisette : secteur Nord 3 à 5, parfois 6 au large de la Camargue. - à l'est du Cap Croisette : Est à Nord-Est 3 à 4, parfois 5. MER : s'atténuant peu agitée la nuit HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : peu nuageux ou voilé. Quelques averses possibles à l'est du Cap Sicié en première partie de nuit. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses. 5 - Prévisions pour la journée du vendredi 2 octobre VENT : - à l'ouest du Cap Croisette : secteur Nord 3 à 5 mollissant secteur Est 2 à 4 l'après-midi. - à l'est de La Ciotat : secteur Nord-Est 3 à 4, virant secteur Est dans l'après-midi. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m, puis Nord-Est à l'est de Cap Sicié l'après-midi. TEMPS : voilé. Quelques averses parfois orageuses. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses orageuses. 6 - Prévisions pour la nuit du 2 au 3 et la journée du samedi 3 octobre VENT : Est à Nord-Est 3 à 5, virant Est à Sud-Est en milieu de nuit. MER : belle à peu agitée, devenant agitée en début de matinée du Levant à St Raphaël. HOULE dominante d'Est à Nord-Est 0,5 à 1 m. 7 - Tendance pour les jours suivants Dimanche 4 octobre Secteur Est faible à modéré. Indice de confiance : 3 sur 5 Lundi 5 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mardi 6 octobre Secteur Est à Sud-Est faible à modéré. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est devenant Nord-Est faible à modéré dans le golfe du Lion ; Secteur Sud autour de la Corse. Indice de confiance : 2 sur 5 8 - Observations le jeudi 1 octobre 2026 à 03H00 UTC Cap Camarat : vent Est-Nord-Est 12 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est-Nord-Est 8 noeuds, 1022 hPa stationnaire. Porquerolles : vent Nord-Est 6 noeuds, rafales 17 noeuds. Cap Couronne : vent Est 16 noeuds, rafales 27 noeuds, mer peu agitée, couvert, pluies ou bruines, visibilité 8 milles. Prochain bulletin le jeudi 1 octobre 2026, vers 13H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -320,12 +342,12 @@ ensuite.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le sud-ouest-octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Septembre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 01/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -333,9 +355,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 1 Octobre 2026.
-Résumé général précédent : Sur les 15 jours à venir, tendance anticyclonique sur une grande partie de l'Europe de l'ouest, avec des hautes pressions entre l'Atlantique nord et l'Europe continentale. Le signal est encore fragile et minoritaire dans les modèles..
+Résumé général précédent : Tendance anticyclonique sur l'Europe de l'Ouest, avec des hautes pressions entre l'Atlantique nord et le continent. Le signal est encore fragile et minoritaire, mais une baisse des températures vers les normales est attendue, sauf sur le bassin méditerranéen..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Orages, vigilance, pluies méditerranéennes, chaleur nocturne, baisse thermique..
+Températures attendues précédemment : Épisode pluvio-orageux méditerranéen en cours, vent d'Est à Sud-Est fort, températures en baisse au nord..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 1 au Dimanche 4 Octobre 2026) ===
@@ -544,7 +566,7 @@ Auteur: Virgile
 Message:
 quelle nuit tropicale sur la France tout ca un 30 septembre!!!
 								7
-								3
+								4
 								2
 
 =======================
@@ -552,7 +574,7 @@ quelle nuit tropicale sur la France tout ca un 30 septembre!!!
 Auteur: Krholam
 Message:
 Elle est bien belle cette depression ! 
-								6
+								7
 								2
 								1
 
@@ -768,8 +790,8 @@ Le 27/09/2026 à 20:34, tao a dit :
 	Retrait probable des températures par rapport à la semaine en court mais restant à un bon niveau, toujours supérieures aux moyennes saisonnières. 
 	Les nuances concerneront la seconde partie d'échéance et l'évolution du positionnement latitudinale et longitudinales des HP sur l'Altantique.
 	1- Une option avec retrait de la cellule anticyclonique sur l'Atlantique et ondulation du jet, plongeant vers le sud pouvant ouvrir la voie vers l'influence d'un flux plus pertubée et frais d'ONO sur le nord du pays, mais ce scénario est pour l'instant minoritaire. 2- Poursuite de l'étalement des HP entre l'Atlantique nord et  l'Europe de l'ouest, écoulement toujours zonale d 'ONO globalement anticyclonique avec sur certains scénario une faible dégradation au nord NE, plus proche de la zone barocline, mais ce ne serait pas les grandes eaux, c'est à mon avis le scénario à à privilégier. 3-Evolution vers un énième blocage anticyclonique sur l'Europe, avec ancrage de la cellule anticyclonique sur la Grande Bretagne et vers l'Europe occidentale, risque présent qui est d'ailleurs une évolution probable de l'option 2.
-	Modifié il y a 18 heures par thib91
-								7
+	Modifié il y a 20 heures par thib91
+								8
 								1
 								1
 								2
