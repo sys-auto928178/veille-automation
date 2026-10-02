@@ -317,31 +317,13 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Jeudi 1 Octobre 2026.
-Résumé général HDF précédent : Sur l'ensemble de la période, les Hauts-de-France connaissent un temps anticyclonique sec et très doux jusqu'au 6 octobre, puis une dégradation modérée et encore incertaine entre le 7 et le 10 octobre, avec une baisse des températures. Au-delà, le retour d'un temps plus sec n'est pas exclu, mais le conflit de modèles reste entier..
+Dernier bulletin HDF généré le Vendredi 2 Octobre 2026.
+Résumé général HDF précédent : Sur l’ensemble des 15 jours (5-18 octobre), la tendance anticyclonique domine sur les Hauts-de-France. Le temps est sec et très doux, avec une faible dégradation possible en fin de première semaine, puis retour d’un temps sec. La fiabilité est moyenne en semaine 1, plus faible en semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps calme, ciel voilé, brumes matinales. Aucune pluie significative..
+Températures attendues précédemment : Temps sec et très doux jusqu’à mardi, légère dégradation incertaine en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: guiguite91
-Message:
-Il y a 4 heures, nickdu77 a dit :
-			Sur ce point, on est bien d'accord : sur le plan thermique, on va se rapprocher des normales et, même si on restera au-dessus des "normes", ça va nous faire tout chose ...
-			On voit bien la baisse sur les diagrammes, comme sur les cartes, mais c'est beaucoup plus marqué côté Atlantique que sur les secteurs soumis à l'influence méditerranéenne où la baisse est plus progressive et moins marquée (mais ils auront la chance d'avoir des PP plus importantes ; je me console en me disant que j'ai reçu 0,6 mm ce matin et j'ai commencé à construire un radeau).
-			A la suite, les diagrammes de Paris, Bordeaux et Marseille  : 
-			Paris:
-			Bordeaux: 
-			Marseille
-	Bonsoir,
-	Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-	Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-	Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-	Bonne soirée, 
-								1
-
-=======================
-
 Auteur: nickdu77
 Message:
 il y a 47 minutes, guiguite91 a dit :
@@ -502,7 +484,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								4
 
 =======================
@@ -511,7 +493,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 12 heures par edel
+	Modifié il y a 14 heures par edel
 								1
 
 =======================
@@ -533,7 +515,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								3
 
 =======================
@@ -564,6 +546,23 @@ Il y a 5 heures, Nicolas L a dit :
 	GFS est encore pire pour cette même échéance.
 								1
 								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+de @Nicolas L :
+	[...] CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre
+	les runs 12h pour le début de l'animation puis 6h pour la fin nous donnent hélas peu d'espace pour que prospèrent les dites perturbations :
+	https://images.meteociel.fr/im/37/8902/animziu8.gif
+	l'Américain de midi n'est hélas pas mieux disant : 
+	https://images.meteociel.fr/im/71/28663/animarx7.gif
+	https://images.meteociel.fr/im/85/27066/animtsm4.gif
+	c'est régime ceinture de chasteté anticyclonique pour ceux qui espéraient des libations précipitantes...
+	il est de plus en plus clair que notre ami Tao avait vu juste depuis le départ, il faut le reconnaître...
+	mes danses de St-Guy n'y ont rien plu faire...
+	heu... rien pu faire...
+	la pluie ça ne vient pas comme ça apparemment...
 
 =======================
 
@@ -583,24 +582,6 @@ Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: guiguite91
-Message:
-Il y a 4 heures, nickdu77 a dit :
-			Sur ce point, on est bien d'accord : sur le plan thermique, on va se rapprocher des normales et, même si on restera au-dessus des "normes", ça va nous faire tout chose ...
-			On voit bien la baisse sur les diagrammes, comme sur les cartes, mais c'est beaucoup plus marqué côté Atlantique que sur les secteurs soumis à l'influence méditerranéenne où la baisse est plus progressive et moins marquée (mais ils auront la chance d'avoir des PP plus importantes ; je me console en me disant que j'ai reçu 0,6 mm ce matin et j'ai commencé à construire un radeau).
-			A la suite, les diagrammes de Paris, Bordeaux et Marseille  : 
-			Paris:
-			Bordeaux: 
-			Marseille
-	Bonsoir,
-	Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-	Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-	Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-	Bonne soirée, 
-								1
-
-=======================
-
 Auteur: nickdu77
 Message:
 il y a 47 minutes, guiguite91 a dit :
@@ -761,7 +742,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								4
 
 =======================
@@ -770,7 +751,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 12 heures par edel
+	Modifié il y a 14 heures par edel
 								1
 
 =======================
@@ -792,7 +773,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								3
 
 =======================
@@ -823,6 +804,23 @@ Il y a 5 heures, Nicolas L a dit :
 	GFS est encore pire pour cette même échéance.
 								1
 								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+de @Nicolas L :
+	[...] CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre
+	les runs 12h pour le début de l'animation puis 6h pour la fin nous donnent hélas peu d'espace pour que prospèrent les dites perturbations :
+	https://images.meteociel.fr/im/37/8902/animziu8.gif
+	l'Américain de midi n'est hélas pas mieux disant : 
+	https://images.meteociel.fr/im/71/28663/animarx7.gif
+	https://images.meteociel.fr/im/85/27066/animtsm4.gif
+	c'est régime ceinture de chasteté anticyclonique pour ceux qui espéraient des libations précipitantes...
+	il est de plus en plus clair que notre ami Tao avait vu juste depuis le départ, il faut le reconnaître...
+	mes danses de St-Guy n'y ont rien plu faire...
+	heu... rien pu faire...
+	la pluie ça ne vient pas comme ça apparemment...
 
 =======================
 
