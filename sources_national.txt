@@ -343,12 +343,12 @@ en Vigilance Orange demeure  faible à ce stade.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
+• Infoclimat Direct : Suivi du temps en Allemagne
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 • Infoclimat Direct : Vigilance Météo France
-• Infoclimat Direct : Vigilance Météo France
-• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 02/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -356,51 +356,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 2 Octobre 2026.
-Résumé général précédent : Sur les 15 prochains jours, un temps sec et chaud dominera nettement, avec un anticyclone très présent. Une seule dégradation transitoire est possible autour du 7-8 octobre, puis le retour du sec est attendu. Pour la seconde semaine, le scénario sec reste le plus probable, mais une évolution vers plus d'humidité en fin d'échéance n'est pas exclue..
+Résumé général précédent : Sur l'ensemble des deux semaines, un temps sec et chaud domine, avec un anticyclone très présent. Une dégradation transitoire est possible autour du 7-8 octobre, puis le retour du sec est probable. Pour la seconde semaine, le scénario sec reste le plus probable, mais une évolution vers plus d'humidité en fin d'échéance n'est pas exclue..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec et très doux jusqu'à mercredi, puis risque de pluies sur le nord et l'arc méditerranéen jeudi, retour de l'anticyclone ensuite..
+Températures attendues précédemment : Temps sec, ensoleillé, chaleur modérée, pas de pluie significative..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-@petit âge glaciaire 11 merci l'Ancien, on corrige ça en moyennant ; mais j'avais bien précisé : échéance bien trop lointaine pour distinguer le signal
-	bon sinon chercher un déblocage tourne facilement à l'obsession, avec ces mois interminables de chaleur et sécheresse... et tout est bon dans le cochon - d'anticyclone - pour trouver de quoi lui rentrer dans le lard ;
-	bien sûr ça peut sembler illusoire d'aller pêcher ces signaux, derrière les horizons incertains, technique éprouvée par nos lointains devanciers de l'Antiquité, comme les Étrusques et leurs entrailles de bétail, avec leurs prêtres spécialisés, les haruspices, qui ouvraient l'animal sacrifié pour fabriquer leurs prévisions...
-	si on revient à nos cartes, moyennées donc, on a pour la fin d'échéance, avec l'Américain de 6h, un régime roboratif à base de tubercules amidonnés... : 
-	https://images.meteociel.fr/im/71/14569/animkac1.gif
-	quant à CEP IA moyenné de 6h on est toujours sous l'influence proche de la patate atlantique, avec du marais barométrique pour le pourtour méditerranéen...
-	https://images.meteociel.fr/im/72/5811/animxwa1.gif
-	à ce régime-là on va vite tomber dans la maladie professionnelle du prévisionniste dilettante, avec à la clé surpoids voire obésité, sans compter les comorbidités, style diabète et hypertension...
-	et une longévité moyenne n'est pas non plus infinie : 
-	727500 heures pour 83 ans, ce qui nous pousse déjà à du Run727500H... 
-	que @Run999H ne se sente pas visé... 😰 
-	rien à voir là-dedans...
-								1
-								1
-								3
-
-=======================
-
-Auteur: Krholam
-Message:
-Après la tendance générale est a la baisse de la limitr barocline.
-	Reste à savoir si le rail depressionnaire va se pointer sur nous courant octobre ou courant janvier.
-								1
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-GFS nous propose un anticyclone à perte de vue et donc jusqu'à la fin du présent topic. Il nous permet juste d'espérer une baisse des températures au fil du temps.
-	Eté exceptionnel et automne exceptionnel.
-	Sinon, les prévisions saisonnières de la Chaîne Météo tiennent globalement la route. Elles envisagent un anticyclone tout le mois d'octobre et le retour des dépressions qu'en novembre.
-								1
-								3
-
-=======================
-
 Auteur: thib91
 Message:
 Le 27/09/2026 à 20:34, tao a dit :
@@ -480,7 +441,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 12:59 par giec 2100
 								3
 
 =======================
@@ -593,47 +554,48 @@ si ça peut donner une idée de l'hégémonie de la masse d'air chaud de la zone
 Auteur: Krholam
 Message:
 A titre de comparaison. A quoi ressemblait la zone de -20⁰C l’année derniere ?
+
+=======================
+
+Auteur: Victor hurricane tempête
+Message:
+il y a 4 minutes, Krholam a dit :
+			A titre de comparaison. A quoi ressemblait la zone de -20⁰C l’année derniere ?
+	Sur les dates du débuts et fin de GIF :
+								1
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Merci @Victor hurricane tempête
+	Oui donc je pense qu’il est un peu prématuré de parler de "reconstitution poussive" du vortex. Tout comme parler de l’hegemonie de la masse d’air intertropicale.
+	Le vortex a l’air plutot dans les clou et beaucoup moins destructuré pour cette periode de l’année si l’on compare à 2025
+	Ça n’enleve rien à l’agacement général faces aux recurrence qui ont plus l’air de tendre vers le sec que vers l’humide ni au fait que malheureusement avec le RC nous allons avoir de plus en plus de recurrences chaudes que froide.
+	Mais la situation à venir sur la semaine de notre sujet, bien que semblant s’orienter sur le sec aujourd’hui, n’est pas si "anormale" que ça. Preuve en est l’EFI montré précedement qui est relativement faible.
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a une heure, Krholam a dit :
+			Merci @Victor hurricane tempête
+			Oui donc je pense qu’il est un peu prématuré de parler de "reconstitution poussive" du vortex. Tout comme parler de l’hegemonie de la masse d’air intertropicale.
+			Le vortex a l’air plutot dans les clou et beaucoup moins destructuré pour cette periode de l’année si l’on compare à 2025
+			Ça n’enleve rien à l’agacement général faces aux recurrence qui ont plus l’air de tendre vers le sec que vers l’humide ni au fait que malheureusement avec le RC nous allons avoir de plus en plus de recurrences chaudes que froide.
+			Mais la situation à venir sur la semaine de notre sujet, bien que semblant s’orienter sur le sec aujourd’hui, n’est pas si "anormale" que ça. Preuve en est l’EFI montré précedement qui est relativement faible.
+	 bah on va pas chipoter... comme des arpenteurs de zones fraîches, mais il me semble quand même que la comparaison est en faveur de ma péroraison, pour ce qui concerne ce 11 octobre 2025 :
+	la fameuse "poche à -8°C" (premier bleu foncé) venait s'aventurer assez bas en latitude, très au-delà du cercle polaire, jusqu'au Labrador pour l'un des festons ; moins visibles mais bien plus bas encore en latitude on avait d'autres festons vers 50°N : du côté de la région de l'Altaï, du lac Baïkal et de Sakhaline...
+	que l'on compare les poches à -16°C ( absence de confettis à -20°C en 2025, OK...) y a pas photo comme aurait dit tonton : une part appréciable du Groënland en 2026 mais une sacrée zone au N de la Sibérie en 2025...
+	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
+	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
+	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
+	Modifié il y a 9 minutes par giec 2100
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-@petit âge glaciaire 11 merci l'Ancien, on corrige ça en moyennant ; mais j'avais bien précisé : échéance bien trop lointaine pour distinguer le signal
-	bon sinon chercher un déblocage tourne facilement à l'obsession, avec ces mois interminables de chaleur et sécheresse... et tout est bon dans le cochon - d'anticyclone - pour trouver de quoi lui rentrer dans le lard ;
-	bien sûr ça peut sembler illusoire d'aller pêcher ces signaux, derrière les horizons incertains, technique éprouvée par nos lointains devanciers de l'Antiquité, comme les Étrusques et leurs entrailles de bétail, avec leurs prêtres spécialisés, les haruspices, qui ouvraient l'animal sacrifié pour fabriquer leurs prévisions...
-	si on revient à nos cartes, moyennées donc, on a pour la fin d'échéance, avec l'Américain de 6h, un régime roboratif à base de tubercules amidonnés... : 
-	https://images.meteociel.fr/im/71/14569/animkac1.gif
-	quant à CEP IA moyenné de 6h on est toujours sous l'influence proche de la patate atlantique, avec du marais barométrique pour le pourtour méditerranéen...
-	https://images.meteociel.fr/im/72/5811/animxwa1.gif
-	à ce régime-là on va vite tomber dans la maladie professionnelle du prévisionniste dilettante, avec à la clé surpoids voire obésité, sans compter les comorbidités, style diabète et hypertension...
-	et une longévité moyenne n'est pas non plus infinie : 
-	727500 heures pour 83 ans, ce qui nous pousse déjà à du Run727500H... 
-	que @Run999H ne se sente pas visé... 😰 
-	rien à voir là-dedans...
-								1
-								1
-								3
-
-=======================
-
-Auteur: Krholam
-Message:
-Après la tendance générale est a la baisse de la limitr barocline.
-	Reste à savoir si le rail depressionnaire va se pointer sur nous courant octobre ou courant janvier.
-								1
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-GFS nous propose un anticyclone à perte de vue et donc jusqu'à la fin du présent topic. Il nous permet juste d'espérer une baisse des températures au fil du temps.
-	Eté exceptionnel et automne exceptionnel.
-	Sinon, les prévisions saisonnières de la Chaîne Météo tiennent globalement la route. Elles envisagent un anticyclone tout le mois d'octobre et le retour des dépressions qu'en novembre.
-								1
-								3
-
-=======================
-
 Auteur: thib91
 Message:
 Le 27/09/2026 à 20:34, tao a dit :
@@ -713,7 +675,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 12:59 par giec 2100
 								3
 
 =======================
@@ -826,3 +788,43 @@ si ça peut donner une idée de l'hégémonie de la masse d'air chaud de la zone
 Auteur: Krholam
 Message:
 A titre de comparaison. A quoi ressemblait la zone de -20⁰C l’année derniere ?
+
+=======================
+
+Auteur: Victor hurricane tempête
+Message:
+il y a 4 minutes, Krholam a dit :
+			A titre de comparaison. A quoi ressemblait la zone de -20⁰C l’année derniere ?
+	Sur les dates du débuts et fin de GIF :
+								1
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Merci @Victor hurricane tempête
+	Oui donc je pense qu’il est un peu prématuré de parler de "reconstitution poussive" du vortex. Tout comme parler de l’hegemonie de la masse d’air intertropicale.
+	Le vortex a l’air plutot dans les clou et beaucoup moins destructuré pour cette periode de l’année si l’on compare à 2025
+	Ça n’enleve rien à l’agacement général faces aux recurrence qui ont plus l’air de tendre vers le sec que vers l’humide ni au fait que malheureusement avec le RC nous allons avoir de plus en plus de recurrences chaudes que froide.
+	Mais la situation à venir sur la semaine de notre sujet, bien que semblant s’orienter sur le sec aujourd’hui, n’est pas si "anormale" que ça. Preuve en est l’EFI montré précedement qui est relativement faible.
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a une heure, Krholam a dit :
+			Merci @Victor hurricane tempête
+			Oui donc je pense qu’il est un peu prématuré de parler de "reconstitution poussive" du vortex. Tout comme parler de l’hegemonie de la masse d’air intertropicale.
+			Le vortex a l’air plutot dans les clou et beaucoup moins destructuré pour cette periode de l’année si l’on compare à 2025
+			Ça n’enleve rien à l’agacement général faces aux recurrence qui ont plus l’air de tendre vers le sec que vers l’humide ni au fait que malheureusement avec le RC nous allons avoir de plus en plus de recurrences chaudes que froide.
+			Mais la situation à venir sur la semaine de notre sujet, bien que semblant s’orienter sur le sec aujourd’hui, n’est pas si "anormale" que ça. Preuve en est l’EFI montré précedement qui est relativement faible.
+	 bah on va pas chipoter... comme des arpenteurs de zones fraîches, mais il me semble quand même que la comparaison est en faveur de ma péroraison, pour ce qui concerne ce 11 octobre 2025 :
+	la fameuse "poche à -8°C" (premier bleu foncé) venait s'aventurer assez bas en latitude, très au-delà du cercle polaire, jusqu'au Labrador pour l'un des festons ; moins visibles mais bien plus bas encore en latitude on avait d'autres festons vers 50°N : du côté de la région de l'Altaï, du lac Baïkal et de Sakhaline...
+	que l'on compare les poches à -16°C ( absence de confettis à -20°C en 2025, OK...) y a pas photo comme aurait dit tonton : une part appréciable du Groënland en 2026 mais une sacrée zone au N de la Sibérie en 2025...
+	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
+	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
+	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
+	Modifié il y a 9 minutes par giec 2100
+								1
