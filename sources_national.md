@@ -290,7 +290,7 @@ Températures minimales : en baisse du Lauragais aux coteaux de Cadours ainsi qu
 Températures maximales : en hausse sur le Cagire et le Luchonnais.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 021005 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 2 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 2 octobre 2026 à 06H00 UTC, et évolution Hautes pressions autour de 1025 hPa, avec flux de secteur Est associé. Dépression orageuse relative vers 1023 hPa à l'ouest de la Corse, se décalant lentement vers l'ouest et prévue sur le Golfe du Lion la nuit prochaine, puis se comblant demain matin. 3 - Prévisions pour l'après-midi du vendredi 2 octobre VENT : - à l'ouest de Cap Couronne : Secteur Nord-Est 1 à 3, fraîchissant secteur Est 3 à 4 en fin d'après-midi. Rafales sous orages. - à l'est de Cap Couronne : Est à Sud-Est 3 à 4, mais localement Variable 1 à 3 de Cap Couronne au Cap Croisette au début, parfois 5 à l'est de la Ciotat en début d'après-midi, puis à l'ouest de Sicié en fin d'après-midi. Rafales sous orages. MER : peu agitée. HOULE : Sud Sud-Est 0.5 à 1 m à l'ouest de Hyères, puis Nord-Est 0.5 à 1 m s'amplifiant en milieu d'après-midi à l'est de Porquerolles. TEMPS : nuageux avec quelques averses parfois orageuses l'après-midi. VISIBILITE : bonne, mais localement moyenne à mauvaise sous averses orageuses. 4 - Prévisions pour la nuit du vendredi 2 octobre au samedi 3 octobre VENT : secteur Est 3 à 4, fraîchissant Est à Sud-Est 4 à 5 en seconde partie de nuit à l'ouest d'Hyères, puis partout en fin de nuit. Fortes rafales sous orages à l'ouest de Sicié en seconde partie de nuit. MER : peu agitée, passagèrement agitée au large de Beauduc en fin de nuit. HOULE : - à l'ouest de Porquerolles : Sud-Est 0.5 à 1 m. - à l'est de Porquerolles : Nord-Est 0.5 à 1 m, s'amortissant en seconde partie de nuit. TEMPS : pluies ou averses orageuses à l'ouest de Porquerolles, mais peu nuageux à nuageux à l'est. VISIBILITE : moyenne à mauvaise sous précipitations à l'ouest de Porquerolles, bonne à l'est. 5 - Prévisions pour la journée du samedi 3 octobre VENT : Est à Sud-Est 4 à 5, parfois 6 à l'ouest de Cap Couronne le matin, mollissant Est à Nord-Est 3 à 4 à l'est de Sicié en fin de journée. MER : peu agitée. HOULE : - à l'ouest de Porquerolles : Sud-Est 0.5 à 1 m. - à l'est de Porquerolles : non significative, puis s'établissant Est Nord-Est 0.5 à 1 m l'après-midi, avant de s'amortir en fin d'après-midi. TEMPS : pluies ou averses orageuses à l'ouest de Sicié, s'améliorant l'après-midi, mais peu nuageux à l'est. VISIBILITE : moyenne à mauvaise sous précipitations à l'ouest de Sicié, bonne à l'est. 6 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : secteur Est 3 à 4, parfois 5 à l'ouest de Sicié. MER : peu agitée. HOULE : Sud-Est 0.5 à 1 m. TEMPS : ciel voilé. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : Secteur Est 2 à 4, mollissant et devenant variable 1 à 3 en cours de matinée. MER : peu agitée. HOULE de Sud à Sud-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Mardi 6 octobre Sud-Est faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est modéré. Indice de confiance : 3 sur 5 Jeudi 8 octobre Nord-Ouest assez fort devenant fort. Variable dépressionnaire modéré entre Corse et continent. Indice de confiance : 3 sur 5 Vendredi 9 octobre Nord-Ouest assez fort à fort. Variable dépressionnaire modéré entre Corse et continent. Indice de confiance : 3 sur 5 9 - Observations le vendredi 2 octobre 2026 à 09H00 UTC Cap Camarat : vent Nord 6 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 10 noeuds, 1027 hPa en hausse. Porquerolles : vent Est-Nord-Est 4 noeuds. Cap Couronne : vent Est 4 noeuds. Prochain bulletin le vendredi 2 octobre 2026, vers 18H30 légales
+FQCT40 LFML 021620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le vendredi 2 octobre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 2 octobre 2026 à 12H00 UTC, et évolution Hautes pressions autour de 1025 hPa, avec flux de secteur Est associés. Dépression relative 1023 hPa à l'ouest de la Corse, se décalant lentement vers l'ouest et prévue sur le Golfe du Lion cette nuit, évoluant peu demain. 3 - Prévisions pour la nuit du vendredi 2 octobre au samedi 3 octobre VENT : secteur Est 3 à 4, fraîchissant Est à Sud-Est 4 à 5 en seconde partie de nuit à l'ouest d'Hyères, puis partout en fin de nuit. Fortes rafales sous orages vers la Camargue en seconde partie de nuit. MER : peu agitée, passagèrement agitée au large de Beauduc en fin de nuit. HOULE : - à l'ouest de Porquerolles : Sud-Est 0.5 à 1 m. - à l'est de Porquerolles : Nord-Est 0.5 à 1 m, s'amortissant en seconde partie de nuit. TEMPS : pluies ou averses orageuses à l'ouest de Sicié, mais peu nuageux à nuageux à l'est. VISIBILITE : moyenne à mauvaise sous précipitations à l'ouest de Sicié, bonne à l'est. 4 - Prévisions pour la journée du samedi 3 octobre VENT : Est à Sud-Est 4 à 5, parfois 6 à l'ouest de Cap Couronne le matin, mollissant Est à Nord-Est 3 à 4 à l'est de Sicié en fin de journée. MER : peu agitée. HOULE : - à l'ouest de Porquerolles : Sud-Est 0.5 à 1 m. - à l'est de Porquerolles : non significative, puis s'établissant Est Nord-Est 0.5 à 1 m l'après-midi, avant de s'amortir en fin d'après-midi. TEMPS : pluies ou averses orageuses à l'ouest de Sicié, s'améliorant l'après-midi, mais peu nuageux à l'est. VISIBILITE : moyenne à mauvaise sous précipitations à l'ouest de Sicié, bonne à l'est. 5 - Tendance pour la nuit du 3 au 4, et la journée du dimanche 4 octobre VENT : secteur Est 3 à 5, fraîchissant 4 à 5 partout en seconde partie de nuit, puis mollissant 3 à 4 à la fin. MER : peu agitée. HOULE : Sud-Est 0.5 à 1 m. TEMPS : ciel voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : Secteur Est 3 à 4, mollissant et devenant variable 1 à 3 en cours de matinée. MER : peu agitée, localement agitée de Port Camargue à Marseille. HOULE de Sud à Sud-Est inférieure à 1,5 m, s'atténuant ensuite. 7 - Tendance pour les jours suivants Mardi 6 octobre Sud-Est faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est modéré. Indice de confiance : 3 sur 5 Jeudi 8 octobre Nord-Ouest assez fort devenant fort. Variable dépressionnaire modéré entre Corse et continent. Indice de confiance : 3 sur 5 Vendredi 9 octobre Nord-Ouest assez fort à fort. Variable dépressionnaire modéré entre Corse et continent. Indice de confiance : 3 sur 5 8 - Observations le vendredi 2 octobre 2026 à 15H00 UTC Cap Camarat : vent Est 12 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 6 noeuds, 1026 hPa en baisse. Porquerolles : vent Est 8 noeuds. Cap Couronne : vent Sud-Est 8 noeuds. Prochain bulletin le samedi 3 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -317,12 +317,12 @@ en Vigilance Orange demeure  faible à ce stade.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 02/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -330,9 +330,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 2 Octobre 2026.
-Résumé général précédent : Anticyclone dominant, temps souvent sec et doux, avec une dégradation transitoire possible autour du 7-8 octobre et un risque méditerranéen. La seconde semaine est très incertaine : blocage sec probable, mais scénario humide non exclu..
+Résumé général précédent : Sur les 15 prochains jours, la France devrait rester sous l'influence d'un régime anticyclonique dominant, avec un temps souvent sec et des températures au-dessus des normales. Une dégradation est possible en milieu de première semaine, mais son ampleur reste incertaine, et le scénario d'un blocage persistant est le plus probable pour la deuxième semaine. Le bassin méditerranéen reste la région la plus à risque pour des pluies intenses..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Perturbations possibles vers le 6-7 octobre, puis hésitation entre retour anticyclonique ou coup de frais..
+Températures attendues précédemment : Temps sec, ensoleillé, chaleur persistante, notamment au sud-ouest et en Méditerranée..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -544,7 +544,7 @@ il y a une heure, Krholam a dit :
 	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
 	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
 	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
 								3
 
 =======================
@@ -554,7 +554,7 @@ Message:
 @giec 2100
 	De toute façon.
 	RENDEZ NOUS LA PLUIE
-								1
+								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: Nico 14
@@ -765,7 +765,7 @@ il y a une heure, Krholam a dit :
 	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
 	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
 	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
 								3
 
 =======================
@@ -775,4 +775,4 @@ Message:
 @giec 2100
 	De toute façon.
 	RENDEZ NOUS LA PLUIE
-								1
+								3
