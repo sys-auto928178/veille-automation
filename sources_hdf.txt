@@ -15,14 +15,14 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL NORD (DEPT59) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Nord est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Lille-Lesquin : température de 10 degrés, vent variable faible, pression niveau mer 1031 hPa.
+Aujourd'hui on observait à 09h :
+A Lille-Lesquin : température de 11 degrés, vent de secteur Sud-Est soufflant jusqu'à 5 km/h, pression niveau mer 1032 hPa.
 A Dunkerque : température de 12 degrés, vent de secteur Sud soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
@@ -30,28 +30,28 @@ Prévisions pour les tout prochains jours :
 • Pour aujourd'hui vendredi 02 :
 Des nuages inoffensifs sont présents, de la métropole lilloise à l'Avesnois. Ils se dissipent en cours de matinée. L'après-midi, le temps est partout bien ensoleillé.
 Vent variable, faible.
-Températures maximales : de 20 à 21 degrés.
+Températures maximales : entre 20 et 21 degrés.
 
 • Pour la nuit prochaine :
 La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
 Vent faible, variable.
-Températures minimales : dans l'intérieur comprises entre 7 et 10 degrés. 12 degrés en Flandre maritime.
+Températures minimales : dans l'intérieur entre 7 et 10 degrés. 12 degrés en Flandre maritime.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
-Un voile nuageux filtre le soleil. Pour la nuit : La soirée est partagée entre passages nuageux et périodes étoilées, mais peu à peu ces dernières s'allongent, et après minuit, la voûte céleste est bien dégagée.
+Un voile nuageux filtre le soleil. Pour la nuit : Après quelques passages nuageux, la deuxième partie de nuit devient bien étoilée.
 Vent faible, variable.
-Températures maximales pour le jour : entre 20 et 23 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur comprises entre 9 et 10 degrés. 13 degrés en Flandre maritime.
+Températures maximales pour le jour : de 20 à 23 degrés.
+Températures minimales pour la nuit suivante : dans l'intérieur de 9 à 10 degrés. 13 degrés en Flandre maritime.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Le soleil brille sans interruption. Pour la nuit : Belle nuit étoilée. Quelques passages nuageux en fin de nuit.
+Le soleil domine largement du matin au soir. Pour la nuit : Belle nuit étoilée. Quelques passages nuageux en fin de nuit.
 Vent variable, faible.
 Températures maximales pour le jour : comprises entre 21 et 23 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur entre 9 et 11 degrés. 13 degrés en Flandre maritime.
+Températures minimales pour la nuit suivante : dans l'intérieur de 9 à 11 degrés. 13 degrés en Flandre maritime.
 
 • Pour la journée de lundi 05 :
 C'est une très belle journée qui s'annonce. Le soleil domine, même si quelques nuages sont présents en début de matinée, sur la région lilloise et le Douaisis.
-Etablissement, en début d'après-midi, d'un vent d'Ouest modéré, en Flandre maritime ; atténuation ensuite.
+En début d'après-midi, vent s'orientant Ouest modéré, en Flandre maritime ; atténuation ensuite.
 Températures maximales : depuis la côte jusqu'au Valenciennois et au Cambrésis entre 21 et 22 degrés. 25 degrés sur l'Avesnois.
 
 • Pour mardi 06 et mercredi 07 :
@@ -73,44 +73,44 @@ Températures minimales : en hausse sur le Valenciennois et le Cambrésis.
 Températures maximales : similaires à la veille.
 
 === BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Pas-de-Calais est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Arras : température de 8 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 5 km/h.
-A Boulogne-Sémaphore : température de 14 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 15 km/h.
+Aujourd'hui on observait à 09h :
+A Arras : température de 9 degrés, vent variable faible.
+A Boulogne-Sémaphore : température de 13 degrés, vent de secteur Sud-Est soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
 Le temps est bien ensoleillé malgré un léger voile nuageux en début de journée.
-En début d'après-midi, vent s'orientant au Sud-Ouest modéré, près de la Mer du Nord ; atténuation ensuite.
+Etablissement, en début d'après-midi, d'un vent de Sud-Ouest modéré, près de la Mer du Nord ; atténuation ensuite.
 Températures maximales : de 19 à 21 degrés.
 
 • Pour la nuit prochaine :
 La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
 Vent variable, faible.
-Températures minimales : entre 8 et 10 degrés.
+Températures minimales : de 8 à 10 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
-Un voile nuageux filtre le soleil. Pour la nuit : Les nuages laissent une large place aux étoiles en cours de nuit. Attention toutefois, car avant l'aube, des bancs de brouillards se développent sur les côtes de la Manche.
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : Les nuages laissent une large place aux étoiles en cours de nuit. Attention toutefois, car avant l'aube, des bancs de brouillards se développent sur les côtes de la Manche.
 Vent faible, variable.
-Températures maximales pour le jour : de 20 à 22 degrés.
+Températures maximales pour le jour : comprises entre 20 et 22 degrés.
 Températures minimales pour la nuit suivante : comprises entre 9 et 12 degrés.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit sur les reliefs de l'Artois.
+Le soleil brille sans interruption. Pour la nuit : La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit sur les reliefs de l'Artois.
 Vent variable, faible.
-Températures maximales pour le jour : comprises entre 20 et 22 degrés.
-Températures minimales pour la nuit suivante : sur les côtes de la Manche, ainsi que dans les terres comprises entre 9 et 11 degrés. 13 degrés près de la Mer du Nord.
+Températures maximales pour le jour : entre 20 et 22 degrés.
+Températures minimales pour la nuit suivante : sur les côtes de la Manche, ainsi que dans les terres de 9 à 11 degrés. 13 degrés près de la Mer du Nord.
 
 • Pour la journée de lundi 05 :
 La journée est largement ensoleillée. Il faut juste attendre la dissipation des brouillards peu denses, présents au lever du jour sur le Ternois, pour en profiter pleinement.
 Vent d'Ouest à Sud-Ouest, modéré par endroits.
-Températures maximales : de 20 à 23 degrés.
+Températures maximales : entre 20 et 23 degrés.
 
 • Pour mardi 06 et mercredi 07 :
 Éclaircies prédominantes. Risque de fréquentes brumes possibles et risque de pluie ou d'averses temporaire.
@@ -131,32 +131,32 @@ Températures minimales : en hausse sur les côtes de la Manche.
 Températures maximales : stables.
 
 === BULLETIN DÉPARTEMENTAL SOMME (DEPT80) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Somme est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Amiens-Glisy : température de 7 degrés, vent de secteur Sud-Est soufflant jusqu'à 5 km/h, pression niveau mer 1032 hPa.
-A Cayeux-sur-Mer : température de 11 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 5 km/h.
+Aujourd'hui on observait à 09h :
+A Amiens-Glisy : température de 7 degrés, vent de secteur Est soufflant jusqu'à 10 km/h, pression niveau mer 1033 hPa.
+A Cayeux-sur-Mer : température de 11 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 10 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
 C'est une belle journée qui s'annonce. Les quelques nuages du petit matin cèdent rapidement la place à de larges éclaircies. L'après-midi promet d'être bien ensoleillée.
-Vent variable, faible.
+Vent faible, variable.
 Températures maximales : comprises entre 19 et 21 degrés.
 
 • Pour la nuit prochaine :
 La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
-Vent faible, variable.
-Températures minimales : de 7 à 10 degrés.
+Vent variable, faible.
+Températures minimales : entre 7 et 10 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
 Le soleil est généralement voilé par des nuages. Pour la nuit : Le ciel est clair et les amateurs d'astronomie vont être ravis. Par contre, en deuxième partie de nuit, un risque faible de brouillard est possible, sur le littoral picard.
-En première partie de nuit, établissement d'un vent de Nord-Est, localement modéré ; atténuation ensuite.
-Températures maximales pour le jour : entre 20 et 21 degrés.
+En première partie de nuit, établissement d'un vent de Nord-Est, modéré par endroits ; puis atténuation.
+Températures maximales pour le jour : de 20 à 21 degrés.
 Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
@@ -168,7 +168,7 @@ Températures minimales pour la nuit suivante : entre 8 et 11 degrés.
 • Pour la journée de lundi 05 :
 Malgré quelques brumes ou bancs de brouillard en début de journée sur les deux tiers ouest du département, c'est le soleil qui domine.
 Vent faible, variable.
-Températures maximales : de 20 à 22 degrés.
+Températures maximales : entre 20 et 22 degrés.
 
 • Pour mardi 06 et mercredi 07 :
 Soleil entrecoupé de quelques passages nuageux. Risque de fréquentes brumes possibles jusqu'à la mi-journée de mardi, et risque de pluie ou d'averses temporaire.
@@ -189,14 +189,14 @@ Températures minimales : en hausse sur le littoral picard ainsi que sur l'Amié
 Températures maximales : identiques à la veille.
 
 === BULLETIN DÉPARTEMENTAL OISE (DEPT60) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Oise est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Beauvais-Tillé : température de 7 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 5 km/h, pression niveau mer 1032 hPa.
+Aujourd'hui on observait à 09h :
+A Beauvais-Tillé : température de 8 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1033 hPa.
 
 Prévisions pour les tout prochains jours :
 
@@ -208,24 +208,24 @@ Températures maximales : 21 degrés.
 • Pour la nuit prochaine :
 La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
 Vent faible, variable.
-Températures minimales : de 6 à 9 degrés.
+Températures minimales : entre 6 et 9 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
-De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : La soirée est partagée entre passages nuageux et périodes étoilées, mais peu à peu ces dernières s'allongent, et après minuit, la voûte céleste est bien dégagée.
-En début de nuit, vent s'établissant au Nord-Nord-Est modéré, sur le Vexin français et le pays de Thelle ; puis atténuation.
+De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : Les quelques nuages de la soirée se font de plus en plus discrets en cours de nuit.
+Etablissement, en début de nuit, d'un vent de Nord-Nord-Est modéré, sur le Vexin français et le pays de Thelle ; atténuation ensuite.
 Températures maximales pour le jour : comprises entre 20 et 22 degrés.
-Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés, et 6 degrés sur le Plateau Picard.
+Températures minimales pour la nuit suivante : entre 8 et 10 degrés, et 6 degrés sur le Plateau Picard.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
 Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : La nuit est belle, malgré la présence de quelques bancs de nuages par moments. Des brumes se forment par places en fin de nuit de la Picardie verte au Plateau Picard.
 Vent faible, variable.
-Températures maximales pour le jour : entre 21 et 23 degrés.
-Températures minimales pour la nuit suivante : comprises entre 8 et 9 degrés.
+Températures maximales pour le jour : de 21 à 23 degrés.
+Températures minimales pour la nuit suivante : entre 8 et 9 degrés.
 
 • Pour la journée de lundi 05 :
-Le soleil règne en maître du matin au soir.
+La journée est belle, le soleil est largement présent.
 Vent variable, faible.
-Températures maximales : entre 22 et 24 degrés.
+Températures maximales : de 22 à 24 degrés.
 
 • Pour mardi 06 et mercredi 07 :
 Éclaircies prédominantes. Risque de fréquentes brumes possibles jusqu'à la mi-journée de mardi, risque de pluie ou d'averses de mercredi matin jusqu'en fin de journée.
@@ -246,44 +246,44 @@ Températures minimales : en hausse sur le Beauvaisis et le plateau picard.
 Températures maximales : similaires à la veille.
 
 === BULLETIN DÉPARTEMENTAL AISNE (DEPT02) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Aisne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Aulnoy-sous-Laon : température de 7 degrés, vent de secteur Est soufflant jusqu'à 5 km/h.
-A Saint-Quentin : température de 8 degrés.
+Aujourd'hui on observait à 09h :
+A Aulnoy-sous-Laon : température de 7 degrés, vent variable faible.
+A Saint-Quentin : température de 9 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
 C'est une belle journée qui s'annonce. Les quelques nuages du petit matin cèdent rapidement la place à de larges éclaircies. L'après-midi promet d'être bien ensoleillée.
 Vent variable, faible.
-Températures maximales : de 20 à 22 degrés.
+Températures maximales : entre 20 et 22 degrés.
 
 • Pour la nuit prochaine :
 La soirée est sans nuages. Le ciel se voile en seconde partie de nuit.
 Vent faible, variable.
-Températures minimales : de 6 à 9 degrés.
+Températures minimales : entre 6 et 9 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
 Le ciel est souvent voilé le matin. L'après-midi, des nuages plus épais se développent, mais le soleil reste toutefois largement présent. Pour la nuit : La soirée est ponctuée par une succession de passages nuageux et d'éclaircies. Celles-ci finissent par s'élargir, en seconde partie de nuit.
-En première partie de nuit, établissement d'un vent de Nord-Est, modéré par endroits ; puis atténuation.
-Températures maximales pour le jour : comprises entre 22 et 24 degrés.
-Températures minimales pour la nuit suivante : entre 9 et 11 degrés.
+En première partie de nuit, établissement d'un vent de Nord-Est, localement modéré ; atténuation ensuite.
+Températures maximales pour le jour : de 22 à 24 degrés.
+Températures minimales pour la nuit suivante : de 9 à 11 degrés.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Le soleil brille sans discontinuer du matin jusqu'au soir. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+La journée est belle, le soleil est largement présent. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
 Vent faible, variable.
-Températures maximales pour le jour : de 22 à 24 degrés.
-Températures minimales pour la nuit suivante : entre 8 et 10 degrés.
+Températures maximales pour le jour : comprises entre 22 et 24 degrés.
+Températures minimales pour la nuit suivante : comprises entre 8 et 10 degrés.
 
 • Pour la journée de lundi 05 :
-Le soleil règne en maître du matin au soir.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
 Vent variable, faible.
-Températures maximales : comprises entre 23 et 26 degrés. Ces températures se situent au-dessus des valeurs normalement observées.
+Températures maximales : comprises entre 23 et 26 degrés. Ces températures sont au-dessus des valeurs de saison.
 
 • Pour mardi 06 et mercredi 07 :
 Éclaircies prédominantes. Risque de brume localement jusqu'au petit matin de mardi, risque de pluie ou d'averses de mercredi à la mi-journée jusqu'en fin de journée.
@@ -330,12 +330,12 @@ en Vigilance Orange est faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 02/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -343,26 +343,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 2 Octobre 2026.
-Résumé général HDF précédent : Sur les 15 jours (5-18 octobre), la tendance anticyclonique domine sur les Hauts-de-France, avec un temps sec et très doux en début de semaine 1, une dégradation pluvieuse possible en milieu de semaine 1, puis un net retour à l'incertitude pour la semaine 2. L'indicateur thermique national élevé (22,8 à 25,8°C) illustre la douceur, mais les HDF resteront sous des maximales plus modérées, de 17 à 25°C selon les périodes et départements..
+Résumé général HDF précédent : Sur l'ensemble des deux semaines, la tendance anticyclonique domine nettement sur les Hauts-de-France, avec un temps sec et très doux au moins jusqu'au début de la semaine 2. Une dégradation pluvieuse est possible autour du 7-8 octobre, suivie d'un rafraîchissement temporaire, mais le retour de l'anticyclone semble probable ensuite. La semaine 2 reste très incertaine, avec des modèles partagés entre maintien sec et amorce de déblocage..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Flux de Sud-Ouest chaud et humide, puis baisse des températures, air plus frais possible par le nord..
+Températures attendues précédemment : Ensoleillé et sec, températures nettement au-dessus des normales, souvent supérieures à 20°C l'après-midi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: nickdu77
-Message:
-il y a 47 minutes, guiguite91 a dit :
-			Bonsoir,
-			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-			Bonne soirée, 
-	Bonsoir,
-	Mais il me semble bien que c'est ce qui a été dit en parlant de températures restant au-dessus des normales et de BP continuant à circuler au nord (de l'Europe bien sûr) avec une potentielle GF au large du Portugal.
-	Bonne soirée
-
-=======================
-
 Auteur: giec 2100
 Message:
 il y a une heure, guiguite91 a dit :
@@ -509,7 +495,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								4
 
 =======================
@@ -518,7 +504,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 18 heures par edel
+	Modifié il y a 20 heures par edel
 								1
 
 =======================
@@ -540,7 +526,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								3
 
 =======================
@@ -606,24 +592,21 @@ Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
 	- un cluster de 22 membres (probablement les 16 du cluster 2 et 6 transfuges du 1 qui doivent être intermédiaires) dont la situation serait issue d'une forte ondulation, avec potentiellement un isolement/renforcement d'une goutte froide méditerranéenne, brisant l'anticyclone et permettant aux perturbations de se frayer un chemin jusqu'à nous. 
 	La prévision apparaît fermée si on regarde GEFS : sec, anticyclonique, chaud. Elle apparaît bien plus ouverte si on regarde IFS ENS. Qu'en déduire ? Avec tous mes biais et ma préférence pour IFS ENS, je pense que l'incertitude est pour le moment assez importante, bien que s'il fallait se prononcer, le scénario sec apparaît le plus probable. Je reste néanmoins optimiste car en cas de scénario humide, on pourrait toucher un beau pactole, un peu partout.
 	Je mise aussi sur un abaissement furtif mais potentiellement rapide et remarquable des températures au nord de la France au passage de l'ondulation mais que GEFS ne voit pas forcément.
-								4
+								6
 								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
+	GEFS qui propose effectivement est un nombre non négligeable de scénarii chauds avec une dispersion qui s'accentue au 07/10. Il repousse au 16/10 (hors topic donc) un éventuel retour des PP au nord
+	le 0z de CEP n'est pas encore sorti mais on voit déjà plus de PP, avec une première petite dégradation possible en tout début d'échéance et un 2ème passage en milieu de semaine.
+	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
+	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
+	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: nickdu77
-Message:
-il y a 47 minutes, guiguite91 a dit :
-			Bonsoir,
-			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-			Bonne soirée, 
-	Bonsoir,
-	Mais il me semble bien que c'est ce qui a été dit en parlant de températures restant au-dessus des normales et de BP continuant à circuler au nord (de l'Europe bien sûr) avec une potentielle GF au large du Portugal.
-	Bonne soirée
-
-=======================
-
 Auteur: giec 2100
 Message:
 il y a une heure, guiguite91 a dit :
@@ -770,7 +753,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								4
 
 =======================
@@ -779,7 +762,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 18 heures par edel
+	Modifié il y a 20 heures par edel
 								1
 
 =======================
@@ -801,7 +784,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								3
 
 =======================
@@ -867,5 +850,16 @@ Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
 	- un cluster de 22 membres (probablement les 16 du cluster 2 et 6 transfuges du 1 qui doivent être intermédiaires) dont la situation serait issue d'une forte ondulation, avec potentiellement un isolement/renforcement d'une goutte froide méditerranéenne, brisant l'anticyclone et permettant aux perturbations de se frayer un chemin jusqu'à nous. 
 	La prévision apparaît fermée si on regarde GEFS : sec, anticyclonique, chaud. Elle apparaît bien plus ouverte si on regarde IFS ENS. Qu'en déduire ? Avec tous mes biais et ma préférence pour IFS ENS, je pense que l'incertitude est pour le moment assez importante, bien que s'il fallait se prononcer, le scénario sec apparaît le plus probable. Je reste néanmoins optimiste car en cas de scénario humide, on pourrait toucher un beau pactole, un peu partout.
 	Je mise aussi sur un abaissement furtif mais potentiellement rapide et remarquable des températures au nord de la France au passage de l'ondulation mais que GEFS ne voit pas forcément.
-								4
+								6
 								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
+	GEFS qui propose effectivement est un nombre non négligeable de scénarii chauds avec une dispersion qui s'accentue au 07/10. Il repousse au 16/10 (hors topic donc) un éventuel retour des PP au nord
+	le 0z de CEP n'est pas encore sorti mais on voit déjà plus de PP, avec une première petite dégradation possible en tout début d'échéance et un 2ème passage en milieu de semaine.
+	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
+	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
+	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée

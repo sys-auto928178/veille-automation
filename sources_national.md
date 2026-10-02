@@ -15,44 +15,44 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL PARIS ET PETITE COURONNE (DEPT75) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, Paris et sa petite couronne sont en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Paris-Montsouris : température de 13 degrés, vent de secteur Sud-Est soufflant jusqu'à 10 km/h, pression niveau mer 1032 hPa.
-Au Jardin du Luxembourg : température de 13 degrés.
+Aujourd'hui on observait à 09h :
+A Paris-Montsouris : température de 14 degrés, vent de secteur Sud-Est soufflant jusqu'à 10 km/h, pression niveau mer 1033 hPa.
+Au Jardin du Luxembourg : température de 14 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
 Un voile nuageux filtre le soleil.
 Vent faible, variable.
-Températures maximales : comprises entre 22 et 23 degrés.
+Températures maximales : entre 22 et 23 degrés.
 
 • Pour la nuit prochaine :
-Le temps est calme et de fins nuages d'altitude défilent dans le ciel.
+Le ciel est généralement voilé.
 Vent variable, faible.
 Températures minimales : comprises entre 9 et 12 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
-Le ciel est lumineux et peu nuageux, l'essentiel de la journée. Mais des nuages se développent en fin d'après-midi, ne laissant plus passer que quelques rayons de soleil. Pour la nuit : Les nuages sont nombreux en soirée. En cours de nuit, la couverture nuageuse diminue, et les étoiles sont de plus en plus visibles.
+Le ciel est lumineux et peu nuageux, l'essentiel de la journée. Mais des nuages se développent en fin d'après-midi, ne laissant plus passer que quelques rayons de soleil. Pour la nuit : Il faut chercher les étoiles entre les passages nuageux en début de nuit, mais avant l'aube le ciel est largement dégagé.
 En début de nuit, vent s'établissant au Nord-Nord-Est modéré, sur la Seine-Saint-Denis ; puis atténuation.
-Températures maximales pour le jour : entre 22 et 24 degrés.
+Températures maximales pour le jour : de 22 à 24 degrés.
 Températures minimales pour la nuit suivante : de 11 à 13 degrés.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Le soleil règne en maître du matin au soir. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
 Vent variable, faible.
 Températures maximales pour le jour : 24 degrés.
-Températures minimales pour la nuit suivante : entre 10 et 12 degrés.
+Températures minimales pour la nuit suivante : de 10 à 12 degrés.
 
 • Pour la journée de lundi 05 :
-Le soleil brille sans interruption.
+Le soleil règne en maître du matin au soir.
 Vent faible, variable.
-Températures maximales : entre 24 et 26 degrés. Ces températures sont au-dessus des valeurs normalement observées.
+Températures maximales : comprises entre 24 et 26 degrés. Ces températures sont au-dessus des valeurs normalement observées.
 
 • Pour mardi 06 et mercredi 07 :
 Risque de pluie ou d'averses dès le début de matinée de mercredi.
@@ -73,46 +73,46 @@ Températures minimales : en hausse à l'ouest.
 Températures maximales : identiques à la veille.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département des Bouches-du-Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Marignane : température de 16 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 10 km/h, pression niveau mer 1026 hPa.
-A Aix-en-Provence : température de 15 degrés, vent variable faible.
+Aujourd'hui on observait à 09h :
+A Marignane : température de 18 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 5 km/h, pression niveau mer 1027 hPa.
+A Aix-en-Provence : température de 17 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 10 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
 En matinée, les nuages laissent place à de belles éclaircies. En cours d'après-midi, sur le pays aixois ainsi que sur le cordon littoral, les nuages sont plus nombreux, et peuvent donner quelques averses.
-Les plus forts cumuls de pluie attendus sont de 10 millimètres de la Camargue au Golfe de Fos.
+On prévoit au maximum jusqu'à 10 millimètres de pluie de la Camargue au Golfe de Fos.
 Vent faible de Sud-Est.
-Températures maximales : entre 26 et 27 degrés.
+Températures maximales : de 26 à 27 degrés.
 
 • Pour la nuit prochaine :
-La nuit est étoilée, sauf avant l'aurore, où une dégradation arrive. Elle apporte quelques averses. Des orages sont même possibles, sur la Camargue et la Crau.
-Petit vent d'Est généralement faible.
-Températures minimales : entre 15 et 18 degrés, et de 19 à 20 degrés sur la Camargue et les Calanques.
+La nuit est étoilée, sauf avant l'aurore, où une dégradation arrive. Elle apporte quelques averses. Des orages sont même possibles, d'Arles au Golfe de Fos.
+Vent d'Est assez faible.
+Températures minimales : entre 15 et 18 degrés, et comprises entre 19 et 20 degrés sur la Camargue et les Calanques.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
 Le ciel est couvert toute la journée. Les averses qui tombent en matinée, du Rhône à l'étang de Berre et au pays d'Aix, cessent à la mi-journée. Pour la nuit : Après quelques passages nuageux, le ciel redevient étoilé en milieu de nuit. Ensuite, des nuages élevés envahissent le ciel.
-Le maximum de pluie attendu est de l'ordre de 25 millimètres d'Arles au Golfe de Fos.
-Vent d'Est à Sud-Est assez faible.
+Les plus forts cumuls de pluie peuvent avoisiner 25 millimètres d'Arles au Golfe de Fos.
+Petit vent d'Est à Sud-Est généralement faible.
 Températures maximales pour le jour : de 24 à 27 degrés.
-Températures minimales pour la nuit suivante : comprises entre 14 et 17 degrés, et 19 degrés à Marseille et dans les Calanques.
+Températures minimales pour la nuit suivante : de 14 à 17 degrés, et 19 degrés de Marseille à La Ciotat.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-De fins nuages d'altitude troublent un peu l'ensoleillement, mais le temps reste agréable. Pour la nuit : Le ciel est généralement voilé.
+Le soleil est généralement voilé par des nuages. Pour la nuit : Le ciel est voilé, mais laisse apparaître les étoiles.
 Petit vent de Sud généralement faible.
 Températures maximales pour le jour : comprises entre 26 et 28 degrés.
-Températures minimales pour la nuit suivante : dans l'intérieur du département entre 12 et 14 degrés. Entre 16 et 19 degrés sur la frange littorale.
+Températures minimales pour la nuit suivante : dans l'intérieur du département entre 12 et 14 degrés. De 16 à 19 degrés sur le bord de mer.
 
 • Pour la journée de lundi 05 :
 La journée est lumineuse, avec beaucoup de soleil.
 Vent faible de Sud à Sud-Est.
-Températures maximales : de 27 à 28 degrés.
+Températures maximales : comprises entre 27 et 28 degrés.
 
 • Pour mardi 06 et mercredi 07 :
 Éclaircies prédominantes. Risque de brume localement et risque de pluie et d'temps passagèrement orageux.
@@ -133,16 +133,16 @@ Températures minimales : en baisse sur le val de Durance et la Sainte Baume ain
 Températures maximales : stationnaires.
 
 === BULLETIN DÉPARTEMENTAL GIRONDE (DEPT33) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Gironde est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Bordeaux : température de 14 degrés, vent de secteur Nord-Est soufflant jusqu'à 10 km/h, pression niveau mer 1028 hPa.
-Au Cap-Ferret : température de 16 degrés, vent de secteur Nord-Est soufflant jusqu'à 25 km/h.
-A Libourne : température de 13 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 15 km/h.
+Aujourd'hui on observait à 09h :
+A Bordeaux : température de 14 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 15 km/h, pression niveau mer 1029 hPa.
+Au Cap-Ferret : température de 17 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 25 km/h.
+A Libourne : température de 12 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 10 km/h.
 
 Prévisions pour les tout prochains jours :
 
@@ -153,25 +153,25 @@ Températures maximales : entre 24 et 26 degrés.
 
 • Pour la nuit prochaine :
 En début de nuit, de belles éclaircies sont présentes. Puis peu à peu, les nuages gagnent, et en fin de nuit, quelques averses sont possibles sur le Libournais ainsi que sur l'Ouest du département.
-Etablissement, en milieu de nuit, d'un vent de Nord-Est modéré, sur le littoral ; atténuation ensuite.
-Températures minimales : comprises entre 13 et 16 degrés.
+En milieu de nuit, vent s'orientant au Nord-Est modéré, sur le littoral ; atténuation ensuite.
+Températures minimales : entre 13 et 16 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
 Quelques averses sont attendues en début de matinée, sur le Libournais ainsi que sur l'Ouest du département, mais elles cessent rapidement. Ensuite, le reste de la journée est partout agréable, sous un ciel peu nuageux, parfois voilé. Pour la nuit : La nuit est étoilée. Notons cependant que des brumes se forment après minuit, sur le Bassin d'Arcachon, sur l'agglomération bordelaise ainsi que sur les Landes girondines.
-En fin d'après-midi et la nuit suivante, vent s'établissant au Nord à Nord-Est modéré, sur le littoral.
-Températures maximales pour le jour : entre 23 et 26 degrés.
+En fin d'après-midi et la nuit suivante, vent de Nord à Nord-Est modéré, sur le littoral.
+Températures maximales pour le jour : de 23 à 26 degrés.
 Températures minimales pour la nuit suivante : de 14 à 16 degrés.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Les nuages, ou parfois de la brume sur les Landes girondines, sont présents en début de journée. Cette couche nuageuse se morcelle en fin de matinée, laissant apparaître de belles éclaircies. L'après-midi, ces éclaircies s'élargissent. Pour la nuit : Le ciel est bien étoilé.
-Vent modéré sur le bord de mer, de Nord, en milieu d'après-midi ; et de Nord-Est, la nuit.
+Les nuages, ou parfois de la brume sur les Landes girondines, sont présents en début de journée. Cette couche nuageuse se morcelle en fin de matinée, laissant apparaître de belles éclaircies. L'après-midi, ces éclaircies s'élargissent. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
+Vent de Nord, modéré, en milieu d'après-midi, sur le bord de mer ; après une atténuation, reprise du vent, en cours de nuit, avec orientation au Nord-Est.
 Températures maximales pour le jour : comprises entre 23 et 26 degrés.
-Températures minimales pour la nuit suivante : comprises entre 13 et 16 degrés, et 17 degrés sur le littoral.
+Températures minimales pour la nuit suivante : entre 13 et 16 degrés, et 17 degrés sur le littoral.
 
 • Pour la journée de lundi 05 :
-Le soleil brille sans discontinuer du matin jusqu'au soir.
-En fin d'après-midi, vent d'Est modéré, sur le bord de mer.
-Températures maximales : entre 28 et 29 degrés, et 25 degrés sur le littoral. Ces températures sont au-dessus des valeurs de saison.
+Le soleil est généreux tout au long de la journée.
+En fin d'après-midi, vent s'établissant à l'Est modéré, sur le bord de mer.
+Températures maximales : de 28 à 29 degrés, et 25 degrés sur le littoral. Ces températures sont au-dessus des valeurs normalement observées.
 
 • Pour mardi 06 et mercredi 07 :
 Éclaircies prédominantes, risque de pluie et d'temps passagèrement orageux.
@@ -192,43 +192,43 @@ Températures minimales : sans changement significatif.
 Températures maximales : similaires à la veille.
 
 === BULLETIN DÉPARTEMENTAL RHÔNE (DEPT69) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Lyon : température de 14 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1029 hPa, cumul de précipitations en 12h : 2 mm.
-Aux Sauvages : température de 12 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 20 km/h.
-A Brindas : température de 16 degrés.
+Aujourd'hui on observait à 09h :
+A Lyon : température de 15 degrés, vent de secteur Nord soufflant jusqu'à 20 km/h, pression niveau mer 1030 hPa.
+Aux Sauvages : température de 13 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 20 km/h.
+A Brindas : température de 17 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
-Un voile nuageux ternit souvent l'éclat du soleil.
-Vent faible, variable.
-Températures maximales : de 22 à 23 degrés.
+Un voile nuageux ternit généralement l'éclat du soleil.
+Vent variable, faible.
+Températures maximales : entre 22 et 23 degrés.
 
 • Pour la nuit prochaine :
 Le ciel est voilé en soirée. Les nuages deviennent peu à peu plus nombreux et, en fin de nuit, peuvent donner des averses au confluent Brévenne Turdine Azergues ainsi qu'en zone de plaine.
-Vent variable, faible.
+Vent faible, variable.
 Températures minimales : de 12 à 14 degrés.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
 Le ciel est généralement gris durant la journée. Quelques averses sont possibles en début de matinée, sur les coteaux du Lyonnais, au confluent Brévenne Turdine Azergues ainsi qu'en zone de plaine, mais elles cessent rapidement. Pour la nuit : En soirée, le ciel est bien nuageux et les étoiles peinent à se montrer. Ensuite, les éclaircies deviennent plus belles, au confluent Brévenne Turdine Azergues, des monts du Lyonnais à Givors ainsi qu'en zone de plaine.
 Vent faible, variable.
-Températures maximales pour le jour : entre 22 et 24 degrés.
+Températures maximales pour le jour : de 22 à 24 degrés.
 Températures minimales pour la nuit suivante : comprises entre 13 et 15 degrés.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Toute la journée, le ciel est bien lumineux. Les nuages déjà peu nombreux en matinée, se font encore plus discrets en cours d'après-midi. Par endroits le soleil est voilé, mais c'est tout de même l'impression de beau temps qui prédomine. Pour la nuit : Le ciel est bien étoilé.
+Toute la journée, le ciel est bien lumineux. Les nuages déjà peu nombreux en matinée, se font encore plus discrets en cours d'après-midi. Par endroits le soleil est voilé, mais c'est tout de même l'impression de beau temps qui prédomine. Pour la nuit : Le ciel est clair toute la nuit.
 Vent variable, faible.
-Températures maximales pour le jour : de 22 à 25 degrés.
-Températures minimales pour la nuit suivante : comprises entre 10 et 13 degrés.
+Températures maximales pour le jour : comprises entre 22 et 25 degrés.
+Températures minimales pour la nuit suivante : entre 10 et 13 degrés.
 
 • Pour la journée de lundi 05 :
-Le soleil est généreux tout au long de la journée.
+Le soleil règne en maître du matin au soir.
 Vent faible, variable.
 Températures maximales : entre 24 et 26 degrés.
 
@@ -251,37 +251,38 @@ Températures minimales : sans changement significatif.
 Températures maximales : identiques à la veille.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 02/10/2026 06:30
+Emis le : 02/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Toulouse-Blagnac : température de 15 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1028 hPa.
+Aujourd'hui on observait à 09h :
+A Toulouse-Blagnac : température de 16 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1028 hPa.
 A Luchon : température de 14 degrés, vent de secteur Nord soufflant jusqu'à 5 km/h.
-A Saint-Félix-Lauragais : température de 16 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 10 km/h.
+A Saint-Félix-Lauragais : température de 16 degrés, vent de secteur Est Nord-Est soufflant jusqu'à 5 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui vendredi 02 :
-Les nuages sont nombreux toute la journée. Quelques averses sont possibles, en fin de journée, sur le Cagire et le Luchonnais. La limite pluie-neige se situe au plus bas à 3250 mètres.
+Les nuages sont nombreux toute la journée. Quelques averses sont possibles, en fin de journée, sur le Cagire et le Luchonnais. La limite pluie-neige s'abaisse jusqu'à 3250 mètres.
+On prévoit au maximum jusqu'à 10 millimètres de pluie sur le Cagire et le Luchonnais.
 L'après-midi jusqu'en début de soirée, établissement d'un vent d'Est à Sud-Est, généralement modéré.
 Températures maximales : sur la plaine et le piémont comprises entre 23 et 26 degrés. 22 degrés sur le Cagire et le Luchonnais.
 
 • Pour la nuit prochaine :
 Le ciel est généralement nuageux à couvert.
 Vent de Sud-Est, modéré par endroits.
-Températures minimales : sur le Midi Toulousain comprises entre 14 et 17 degrés. Entre 11 et 12 degrés sur le piémont et la montagne.
+Températures minimales : sur le Midi Toulousain entre 14 et 17 degrés. De 11 à 12 degrés sur le piémont et la montagne.
 
 • Pour demain samedi 03 en journée et la nuit suivante :
 La journée est souvent bien ensoleillée malgré les passages nuageux. Toutefois, les nuages deviennent plus nombreux, sur le Cagire et le Luchonnais ainsi qu'au sud-ouest du département, et quelques averses sont alors possibles l'après-midi. La limite pluie-neige s'abaisse, et de la neige apparaît au-dessus de 3200 mètres en cours d'après-midi. Pour la nuit : Le ciel est voilé en début de nuit. Des orages sont même possibles très localement. Ensuite, les étoiles brillent parfois dans un ciel clair, mais sur les coteaux de Gascogne ainsi que dans le Volvestre, des brumes se forment et le ciel est couvert.
-En journée et une grande partie de la nuit suivante, Autan généralement modéré ; puis faiblissant.
-Températures maximales pour le jour : de 23 à 25 degrés.
-Températures minimales pour la nuit suivante : sur le Midi Toulousain entre 15 et 17 degrés. Comprises entre 12 et 13 degrés sur le piémont et la montagne.
+Autan, généralement modéré en journée et une grande partie de la nuit suivante ; puis s'atténuant.
+Températures maximales pour le jour : entre 23 et 25 degrés.
+Températures minimales pour la nuit suivante : sur le Midi Toulousain entre 15 et 17 degrés. De 12 à 13 degrés sur le piémont et la montagne.
 
 • Pour la journée de dimanche 04 et la nuit suivante :
-Le soleil est bien présent le matin malgré quelques nuages. L'après-midi, les nuages deviennent plus menaçants sur le piémont et la montagne, et peuvent lâcher quelques petites averses. Située vers 3200 mètres en début d'après-midi, la limite pluie-neige s'élève, puis la pluie concerne toutes les altitudes en milieu d'après-midi. Pour la nuit : Les nuages laissent une large place aux étoiles en cours de nuit. Attention toutefois, car avant l'aube, des bancs de brouillards se développent dans le Volvestre.
+Le soleil est bien présent le matin malgré quelques nuages. L'après-midi, les nuages deviennent plus menaçants sur le piémont et la montagne, et peuvent lâcher quelques petites averses. Située vers 3200 mètres en début d'après-midi, la limite pluie-neige s'élève par la suite. Il pleut alors à toute altitude en milieu d'après-midi. Pour la nuit : Les nuages laissent une large place aux étoiles en cours de nuit. Attention toutefois, car avant l'aube, des bancs de brouillards se développent dans le Volvestre.
 Les plus forts cumuls de pluie peuvent avoisiner 5 millimètres sur le Cagire et le Luchonnais.
 En journée, vent d'Est à Sud-Est généralement, modéré ; puis faiblissant.
 Températures maximales pour le jour : de 22 à 25 degrés, et 26 degrés sur le Lauragais.
@@ -290,7 +291,7 @@ Températures minimales pour la nuit suivante : sur le Midi Toulousain comprises
 • Pour la journée de lundi 05 :
 Le soleil est radieux. Seuls des nuages discrets, en début d'après-midi, agrémentent le ciel, sur le Cagire et le Luchonnais.
 Vent d'Est à Sud-Est modéré, sur le Midi Toulousain.
-Températures maximales : entre 25 et 28 degrés, et 29 degrés sur le Lauragais.
+Températures maximales : de 25 à 28 degrés, et 29 degrés sur le Lauragais.
 
 • Pour mardi 06 et mercredi 07 :
 Ciel nuageux s'éclaircissant par moments. Risque de brume localement jusqu'au petit matin de mardi, risque de pluie et d'orage de mardi matin jusqu'en début de nuit de mercredi à jeudi.
@@ -340,12 +341,12 @@ en Vigilance Orange est faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
 • Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 02/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -355,24 +356,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 Dernier bulletin généré le Vendredi 2 Octobre 2026.
 Résumé général précédent : Sur 15 jours, temps souvent sec et anticyclonique, températures au-dessus des normales. Une dégradation est possible autour du 7-8 octobre, plus marquée au nord et en Méditerranée. Pour la semaine du 12 au 18, le blocage pourrait persister, mais un déblocage fragile est évoqué par le CEP IA..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, ensoleillé; 25°C possibles au sud-ouest et sur l'arc méditerranéen..
+Températures attendues précédemment : Très doux, soleil dominant, aucune pluie significative. (max 120).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: nickdu77
-Message:
-il y a 47 minutes, guiguite91 a dit :
-			Bonsoir,
-			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-			Bonne soirée, 
-	Bonsoir,
-	Mais il me semble bien que c'est ce qui a été dit en parlant de températures restant au-dessus des normales et de BP continuant à circuler au nord (de l'Europe bien sûr) avec une potentielle GF au large du Portugal.
-	Bonne soirée
-
-=======================
-
 Auteur: giec 2100
 Message:
 il y a une heure, guiguite91 a dit :
@@ -519,7 +506,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								4
 
 =======================
@@ -528,7 +515,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 18 heures par edel
+	Modifié il y a 20 heures par edel
 								1
 
 =======================
@@ -550,7 +537,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								3
 
 =======================
@@ -616,24 +603,21 @@ Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
 	- un cluster de 22 membres (probablement les 16 du cluster 2 et 6 transfuges du 1 qui doivent être intermédiaires) dont la situation serait issue d'une forte ondulation, avec potentiellement un isolement/renforcement d'une goutte froide méditerranéenne, brisant l'anticyclone et permettant aux perturbations de se frayer un chemin jusqu'à nous. 
 	La prévision apparaît fermée si on regarde GEFS : sec, anticyclonique, chaud. Elle apparaît bien plus ouverte si on regarde IFS ENS. Qu'en déduire ? Avec tous mes biais et ma préférence pour IFS ENS, je pense que l'incertitude est pour le moment assez importante, bien que s'il fallait se prononcer, le scénario sec apparaît le plus probable. Je reste néanmoins optimiste car en cas de scénario humide, on pourrait toucher un beau pactole, un peu partout.
 	Je mise aussi sur un abaissement furtif mais potentiellement rapide et remarquable des températures au nord de la France au passage de l'ondulation mais que GEFS ne voit pas forcément.
-								4
+								6
 								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
+	GEFS qui propose effectivement est un nombre non négligeable de scénarii chauds avec une dispersion qui s'accentue au 07/10. Il repousse au 16/10 (hors topic donc) un éventuel retour des PP au nord
+	le 0z de CEP n'est pas encore sorti mais on voit déjà plus de PP, avec une première petite dégradation possible en tout début d'échéance et un 2ème passage en milieu de semaine.
+	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
+	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
+	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: nickdu77
-Message:
-il y a 47 minutes, guiguite91 a dit :
-			Bonsoir,
-			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-			Bonne soirée, 
-	Bonsoir,
-	Mais il me semble bien que c'est ce qui a été dit en parlant de températures restant au-dessus des normales et de BP continuant à circuler au nord (de l'Europe bien sûr) avec une potentielle GF au large du Portugal.
-	Bonne soirée
-
-=======================
-
 Auteur: giec 2100
 Message:
 il y a une heure, guiguite91 a dit :
@@ -780,7 +764,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								4
 
 =======================
@@ -789,7 +773,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 18 heures par edel
+	Modifié il y a 20 heures par edel
 								1
 
 =======================
@@ -811,7 +795,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								3
 
 =======================
@@ -877,5 +861,16 @@ Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
 	- un cluster de 22 membres (probablement les 16 du cluster 2 et 6 transfuges du 1 qui doivent être intermédiaires) dont la situation serait issue d'une forte ondulation, avec potentiellement un isolement/renforcement d'une goutte froide méditerranéenne, brisant l'anticyclone et permettant aux perturbations de se frayer un chemin jusqu'à nous. 
 	La prévision apparaît fermée si on regarde GEFS : sec, anticyclonique, chaud. Elle apparaît bien plus ouverte si on regarde IFS ENS. Qu'en déduire ? Avec tous mes biais et ma préférence pour IFS ENS, je pense que l'incertitude est pour le moment assez importante, bien que s'il fallait se prononcer, le scénario sec apparaît le plus probable. Je reste néanmoins optimiste car en cas de scénario humide, on pourrait toucher un beau pactole, un peu partout.
 	Je mise aussi sur un abaissement furtif mais potentiellement rapide et remarquable des températures au nord de la France au passage de l'ondulation mais que GEFS ne voit pas forcément.
-								4
+								6
 								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
+	GEFS qui propose effectivement est un nombre non négligeable de scénarii chauds avec une dispersion qui s'accentue au 07/10. Il repousse au 16/10 (hors topic donc) un éventuel retour des PP au nord
+	le 0z de CEP n'est pas encore sorti mais on voit déjà plus de PP, avec une première petite dégradation possible en tout début d'échéance et un 2ème passage en milieu de semaine.
+	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
+	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
+	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
