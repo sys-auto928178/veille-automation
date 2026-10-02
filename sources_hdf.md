@@ -304,7 +304,7 @@ Températures minimales : identiques à la veille.
 Températures maximales : stationnaires.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 020400 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 2 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 2 octobre 2026 à 00H00 UTC, et évolution Anticyclone 1031 hPa sur le nord de la France, se décalant vers l'est, 1033 hPa sur le nord de l'Allemagne l'après-midi, avec une dorsale associée vers la Bretagne se renforçant demain après-midi. Creusement d'un minimum 1025 hPa dans le fond du Golfe de Gascogne en soirée. 3 - Prévisions pour la journée du vendredi 2 octobre VENT : Sud à Sud-Ouest 2 à 4, mollissant 1 à 3 en fin d'après-midi. MER : belle à peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 2 octobre au samedi 3 octobre VENT : revenant Sud à Sud-Est 2 à 3. MER : belle à peu agitée. HOULE : non significative, Ouest à Sud-Ouest 0.5 à 1 m en Manche en première partie de nuit. TEMPS : voilé. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 3 octobre VENT : Sud à Sud-Est 2 à 3, devenant Variable 1 à 3 à la mi-journée, puis s'orientant Nord à Nord-Est en fin de journée. MER : belle en mer du Nord, belle à peu agitée en Manche. HOULE : non significative. TEMPS : voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : Variable 1 à 3. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Lundi 5 octobre Est faible à modéré sur la pointe bretonne, Sud-Ouest faible à modéré en Mer du Nord. Indice de confiance : 3 sur 5 Mardi 6 octobre Est faible à modéré sur la pointe bretonne, Sud-Ouest faible à modéré en Mer du Nord. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Nord faible à modéré. Indice de confiance : 2 sur 5 Jeudi 8 octobre Secteur Nord faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le vendredi 2 octobre 2026 à 03H00 UTC Dunkerque : vent Sud 4 noeuds, mer belle, 1031 hPa en hausse, nuageux avec éclaircies, visibilité 6 milles. Cap Gris Nez : vent Ouest 8 noeuds. Boulogne : vent Ouest-Sud-Ouest 6 noeuds, 1030 hPa en hausse. Prochain bulletin le vendredi 2 octobre 2026, vers 12H30 légales
+FQCT40 LFQQ 020940 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 2 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale vendredi 2 octobre 2026 à 06H00 UTC, et évolution Anticyclone 1031 hPa sur le nord de la France, se décalant vers l'est, prévu 1032 hPa sur le nord de l'Allemagne cet après-midi, avec une dorsale associée vers la Bretagne. Nouvel anticyclone se renforçant demain après-midi dans la dorsale, prévu 1030 sur la Manche. Creusement d'un minimum relatif vers 1025 hPa dans le fond du Golfe de Gascogne en soirée. 3 - Prévisions pour l'après-midi du vendredi 2 octobre VENT : Sud à Sud-Ouest 2 à 4, mollissant 1 à 3 en fin d'après-midi. MER : belle à peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du vendredi 2 octobre au samedi 3 octobre VENT : revenant Sud à Sud-Est 2 à 3. MER : belle, parfois peu agitée en Manche. HOULE : non significative, temporairement Ouest à Sud-Ouest 0.5 à 1 m en Manche en première partie de nuit. TEMPS : voilé. VISIBILITE : bonne. 5 - Prévisions pour la journée du samedi 3 octobre VENT : secteur Sud 2 à 3, devenant Variable 1 à 3 à la mi-journée, puis s'orientant Nord à Nord-Est en fin de journée. MER : belle en mer du Nord, belle à peu agitée en Manche. HOULE : non significative. TEMPS : voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 3 au 4 et la journée du dimanche 4 octobre VENT : virant Est à Nord-Est 2 à 3, puis Est à Sud-Est le matin et devenant Variable 1 à 3 l'après-midi. MER : belle. HOULE : non significative. TEMPS : nuageux la nuit, beau temps en journée. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : Sud-Ouest 2 à 3, fraîchissant 4 en cours de matinée. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Mardi 6 octobre Est à Nord-Est faible, localement modéré en entrée de Manche. Indice de confiance : 3 sur 5 Mercredi 7 octobre Nord-Est modéré revenant Nord modéré à assez fort. Indice de confiance : 3 sur 5 Jeudi 8 octobre Nord à Nord-Ouest modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 9 octobre fraîchissant Sud-Ouest modéré à assez fort. Indice de confiance : 3 sur 5 9 - Observations le vendredi 2 octobre 2026 à 09H00 UTC Dunkerque : vent Sud 6 noeuds, 1033 hPa en hausse. Cap Gris Nez : vent Sud 10 noeuds. Boulogne : vent Sud-Sud-Est 4 noeuds, 1033 hPa en hausse, nuageux avec éclaircies, visibilité 10 milles. Prochain bulletin le vendredi 2 octobre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -330,12 +330,12 @@ en Vigilance Orange est faible.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi de l'épisode méditerranéen du 30 septembre / 1er octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Prévisions Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 02/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -343,28 +343,14 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 2 Octobre 2026.
-Résumé général HDF précédent : Sur l'ensemble des deux semaines, la tendance anticyclonique domine nettement sur les Hauts-de-France, avec un temps sec et très doux au moins jusqu'au début de la semaine 2. Une dégradation pluvieuse est possible autour du 7-8 octobre, suivie d'un rafraîchissement temporaire, mais le retour de l'anticyclone semble probable ensuite. La semaine 2 reste très incertaine, avec des modèles partagés entre maintien sec et amorce de déblocage..
+Résumé général HDF précédent : Sur les 15 prochains jours, les Hauts-de-France devraient rester sous l'influence dominante d'un anticyclone, avec un temps sec, assez doux et très ensoleillé pour la saison, malgré une possible dégradation temporaire en milieu de semaine 1..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Ensoleillé et sec, températures nettement au-dessus des normales, souvent supérieures à 20°C l'après-midi..
+Températures attendues précédemment : Ensoleillé, doux, vent faible à modéré; aucune précipitation significative pour la région..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: giec 2100
 Message:
-il y a une heure, guiguite91 a dit :
-			Bonsoir,
-			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-			Bonne soirée, 
-	l'Amerloque confirme avec son run de midi : 
-	il y a au moins un signal - faible - que quelque chose se trame au niveau du kéblo de bas-art... comme disait le marle qui voulait casser le coffre-fort...
-	https://images.meteociel.fr/im/98/21816/animakc7.gif
-
-=======================
-
-Auteur: giec 2100
-Message:
 persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
 	https://images.meteociel.fr/im/8/17863/animyeb9.gif
 	mais non confirmé chez l'Américain : 
@@ -495,7 +481,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								4
 
 =======================
@@ -504,7 +490,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 20 heures par edel
+	Modifié il y a 22 heures par edel
 								1
 
 =======================
@@ -526,7 +512,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								3
 
 =======================
@@ -556,7 +542,7 @@ Il y a 5 heures, Nicolas L a dit :
 	Une partie du pays certes, mais CEP ce soir n'est pas encourageant pour cette première décade en matière de précipitations pour les départements du Centre-Ouest très touchés par la sécheresse.
 	GFS est encore pire pour cette même échéance.
 								1
-								2
+								3
 
 =======================
 
@@ -605,24 +591,23 @@ Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
 	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
 	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
 	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+A voir quand même comment ça évolue, l'épisode méditerrannéen m'apparaît faiblard (ça reste un épisode bien humide sur la zone concerné mais pas exceptionnel), on aura probablement un léger flux d'altitude (500hPa) de sud en raison d'une timide goutte froide sur l'Espagne évoluant en talweg lors du passage de l'ondulation, mais en surface, c'est haut en pression.
+	On voit l'effet de la Méditerrannée (notamment en raison de ses SST chaudes ?) : l'air est très humide, le moindre flux sud essore l'éponge, même en mettant peu de force !
+	Malgré tout, pour appuyer l'incertitude et la faiblesse du phénomène, on peut se référer aux EFI qui sont pour ces échéances faibles -&gt; on s'écarte peu de la normalité.
+	EFI pour le mercredi 7 :
+	En comparaison de l'EFI, aux mêmes échéances pour l'épisode passé :
+	On voit que la zone est très petite et l'EFI bien moins élevé (mais pas totalement absent !). 
+	ICON persiste pour une ondulation un peu plus profonde. IFS ENS va dans le sens plutôt sec, tout en conservant une proportion encore non négligeable de scénario à ondulation un peu + profonde. La messe n'est pas dite, mais les signaux vont vers le sec et les scénarios anticyclonique de mon point de vue.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: giec 2100
 Message:
-il y a une heure, guiguite91 a dit :
-			Bonsoir,
-			Alors, serait-il possible de ne pas trop zoomer sur un run, de GfS 6h surtout... ? 
-			Les modèles de ce soir indiquent plutôt une masse sèche et au-dessus des normales pour la semaine prochaine.  Comme ce matin...
-			Et le modèle saisonnier de ECWF va dans ce sens pour la semaine prochaine. 
-			Bonne soirée, 
-	l'Amerloque confirme avec son run de midi : 
-	il y a au moins un signal - faible - que quelque chose se trame au niveau du kéblo de bas-art... comme disait le marle qui voulait casser le coffre-fort...
-	https://images.meteociel.fr/im/98/21816/animakc7.gif
-
-=======================
-
-Auteur: giec 2100
-Message:
 persistance du signal faible de déblocage en fin d'échéance ce matin chez CEP IA : 
 	https://images.meteociel.fr/im/8/17863/animyeb9.gif
 	mais non confirmé chez l'Américain : 
@@ -753,7 +738,7 @@ il y a 46 minutes, Plancher a dit :
 			Que penser du dernier run de GFS (6Z) ? La baisse des températures est encore repoussée. Du rouge jusqu'à la fin du topic. Est-ce possible ?
 	ben aux dernières actus l'Amerloque ne nous propose pas grand-chose pour se rincer la glotte, une fois notre belle dépression atlantique giclée vers le pôle et le déluge circum-cévenol terminé... :
 	quant à la chaleur, prise au sens conventionnel, valeurs supérieures à 25°C, y aura encore de beaux restes à boulotter, particulièrement du côté du SW et de l'arc méd  : 
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								4
 
 =======================
@@ -762,7 +747,7 @@ Auteur: edel
 Message:
 Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
 	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié il y a 20 heures par edel
+	Modifié il y a 22 heures par edel
 								1
 
 =======================
@@ -784,7 +769,7 @@ il y a une heure, Plancher a dit :
 	https://images.meteociel.fr/im/91/7803/animnvd3.gif
 	scénario, synoptique répétés ad nauseam depuis la fin de l'hiver... :
 	régime infect...
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								3
 
 =======================
@@ -814,7 +799,7 @@ Il y a 5 heures, Nicolas L a dit :
 	Une partie du pays certes, mais CEP ce soir n'est pas encourageant pour cette première décade en matière de précipitations pour les départements du Centre-Ouest très touchés par la sécheresse.
 	GFS est encore pire pour cette même échéance.
 								1
-								2
+								3
 
 =======================
 
@@ -863,3 +848,16 @@ Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
 	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
 	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
 	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+A voir quand même comment ça évolue, l'épisode méditerrannéen m'apparaît faiblard (ça reste un épisode bien humide sur la zone concerné mais pas exceptionnel), on aura probablement un léger flux d'altitude (500hPa) de sud en raison d'une timide goutte froide sur l'Espagne évoluant en talweg lors du passage de l'ondulation, mais en surface, c'est haut en pression.
+	On voit l'effet de la Méditerrannée (notamment en raison de ses SST chaudes ?) : l'air est très humide, le moindre flux sud essore l'éponge, même en mettant peu de force !
+	Malgré tout, pour appuyer l'incertitude et la faiblesse du phénomène, on peut se référer aux EFI qui sont pour ces échéances faibles -&gt; on s'écarte peu de la normalité.
+	EFI pour le mercredi 7 :
+	En comparaison de l'EFI, aux mêmes échéances pour l'épisode passé :
+	On voit que la zone est très petite et l'EFI bien moins élevé (mais pas totalement absent !). 
+	ICON persiste pour une ondulation un peu plus profonde. IFS ENS va dans le sens plutôt sec, tout en conservant une proportion encore non négligeable de scénario à ondulation un peu + profonde. La messe n'est pas dite, mais les signaux vont vers le sec et les scénarios anticyclonique de mon point de vue.
