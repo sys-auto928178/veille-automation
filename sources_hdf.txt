@@ -304,7 +304,7 @@ Températures minimales : en hausse.
 Températures maximales : identiques à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 030430 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le samedi 3 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 3 octobre 2026 à 00H00 UTC, et évolution Zone dépressionnaire sur la péninsule ibérique. Dorsale se maintenant sur le nord du golfe de Gascogne et la Manche. 3 - Prévisions pour la journée du samedi 3 octobre VENT : secteur Sud 2 à 4, devenant Variable 1 à 3 à la mi-journée. MER : belle en mer du Nord, belle à peu agitée en Manche. HOULE : non significative, localement Ouest 0.5 m en Manche. TEMPS : nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 3 octobre au dimanche 4 octobre VENT : Variable 1 à 3, s'établissant secteur Est en seconde partie de nuit. MER : belle en mer du Nord, localement belle à peu agitée en Manche au début. HOULE : non significative, localement Ouest 0.5 m en Manche. TEMPS : peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 4 octobre VENT : Variable 1 à 3, secteur Est dominant le matin. MER : belle. HOULE : non significative. TEMPS : beau temps. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : Sud-Ouest 2 à 3, fraîchissant 4 en début de matinée en mer du nord. MER : belle. Pas de houle significative. 7 - Tendance pour les jours suivants Mardi 6 octobre Est à Nord-Est faible, localement modéré en entrée de Manche. Indice de confiance : 3 sur 5 Mercredi 7 octobre Nord-Est modéré revenant Nord modéré à assez fort. Indice de confiance : 3 sur 5 Jeudi 8 octobre Nord à Nord-Ouest modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 9 octobre fraîchissant Sud-Ouest modéré à assez fort. Indice de confiance : 3 sur 5 8 - Observations le samedi 3 octobre 2026 à 03H00 UTC Dunkerque : vent Sud-Sud-Est 4 noeuds, mer belle, 1030 hPa en baisse, clair ou peu nuageux, visibilité 3 milles. Cap Gris Nez : vent Sud 10 noeuds. Boulogne : vent Sud-Est 6 noeuds, 1030 hPa en baisse. Bouée Sandettie : vent Sud 10 noeuds, creux 0,2 mètre, 1029 hPa en baisse, visibilité 10 milles. Prochain bulletin le samedi 3 octobre 2026, vers 12H30 légales
+FQCT40 LFQQ 030935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le samedi 3 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 3 octobre 2026 à 06H00 UTC, et évolution Zone dépressionnaire sur la péninsule ibérique. Dorsale se maintenant sur le nord du golfe de Gascogne et la Manche. 3 - Prévisions pour l'après-midi du samedi 3 octobre VENT : secteur Sud-Ouest 1 à 3, devenant Variable en fin d'après-midi. MER : belle en mer du Nord, belle à peu agitée en Manche. HOULE : non significative, mais localement Ouest 0.5 m en Manche. TEMPS : très nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 3 octobre au dimanche 4 octobre VENT : Variable 1 à 3, s'établissant secteur Est en seconde partie de nuit. MER : belle, localement belle à peu agitée en Manche au début. HOULE : non significative. TEMPS : nuageux, s'éclaircissant en seconde partie de nuit. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 4 octobre VENT : Variable 1 à 3, secteur Est dominant le matin, puis secteur Nord dominant le midi. MER : belle. HOULE : non significative. TEMPS : ensoleillé, puis voilé l'après-midi. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : Variable 1 à 3, s'orientant secteur Ouest en seconde partie de nuit, puis fraîchissant Sud-Ouest 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ciel voilé. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 5 au 6 et la journée du mardi 6 octobre VENT : Ouest à Sud-Ouest 2 à 4, virant Nord-Est en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 8 - Tendance pour les jours suivants Mercredi 7 octobre Secteur Nord modéré à assez fort. Indice de confiance : 4 sur 5 Jeudi 8 octobre Secteur Nord modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 9 octobre Secteur Ouest modéré à assez fort. Indice de confiance : 2 sur 5 Samedi 10 octobre Secteur Ouest modéré à assez fort. Indice de confiance : 2 sur 5 9 - Observations le samedi 3 octobre 2026 à 09H00 UTC Dunkerque : vent Sud 4 noeuds, 1031 hPa en hausse. Cap Gris Nez : vent Sud 4 noeuds. Boulogne : vent Sud-Sud-Est 4 noeuds, 1031 hPa en hausse. Prochain bulletin le samedi 3 octobre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -331,12 +331,12 @@ en Vigilance Orange demeure  faible à ce stade.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Climatologie 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : La météo &#xE0; La Réunion
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 03/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -344,9 +344,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 3 Octobre 2026.
-Résumé général HDF précédent : Une première partie de semaine très douce et sèche, puis une dégradation modérée et un rafraîchissement en fin de semaine 1 ; semaine 2 probablement anticyclonique et sèche, avec une incertitude sur un scénario humide minoritaire..
+Résumé général HDF précédent : Sur les 15 jours : d’abord très doux et sec du 5 au 6/10, dégradation modérée et rafraîchissement du 7 au 10/10, amélioration relative le 11/10 ; semaine 42 encore très incertaine, plutôt anticyclonique et sèche, avec un scénario humide minoritaire..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Fraîcheur à partir de jeudi, possiblement sous les normales ; pluies faibles à modérées..
+Températures attendues précédemment : Pour HDF : début sec et très doux, dégradation possible en milieu de semaine, baisse des températures en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -528,7 +528,7 @@ il y a une heure, Krholam a dit :
 	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
 	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
 	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								3
 
 =======================
@@ -548,7 +548,7 @@ Message:
 Bonsoir,
 	avec toutes les réserves exprimées sur cette semaine, il semble que l'on pourrait revenir progressivement vers des valeurs plus classiques, toujours en tenant compte du réchauffement climatique, pour la saison. Je ne sais pas si cette semaine marquera une vraie courbe vers la fin de cet été interminable, mais les séquences météorologiques pourraient bien alterner à un rythme plus soutenu vers la variété qui structurait notre climat.
 	Bon, pour ce qui est de la zone inter tropicale, j'espère être déjà trop vieux pour connaître cette évolution sur nos régions . Déjà que l'invasion sub tropicale me traumatise, je n'ose imaginer la suite de l'histoire... @giec 2100, tu peux peut être penser à giec 2250 ou giec 2500 si la machine continue à s'emballer . Je plaisante, mais je pense que tes écrits ont devancé ta pensée .
-	Modifié il y a 13 heures par tao
+	Modifié il y a 15 heures par tao
 								7
 
 =======================
@@ -556,7 +556,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								7
+								8
 								1
 
 =======================
@@ -570,7 +570,7 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -752,7 +752,7 @@ il y a une heure, Krholam a dit :
 	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
 	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
 	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								3
 
 =======================
@@ -772,7 +772,7 @@ Message:
 Bonsoir,
 	avec toutes les réserves exprimées sur cette semaine, il semble que l'on pourrait revenir progressivement vers des valeurs plus classiques, toujours en tenant compte du réchauffement climatique, pour la saison. Je ne sais pas si cette semaine marquera une vraie courbe vers la fin de cet été interminable, mais les séquences météorologiques pourraient bien alterner à un rythme plus soutenu vers la variété qui structurait notre climat.
 	Bon, pour ce qui est de la zone inter tropicale, j'espère être déjà trop vieux pour connaître cette évolution sur nos régions . Déjà que l'invasion sub tropicale me traumatise, je n'ose imaginer la suite de l'histoire... @giec 2100, tu peux peut être penser à giec 2250 ou giec 2500 si la machine continue à s'emballer . Je plaisante, mais je pense que tes écrits ont devancé ta pensée .
-	Modifié il y a 13 heures par tao
+	Modifié il y a 15 heures par tao
 								7
 
 =======================
@@ -780,7 +780,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								7
+								8
 								1
 
 =======================
@@ -794,5 +794,5 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								3

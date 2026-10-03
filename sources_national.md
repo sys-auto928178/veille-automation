@@ -313,7 +313,7 @@ Températures minimales : en hausse sur le Lauragais ainsi que du muretain au pi
 Températures maximales : en hausse sur le Cagire et le Luchonnais.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 030415 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le samedi 3 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 3 octobre 2026 à 00H00 UTC, et évolution Hautes pressions autour de 1026 hPa, avec flux de secteur Est associés. Dépression orageuse relative 1023 hPa sur le Golfe du Lion, se comblant la nuit prochaine. 3 - Prévisions pour la journée du samedi 3 octobre VENT : Est à Sud-Est 4 à 5, mollissant localement Est à Nord-Est 3 à 4 à l'est de Sicié en fin de journée. Rafales sous orages. MER : peu agitée. HOULE : s'établissant Est à Sud-Est 0.5 à 1 m à la mi-journée. TEMPS : pluies ou averses orageuses à l'ouest de Sicié, s'améliorant l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations à l'ouest de Sicié, bonne à l'est. 4 - Prévisions pour la nuit du samedi 3 octobre au dimanche 4 octobre VENT : Est 4 à 5, fraîchissant 5 à 6 à l'ouest de Sicié en seconde partie de nuit. MER : peu agitée, devenant peu agitée à agitée à l'ouest de Sicié en seconde partie de nuit. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : ciel clair à peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 4 octobre VENT : Est 5 à 6, mollissant Est à Sud-Est 4 à 5 l'après-midi, puis localement Nord-Est 3 à 4 à l'est du Levant. Rafales sous averses. MER : peu agitée à agitée, devenant agitée à la mi-journée.. HOULE : Sud-Est 0.5 à 1 m, s'amplifiant 1 à 1.5 m l'après-midi. TEMPS : pluie ou averses orageuses par l'ouest l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : Secteur Est 3 à 4, virant Est à Sud-Est en milieu d'après-midi. MER : peu agitée, localement agitée de Port Camargue à Marseille. HOULE de Sud à Sud-Est 0,5 à 1 m, localement 1 à 1,5 m. 7 - Tendance pour les jours suivants Mardi 6 octobre Sud-Est faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 Mercredi 7 octobre Secteur Sud-Est modéré. Indice de confiance : 3 sur 5 Jeudi 8 octobre Nord-Ouest assez fort devenant fort. Variable dépressionnaire modéré entre Corse et continent. Indice de confiance : 3 sur 5 Vendredi 9 octobre Nord-Ouest assez fort à fort. Variable dépressionnaire modéré entre Corse et continent. Indice de confiance : 3 sur 5 8 - Observations le samedi 3 octobre 2026 à 03H00 UTC Cap Camarat : vent Est 12 noeuds. Le Levant : vent Est 12 noeuds, 1026 hPa en baisse. Porquerolles : vent Est 10 noeuds. Cap Couronne : vent Est-Nord-Est 6 noeuds, mer belle, visibilité 8 milles. Prochain bulletin le samedi 3 octobre 2026, vers 13H00 légales
+FQCT40 LFML 030955 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le samedi 3 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 3 octobre 2026 à 06H00 UTC, et évolution Hautes pressions autour de 1026 hPa, avec flux de secteur Est associé. Dépression orageuse relative 1023 hPa près du Roussillon, évoluant peu demain. 3 - Prévisions pour l'après-midi du samedi 3 octobre VENT : Est à Sud-Est 4 à 5, mollissant localement Est à Nord-Est 3 à 4 à l'est du Levant en fin de journée. MER : peu agitée, devenant localement agitée de Fos à Sicié à la fin. HOULE : s'établissant Est à Sud-Est 0.5 à 1 m à la mi-journée. TEMPS : pluies ou averses orageuses à l'ouest de Sicié, s'améliorant en cours d'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations à l'ouest de Sicié, bonne à l'est. 4 - Prévisions pour la nuit du samedi 3 octobre au dimanche 4 octobre VENT : Est à Sud-Est 4 à 5, fraîchissant 5 à 6 à l'ouest de Porquerolles en seconde partie de nuit, mais localement Nord-Est 3 à 4 proche de la Camargue dès le milieu de nuit. MER : peu agitée, mais localement agitée de Beauduc à Sicié vers le large, devenant agitée partout en fin de nuit. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : ciel clair à peu nuageux. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 4 octobre VENT : secteur Est 5 à 6, mollissant localement Est à Nord-Est 3 à 4 à l'est du Levant en fin de journée. Rafales sous averses. MER : agitée. HOULE : Sud-Est 0.5 à 1 m, s'amplifiant 1 à 1.5 m l'après-midi. TEMPS : nuageux avec des pluie ou averses orageuses vers Sicié à la fin, en provenance du sud-ouest. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 4 au 5 et la journée du lundi 5 octobre VENT : secteur Est 3 à 5. Fortes rafales. MER : agitée, s'atténuant peu agitée à l'est de Sicié en cours de nuit, et partout à la fin. HOULE : Sud-Est 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi. TEMPS : averses orageuses, s'atténuant l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 5 au 6 et la journée du mardi 6 octobre VENT : Est à Sud-Est 3 à 4, fraîchissant 5 à 6 en cours de matinée. Rafales. MER : belle à peu agitée, devenant agitée en milieu d'après-midi de Port Camargue à Marseille. HOULE de Sud à Sud-Est inférieure à 1,5 m, s'atténuant ensuite. 8 - Tendance pour les jours suivants Mercredi 7 octobre Secteur Nord-Ouest modéré à assez fort autour du golfe du Lion et secteur Est modéré à assez fort entre Corse et continent. Indice de confiance : 4 sur 5 Jeudi 8 octobre Secteur Nord-Ouest fort autour du golfe du Lion et secteur Ouest modéré à assez fort entre Corse et continent. Indice de confiance : 3 sur 5 Vendredi 9 octobre Secteur Nord-Ouest fort autour du golfe du Lion et variable modéré à assez fort entre Corse et continent. Indice de confiance : 2 sur 5 Samedi 10 octobre Secteur Nord-Ouest fort autour du golfe du Lion et variable modéré à assez fort entre Corse et continent. Indice de confiance : 2 sur 5 9 - Observations le samedi 3 octobre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 12 noeuds, très nuageux à couvert, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1027 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 21 noeuds. Cap Couronne : vent Est-Nord-Est 4 noeuds, mer belle, couvert, pluies ou bruines, visibilité 5 milles. Prochain bulletin le samedi 3 octobre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -340,12 +340,12 @@ en Vigilance Orange demeure  faible à ce stade.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : La météo &#xE0; La Réunion
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Incendies 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 03/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -353,9 +353,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 3 Octobre 2026.
-Résumé général précédent : Sur la quinzaine, la France resterait majoritairement sous influence anticyclonique avec un temps sec et très doux. Une dégradation pluvio-orageuse est possible en milieu de première semaine, suivie d'une amélioration. La seconde semaine reste très incertaine, entre blocage sec et scénario humide minoritaire..
+Résumé général précédent : Sur la quinzaine, un temps souvent sec et anticyclonique, très doux en première semaine, plus proche des normales en seconde semaine; quelques passages pluvieux possibles, surtout au sud-est et en fin de quinzaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps chaud et sec jusqu'à mardi, baisse des températures plus ou moins marquée ensuite..
+Températures attendues précédemment : Temps sec, ensoleillé, chaud pour la saison; aucune dégradation pluvieuse majeure..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -537,7 +537,7 @@ il y a une heure, Krholam a dit :
 	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
 	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
 	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								3
 
 =======================
@@ -557,7 +557,7 @@ Message:
 Bonsoir,
 	avec toutes les réserves exprimées sur cette semaine, il semble que l'on pourrait revenir progressivement vers des valeurs plus classiques, toujours en tenant compte du réchauffement climatique, pour la saison. Je ne sais pas si cette semaine marquera une vraie courbe vers la fin de cet été interminable, mais les séquences météorologiques pourraient bien alterner à un rythme plus soutenu vers la variété qui structurait notre climat.
 	Bon, pour ce qui est de la zone inter tropicale, j'espère être déjà trop vieux pour connaître cette évolution sur nos régions . Déjà que l'invasion sub tropicale me traumatise, je n'ose imaginer la suite de l'histoire... @giec 2100, tu peux peut être penser à giec 2250 ou giec 2500 si la machine continue à s'emballer . Je plaisante, mais je pense que tes écrits ont devancé ta pensée .
-	Modifié il y a 13 heures par tao
+	Modifié il y a 15 heures par tao
 								7
 
 =======================
@@ -565,7 +565,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								7
+								8
 								1
 
 =======================
@@ -579,7 +579,7 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								3
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -761,7 +761,7 @@ il y a une heure, Krholam a dit :
 	le vortex est tellement dans les clous cette année... que la poche d'air froid semble avoir fuité...
 	bon, sans être pinailleur, une remarque sur nos comparatifs... à la faveur de mes adversaires (!) :
 	les cartes ne sont pas de même nature, celle de 2025 est une réanalyse (l'état observé), celle de 2026 est une moyenne d'ensemble à +186 h, qui lisse les lobes et les langues d'air froid, ce qui donne une zone compacte et arrondie, où les expansions froides prévues sont sans doute un peu plus méridionales...
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								3
 
 =======================
@@ -781,7 +781,7 @@ Message:
 Bonsoir,
 	avec toutes les réserves exprimées sur cette semaine, il semble que l'on pourrait revenir progressivement vers des valeurs plus classiques, toujours en tenant compte du réchauffement climatique, pour la saison. Je ne sais pas si cette semaine marquera une vraie courbe vers la fin de cet été interminable, mais les séquences météorologiques pourraient bien alterner à un rythme plus soutenu vers la variété qui structurait notre climat.
 	Bon, pour ce qui est de la zone inter tropicale, j'espère être déjà trop vieux pour connaître cette évolution sur nos régions . Déjà que l'invasion sub tropicale me traumatise, je n'ose imaginer la suite de l'histoire... @giec 2100, tu peux peut être penser à giec 2250 ou giec 2500 si la machine continue à s'emballer . Je plaisante, mais je pense que tes écrits ont devancé ta pensée .
-	Modifié il y a 13 heures par tao
+	Modifié il y a 15 heures par tao
 								7
 
 =======================
@@ -789,7 +789,7 @@ Bonsoir,
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								7
+								8
 								1
 
 =======================
@@ -803,5 +803,5 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								3
