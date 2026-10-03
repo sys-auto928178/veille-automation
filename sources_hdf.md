@@ -309,12 +309,12 @@ mais reste perturbé.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions Sud-Ouest. Octobre 2026
-• Infoclimat Direct : Suivi ensoleillement 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Glaciers alpins
+• Infoclimat Direct : Suivi du temps dans les Régions Centrales - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 03/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -322,9 +322,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 3 Octobre 2026.
-Résumé général HDF précédent : Après un début de semaine 1 très doux et sec, rafraîchissement probable en seconde partie de semaine, puis retour anticyclonique plus incertain en semaine 2..
+Résumé général HDF précédent : Doux et sec en début de semaine 1, dégradation modérée et rafraîchissement en milieu de semaine, puis retour probable de l’anticyclone. Forte incertitude pour la semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec et doux jusqu'en milieu de semaine; rafraîchissement possible avec pluies faibles à partir du 7-8 octobre..
+Températures attendues précédemment : Averses faibles possibles, vent NNO, températures en baisse. (65 caractères).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -526,15 +526,15 @@ Message:
 Bonsoir,
 	avec toutes les réserves exprimées sur cette semaine, il semble que l'on pourrait revenir progressivement vers des valeurs plus classiques, toujours en tenant compte du réchauffement climatique, pour la saison. Je ne sais pas si cette semaine marquera une vraie courbe vers la fin de cet été interminable, mais les séquences météorologiques pourraient bien alterner à un rythme plus soutenu vers la variété qui structurait notre climat.
 	Bon, pour ce qui est de la zone inter tropicale, j'espère être déjà trop vieux pour connaître cette évolution sur nos régions . Déjà que l'invasion sub tropicale me traumatise, je n'ose imaginer la suite de l'histoire... @giec 2100, tu peux peut être penser à giec 2250 ou giec 2500 si la machine continue à s'emballer . Je plaisante, mais je pense que tes écrits ont devancé ta pensée .
-	Modifié il y a 23 heures par tao
-								7
+	Modifié hier à 18:52 par tao
+								8
 
 =======================
 
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								8
+								10
 								1
 
 =======================
@@ -548,7 +548,7 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								4
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -750,15 +750,15 @@ Message:
 Bonsoir,
 	avec toutes les réserves exprimées sur cette semaine, il semble que l'on pourrait revenir progressivement vers des valeurs plus classiques, toujours en tenant compte du réchauffement climatique, pour la saison. Je ne sais pas si cette semaine marquera une vraie courbe vers la fin de cet été interminable, mais les séquences météorologiques pourraient bien alterner à un rythme plus soutenu vers la variété qui structurait notre climat.
 	Bon, pour ce qui est de la zone inter tropicale, j'espère être déjà trop vieux pour connaître cette évolution sur nos régions . Déjà que l'invasion sub tropicale me traumatise, je n'ose imaginer la suite de l'histoire... @giec 2100, tu peux peut être penser à giec 2250 ou giec 2500 si la machine continue à s'emballer . Je plaisante, mais je pense que tes écrits ont devancé ta pensée .
-	Modifié il y a 23 heures par tao
-								7
+	Modifié hier à 18:52 par tao
+								8
 
 =======================
 
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								8
+								10
 								1
 
 =======================
@@ -772,5 +772,5 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								4
