@@ -229,16 +229,16 @@ Températures minimales : en hausse dans le Beaujolais, au confluent Brévenne T
 Températures maximales : en hausse sur le relief ainsi qu'en zone de plaine.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 03/10/2026 16:45
+Emis le : 03/10/2026 22:01
 
 Vigilance :
-Attention, aujourd'hui, le département de la Haute-Garonne est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance verte.
+Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Toulouse-Blagnac : température de 26 degrés, vent de secteur Est soufflant jusqu'à 25 km/h, pression niveau mer 1022 hPa.
-A Luchon : température de 24 degrés, vent de secteur Nord soufflant jusqu'à 25 km/h.
-A Saint-Félix-Lauragais : température de 23 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 35 km/h.
+Aujourd'hui on observait à 21h :
+A Toulouse-Blagnac : température de 23 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 40 km/h, pression niveau mer 1022 hPa.
+A Luchon : température de 18 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 10 km/h.
+A Saint-Félix-Lauragais : température de 21 degrés, vent de secteur Sud-Est soufflant jusqu'à 50 km/h.
 
 Prévisions pour les tout prochains jours :
 
@@ -248,20 +248,20 @@ En début de nuit, Autan assez fort, sur le Lauragais ; atténuation ensuite.
 Températures minimales : voisines de 14 à 17 degrés, et 18 degrés dans l'Agglomération toulousaine.
 
 • Pour demain dimanche 04 en journée et la nuit suivante :
-Sous un ciel variable, avec parfois des passages nuageux plus conséquents, quelques averses tombent ici ou là, principalement dans l'après-midi. Toutefois du Lauragais au Comminges, les averses sont possibles toute la journée. Située vers 3250 mètres tôt le matin, la limite pluie-neige s'élève par la suite. Il pleut alors à toute altitude en fin de matinée. Pour la nuit : Les étoiles sont bien visibles durant la nuit, même si des passages nuageux s'invitent dans le ciel. À noter cependant, que quelques averses éparses sont possibles, en soirée, du Lauragais au muretain. En fin de nuit, des brumes ou brouillards légers sont attendus, dans le Volvestre ainsi que dans le Saint-Gaudinois.
-Les plus forts cumuls de pluie attendus sont de 10 millimètres sur le Lauragais.
+Sous un ciel variable, avec parfois des passages nuageux plus conséquents, quelques averses tombent ici ou là, principalement dans l'après-midi. Toutefois du Lauragais au Comminges, les averses sont possibles toute la journée. Située vers 3250 mètres au lever du jour, la limite pluie-neige s'élève, puis la pluie concerne toutes les altitudes en fin de matinée. Pour la nuit : Les étoiles sont bien visibles durant la nuit, même si des passages nuageux s'invitent dans le ciel. À noter cependant, que quelques averses éparses sont possibles, en soirée, du Lauragais au muretain. En fin de nuit, des brumes ou brouillards légers sont attendus, dans le Volvestre ainsi que dans le Saint-Gaudinois.
+On attend au maximum jusqu'à 10 millimètres de pluie sur le Lauragais.
 Autan modéré, sur la plaine et le piémont.
-Températures maximales pour le jour : comprises entre 21 et 24 degrés, et 25 degrés dans l'Agglomération toulousaine.
-Températures minimales pour la nuit suivante : sur le Midi Toulousain voisines de 14 à 17 degrés. Entre 10 et 13 degrés sur le piémont et la montagne.
+Températures maximales pour le jour : entre 21 et 24 degrés, et 25 degrés dans l'Agglomération toulousaine.
+Températures minimales pour la nuit suivante : sur le Midi Toulousain autour de 14 à 17 degrés. Comprises entre 10 et 13 degrés sur le piémont et la montagne.
 
 • Pour la journée de lundi 05 et la nuit suivante :
 La journée est ensoleillée. En fin d'après-midi, quelques gouttes peuvent tomber sur le Cagire et le Luchonnais. C'est de la neige qui tombe au-dessus de 3250 mètres. Pour la nuit : Les quelques brumes présentes ça et là laissent rapidement place à un temps assez bien dégagé sur le Cagire et le Luchonnais. Le ciel se voile en seconde partie de nuit.
 Vent d'Est à Sud-Est, généralement modéré.
-Températures maximales pour le jour : comprises entre 24 et 26 degrés.
-Températures minimales pour la nuit suivante : sur le Midi Toulousain autour de 15 à 18 degrés. De 9 à 12 degrés sur le piémont et la montagne.
+Températures maximales pour le jour : de 24 à 26 degrés.
+Températures minimales pour la nuit suivante : sur le Midi Toulousain voisines de 15 à 18 degrés. Entre 9 et 12 degrés sur le piémont et la montagne.
 
 • Pour la journée de mardi 06 :
-La matinée est largement ensoleillée malgré quelques passages nuageux. Au fil des heures, si le ciel demeure le plus souvent lumineux, quelques nuages menaçants apparaissent. Des orages peuvent éclater avant la soirée, au sud-ouest du département. La limite pluie-neige s'abaisse jusqu'à 3200 mètres.
+La matinée est largement ensoleillée malgré quelques passages nuageux. Au fil des heures, si le ciel demeure le plus souvent lumineux, quelques nuages menaçants apparaissent. Des orages peuvent éclater avant la soirée, au sud-ouest du département. La limite pluie-neige se situe au plus bas à 3200 mètres.
 Autan, généralement modéré.
 Températures maximales : entre 25 et 28 degrés.
 
@@ -317,12 +317,12 @@ mais reste perturbé.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : WsWin et Infoclimat
+• Infoclimat Direct : WsWin et Infoclimat
 • Infoclimat Direct : Glaciers alpins
-• Infoclimat Direct : Suivi du temps dans les Régions Centrales - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps-Centre du Quebec
+• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 03/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -330,21 +330,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 3 Octobre 2026.
-Résumé général précédent : Sur les 15 jours à venir, un temps majoritairement sec et anticyclonique, avec une possible dégradation orageuse méditerranéenne en marge..
+Résumé général précédent : Sur l'ensemble des 15 jours, une tendance anticyclonique dominante se dessine. La semaine 1 débuterait chaude et sèche, avec une dégradation possible en milieu de semaine et un net rafraîchissement. La semaine 2 resterait très incertaine, avec un scénario majoritaire sec mais un risque réel de scénario humide et frais..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Sec, ensoleillé, anticyclonique, avec des températures de saison. (max 120 caractères).
+Températures attendues précédemment : Temps sec, ensoleillé et chaud, aucune précipitation significative, fraîcheur relative uniquement en toute fin d'échéance..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: edel
-Message:
-Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
-	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié jeudi à 11:52 par edel
-								1
-
-=======================
-
 Auteur: Plancher
 Message:
 Ok. Mais comment expliquer de tels niveaux de températures quasiment à la fin de la première décade d'octobre sans flux de Sud ?
@@ -556,19 +547,19 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:14 par giec 2100
 								4
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS continue à faire sa girouette. Un coup froid, un coup chaud... Le run de 6Z est toujours le plus chaud étrangement.
+	Les températures baissent un peu en milieu de semaine mais pas très significativement.
+	CEP continue à nous proposer une baisse également en milieu de semaine. Comme pour les derniers runs.
+	Pourquoi une telle inconstance pour GFS ? C'est assez pénible.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: edel
-Message:
-Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
-	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié jeudi à 11:52 par edel
-								1
-
-=======================
-
 Auteur: Plancher
 Message:
 Ok. Mais comment expliquer de tels niveaux de températures quasiment à la fin de la première décade d'octobre sans flux de Sud ?
@@ -780,5 +771,14 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:14 par giec 2100
 								4
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS continue à faire sa girouette. Un coup froid, un coup chaud... Le run de 6Z est toujours le plus chaud étrangement.
+	Les températures baissent un peu en milieu de semaine mais pas très significativement.
+	CEP continue à nous proposer une baisse également en milieu de semaine. Comme pour les derniers runs.
+	Pourquoi une telle inconstance pour GFS ? C'est assez pénible.

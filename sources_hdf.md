@@ -225,59 +225,6 @@ De dimanche tôt le matin jusqu'en début de nuit de lundi à mardi, vent d'Oues
 Températures minimales : en hausse du Vexin français au Plateau Picard.
 Températures maximales : sans changement significatif.
 
-=== BULLETIN DÉPARTEMENTAL AISNE (DEPT02) ===
-Emis le : 03/10/2026 16:45
-
-Vigilance :
-Aujourd'hui et demain, le département de l'Aisne est en vigilance verte.
-
-Observations :
-Aujourd'hui on observait à 16h :
-A Aulnoy-sous-Laon : température de 23 degrés, vent de secteur Nord soufflant jusqu'à 15 km/h.
-A Saint-Quentin : température de 22 degrés.
-
-Prévisions pour les tout prochains jours :
-
-• Pour cette nuit :
-Les nuages restent nombreux.
-La nuit, vent de Nord-Est, modéré par endroits ; puis faiblissant.
-Températures minimales : comprises entre 10 et 13 degrés.
-
-• Pour demain dimanche 04 en journée et la nuit suivante :
-La journée est largement ensoleillée. Les nuages présents au petit matin, sur le Tardenois, se dissipent rapidement. Pour la nuit : Le ciel est bien étoilé.
-Vent variable, faible.
-Températures maximales pour le jour : entre 23 et 25 degrés. Ces températures se situent au-dessus des valeurs normalement observées.
-Températures minimales pour la nuit suivante : de 8 à 11 degrés.
-
-• Pour la journée de lundi 05 et la nuit suivante :
-Le temps est ensoleillé du matin au soir. Pour la nuit : Le ciel est clair toute la nuit.
-Vent faible, variable.
-Températures maximales pour le jour : entre 24 et 27 degrés.
-Températures minimales pour la nuit suivante : autour de 8 à 11 degrés, et 7 degrés sur la Champagne crayeuse.
-
-• Pour la journée de mardi 06 :
-La journée est belle, le soleil est largement présent.
-Vent faible, variable.
-Températures maximales : de 24 à 26 degrés.
-
-• Pour mercredi 07 et jeudi 08 :
-Risque de pluie ou d'averses jusqu'à jeudi en fin de journée.
-De la matinée de mercredi jusqu'en début de nuit de jeudi à vendredi, vent d'Ouest à Sud-Ouest tournant Nord-Ouest, modéré.
-Températures minimales : de 8 à 10 degrés.
-Températures maximales : de 18 à 21 degrés.
-
-• Pour vendredi 09 et samedi 10 :
-Risque de pluie ou d'averses en deuxième partie de nuit de vendredi à samedi.
-Vent localement modéré, en milieu de nuit de jeudi à vendredi ; puis de la matinée de vendredi jusqu'au lendemain en fin de journée.
-Températures minimales : comprises entre 5 et 7 degrés.
-Températures maximales : proches de 14 degrés.
-
-• Pour dimanche 11 et lundi 12 :
-Sur le Valois et le Tardenois, temps pluvieux de dimanche matin jusqu'à la mi-journée. Sur les autres régions, temps largement ensoleillé.
-De la matinée de dimanche jusqu'au lendemain en fin de journée, vent d'Ouest à Sud-Ouest, souvent modéré.
-Températures minimales : en hausse sur la Thiérache, sur le Laonnois ainsi que sur la moitié Sud du département.
-Températures maximales : stables.
-
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
 FQCT40 LFQQ 031600 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le samedi 3 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale samedi 3 octobre 2026 à 12H00 UTC, et évolution Zone dépressionnaire sur la péninsule ibérique. Dorsale se maintenant sur le nord du golfe de Gascogne et la Manche. 3 - Prévisions pour la nuit du samedi 3 octobre au dimanche 4 octobre VENT : Variable 1 à 3, s'établissant secteur Est en Manche en seconde partie de nuit. MER : belle, localement belle à peu agitée en Manche au début. HOULE : non significative. TEMPS : nuageux, s'éclaircissant en seconde partie de nuit. VISIBILITE : bonne. 4 - Prévisions pour la journée du dimanche 4 octobre VENT : Variable 1 à 3, temporairement de secteur Est dominant le matin en Manche. MER : belle. HOULE : non significative. TEMPS : ensoleillé, puis voilé l'après-midi. VISIBILITE : bonne. 5 - Tendance pour la nuit du 4 au 5, et la journée du lundi 5 octobre VENT : Variable 1 à 3, s'orientant secteur Ouest en seconde partie de nuit, puis fraîchissant Sud-Ouest 2 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : ciel voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 5 au 6 et la journée du mardi 6 octobre VENT : Ouest à Sud-Ouest 2 à 4, virant Nord-Est en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Mercredi 7 octobre Secteur Nord modéré à assez fort. Indice de confiance : 4 sur 5 Jeudi 8 octobre Secteur Nord modéré à assez fort. Indice de confiance : 3 sur 5 Vendredi 9 octobre Secteur Ouest modéré à assez fort. Indice de confiance : 2 sur 5 Samedi 10 octobre Secteur Ouest modéré à assez fort. Indice de confiance : 2 sur 5 8 - Observations le samedi 3 octobre 2026 à 15H00 UTC Dunkerque : vent Nord-Nord-Ouest 4 noeuds, 1030 hPa en baisse. Cap Gris Nez : vent Ouest 4 noeuds. Boulogne : vent Nord-Ouest 4 noeuds, 1030 hPa en baisse, très nuageux à couvert, visibilité 10 milles. Bouée Sandettie : vent Ouest-Sud-Ouest 6 noeuds, creux 0,3 mètre, 1029 hPa en baisse, visibilité 10 milles. Prochain bulletin le dimanche 4 octobre 2026, vers 06H30 légales
 
@@ -309,12 +256,12 @@ mais reste perturbé.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi ensoleillement 2026
+• Infoclimat Direct : WsWin et Infoclimat
+• Infoclimat Direct : WsWin et Infoclimat
 • Infoclimat Direct : Glaciers alpins
-• Infoclimat Direct : Suivi du temps dans les Régions Centrales - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps-Centre du Quebec
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 03/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -322,21 +269,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Samedi 3 Octobre 2026.
-Résumé général HDF précédent : Doux et sec en début de semaine 1, dégradation modérée et rafraîchissement en milieu de semaine, puis retour probable de l’anticyclone. Forte incertitude pour la semaine 2..
+Résumé général HDF précédent : Sur l'ensemble des 15 jours, les Hauts-de-France connaîtraient un temps souvent sec et doux, avec une dégradation modérée vers le 7-8 octobre puis un probable retour des hautes pressions. La semaine 1 est mieux cernée que la semaine 2, encore très incertaine..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses faibles possibles, vent NNO, températures en baisse. (65 caractères).
+Températures attendues précédemment : Averses mercredi/jeudi et week-end, vent de Nord-Nord-Ouest, températures en baisse..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: edel
-Message:
-Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
-	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié jeudi à 11:52 par edel
-								1
-
-=======================
-
 Auteur: Plancher
 Message:
 Ok. Mais comment expliquer de tels niveaux de températures quasiment à la fin de la première décade d'octobre sans flux de Sud ?
@@ -548,19 +486,19 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:14 par giec 2100
 								4
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS continue à faire sa girouette. Un coup froid, un coup chaud... Le run de 6Z est toujours le plus chaud étrangement.
+	Les températures baissent un peu en milieu de semaine mais pas très significativement.
+	CEP continue à nous proposer une baisse également en milieu de semaine. Comme pour les derniers runs.
+	Pourquoi une telle inconstance pour GFS ? C'est assez pénible.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: edel
-Message:
-Je me suis fait la même réflexion. Ce n'est qu'un run bien sûr, mais il est tellement représentatif de ces conditions sèches à perte de vue, qu'il parait tout à fait crédible, hélas...
-	Les hautes pressions résisteraient, une fois de plus, et le courant perturbé serait encore et toujours repoussé au nord de l'Europe, bien au-delà de la France.
-	Modifié jeudi à 11:52 par edel
-								1
-
-=======================
-
 Auteur: Plancher
 Message:
 Ok. Mais comment expliquer de tels niveaux de températures quasiment à la fin de la première décade d'octobre sans flux de Sud ?
@@ -772,5 +710,14 @@ bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son car
 	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
 	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
 	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:14 par giec 2100
 								4
+
+=======================
+
+Auteur: Plancher
+Message:
+GFS continue à faire sa girouette. Un coup froid, un coup chaud... Le run de 6Z est toujours le plus chaud étrangement.
+	Les températures baissent un peu en milieu de semaine mais pas très significativement.
+	CEP continue à nous proposer une baisse également en milieu de semaine. Comme pour les derniers runs.
+	Pourquoi une telle inconstance pour GFS ? C'est assez pénible.

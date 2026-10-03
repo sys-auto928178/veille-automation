@@ -255,8 +255,9 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <h1 class="hero-title">Prévisions France</h1>
   </div>
   <div class="hero-dates-bar">
-    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du Lundi 5 au Dimanche 11 Octobre 2026</div>
-    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du Lundi 12 au Dimanche 18 Octobre 2026</div>
+    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Période exacte semaine 1 : du Lundi 5 au Dimanche 11 Octobre 2026</div>
+    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Période exacte semaine 2 : du Lundi 12 au Dimanche 18 Octobre 2026
+Note : le sujet spécifique de la Semaine 42 n’est pas encore ouvert sur le forum Infoclimat. L’analyse ci-dessous s’appuie uniquement sur les projections à long terme du sujet Semaine 41.</div>
     <div class="date-chip gen-chip">⚡ <strong>Génération :</strong> Samedi 3 Octobre 2026</div>
   </div>
 </header>
@@ -267,8 +268,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🔥</span>
     <div>
       <div class="kpi-pill-label">Situation dominante</div>
-      <div class="kpi-pill-val">Anticyclone durable, dégradation transitoire</div>
-      <div class="kpi-pill-note">Le scénario le plus probable est sec, mais l'incertitude reste réelle, surtout en semaine 2.</div>
+      <div class="kpi-pill-val">Sec puis incertain</div>
+      <div class="kpi-pill-note">Scénario majoritaire anticyclonique, mais cluster humide bien présent côté CEP.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -276,7 +277,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div>
       <div class="kpi-pill-label">Tendance</div>
       <div class="kpi-pill-val">Modéré</div>
-      <div class="kpi-pill-note">Accord large sur le début sec, mais forte divergence sur la mi-semaine 1 et la semaine 2.</div>
+      <div class="kpi-pill-note">Accord sur le début de semaine, désaccord net à partir du 7.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -291,8 +292,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🟢</span>
     <div>
       <div class="kpi-pill-label">Niveau de Confiance</div>
-      <div class="kpi-pill-val">Forte en semaine 2</div>
-      <div class="kpi-pill-note">Le conflit GFS/CEP et l'absence de sujet S42 ouvert pèsent sur la fiabilité.</div>
+      <div class="kpi-pill-val">Forte</div>
+      <div class="kpi-pill-note">GFS et CEP divergent, goutte froide et timing des pluies très incertains.</div>
     </div>
   </div>
 </section>
@@ -314,13 +315,13 @@ function switchZoneTab(containerId, tabId, btnEl) {
           <span class="day-picto">🗓️</span>
           <div>
             <strong class="day-name">Lundi 5 - Mardi 6 octobre</strong>
-            <div class="day-short">Temps sec et ensoleillé, chaleur modérée, températures au-dessus des normales.</div>
+            <div class="day-short">Temps sec, ensoleillé et chaud, maximales de 25 à 28°C selon les régions.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Temps sec et ensoleillé, chaleur modérée, températures au-dessus des normales.</p>
+        <p>Temps sec, ensoleillé et chaud, maximales de 25 à 28°C selon les régions.</p>
       </div>
     </details>
 
@@ -330,13 +331,13 @@ function switchZoneTab(containerId, tabId, btnEl) {
           <span class="day-picto">🗓️</span>
           <div>
             <strong class="day-name">Mercredi 7 - Jeudi 8 octobre</strong>
-            <div class="day-short">Dégradation pluvieuse par le nord, risque méditerranéen, baisse marquée des températures.</div>
+            <div class="day-short">Dégradation possible : averses, orages localisés, rafraîchissement; risque méditerranéen à surveiller.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Dégradation pluvieuse par le nord, risque méditerranéen, baisse marquée des températures.</p>
+        <p>Dégradation possible : averses, orages localisés, rafraîchissement; risque méditerranéen à surveiller.</p>
       </div>
     </details>
 
@@ -346,13 +347,13 @@ function switchZoneTab(containerId, tabId, btnEl) {
           <span class="day-picto">🗓️</span>
           <div>
             <strong class="day-name">Vendredi 9 - Samedi 10 octobre</strong>
-            <div class="day-short">Retour d'éclaircies, fraîcheur marquée, vent modéré à assez fort.</div>
+            <div class="day-short">Temps plus frais, éclaircies et averses résiduelles; mistral/tramontane possibles en Méditerranée.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Retour d'éclaircies, fraîcheur marquée, vent modéré à assez fort.</p>
+        <p>Temps plus frais, éclaircies et averses résiduelles; mistral/tramontane possibles en Méditerranée.</p>
       </div>
     </details>
 
@@ -362,13 +363,13 @@ function switchZoneTab(containerId, tabId, btnEl) {
           <span class="day-picto">🗓️</span>
           <div>
             <strong class="day-name">Dimanche 11 octobre</strong>
-            <div class="day-short">Temps variable, pluies localisées sur le littoral atlantique et la région lyonnaise.</div>
+            <div class="day-short">Pluies possibles sur l’ouest, le nord et l’est en journée, amélioration ailleurs.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Temps variable, pluies localisées sur le littoral atlantique et la région lyonnaise.</p>
+        <p>Pluies possibles sur l’ouest, le nord et l’est en journée, amélioration ailleurs.</p>
       </div>
     </details>
   </div>
@@ -384,7 +385,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     </div>
   </div>
   <div class="grid grid-2">
-    <div class="key"><i>🌡️</i><div><strong>Début de semaine estival</strong>Temps sec et ensoleillé lundi-mardi, températures élevées pour octobre.</div></div><div class="key"><i>🌦️</i><div><strong>Dégradation en vue mercredi</strong>Une ondulation atlantique pourrait apporter pluies et fraîcheur par le nord.</div></div><div class="key"><i>🌡️</i><div><strong>Méditerranée sous surveillance</strong>Flux de sud et mer chaude, épisode pluvieux probable sur l'arc méditerranéen.</div></div><div class="key"><i>☀️</i><div><strong>GFS vs CEP</strong>Le match des modèles, divergence majeure sur la seconde partie de semaine.</div></div><div class="key"><i>💡</i><div><strong>Fraîcheur le week-end</strong>Possible retour sous les normales à partir de jeudi, avant un week-end plus frais.</div></div>
+    <div class="key"><i>🌡️</i><div><strong>Début estival</strong>Temps sec, ensoleillé et chaud jusqu’à mardi, maximales souvent supérieures à 25°C.</div></div><div class="key"><i>🌦️</i><div><strong>Bascule possible</strong>Une ondulation atlantique pourrait amener averses et rafraîchissement à partir de mercredi.</div></div><div class="key"><i>🌦️</i><div><strong>GFS contre CEP</strong>Forte divergence entre un scénario sec et un scénario plus humide à partir de jeudi.</div></div><div class="key"><i>⛈️</i><div><strong>Méditerranée sous surveillance</strong>Un épisode pluvio-orageux modéré reste possible mercredi et jeudi.</div></div><div class="key"><i>🌡️</i><div><strong>Fin de semaine fraîche</strong>Températures possibles sous les normales, surtout dans le Rhône et le sud-ouest.</div></div>
   </div>
 </section>
 
@@ -412,20 +413,20 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🧭</span>
             <h3>Nord-Ouest</h3>
           </div>
-          <div class="zone-short-desc">Soleil et douceur en début de semaine, dégradation pluvieuse mercredi-jeudi, retour d'éclaircies fraîches.</div>
+          <div class="zone-short-desc">Temps sec et souvent ensoleillé en début de semaine, possible dégradation en milieu de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Modérée</span>
+          <span class="chip-conf" style="font-size:10px;">Faible</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Soleil et douceur en début de semaine, dégradation pluvieuse mercredi-jeudi, retour d'éclaircies fraîches.</li><li><b>Températures :</b> Max 22-26°C lundi-mardi, puis 16-19°C en fin de semaine, minimales 7-12°C.</li><li><b>Pluie / Orages :</b> Pluies ou averses mercredi et jeudi, risque de passage pluvieux dimanche sur le littoral.</li><li><b>Période sensible :</b> Mercredi 7 à jeudi 8 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : CEP, ICON, GFS • 3 mentions</li>
+          <li><b>Temps dominant :</b> Temps sec et souvent ensoleillé en début de semaine, possible dégradation en milieu de semaine.</li><li><b>Températures :</b> Douces en début de semaine, puis en baisse sensible en seconde partie.</li><li><b>Pluie / Orages :</b> Averses possibles en milieu de semaine, puis risque de pluies en fin de semaine; cumuls incertains.</li><li><b>Période sensible :</b> Mercredi 7 à samedi 10 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, CEP, GEFS • 3 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Localisation exacte de la dégradation et intensité des pluies</span>
+          <span class="chip-conf">Confiance : Faible</span>
+          <span class="chip-uncert">Incertitude : Position exacte de l’ondulation et intensité des pluies.</span>
         </div>
       </div>
     </details>
@@ -438,7 +439,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">☁️</span>
             <h3>Nord</h3>
           </div>
-          <div class="zone-short-desc">Ensoleillé et chaud lundi-mardi, pluies possibles mercredi-jeudi, nette fraîcheur vendredi-samedi.</div>
+          <div class="zone-short-desc">Ensoleillé jusqu’à mardi, puis dégradation pluvieuse possible, fraîcheur en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -447,11 +448,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Ensoleillé et chaud lundi-mardi, pluies possibles mercredi-jeudi, nette fraîcheur vendredi-samedi.</li><li><b>Températures :</b> Max 25-27°C lundi-mardi, 19°C mercredi-jeudi, 16°C vendredi-samedi ; min 7-9°C le week-end.</li><li><b>Pluie / Orages :</b> Risque de pluie ou d'averses de mercredi après-midi à jeudi, puis samedi matin ; pluie localisée dimanche.</li><li><b>Vent :</b> Nord-ouest modéré mercredi-jeudi, nord puis sud-ouest temporairement modéré samedi-dimanche.</li><li><b>Période sensible :</b> Mercredi 7 au samedi 10 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS • Secteurs : Île-de-France, Hauts-de-France • 4 mentions</li>
+          <li><b>Temps dominant :</b> Ensoleillé jusqu’à mardi, puis dégradation pluvieuse possible, fraîcheur en fin de semaine.</li><li><b>Températures :</b> Maximales de 25 à 27°C lundi et mardi, puis voisines de 16°C vendredi et samedi; minimales 7 à 9°C.</li><li><b>Pluie / Orages :</b> Risque de pluie ou d’averses de mercredi à jeudi, puis samedi; pluies possibles dimanche matin.</li><li><b>Vent :</b> Nord-Ouest modéré mercredi/jeudi; Nord modéré vendredi; Sud-Ouest temporairement modéré dimanche.</li><li><b>Période sensible :</b> Mercredi 7, samedi 10 et dimanche 11</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS, ICON • 5 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Intensité des pluies et leur localisation exacte en fin de semaine</span>
+          <span class="chip-uncert">Incertitude : Localisation des pluies, notamment Hauts-de-Seine et Seine-Saint-Denis.</span>
         </div>
       </div>
     </details>
@@ -464,20 +465,20 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌤️</span>
             <h3>Nord-Est</h3>
           </div>
-          <div class="zone-short-desc">Début de semaine sec et doux, ondulation possible à partir du 7 avec baisse thermique.</div>
+          <div class="zone-short-desc">Début de semaine sec et assez doux, rafraîchissement possible avec averses à partir du 7.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Modérée</span>
+          <span class="chip-conf" style="font-size:10px;">Faible</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Début de semaine sec et doux, ondulation possible à partir du 7 avec baisse thermique.</li><li><b>Températures :</b> Max proches de 24-26°C en début de semaine, puis 17-20°C en seconde partie.</li><li><b>Pluie / Orages :</b> Pluies possibles par le nord à partir de mercredi selon GEM et ICON, mais signaux incertains.</li><li><b>Période sensible :</b> Mercredi 7 à jeudi 8 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GEM, ICON, CEP, GFS • 3 mentions</li>
+          <li><b>Temps dominant :</b> Début de semaine sec et assez doux, rafraîchissement possible avec averses à partir du 7.</li><li><b>Températures :</b> Encore douces lundi/mardi, puis en baisse nette à partir de jeudi, possiblement sous les normales.</li><li><b>Pluie / Orages :</b> Averses possibles en milieu et fin de semaine, cumuls incertains.</li><li><b>Période sensible :</b> Mercredi 7 à dimanche 11</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : CEP, GEM, ICON • 2 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Scénario sec (GFS/GEFS) vs dégradation (GEM/ICON/CEP)</span>
+          <span class="chip-conf">Confiance : Faible</span>
+          <span class="chip-uncert">Incertitude : Comportement de la goutte froide et passage des perturbations.</span>
         </div>
       </div>
     </details>
@@ -490,7 +491,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌊</span>
             <h3>Ouest & Atlantique</h3>
           </div>
-          <div class="zone-short-desc">Beau temps chaud lundi-mardi, orages locaux mardi soir, pluies mercredi-jeudi, week-end sec et frais.</div>
+          <div class="zone-short-desc">Soleil généreux lundi et mardi, orages locaux possibles mardi soir, puis temps plus frais et perturbé.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -499,11 +500,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Beau temps chaud lundi-mardi, orages locaux mardi soir, pluies mercredi-jeudi, week-end sec et frais.</li><li><b>Températures :</b> Max 25-29°C lundi-mardi, 20-23°C mercredi-jeudi, 18-20°C vendredi-samedi ; min 5-8°C samedi.</li><li><b>Pluie / Orages :</b> Orages possibles mardi en fin d'après-midi (Libournais, Entre-Deux-Mers), pluies mercredi-jeudi, pluie dimanche sur littoral.</li><li><b>Vent :</b> Est à Nord-Est modéré sur le littoral en début de période, Nord à Nord-Ouest assez fort en bord de mer mercredi-jeudi.</li><li><b>Période sensible :</b> Mardi 6 au jeudi 8 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, CEP • Secteurs : Gironde, littoral atlantique • 4 mentions</li>
+          <li><b>Temps dominant :</b> Soleil généreux lundi et mardi, orages locaux possibles mardi soir, puis temps plus frais et perturbé.</li><li><b>Températures :</b> Maximales 25-28°C lundi, 26-29°C mardi, puis 18-23°C; minimales 5-8°C en fin de semaine.</li><li><b>Pluie / Orages :</b> Orages possibles mardi sur Libournais et Entre-Deux-Mers; pluies ou averses mercredi/jeudi; pluie littorale samedi soir.</li><li><b>Vent :</b> Est à Nord-Est modéré lundi; Nord à Nord-Ouest assez fort sur le littoral mercredi/jeudi; Nord-Ouest ensuite.</li><li><b>Période sensible :</b> Mardi 6, mercredi 7 à samedi 10, dimanche 11</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS • 6 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Trajectoire exacte des orages de mardi et cumuls associés</span>
+          <span class="chip-uncert">Incertitude : Extension des orages de mardi et intensité des pluies mercredi/jeudi.</span>
         </div>
       </div>
     </details>
@@ -511,25 +512,25 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <details class="zone zone-accordion" open>
       <summary class="zone-summary">
         <div>
-          
+          <span class="badge" style="margin-bottom:6px; font-size:10px; background:#fef3c7; color:#92400e;">Informations partielles</span>
           <div class="zone-head" style="margin-bottom:2px;">
             <span class="zone-icon">🌥️</span>
             <h3>Centre</h3>
           </div>
-          <div class="zone-short-desc">Soleil et douceur lundi-mardi, dégradation pluvieuse mercredi-jeudi, fraîcheur marquée vendredi-samedi.</div>
+          <div class="zone-short-desc">Temps sec et assez chaud en début de semaine, dégradation possible en milieu de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Élevée</span>
+          <span class="chip-conf" style="font-size:10px;">Faible</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Soleil et douceur lundi-mardi, dégradation pluvieuse mercredi-jeudi, fraîcheur marquée vendredi-samedi.</li><li><b>Températures :</b> Max 24-27°C lundi-mardi, 19°C mercredi-jeudi, 13-15°C vendredi-samedi ; min 5-8°C le week-end.</li><li><b>Pluie / Orages :</b> Risque de pluie ou d'averses mercredi-jeudi, averses temporaires vendredi-samedi, pluie localisée dimanche.</li><li><b>Vent :</b> Sud-Est modéré mardi soir, Nord-Ouest modéré jeudi, Nord puis Nord-Ouest renforcé samedi.</li><li><b>Période sensible :</b> Mercredi 7 au samedi 10 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS • Secteurs : Rhône, région lyonnaise • 4 mentions</li>
+          <li><b>Temps dominant :</b> Temps sec et assez chaud en début de semaine, dégradation possible en milieu de semaine.</li><li><b>Températures :</b> Maximales élevées lundi/mardi, puis baisse possible sous les normales.</li><li><b>Pluie / Orages :</b> Averses ou pluies possibles de mercredi à jeudi, puis éclaircies.</li><li><b>Période sensible :</b> Mercredi 7 et jeudi 8</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : CEP, GEFS, ICON • 2 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Durée de la dégradation et niveau thermique exact samedi</span>
+          <span class="chip-conf">Confiance : Faible</span>
+          <span class="chip-uncert">Incertitude : Passage de l’ondulation et quantité de pluie.</span>
         </div>
       </div>
     </details>
@@ -542,7 +543,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌡️</span>
             <h3>Sud-Ouest</h3>
           </div>
-          <div class="zone-short-desc">Ensoleillé lundi, orages possibles mardi, dégradation pluvio-orageuse mercredi-jeudi, beau et frais ensuite.</div>
+          <div class="zone-short-desc">Ensoleillé lundi, orages possibles mardi, dégradation pluvieuse et neige en montagne mercredi/jeudi, puis soleil.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -551,11 +552,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Ensoleillé lundi, orages possibles mardi, dégradation pluvio-orageuse mercredi-jeudi, beau et frais ensuite.</li><li><b>Températures :</b> Max 24-28°C lundi-mardi, 18-22°C mercredi-jeudi, 16-18°C vendredi-samedi ; min 3-8°C sur les reliefs.</li><li><b>Pluie / Orages :</b> Orages possibles mardi au sud-ouest, pluies et orages mercredi-jeudi, neige possible sur les Pyrénées (1500-2500 m), pluie dimanche sur le piémont.</li><li><b>Vent :</b> Autan modéré en début de semaine, Ouest à Nord-Ouest modéré de mercredi à vendredi.</li><li><b>Période sensible :</b> Mardi 6 au jeudi 8 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS • Secteurs : Haute-Garonne, piémont pyrénéen • 4 mentions</li>
+          <li><b>Temps dominant :</b> Ensoleillé lundi, orages possibles mardi, dégradation pluvieuse et neige en montagne mercredi/jeudi, puis soleil.</li><li><b>Températures :</b> Maximales 24-28°C lundi/mardi, puis 16-18°C; minimales 5-8°C vendredi/samedi.</li><li><b>Pluie / Orages :</b> Orages possibles mardi au sud-ouest; pluie et orages mercredi/jeudi; neige dès 1500-1900 m; pluie résiduelle sur le Cagire/Luchon.</li><li><b>Vent :</b> Autan modéré lundi/mardi; Ouest à Nord-Ouest modéré mercredi/jeudi et dimanche.</li><li><b>Période sensible :</b> Mardi 6, mercredi 7 à vendredi 9</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, CEP • 6 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Intensité orageuse de mardi et limite pluie-neige en montagne</span>
+          <span class="chip-uncert">Incertitude : Position de la limite pluie-neige et extension des orages.</span>
         </div>
       </div>
     </details>
@@ -568,7 +569,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">☀️</span>
             <h3>Sud-Est & Rhône</h3>
           </div>
-          <div class="zone-short-desc">Soleil et chaleur lundi, passages nuageux mardi, risque pluie-orage mercredi-jeudi, beau et mistral ensuite.</div>
+          <div class="zone-short-desc">Soleil lundi et mardi, dégradation possible mercredi/jeudi, net rafraîchissement vendredi/samedi.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -577,11 +578,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Soleil et chaleur lundi, passages nuageux mardi, risque pluie-orage mercredi-jeudi, beau et mistral ensuite.</li><li><b>Températures :</b> Max 24-27°C lundi-mardi, 21-24°C mercredi-jeudi, 18-20°C vendredi-samedi ; min 5-13°C selon vallées.</li><li><b>Pluie / Orages :</b> Averses possibles mardi, pluies orageuses mercredi-jeudi, temps sec à partir de vendredi.</li><li><b>Vent :</b> Sud-Est assez fort près du littoral mercredi, puis Nord-Ouest (mistral) assez fort jeudi-vendredi avec fortes rafales.</li><li><b>Période sensible :</b> Mercredi 7 au vendredi 9 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS • Secteurs : Bouches-du-Rhône, vallée du Rhône • 4 mentions</li>
+          <li><b>Temps dominant :</b> Soleil lundi et mardi, dégradation possible mercredi/jeudi, net rafraîchissement vendredi/samedi.</li><li><b>Températures :</b> Maximales 25-27°C lundi/mardi, puis 13-15°C vendredi/samedi; minimales 5-8°C.</li><li><b>Pluie / Orages :</b> Risque de pluie ou d’averses mercredi/jeudi; pluies possibles dimanche sur la région lyonnaise et les monts du Lyonnais.</li><li><b>Vent :</b> Sud-Est modéré mardi soir en Val de Saône; Nord-Ouest modéré jeudi; Nord puis Nord-Ouest modéré en fin de semaine.</li><li><b>Période sensible :</b> Mercredi 7 à dimanche 11</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS • 6 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Intensité de l'épisode pluvio-orageux de mercredi</span>
+          <span class="chip-uncert">Incertitude : Intensité de la dégradation et baisse thermique.</span>
         </div>
       </div>
     </details>
@@ -594,7 +595,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🏖️</span>
             <h3>Méditerranée & Corse</h3>
           </div>
-          <div class="zone-short-desc">Pluies soutenues lundi-mardi sur le Languedoc et la Corse, nouvel épisode mercredi, puis amélioration et mistral.</div>
+          <div class="zone-short-desc">Lundi ensoleillé, mardi variable, mercredi/jeudi pluies orageuses possibles, puis mistral et nette amélioration.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -603,11 +604,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Pluies soutenues lundi-mardi sur le Languedoc et la Corse, nouvel épisode mercredi, puis amélioration et mistral.</li><li><b>Températures :</b> Max 21-26°C selon les secteurs, min 13-19°C ; nette fraîcheur vendredi-samedi.</li><li><b>Pluie / Orages :</b> Épisode pluvieux intense possible dimanche-lundi sur Languedoc-Roussillon, pluies soutenues mardi en Corse, nouvel épisode mercredi avec risque de vigilance orange.</li><li><b>Vent :</b> Est à Sud-Est 3 à 5, localement 5-6 en mer, fortes rafales ; bascule au Nord-Ouest (mistral) à partir de mercredi soir.</li><li><b>Période sensible :</b> Lundi 5 au jeudi 8 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS, GEFS • Secteurs : Languedoc-Roussillon, Corse, PACA • 5 mentions</li>
+          <li><b>Temps dominant :</b> Lundi ensoleillé, mardi variable, mercredi/jeudi pluies orageuses possibles, puis mistral et nette amélioration.</li><li><b>Températures :</b> Maximales 26-28°C lundi, 24-26°C mardi, 21-24°C mercredi/jeudi, puis 18-20°C vendredi/samedi.</li><li><b>Pluie / Orages :</b> Averses possibles dimanche; épisode méditerranéen modéré possible mercredi/jeudi; pluies soutenues possibles sur la Corse mardi.</li><li><b>Vent :</b> Est/Sud-Est faible à modéré; Sud-Est assez fort mercredi; mistral assez fort vendredi/samedi.</li><li><b>Période sensible :</b> Mercredi 7 à jeudi 8, puis vendredi 9-samedi 10</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, CEP, GFS, GEFS • 8 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Cumuls de pluie exacts et localisation des fortes précipitations</span>
+          <span class="chip-uncert">Incertitude : Intensité et localisation précise de l’épisode méditerranéen.</span>
         </div>
       </div>
     </details>
@@ -622,7 +623,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
   <div class="section-head">
     <div>
       <span class="badge badge-gray">Perspective J+8 à J+14</span>
-      <h2>🔮 Tendance Semaine 2 — Du Lundi 12 au Dimanche 18 Octobre 2026</h2>
+      <h2>🔮 Tendance Semaine 2 — Période exacte semaine 2 : du Lundi 12 au Dimanche 18 Octobre 2026
+Note : le sujet spécifique de la Semaine 42 n’est pas encore ouvert sur le forum Infoclimat. L’analyse ci-dessous s’appuie uniquement sur les projections à long terme du sujet Semaine 41.</h2>
     </div>
   </div>
   
@@ -631,7 +633,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </div>
         
   <div class="grid grid-2" style="margin-top:12px;">
-    <div class="key"><i>💡</i><div><strong>Sujet S42 non ouvert</strong>Analyse basée sur les projections long terme extraites du sujet Semaine 41.</div></div><div class="key"><i>☀️</i><div><strong>Anticyclone durable probable</strong>Les hautes pressions pourraient encore dominer, repoussant les perturbations au nord de l'Europe.</div></div><div class="key"><i>🌦️</i><div><strong>Pluies au nord repoussées</strong>GEFS voit peu de précipitations sur la moitié nord avant le 16 octobre.</div></div><div class="key"><i>🌦️</i><div><strong>Scénario humide minoritaire</strong>Un cluster IFS ENS pourrait briser l'anticyclone avec une goutte froide méditerranéenne.</div></div><div class="key"><i>☀️</i><div><strong>Sécheresse préoccupante</strong>Le Centre-Ouest resterait très sec dans le scénario majoritaire.</div></div>
+    <div class="key"><i>💡</i><div><strong>Sujet non ouvert</strong>Analyse fondée sur les projections long terme, avec de fortes incertitudes.</div></div><div class="key"><i>☀️</i><div><strong>Scénario sec majoritaire</strong>Dorsale atlantique et blocage anticyclonique pourraient persister.</div></div><div class="key"><i>🌦️</i><div><strong>Risque humide minoritaire</strong>Un cluster CEP pourrait apporter fraîcheur, pluies et épisode méditerranéen.</div></div><div class="key"><i>🌦️</i><div><strong>GEFS prudent</strong>Retour des pluies au nord repoussé autour du 16 octobre.</div></div><div class="key"><i>💡</i><div><strong>À réévaluer</strong>Aucune certitude sur l’évolution après lundi 12.</div></div>
   </div>
 </section>
 
@@ -658,18 +660,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GFS (déterministe américain)</div>
-              <span class="status-badge status-main">documented</span>
+              <div class="model-name">GFS (déterministe)</div>
+              <span class="status-badge status-main">Documenté</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">10</span>
-              <span class="chip">Runs cités : 12Z, 06Z</span>
-              <span class="chip">Échéances jusqu'à la fin de la première décade, blocage possible jusqu'au 16 octobre.</span>
+              <span class="chip">12</span>
+              <span class="chip">Runs cités : 12Z, 00Z, 06Z</span>
+              <span class="chip">Dégradation peu marquée autour du 7-8, ensuite retour anticyclonique.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Maintien d'un anticyclone durable, conditions sèches et chaudes à perte de vue, perturbations repoussées au nord de l'Europe.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec, ensoleillé et chaud, aucune précipitation significative, fraîcheur relative uniquement en toute fin d'échéance.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Toutes les zones, principalement un temps sec ; aucun signal pluvieux significatif.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Souvent sec et anticyclonique jusqu’à la fin d’échéance; ondulation possible en milieu de semaine sans grand impact. Runs instables, 6Z plus chaud.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec, chaud en début de semaine; rafraîchissement limité; pluies faibles, surtout nord.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière; pluies possibles moitié nord en milieu de semaine.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
@@ -679,7 +681,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                GFS est régulièrement cité comme le modèle du scénario sec et anticyclonique prolongé. Les membres relèvent une divergence forte avec le CEP à partir de jeudi. Les animations GFS des runs 06Z et 12Z montrent une ceinture anticyclonique qui résiste, repoussant les perturbations au nord.
+                Les membres soulignent l’instabilité de GFS d’un run à l’autre, le 6Z étant systématiquement plus chaud.
               </div>
             </details>
           </td>
@@ -689,18 +691,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">CEP (ECMWF déterministe)</div>
-              <span class="status-badge status-main">documented</span>
+              <div class="model-name">CEP / IFS ENS (ECMWF)</div>
+              <span class="status-badge status-main">Documenté</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">8</span>
+              <span class="chip">10</span>
               <span class="chip">Runs cités : 12Z, 00Z</span>
-              <span class="chip">Dégradation à partir du 6-7 octobre, fraîcheur en seconde partie de semaine.</span>
+              <span class="chip">6-7 octobre pour la première dégradation, puis rafraîchissement possible en seconde partie de semaine.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Ondulation atlantique apportant pluies et fraîcheur sur une grande partie du pays à partir du 6-7 octobre, puis retour de l'anticyclone.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pluies et averses à partir du 6-7 octobre, nette baisse des températures, fraîcheur possible sous les normales jeudi.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Moitié nord, centre-est, puis sud-est et arc méditerranéen.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Perturbations possibles sur une grande partie du pays à partir du 6-7, mais clusters secs majoritaires. Un cluster minoritaire humide et frais pourrait tout concerner.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Première dégradation possible en début d’échéance, seconde en milieu de semaine; baisse des températures ensuite.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord, Centre-Ouest, Méditerranée, Sud-Est.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
@@ -710,7 +712,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Le CEP modélise des perturbations sur une grande partie du pays à partir du 6-7 octobre, contrairement à GFS. Il est aussi cité pour un possible épisode méditerranéen. Les runs de la veille au soir et du matin sont comparés, et l'EPS anticipe une baisse des températures en seconde partie de semaine.
+                Le clustering IFS ENS montre un scénario sec de 29 membres et un scénario humide/frais de 22 membres, avec possible épisode méditerranéen.
               </div>
             </details>
           </td>
@@ -720,49 +722,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">IFS ENS (ensemble européen)</div>
-              <span class="status-badge status-main">documented</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">5</span>
-              <span class="chip">Run : 00Z</span>
-              <span class="chip">Échéances du 5 au 11 octobre, clusters pour le 12 octobre.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Clusters majoritairement secs et anticycloniques, mais un cluster minoritaire humide avec possible épisode méditerranéen intense.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Sec et anticyclonique majoritaire, mais possible dégradation humide et fraîche, avec risque méditerranéen modéré à intense.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière selon les clusters, avec accent sur le sud-est pour le scénario humide.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
-              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Le clustering IFS ENS montre une majorité de scénarios à faible plongement des bas géopotentiels, classés Atlantic Ridge. Le cluster 2, minoritaire, est beaucoup plus humide et frais, avec un risque d'épisode méditerranéen potentiellement intense. La prévision apparaît plus ouverte que chez GEFS.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">GEFS (ensemble américain)</div>
-              <span class="status-badge status-main">documented</span>
+              <div class="model-name">GEFS (ensemble GFS)</div>
+              <span class="status-badge status-main">Documenté</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">5</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Échéances jusqu'au 16 octobre.</span>
+              <span class="chip">Scénario sec jusqu’au 16/10; dispersion accrue au 7/10.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario fermé sec, anticyclonique et chaud, quasi tous les membres dans le cluster sec, pluies repoussées au 16 octobre.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et chaud persistant, pas de précipitations au nord avant le 16 octobre, risque méditerranéen limité.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Toutes les zones, dominante anticyclonique.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Ensemble très majoritairement sec, anticyclonique et chaud, avec retour des précipitations au nord repoussé jusqu’au 16 octobre.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et chaud, faible risque pluvieux, quelques scénarios méditerranéens possibles vers le 7.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière; sud méditerranéen en surveillance.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
@@ -772,7 +743,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                GEFS propose un nombre non négligeable de scénarios chauds, avec une dispersion qui s'accentue au 07/10. Quasiment tous les membres se classent dans l'équivalent du cluster 3 de l'IFS ENS, c'est-à-dire anticyclonique et sec. Le retour des précipitations au nord est repoussé au-delà du 16 octobre.
+                Les diagrammes montrent une dispersion plus marquée pour le sud, avec un risque d’épisode méditerranéen le 7/10, mais la majorité reste chaude et sèche.
               </div>
             </details>
           </td>
@@ -782,49 +753,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GEM (canadien)</div>
-              <span class="status-badge status-main">partial</span>
+              <div class="model-name">ICON</div>
+              <span class="status-badge status-main">Partiel</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">1</span>
-              <span class="chip">Run : 00Z</span>
-              <span class="chip">À partir du 7 octobre.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Entrée de la pluie par le nord du pays à partir du 7 octobre, avec descente de la zone barocline vers le sud.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pluies entrant par le nord à partir du 7 octobre, rafraîchissement progressif vers le sud.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord du pays dans un premier temps, extension possible vers le sud.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
-              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Isolé</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                GEM est cité une seule fois, avec un run du matin qui faisait entrer la pluie par le nord du pays à partir du 7 octobre. Le signal est cohérent avec ICON et le CEP, mais reste isolé parmi les modèles.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">ICON (allemand)</div>
-              <span class="status-badge status-main">partial</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
+              <span class="chip">3</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
               <span class="chip">Dès le 7 octobre.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Temps humide dès le 7 octobre, ondulation un peu plus profonde que la moyenne des modèles, zone barocline descendant vers le sud.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps humide dès le 7 octobre, ondulation marquée, pluies possibles sur une large partie du pays.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord puis descente de la zone barocline vers le sud.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Temps humide dès le 7 octobre, avec une ondulation plus profonde, puis descente de la zone barocline vers le sud.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pluies possibles par le nord à partir du 7, puis rafraîchissement.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord, puis centre et sud.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
@@ -834,7 +774,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                ICON est cité avec un temps humide dès le 7 octobre, puis Jojobarbar relève qu'ICON persiste pour une ondulation un peu plus profonde. Le modèle va dans le sens d'une dégradation plus marquée, mais les signaux restent minoritaires.
+                ICON insiste pour une ondulation plus profonde que GFS et rejoint plutôt CEP sur une dégradation en milieu de semaine.
               </div>
             </details>
           </td>
@@ -844,28 +784,59 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">UKMO (britannique)</div>
-              <span class="status-badge status-main">partial</span>
+              <div class="model-name">GEM</div>
+              <span class="status-badge status-main">Succinct</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">1</span>
+              <span class="chip">2</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">+144h (jeudi 8 octobre).</span>
+              <span class="chip">À partir du 7 octobre.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Baisse des températures en seconde partie de semaine, avec T850 en baisse à +144h, possiblement sous les normales à partir de jeudi.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Forte baisse des températures en seconde partie de semaine, possiblement sous les normales.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Moitié nord et centre-est principalement.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Faisait entrer la pluie par le nord du pays à partir du 7 octobre, puis la zone barocline descendrait vers le sud.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pluie par le nord, rafraîchissement possible.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord puis centre/sud.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
               <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Isolé</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                UKMO est brièvement évoqué via une carte T850 à +144h, appuyant la baisse des températures en seconde partie de semaine, en accord avec l'EPS.
+                Mention unique dans les échanges, sans suivi détaillé.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">UKMO</div>
+              <span class="status-badge status-main">Succinct</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">1</span>
+              <span class="chip">Run : Run du scénario : +144h, run non déterminable</span>
+              <span class="chip">À partir de jeudi 8 octobre.</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>UKMO+144h montre une baisse des températures en seconde partie de semaine, cohérente avec l’EPS.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Rafraîchissement possible à partir de jeudi.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non précisé; probablement nord et centre.</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
+              <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                Utilisé pour illustrer le rafraîchissement anticipé par l’EPS.
               </div>
             </details>
           </td>
@@ -878,30 +849,26 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>🤝 Convergences & Divergences des Scénarios</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Ce qui converge</h3><p>- Début de semaine sec, anticyclonique et chaud : convergence entre GFS, CEP, ICON, bulletins Météo-France.
-- Baisse des températures en seconde partie de semaine anticipée par l'EPS, UKMO et le CEP.
-- Risque méditerranéen présent entre le 5 et le 8 octobre, avec un épisode pluvieux probable sur l'arc méditerranéen.</p></div>
-        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>- GFS/GEFS voient un blocage sec prolongé, tandis que CEP/IFS ENS voient une ondulation capable d'apporter pluies et fraîcheur.
-- Intensité et localisation de l'épisode méditerranéen : épisode modéré "faiblard" pour Jojobarbar, mais potentiellement intense dans le cluster 2 de l'IFS ENS.
-- Timing exact de la dégradation de la moitié nord : mercredi 7 pour GEM/ICON/CEP, plus tardif ou absent pour GFS.</p></div>
+        <div class="card card-solid"><h3>Ce qui converge</h3><p>- Début de semaine anticyclonique, sec et chaud jusqu’à mardi 6 inclus.
+- Une ondulation atlantique est attendue en milieu de semaine, avec un rafraîchissement possible à partir de jeudi.
+- Le scénario majoritaire reste anticyclonique et sec, avec toutefois un risque méditerranéen.</p></div>
+        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>- GFS/GEFS voient un temps sec et chaud prolongé, CEP voit des perturbations plus marquées à partir du 6-7.
+- Incertitude sur l’extension des pluies : simple passage sur la moitié nord ou dégradation plus profonde jusqu’au sud.
+- Position de la goutte froide : isolement sur la France (cluster humide) ou sur l’Espagne/Atlantique (scénario sec).</p></div>
       </div>
     </div>
 
     <div class="tech-block">
       <h4>🛡️ Fiabilité & Éléments à surveiller</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Points solides</h3><p>- Lundi-mardi : temps sec, ensoleillé et chaud sur la majeure partie du pays.
-- Mercredi : dégradation probable, au moins sur la moitié nord et le quart sud-est.
-- Fraîchissement net à partir de jeudi, avec un week-end plus frais.</p></div>
-        <div class="card card-fragile"><h3>Points fragiles</h3><p>- Cumuls et extension de la dégradation de mercredi-jeudi.
-- Intensité de l'épisode méditerranéen.
-- Comportement du week-end (pluies localisées ou sec).</p></div>
+        <div class="card card-solid"><h3>Points solides</h3><p>- Début de semaine anticyclonique, sec et chaud jusqu’à mardi.
+- Rafraîchissement probable en seconde partie de semaine, au moins sur le nord-est et Rhône-Alpes.
+- Risque méditerranéen mercredi/jeudi, soutenu par CEP et les bulletins Météo-France.</p></div>
+        <div class="card card-fragile"><h3>Points fragiles</h3><p>- Quantité et localisation des pluies de mercredi/jeudi.
+- Intensité du rafraîchissement, selon l’isolement de la goutte froide.
+- Comportement erratique de GFS d’un run à l’autre.</p></div>
       </div>
-      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : - CEP 12Z : suivi de l'ondulation atlantique.
-- GFS 12Z : maintien ou non du blocage anticyclonique.
-- IFS ENS 00Z : évolution des clusters humide/sec.
-- GEFS : dispersion des membres.
-- ICON : profondeur de l'ondulation.</div>
+      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : CEP 12Z, GFS 12Z, clustering IFS ENS, GEFS 12Z, sorties UKMO à +144h.</div>
     </div>
 
     <div class="tech-block">
@@ -937,90 +904,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GFS (long terme)</div>
-              <span class="status-badge status-main">partial</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">3</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Échéance du 12 au 18 octobre, signal de blocage jusqu'au 16.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Maintien des hautes pressions, temps sec, courant perturbé repoussé au nord de l'Europe, pluies au nord seulement après le 16 octobre.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et anticyclonique, fraîcheur relative possible en fin de période, aucun signal pluvieux net.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Toutes les zones, dominante sèche.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
-              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Les projections long terme de GFS montrent une résistance des hautes pressions, avec un courant perturbé repoussé bien au-delà de la France. Ce scénario est jugé crédible mais hélas sec par les membres.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">CEP / IFS ENS (long terme)</div>
-              <span class="status-badge status-main">partial</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">4</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">À partir du 12 octobre, avec deux grandes familles de scénarios.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario incertain : majorité de clusters secs et anticycloniques, mais une minorité humide avec possible goutte froide méditerranéenne.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Sec probable, mais en cas de scénario humide : fraîcheur, pluies copieuses et risque méditerranéen.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière selon les clusters, avec un fort contraste nord/sud.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
-              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                L'IFS ENS à longue échéance montre deux clusters principaux : un de 29 membres anticyclonique et sec, un de 22 membres avec une forte ondulation et possible isolement d'une goutte froide méditerranéenne. L'incertitude reste donc importante.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">GEFS (ensemble américain)</div>
-              <span class="status-badge status-main">documented</span>
+              <div class="model-name">CEP / IFS ENS (projections long terme)</div>
+              <span class="status-badge status-main">Projection long terme</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">5</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Jusqu'au 16 octobre minimum.</span>
+              <span class="chip">À partir du 12-15 octobre, puis grande incertitude.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénario sec et anticyclonique quasi unanime, pluies au nord repoussées au 16 octobre, risque méditerranéen limité.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et souvent chaud pour la saison, aucune dégradation majeure en vue.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Toutes les zones, en particulier le nord et le Centre-Ouest.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>IFS ENS conserve un scénario sec majoritaire, mais un cluster de 22 membres pourrait apporter humidité, fraîcheur et épisode méditerranéen.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec dominant; possible dégradation humide et fraîche, particulièrement au sud.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière; Méditerranée plus exposée.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
-              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
+              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
+              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
               <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                GEFS propose un nombre important de scénarios chauds et secs, avec une dispersion qui s'accentue au 7 octobre. Il repousse au 16 octobre un éventuel retour des précipitations au nord.
+                Sujet S42 non ouvert; analyse issue des discussions S41 et des ensembles à longue échéance. Les EFI restent faibles.
               </div>
             </details>
           </td>
@@ -1030,28 +935,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">IFS ENS (clusters)</div>
-              <span class="status-badge status-main">documented</span>
+              <div class="model-name">GEFS (projections long terme)</div>
+              <span class="status-badge status-main">Projection long terme</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">4</span>
-              <span class="chip">Run : 00Z</span>
-              <span class="chip">À partir du 12-14 octobre.</span>
+              <span class="chip">3</span>
+              <span class="chip">Run : Run du scénario : non déterminable</span>
+              <span class="chip">Jusqu’au 16 octobre au moins.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Cluster minoritaire de 22 membres avec forte ondulation, isolement possible d'une goutte froide méditerranéenne, brisant l'anticyclone.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>En cas de scénario humide : fraîcheur, pluies copieuses sur la France, épisode méditerranéen potentiellement intense.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Quart sud-est, puis extension possible à toute la France.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Tendance très majoritairement anticyclonique et sèche, avec retour des précipitations au nord repoussé autour du 16 octobre.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Sec et calme, températures possiblement au-dessus des normales.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
-              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Minoritaire</strong></div>
+              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
+              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Le cluster 2 de l'IFS ENS, bien que minoritaire, reste bien présent. Il donnerait un nouvel épisode méditerranéen potentiellement intense et de la pluie copieuse sur le reste du territoire, en lien avec une forte ondulation venant destructurer l'anticyclone.
+                Quasi-unanimité des membres pour un temps sec, contrairement à IFS ENS.
               </div>
             </details>
           </td>
@@ -1061,28 +966,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GEM, ICON, UKMO</div>
-              <span class="status-badge status-main">insufficient</span>
+              <div class="model-name">GFS (projections long terme)</div>
+              <span class="status-badge status-main">Succinct</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">0</span>
-              <span class="chip">Run du scénario : non déterminable</span>
-              <span class="chip">Non déterminable.</span>
+              <span class="chip">3</span>
+              <span class="chip">Runs cités : 12Z, 06Z</span>
+              <span class="chip">Semaine du 12 au 18 octobre.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Non estimable : aucun commentaire spécifique pour la semaine 2 (12-18 octobre).</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Non estimable.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Comportement girouette : runs tantôt froids, tantôt chauds, aucune tendance fiable pour la semaine 2.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Indéterminé; pas de signal net.</td>
           <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non déterminable.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Non estimable</strong></div>
-              <div class="bar" style="background:#e2e8f0;"></div>
+              <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
+              <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
               <div class="score-label" style="margin-top:6px;">Soutien : <strong>Non déterminable</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Aucune projection longue échéance de ces modèles n'est commentée pour la semaine 2 dans le sujet Semaine 41.
+                Les membres notent que le run 06Z est systématiquement plus chaud, sans cohérence d’ensemble.
               </div>
             </details>
           </td>
@@ -1091,12 +996,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </tbody>
       </table>
       <div class="compare" style="margin-top:12px;">
-        <div class="card"><h3>Convergences S2</h3><p>- Le scénario sec et anticyclonique est majoritaire sur la semaine 2.
-- Les régions du nord et du Centre-Ouest devraient rester au sec dans la plupart des scénarios.
-- Les températures devraient revenir vers des valeurs plus classiques pour la saison.</p></div>
-        <div class="card"><h3>Divergences S2</h3><p>- Possibilité d'une onde/goutte froide brisant l'anticyclone (cluster 2 IFS ENS).
-- Épisode méditerranéen potentiel en cas de flux de sud cyclonique.
-- Timing exact de l'éventuelle dégradation, encore très incertain.</p></div>
+        <div class="card"><h3>Convergences S2</h3><p>- Tendance générale anticyclonique et sèche majoritaire dans les ensembles.
+- GEFS et IFS ENS s’accordent sur une dorsale atlantique.
+- Un scénario humide/frais reste présent et non négligeable dans IFS ENS.</p></div>
+        <div class="card"><h3>Divergences S2</h3><p>- IFS ENS montre un cluster humide de 22 membres, GEFS est quasi unanime pour le sec.
+- GFS est erratique d’un run à l’autre.
+- Timing du retour des pluies au nord : autour du 16 octobre pour GEFS, plus précoce dans certains scénarios CEP.</p></div>
       </div>
       <div class="cards3" style="margin-top:12px;">
         
@@ -1123,12 +1028,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>📊 Transparence Méthodologique & Tableau des Doutes</h4>
       <div class="grid grid-2">
-        <div class="card"><h3>Calendrier</h3><p>Doutes sur la chronologie et le timing des phénomènes : le passage de la dégradation de la semaine 1 (mercredi 7 ou plus tard) et l'éventuelle rupture de l'anticyclone en semaine 2 restent très incertains.</p></div>
-        <div class="card"><h3>Localisation</h3><p>Doutes sur la localisation précise : fortes pluies méditerranéennes (Languedoc, Corse, PACA) et extension des pluies sur la moitié nord ; localisation exacte des pluies du week-end.</p></div>
-        <div class="card"><h3>Intensité</h3><p>Doutes sur l'intensité : l'épisode méditerranéen pourrait être modéré ou intense ; niveau thermique exact du week-end ; force du mistral et de la tramontane.</p></div>
-        <div class="card"><h3>Données manquantes</h3><p>Le sujet spécifique de la Semaine 42 n'est pas encore ouvert sur le forum Infoclimat. Aucune discussion détaillée n'existe pour la semaine 2. Manque d'informations sur le Massif Central, les Alpes du Nord, la Corse intérieure et les régions du nord-est.</p></div>
-        <div class="card"><h3>Modèles peu documentés</h3><p>GEM, ICON et UKMO sont peu ou pas commentés. Les modèles à très long terme (GFS 384h, ECMWF 15j) sont évoqués mais sans analyse détaillée de leurs runs.</p></div>
-        <div class="card"><h3>Images incertaines</h3><p>Les cartes d'ensemble et les animations GFS/CEP montrent des divergences importantes. Les EFI sont faibles pour l'épisode méditerranéen, ce qui indique une confiance limitée dans les sorties.</p></div>
+        <div class="card"><h3>Calendrier</h3><p>Doutes sur la chronologie et le timing des phénomènes : dégradation mercredi 7 ou jeudi 8, retour des pluies en semaine 2 plus ou moins tardif.</p></div>
+        <div class="card"><h3>Localisation</h3><p>Doutes sur la localisation précise et les zones géographiques concernées : moitié nord seulement ou tout le pays, littoral atlantique, vallée du Rhône, Méditerranée.</p></div>
+        <div class="card"><h3>Intensité</h3><p>Doutes sur l’intensité : force des orages, cumuls de pluie méditerranéenne, ampleur du rafraîchissement, limite pluie-neige sur les Pyrénées.</p></div>
+        <div class="card"><h3>Données manquantes</h3><p>Semaine 2 très peu documentée faute de sujet ouvert; absence de données détaillées pour la Bretagne, la Normandie, l’Auvergne, l’intérieur de la PACA et la Corse.</p></div>
+        <div class="card"><h3>Modèles peu documentés</h3><p>GEM, UKMO et ICON mentionnés brièvement, sans suivi détaillé dans les discussions.</p></div>
+        <div class="card"><h3>Images incertaines</h3><p>Animations GFS/CEP et cartes de clusters citées par les membres mais non intégrables ici; résolution et échéances variables.</p></div>
       </div>
     </div>
   </div>
@@ -1150,27 +1055,24 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="card">
       <h3>🌡️ Évolution des températures</h3>
       <div class="sparkline">
-            <div class="sparkline-row"><span>Précédent run :</span> <span>Sec, ensoleillé, anticyclonique, avec des températures de saison. (max 120 caractères)</span></div>
-            <div class="sparkline-row"><span>Run actuel :</span> <span>Temps sec, ensoleillé et chaud, aucune précipitation significative, fraîcheur relative uniquement en toute fin d'échéance.</span></div>
-            <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">⬆ Renforcement</span></span></div>
+            <div class="sparkline-row"><span>Précédent run :</span> <span>Temps sec, ensoleillé et chaud, aucune précipitation significative, fraîcheur relative uniquement en toute fin d'échéance.</span></div>
+            <div class="sparkline-row"><span>Run actuel :</span> <span>Temps sec, chaud en début de semaine; rafraîchissement limité; pluies faibles, surtout nord.</span></div>
+            <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">➡️ Évolution</span></span></div>
             </div>
     </div>
   </div>
 
   <div class="grid grid-2" style="margin-top:14px;">
-    <div class="card"><h3>Évolution générale</h3><p>Sur l'ensemble des 15 jours, une tendance anticyclonique dominante se dessine. La semaine 1 débuterait chaude et sèche, avec une dégradation possible en milieu de semaine et un net rafraîchissement. La semaine 2 resterait très incertaine, avec un scénario majoritaire sec mais un risque réel de scénario humide et frais.</p></div>
-    <div class="card"><h3>Semaine la plus fiable</h3><p>La semaine 1 (5-11 octobre) est la plus fiable, avec des prévisions détaillées et des bulletins officiels convergents pour le début de semaine.</p></div>
-    <div class="card"><h3>Phénomènes récurrents</h3><p>- Risques d'épisodes méditerranéens récurrents, favorisés par les SST chaudes et les flux de sud.
-- Sécheresse des sols qui s'accentue, notamment sur le Centre-Ouest.</p></div>
-    <div class="card"><h3>Incertitude majeure</h3><p>- Comportement de l'anticyclone en semaine 2.
-- Intensité et localisation de l'épisode méditerranéen.
-- Timing exact de la dégradation de la semaine 1.</p></div>
+    <div class="card"><h3>Évolution générale</h3><p>Début de semaine 1 anticyclonique, chaud et sec; dégradation possible en milieu de semaine 1 avec rafraîchissement; semaine 2 très incertaine, scénario sec majoritaire mais risque humide non négligeable.</p></div>
+    <div class="card"><h3>Semaine la plus fiable</h3><p>Semaine 1, surtout lundi 5 et mardi 6; semaine 2 à réévaluer dès l’ouverture du sujet.</p></div>
+    <div class="card"><h3>Phénomènes récurrents</h3><p>Dorsale atlantique, blocage anticyclonique, épisode méditerranéen, rafraîchissement en seconde partie de semaine 1.</p></div>
+    <div class="card"><h3>Incertitude majeure</h3><p>Intensité de l’ondulation; isolement de la goutte froide; retour des pluies; épisode méditerranéen.</p></div>
   </div>
 
   <div style="margin-top:16px;">
     <h3>📱 Post LinkedIn</h3>
     <div class="linkedin-box">
-      <div id="linkedin" class="linkedin">🌦️ À 15 jours, la France entre deux mondes : un début de semaine encore estival, une dégradation attendue mercredi, puis... l'inconnu. Les modèles s'opposent : GFS verrouille l'anticyclone, le CEP entrevoit une ondulation salvatrice. Côté Méditerranée, la mer très chaude pourrait déclencher un épisode pluvieux notable. Verdict dans les prochains runs. Restons prudents ! #Météo #Prévisions #Octobre</div>
+      <div id="linkedin" class="linkedin">🌤️ Début de semaine encore estival, puis bascule possible en milieu de semaine? Les modèles s’opposent : GFS voit sec, CEP plus humide. La Méditerranée reste sous surveillance. Week-end plus frais probable. #Météo #Prévisions #Automne</div>
     </div>
   </div>
 </section>
