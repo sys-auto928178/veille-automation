@@ -319,7 +319,7 @@ Températures minimales : en hausse.
 Températures maximales : en hausse sur le piémont et la montagne.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 040410 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 4 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 4 octobre 2026 à 00H00 UTC, et évolution Dépression 1018 hPa au sud des Baléares, dirigeant un flux modéré de secteur Est sur le nord du bassin. Perturbation pluvio-orageuse associée intéressant principalement le golfe du Lion. 3 - Prévisions pour la journée du dimanche 4 octobre VENT : Est 4 à 5, parfois 6 de Port Camargue au Porquerolles. Rafales sous orages. MER : peu agitée à agitée. HOULE : Sud proche de 1 m. TEMPS : ciel nuageux. Pluie ou averses, parfois orageuses, en fin d'après-midi à l'ouest de Porquerolles. VISIBILITE : moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du dimanche 4 octobre au lundi 5 octobre VENT : secteur Est 3 à 4, parfois 5 de Port Camargue au cap Sicié. Rafales sous orages. MER : peu agitée, localement agitée à l'ouest du cap Sicié en soirée. HOULE : Sud à Sud-Est proche de 1 m. TEMPS : pluie ou averses, parfois orageuses en soirée. VISIBILITE : moyenne à mauvaise sous précipitations. 5 - Prévisions pour la journée du lundi 5 octobre VENT : Est à Nord-Est 3 à 4, parfois 5 le matin, mollissant 1 à 3 en fin de journée. Rafales sous orages. MER : peu agitée. HOULE : Sud à Sud-Est 0,5 à 1 m. TEMPS : pluie ou averses, parfois orageuses. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 5 au 6 et la journée du mardi 6 octobre VENT : Est à Sud-Est 2 à 4, fraîchissant 4 à 5 en début de matinée. MER : peu agitée. HOULE de Sud à Sud-Est inférieure à 1 m, s'orientant en milieu d'après-midi à l'Est à Nord-Est. 7 - Tendance pour les jours suivants Mercredi 7 octobre Secteur Nord-Ouest modéré à assez fort autour du golfe du Lion et secteur Est modéré à assez fort entre Corse et continent. Indice de confiance : 4 sur 5 Jeudi 8 octobre Secteur Nord-Ouest fort autour du golfe du Lion et secteur Ouest modéré à assez fort entre Corse et continent. Indice de confiance : 3 sur 5 Vendredi 9 octobre Secteur Nord-Ouest fort autour du golfe du Lion et variable modéré à assez fort entre Corse et continent. Indice de confiance : 2 sur 5 Samedi 10 octobre Secteur Nord-Ouest fort autour du golfe du Lion et variable modéré à assez fort entre Corse et continent. Indice de confiance : 2 sur 5 8 - Observations le dimanche 4 octobre 2026 à 03H00 UTC Cap Camarat : vent Nord-Nord-Est 10 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 19 noeuds, 1025 hPa en baisse. Porquerolles : vent Est-Nord-Est 10 noeuds, rafales 27 noeuds. Cap Couronne : vent Nord-Est 6 noeuds, mer belle, visibilité 8 milles. Prochain bulletin le dimanche 4 octobre 2026, vers 13H00 légales
+FQCT40 LFML 040945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le dimanche 4 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 4 octobre 2026 à 06H00 UTC, et évolution Hautes pressions autour de 1026 hPa au nord du bassin aujourd'hui et 1020 hPa demain, mais dépression 1019 hPa entre le les côtes algériennes et Majorque, évoluant peu demain. Orages au nord-ouest du bassin. 3 - Prévisions pour l'après-midi du dimanche 4 octobre VENT : Est 4 à 5, parfois 6 de Port Camargue au Porquerolles. Rafales sous orages. MER : peu agitée à agitée. HOULE : Sud proche de 1 m. TEMPS : ciel nuageux. Pluie ou averses, parfois orageuses, en fin d'après-midi à l'ouest de Porquerolles. VISIBILITE : moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du dimanche 4 octobre au lundi 5 octobre VENT : secteur Est 3 à 4, parfois 5 de Port Camargue au cap Sicié. Rafales sous orages. MER : peu agitée, localement agitée à l'ouest du cap Sicié en soirée. HOULE : Sud à Sud-Est proche de 1 m. TEMPS : pluie ou averses, parfois orageuses en soirée. VISIBILITE : moyenne à mauvaise sous précipitations. 5 - Prévisions pour la journée du lundi 5 octobre VENT : Est à Nord-Est 3 à 4, parfois 5 le matin, mollissant 1 à 3 en fin de journée. Rafales sous orages. MER : peu agitée. HOULE : Sud à Sud-Est 0,5 à 1 m. TEMPS : pluie ou averses, parfois orageuses. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 5 au 6 et la journée du mardi 6 octobre VENT : - à l'ouest du Cap Sicié, Est à Sud-Est 2 à 4, fraîchissant 5 près des côtes l'après-midi. - à l'est du Cap Sicié, Est à Nord-Est 2 à 4, fraîchissant 4 à 5 en matinée. MER : peu agitée. HOULE : Sud à Sud-Est 0,5 à 1 m, puis Est dans l'après-midi. TEMPS : couvert et parfois pluvieux. VISIBILITE : bonne, mais localement moyenne sous pluie. 7 - Prévisions pour la nuit du 6 au 7 et la journée du mercredi 7 octobre VENT : De Port Camargue à Porquerolles secteur Sud-Est 4 à 6, virant Sud en milieu d'après-midi. Fortes rafales. De Porquerolles à Camarat Est 4 à 5, mollissant en milieu d'après-midi en virant Sud puis devenant variable faible. De Camarat à St Raphaël Est 3 à 4, fraîchissant temporairement 5 en début de nuit. MER : peu agitée, devenant temporairement agitée en seconde partie de nuit de Fos à la Ciotat. HOULE d'Est à Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Jeudi 8 octobre secteur Nord-Ouest modéré à fort dans le golfe du Lion, secteur Sud-Est modéré à assez fort entre Corse et continent. Indice de confiance : 4 sur 5 Vendredi 9 octobre secteur Nord-Ouest modéré à fort dans le golfe du Lion, secteur variable faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Samedi 10 octobre secteur Nord-Ouest modéré à assez fort dans le golfe du Lion, secteur variable faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 Dimanche 11 octobre secteur Nord-Ouest modéré à assez fort dans le golfe du Lion, secteur Sud-Ouest faible à modéré entre Corse et continent. Indice de confiance : 2 sur 5 9 - Observations le dimanche 4 octobre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 16 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 21 noeuds, 1026 hPa en hausse. Porquerolles : vent Est-Nord-Est 10 noeuds, rafales 27 noeuds. Cap Couronne : vent Est 12 noeuds. Prochain bulletin le dimanche 4 octobre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -349,12 +349,12 @@ mais reste perturbé.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : El Ni&#xF1;o - La Ni&#xF1;a
 • Infoclimat Direct : Prévisions Centre-Est Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Prévisions Centre-Est Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 04/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -362,41 +362,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 4 Octobre 2026.
-Résumé général précédent : Sur quinze jours, on attend un début de semaine très doux et sec, une dégradation modérée mercredi, un net rafraîchissement jeudi-vendredi, puis un probable retour anticyclonique encore souvent sec, avec un risque méditerranéen en semaine 2..
+Résumé général précédent : Après un début de semaine 1 très doux et sec, une dégradation modérée mercredi 7, un net rafraîchissement jeudi-vendredi, puis un retour anticyclonique probable. La semaine 2 resterait majoritairement sèche et douce, avec un risque méditerranéen et un possible retour des pluies par le nord à partir du 16..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Début chaud et sec, dégradation modérée mercredi, net refroidissement jeudi-vendredi..
+Températures attendues précédemment : Temps sec et très doux, épisode méditerranéen peu marqué, pas de pluies durables au nord..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: Nicolas L
-Message:
-Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre. 
-	GEM ce matin faisait entrer la pluie par le Nord du pays à partir du 7 Octobre. 
-	ICON également avec un temps humide dès le 7 Octobre. On voit par la suite que la zone barocline commencerait à descendre vers le sud.
-	Les signaux ne sont pas majoritaires, mais bien présents quand même. Nous ne sommes pas sur un scénario de blocage à n’en plus finir jusqu’à la fin des runs, ce qui laisse quand même un espoir. 
-								7
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-Ce soir, c'est le match entre GFS et CEP. Le rouge vs le vert.
-	Il y a une grosse divergence dans les prévisions surtout à partir de jeudi.
-
-=======================
-
-Auteur: Paulo
-Message:
-Il y a 5 heures, Nicolas L a dit :
-			Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre. 
-	Une partie du pays certes, mais CEP ce soir n'est pas encourageant pour cette première décade en matière de précipitations pour les départements du Centre-Ouest très touchés par la sécheresse.
-	GFS est encore pire pour cette même échéance.
-								1
-								3
-
-=======================
-
 Auteur: giec 2100
 Message:
 de @Nicolas L :
@@ -580,7 +551,9 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 40 minutes par Leonai
+	Modifié il y a 2 heures par Leonai
+								1
+								1
 								1
 
 =======================
@@ -602,47 +575,53 @@ Message:
 	12z 03/10
 	18z 03/10
 	0z 04/10
+	Qu'on soit clair ces tableaux montrent que pour un même réseau (run), on a des scénario à 0mm et d'autres à plus de 40mm !! POUR UN MÊME RUN !! Ce n'est donc absolument pas étonnant pour deux échéances consécutives d'avoir des variations pour le déterministe. Oui les membres sont perturbés, mais notre connaissances des lois régissant l'atmosphère et de l'état initial sont tellement parcellaire que ces perturbations sont normalement très peu responsables des variabilités (c'est l'incertitude qui en est responsable). Mieux ! Nos connaissances en systèmes complexes et chaotiques montrent que cette méthode est plus robuste que d'essayer de tout connaître parfaitement.
 	On le voit sur les 4 derniers runs ensemblistes, on a :
 	run 06z 03/10 -&gt; 5 (16%) runs "blancs" (sec) 
 	run 12z 03/10 -&gt; 2 (6%) runs "blancs" (sec)
 	run 18z 03/10 -&gt; 4 (13%) runs "blancs" (sec)
 	run 00z 04/10 -&gt; 3 (10%) runs "blancs" (sec)
-	Plutôt stable à mes yeux. Je vous laisse faire le travail pour les autres plages de couleurs (attention, elles ne sont peut-être pas toutes bien choisies : 10mm et 1mm sont tous deux en bleu ciel.
+	Plutôt stable à mes yeux. Je vous laisse faire le travail pour les autres plages de couleurs (attention, elles ne sont peut-être pas toutes bien choisies : 10mm et 1mm sont tous deux en bleu ciel).
 	On peut faire de même pour IFS ENS. Ici, on a un outil similaire aux diagrammes : https://charts.ecmwf.int/products/opencharts_meteogram?base_time=202610031200&amp;epsgram=classical_plume&amp;lat=47.5943&amp;lon=1.32912&amp;station_name=Blois. En déplaçant le curseur en bas on peut remonter voir les prévisions d'ensemble des jours précédents. Attention à l'échelle des PP qui n'est pas fixe... Ce qu'on voit : pour Blois, le déterministe IFS (rouge) est très variable au niveau précipitations. L'ensemble est plutôt stable.
-	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps. Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
+	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
+	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 2 minutes par Jojobarbar
+	Modifié il y a 1 heure par Jojobarbar
+								3
+								3
+								1
+
+=======================
+
+Auteur: Leonai
+Message:
+il y a 10 minutes, Jojobarbar a dit :
+			Hello, ces remarques reviennent souvent, des fois c'est GFS qui est visé, des fois IFS, rarement les autres modèles.
+			[...]
+			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
+	😲
+	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
+	Modifié il y a 1 heure par Leonai
+
+=======================
+
+Auteur: Krholam
+Message:
+Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
+	Modifié il y a 1 heure par Krholam
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+8 minutes ago, Leonai said:
+			😲
+			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
+	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
+	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamental comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: Nicolas L
-Message:
-Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre. 
-	GEM ce matin faisait entrer la pluie par le Nord du pays à partir du 7 Octobre. 
-	ICON également avec un temps humide dès le 7 Octobre. On voit par la suite que la zone barocline commencerait à descendre vers le sud.
-	Les signaux ne sont pas majoritaires, mais bien présents quand même. Nous ne sommes pas sur un scénario de blocage à n’en plus finir jusqu’à la fin des runs, ce qui laisse quand même un espoir. 
-								7
-								2
-
-=======================
-
-Auteur: Plancher
-Message:
-Ce soir, c'est le match entre GFS et CEP. Le rouge vs le vert.
-	Il y a une grosse divergence dans les prévisions surtout à partir de jeudi.
-
-=======================
-
-Auteur: Paulo
-Message:
-Il y a 5 heures, Nicolas L a dit :
-			Même si GFS joue avec nos nerfs. On a quand même les CEP d'hier soir et de ce matin qui modélisent des perturbations sur une grande partie du pays à partir du 6-7 Octobre. 
-	Une partie du pays certes, mais CEP ce soir n'est pas encourageant pour cette première décade en matière de précipitations pour les départements du Centre-Ouest très touchés par la sécheresse.
-	GFS est encore pire pour cette même échéance.
-								1
-								3
-
-=======================
-
 Auteur: giec 2100
 Message:
 de @Nicolas L :
@@ -826,7 +805,9 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 40 minutes par Leonai
+	Modifié il y a 2 heures par Leonai
+								1
+								1
 								1
 
 =======================
@@ -848,13 +829,48 @@ Message:
 	12z 03/10
 	18z 03/10
 	0z 04/10
+	Qu'on soit clair ces tableaux montrent que pour un même réseau (run), on a des scénario à 0mm et d'autres à plus de 40mm !! POUR UN MÊME RUN !! Ce n'est donc absolument pas étonnant pour deux échéances consécutives d'avoir des variations pour le déterministe. Oui les membres sont perturbés, mais notre connaissances des lois régissant l'atmosphère et de l'état initial sont tellement parcellaire que ces perturbations sont normalement très peu responsables des variabilités (c'est l'incertitude qui en est responsable). Mieux ! Nos connaissances en systèmes complexes et chaotiques montrent que cette méthode est plus robuste que d'essayer de tout connaître parfaitement.
 	On le voit sur les 4 derniers runs ensemblistes, on a :
 	run 06z 03/10 -&gt; 5 (16%) runs "blancs" (sec) 
 	run 12z 03/10 -&gt; 2 (6%) runs "blancs" (sec)
 	run 18z 03/10 -&gt; 4 (13%) runs "blancs" (sec)
 	run 00z 04/10 -&gt; 3 (10%) runs "blancs" (sec)
-	Plutôt stable à mes yeux. Je vous laisse faire le travail pour les autres plages de couleurs (attention, elles ne sont peut-être pas toutes bien choisies : 10mm et 1mm sont tous deux en bleu ciel.
+	Plutôt stable à mes yeux. Je vous laisse faire le travail pour les autres plages de couleurs (attention, elles ne sont peut-être pas toutes bien choisies : 10mm et 1mm sont tous deux en bleu ciel).
 	On peut faire de même pour IFS ENS. Ici, on a un outil similaire aux diagrammes : https://charts.ecmwf.int/products/opencharts_meteogram?base_time=202610031200&amp;epsgram=classical_plume&amp;lat=47.5943&amp;lon=1.32912&amp;station_name=Blois. En déplaçant le curseur en bas on peut remonter voir les prévisions d'ensemble des jours précédents. Attention à l'échelle des PP qui n'est pas fixe... Ce qu'on voit : pour Blois, le déterministe IFS (rouge) est très variable au niveau précipitations. L'ensemble est plutôt stable.
-	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps. Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
+	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
+	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 2 minutes par Jojobarbar
+	Modifié il y a 1 heure par Jojobarbar
+								3
+								3
+								1
+
+=======================
+
+Auteur: Leonai
+Message:
+il y a 10 minutes, Jojobarbar a dit :
+			Hello, ces remarques reviennent souvent, des fois c'est GFS qui est visé, des fois IFS, rarement les autres modèles.
+			[...]
+			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
+	😲
+	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
+	Modifié il y a 1 heure par Leonai
+
+=======================
+
+Auteur: Krholam
+Message:
+Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
+	Modifié il y a 1 heure par Krholam
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+8 minutes ago, Leonai said:
+			😲
+			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
+	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
+	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamental comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
+								2
