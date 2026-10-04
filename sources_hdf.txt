@@ -309,22 +309,22 @@ mais reste perturbé.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Climatologie 2026
 • Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
 • Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
 • Infoclimat Direct : El Ni&#xF1;o - La Ni&#xF1;a
 • Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
 • Infoclimat Direct : Suivi ensoleillement 2026
-• Infoclimat Direct : WsWin et Infoclimat
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 04/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
-Dernier bulletin HDF généré le Samedi 3 Octobre 2026.
-Résumé général HDF précédent : Sur l'ensemble des 15 jours, les Hauts-de-France connaîtraient un temps souvent sec et doux, avec une dégradation modérée vers le 7-8 octobre puis un probable retour des hautes pressions. La semaine 1 est mieux cernée que la semaine 2, encore très incertaine..
+Dernier bulletin HDF généré le Dimanche 4 Octobre 2026.
+Résumé général HDF précédent : Sur l'ensemble des 15 jours : un temps souvent sec et très doux en première partie, avec une dégradation modérée en milieu de semaine 1, puis une probable tendance anticyclonique en semaine 2 mais très incertaine..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Possible dégradation modérée mercredi-jeudi, puis retour de l'anticyclone ; températures en baisse..
+Températures attendues précédemment : Soleil prédominant, températures élevées, risque d'averses très limité..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
