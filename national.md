@@ -1,131 +1,129 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Dimanche 4 Octobre 2026
-**Période :** Semaine 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) & Semaine 2 (Du Lundi 12 au Dimanche 18 Octobre 2026
-Note : le sujet forum dédié à la semaine 42 n'est pas encore ouvert. Analyse basée uniquement sur les projections à long terme extraites du sujet Semaine 41 et les bulletins officiels J+1/J+2.)
+**Période :** Semaine 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) & Semaine 2 (Du Lundi 12 au Dimanche 18 Octobre 2026)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord satisfaisant pour la semaine 1, très incertain pour la semaine 2.*
-- **Fiabilité du scénario majoritaire :** Sec et anticyclonique dominant — *Scénario majoritaire, avec une dégradation orageuse modérée mercredi.*
+- **Consensus des modèles :** Modéré — *Convergence sur le rafraîchissement et le sec, divergences sur les cumuls orageux.*
+- **Fiabilité du scénario majoritaire :** Anticyclone puis fraîcheur passagère — *Semaine 1 en deux temps, semaine 2 sous réserves.*
 - **Stabilité des cartes/scénarios :** 6 / 110 — *6 cartes sur 110 analysées*
-- **Niveau d'incertitude global :** Forte en semaine 2 — *Sujet S2 non ouvert et indicateur thermique contradictoire.*
+- **Niveau d'incertitude global :** Forte à partir du 12 octobre — *Sujet Semaine 42 non ouvert, projections long terme encore floues.*
 
 ## 🗓️ SEMAINE 1 : Du Lundi 5 au Dimanche 11 Octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Douceur remarquable : Début de semaine très doux, maximales 25-28°C sur de nombreuses régions.
-2. Dégradation orageuse modérée : Mercredi, épisode pluvio-orageux surtout sur le sud-est et le sud-ouest.
-3. Rafraîchissement net : Baisse marquée des températures jeudi-vendredi, possiblement sous les normales.
-4. Week-end contrasté : Amélioration samedi-dimanche avec éclaircies et fraîcheur matinale.
-5. Incertitudes persistantes : Évolution des orages et du rafraîchissement encore incertaine en milieu de semaine.
+1. Départ très doux : Lundi-mardi, soleil généreux et températures encore estivales, localement de 27 à 29°C.
+2. Dégradation mercredi : Pluies et orages pourraient traverser le pays, avec un risque plus marqué sur le Sud-Est et le Sud-Ouest.
+3. Rafraîchissement net : Dès jeudi, retour attendu vers des valeurs de saison, localement sous les normales.
+4. Modèles divergents : GFS déterministe reste instable, les ensembles GEFS et EPS apparaissent plus cohérents.
+5. Fin de semaine variable : Samedi-dimanche plus sec, mais éclaircies et nuages pourraient encore se partager le ciel.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-1. Temps sec et anticyclonique dominant, surtout en début et fin de semaine 1.
-2. Dégradation pluvio-orageuse modérée autour de mercredi, plus intense sur le sud-est.
-3. Rafraîchissement marqué à partir de jeudi, possiblement sous les normales.
+Baisse des températures en seconde partie de semaine (GFS, CEP, EPS, UKMO).
+Passage pluvio-orageux mercredi, plus marqué au sud-est et au sud-ouest, avec cumuls notables mais non extrêmes (GEFS, EPS).
+Froid arctique peu offensif, influence anticyclonique dominante ensuite, tendance au sec (GFS, EPS).
 **Points de divergence :**
-1. Intensité et localisation des pluies orageuses mercredi (ICON plus humide, IFS ENS plus sec).
-2. Cumuls sur le centre : GFS déterministe variable, GEFS/IFS ENS stables autour de 10-20 mm.
-3. Températures en fin de semaine : légèrement sous normales ou simplement en baisse selon les modèles.
+Intensité de la dégradation de mercredi : GFS déterministe a exagéré puis annulé certains orages du centre, tandis que GEFS/EPS sont plus mesurés.
+Températures de fin de semaine : GFS 06Z plus chaud, CEP/EPS plus frais.
+Timing exact du retour du sec : jeudi pour certains, vendredi-samedi pour d’autres.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS (Global Forecast System)** (Documenté) | Run déterministe très variable, prévoyant une baisse des températures en milieu de semaine, mais des orages intérieurs souvent surestimés et non confirmés. | Temps sec et doux lundi-mardi, dégradation orageuse modérée mercredi, rafraîchissement ensuite. | Nord-est, centre, sud-ouest | Élevée (85%) | Les membres critiquent la fiabilité du déterministe GFS, le comparant à un membre au hasard. Les sorties orageuses sur le centre ont disparu à l'approche de l'échéance. La tendance à la baisse des températures en milieu de semaine est partagée par d'autres modèles. |
-| **GEFS (ensemble américain)** (Documenté) | Cumuls stables d'un run à l'autre pour le centre : pluies modérées mardi-mercredi, 10-20 mm. | Pluies non négligeables sur le centre, pas de temps sec absolu. | Centre, localement nord-est | Élevée (80%) | Jojobarbar a analysé les cumuls GEFS pour Blois sur 4 runs : proportion de runs secs stable entre 6 % et 16 %, donc pas de certitude de sécheresse. Les cumuls modérés sont le scénario le plus robuste pour le centre. |
-| **ECMWF (IFS/CEP/EPS)** (Documenté) | Baisse des températures en seconde partie de semaine anticipée par l'EPS. Signal global plutôt sec, scénarios plus humides non négligeables. | Temps sec et anticyclonique dominant, dégradation mercredi, fraîcheur jeudi-vendredi. | Toutes les zones, surtout moitié nord et Méditerranée | Élevée (85%) | L'EPS a bien anticipé la baisse des températures. IFS ENS va plutôt vers le sec, mais une proportion de scénarios avec ondulation plus profonde demeure. Le CEP propose également une baisse en milieu de semaine, cohérente avec les autres modèles. |
-| **ICON (allemand)** (Documenté) | Persiste pour une ondulation un peu plus profonde, donc potentiellement plus de pluie. | Pluies plus marquées possibles, mais scénario isolé. | Sud-ouest, Méditerranée, possiblement centre | Modérée (65%) | ICON est cité par Jojobarbar comme persistant pour une ondulation plus creuse, à contre-courant du signal sec de l'IFS ENS. Reste un scénario isolé, avec une fiabilité incertaine. |
-| **UKMO (britannique)** (Documenté) | Confirme à +144h la baisse des températures en seconde partie de semaine. | Rafraîchissement jeudi-vendredi, possiblement sous les normales. | Nord, centre-est | Modérée (60%) | Carte UKMO+144h utilisée par Nico 14 pour illustrer l'ondulation atlantique et la baisse des températures. Soutien net au scénario de rafraîchissement, mais sans précision sur les précipitations. |
+| **GFS (modèle déterministe américain)** (Documenté) | Tendance anticyclonique dominante, temps sec et doux, dégradation orageuse de courte durée mercredi puis rafraîchissement. | Températures en baisse en milieu de semaine, pluies orageuses localisées, retour de conditions plus stables et sèches. | Nord, Centre, Sud-Ouest, Sud-Est. | Modérée (65%) | GFS déterministe change souvent d’orientation ; le run 06Z ressort plus chaud. Des scénarios orageux sur le centre ont disparu à l’approche de l’échéance. L’animation GFS montre un vortex arctique peu menaçant et une influence anticyclonique dominante. |
+| **GEFS (ensemble américain)** (Documenté) | Ensemble stable : pluies faibles à modérées mardi-mercredi sur le centre, pas de gros cumuls, puis temps sec. | Passage pluvieux modéré, cumuls généralement inférieurs à 20 mm, variations de température modérées. | Centre, Nord, Nord-Est. | Élevée (85%) | Sur Blois, 6 à 16 % des membres secs selon les runs ; la majorité simule une dizaine de millimètres entre mardi et mercredi, sans excéder 20 mm. Cela illustre la meilleure fiabilité des ensembles par rapport au déterministe. |
+| **IFS/CEP (ECMWF, déterministe)** (Documenté) | Baisse des températures en milieu et fin de semaine, avec ondulation atlantique et net rafraîchissement. | Rafraîchissement sensible après mercredi, risque d’averses passagères, températures proches ou légèrement sous les normales. | Nord, Centre, Est, Ouest. | Modérée (65%) | Le CEP propose une baisse des températures en milieu de semaine, cohérente avec l’EPS. IFS à +156h confirme une ondulation atlantique permettant un rafraîchissement, parfois sous les normales à partir de jeudi. |
+| **EPS (ensemble européen ECMWF)** (Documenté) | Scénarios partagés, mais majorité à faible NAO- et influence anticyclonique ; froid arctique contenu, pas de débordement durable. | Douceur persistante, quelques pluies passagères en milieu de semaine, puis temps plutôt sec. | France entière, surtout moitié Nord pour les pluies. | Élevée (85%) | L’EPS anticipe la baisse des températures en seconde partie de semaine. Le diagramme PDF à +186h montre un ensemble sans tendance nette, avec un groupe majoritaire NAO-/BL- et un petit groupe NAO+. Au final, temps sec dominant, froid sans débordement sur le pays. |
+| **UKMO (modèle britannique)** (Partiel) | Carte à +144h évoquée : baisse des températures avec ondulation atlantique. | Rafraîchissement probable en fin de semaine. | France entière, plus probablement moitié nord. | Faible (45%) | Mentionné uniquement via une carte T850 à +144h, en appui du scénario de rafraîchissement. Détails limités, pas de commentaire approfondi. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec et ensoleillé lundi-mardi, dégradation nuageuse mercredi, amélioration ensuite. | Douces lundi-mardi (25°C possibles), nette baisse jeudi-vendredi. | moderee | ECMWF, GFS | Localisation et intensité des pluies mercredi incertaines. |
-| **Nord** | Soleil généreux lundi-mardi, nuages et pluies mercredi, éclaircies ensuite. | Maximales 25-27°C lundi-mardi, 16°C jeudi-vendredi, 17°C week-end. | elevee | Météo-France, ECMWF | Rien de majeur, risque d'averses samedi. |
-| **Nord-Est** | Temps sec lundi-mardi, risque d'orages éphémères mercredi, fraîcheur ensuite. | Maximales autour de 23-26°C lundi-mardi, chute jeudi-vendredi. | faible | GFS, ECMWF | Modèles déterministes divergents sur les orages. |
-| **Ouest et Façade Atlantique** | Ensoleillé lundi, orages possibles mardi, nette amélioration ensuite. | Maximales 27-29°C lundi-mardi, 17-19°C jeudi-vendredi, 18-20°C week-end. | elevee | Météo-France, ECMWF | Localisation des orages mardi. |
-| **Centre** | Temps sec lundi, dégradation pluvio-orageuse mardi-mercredi, amélioration jeudi. | Douces en début de semaine, fraîches ensuite. | moderee | GEFS, IFS ENS | Cumuls exacts incertains, mais écart au sec confirmé par les ensembles. |
-| **Sud-Ouest** | Soleil lundi, orages mardi en fin de journée, averses mercredi, éclaircies ensuite. | Maximales 25-27°C lundi-mardi, 19-22°C mercredi, 15-18°C jeudi-vendredi. | elevee | Météo-France, ECMWF | Risque orageux en montagne. |
-| **Sud-Est et Vallée du Rhône** | Ensoleillé lundi-mardi, averses mercredi, fraîcheur et éclaircies jeudi-vendredi. | Maximales 23-26°C lundi-mardi, 20-22°C mercredi, 13-16°C jeudi-vendredi. | elevee | Météo-France, ECMWF | Intensité des averses. |
-| **Méditerranée et Corse** | Très nuageux dimanche, averses orageuses mercredi, mistral ensuite, beau week-end. | Maximales 26-28°C lundi-mardi, 20-23°C mercredi, 20-22°C jeudi-vendredi. | elevee | Météo-France, ECMWF | Cumuls orageux et intensité du mistral. |
+| **Nord-Ouest** | Éclaircies puis averses mercredi, rafraîchissement jeudi, retour sec possible. | Maximales 20-25°C lundi-mardi, puis 15-18°C en fin de semaine. | moderee | GFS, ECMWF | Manque de bulletins locaux détaillés pour cette zone. |
+| **Nord** | Soleil lundi-mardi, pluies mercredi, net rafraîchissement, éclaircies ensuite. | 25-27°C lundi-mardi, 20-21°C mercredi, 16°C jeudi-vendredi, 17°C weekend. | elevee | GFS, ECMWF, Météo-France | Localisation des averses du weekend encore incertaine. |
+| **Nord-Est** | Sec et doux en début de semaine, averses possibles mercredi, fraîcheur ensuite. | Maximales 23-26°C lundi-mardi, puis 14-18°C en fin de semaine. | moderee | GEFS, ECMWF | Pas de bulletin départemental détaillé pour le secteur. |
+| **Ouest et Façade Atlantique** | Soleil et très doux lundi-mardi, orages mardi soir, net rafraîchissement ensuite. | 27-29°C mardi, 20-22°C mercredi, 17-19°C jeudi-vendredi, 18-20°C weekend. | elevee | GFS, ECMWF, Météo-France | Intensité orageuse sur l'Entre-Deux-Mers. |
+| **Centre** | Soleil lundi-mardi, averses mercredi, ciel variable et nettement plus frais ensuite. | 24-26°C lundi, 23-26°C mardi, 20-22°C mercredi, 14-17°C jeudi-vendredi, 15-17°C weekend. | elevee | GFS, ECMWF, Météo-France | Averses résiduelles de jeudi-vendredi. |
+| **Sud-Ouest** | Ensoleillé et chaud lundi-mardi, orages mardi soir, dégradation mercredi puis éclaircies. | 25-27°C lundi-mardi, 19-22°C mercredi, 16-19°C jeudi-vendredi, 19°C weekend. | elevee | GFS, ECMWF, Météo-France | Évolution orageuse de mardi soir et limite pluie-neige jeudi. |
+| **Sud-Est et Vallée du Rhône** | Éclaircies puis fortes averses orageuses mercredi, mistral et soleil ensuite. | 26-28°C lundi, 25-27°C mardi, 20-23°C mercredi, 22°C jeudi-vendredi, 20°C weekend. | elevee | GFS, ECMWF, Météo-France | Localisation des plus fortes pluies orageuses. |
+| **Méditerranée et Corse** | Averses orageuses lundi, éclaircies mardi, orages mercredi possibles, vent fort en fin de semaine. | Douceur littorale, minimales 16-20°C, maximales autour de 22-26°C selon secteurs. | moderee | GFS, ECMWF, Météo-France | Prévisions côtières à moyenne échéance, Corse peu détaillée. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 5 – Mardi 6 octobre** : Temps sec, très doux et ensoleillé, maximales 25-28°C.
-- **Mercredi 7 octobre** : Dégradation pluvio-orageuse, localement marquée sur le sud-est et le sud-ouest.
-- **Jeudi 8 – Vendredi 9 octobre** : Rafraîchissement net, températures sous les normales, averses résiduelles.
-- **Samedi 10 – Dimanche 11 octobre** : Temps plus sec, éclaircies, fraîcheur matinale, vent parfois modéré.
+- **Lundi 5 - Mardi 6 octobre** : Temps sec, ensoleillé et très doux, maximales souvent 25-29°C, avec orages locaux possibles mardi soir sur le Sud-Ouest.
+- **Mercredi 7 octobre** : Dégradation pluvio-orageuse plus marquée sur le quart sud-est et le Sud-Ouest, rafraîchissement en cours.
+- **Jeudi 8 - Vendredi 9 octobre** : Temps plus frais et variable, averses résiduelles, mistral assez fort en Méditerranée.
+- **Samedi 10 - Dimanche 11 octobre** : Éclaircies et passages nuageux, températures contenues mais en légère hausse.
 
 **Points solides :**
-1. Début de semaine 1 très doux et ensoleillé sur la plupart des régions.
-2. Dégradation orageuse mercredi sur le sud-est, avec cumuls potentiellement importants.
-3. Rafraîchissement net jeudi-vendredi, confirmé par les principaux modèles.
+Chaleur et soleil lundi-mardi quasi généralisés, avec maximales souvent comprises entre 25 et 29°C.
+Rafraîchissement net à partir de jeudi, températures proches ou légèrement sous les normales.
+Coup de vent ou mistral sensible en Méditerranée en fin de semaine.
 
 **Points fragiles :**
-1. Cumuls exacts des pluies de mercredi, surtout sur le centre.
-2. Comportement erratique du GFS déterministe pour les orages intérieurs.
-3. Durée du rafraîchissement en fin de semaine.
+Intensité exacte de la dégradation orageuse de mercredi.
+Cumuls de pluie sur le centre et le nord-est.
+Retour du sec et hausse des températures du weekend : GFS et CEP divergent encore.
 
 **À surveiller (prochains runs) :**
-Prochains runs d'ICON et IFS ENS pour l'ondulation de mercredi ; évolution de GFS et CEP pour les températures de fin de semaine.
+Runs GFS 00Z/12Z de lundi 5 pour l’échéance de mercredi.
+Ensembles GEFS et EPS de lundi 5.
+Cartes UKMO et IFS +144h/156h pour jeudi-vendredi.
 
 
 ## 🗓️ SEMAINE 2 : Du Lundi 12 au Dimanche 18 Octobre 2026
-Note : le sujet forum dédié à la semaine 42 n'est pas encore ouvert. Analyse basée uniquement sur les projections à long terme extraites du sujet Semaine 41 et les bulletins officiels J+1/J+2.
 ### 💡 Points clés de la semaine 2
-1. Semaine 2 incertaine : Pas de discussion forum dédiée, projections long terme seulement.
-2. Tendance anticyclonique : Temps sec probable dans la continuité de la semaine 1.
-3. Températures en hausse : Lundi-mardi, hausse des maximales sur plusieurs régions.
-4. Risque de chaleur : L'indicateur thermique signale une possible vague de chaleur à surveiller.
-5. Prudence requise : Échéances lointaines, aucun scénario fiable pour l'instant.
+1. Retour anticyclonique probable : Temps sec et soleil dominant sur la plupart des régions en début de semaine.
+2. Températures en hausse : Maximales repartent à la hausse lundi-mardi, après le frais épisode de fin de semaine 1.
+3. Sujet non ouvert : Prévisions de la semaine 42 encore très incertaines, à confirmer par les prochains runs.
+4. Tendance sèche : Les ensembles penchent pour un maintien des hautes pressions, sans froid durable.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-1. Tendance anticyclonique et temps sec probable en début de semaine 2.
-2. Pas de froid durable ni d'épisode méditerranéen majeur en vue.
-3. Températures en hausse lundi-mardi selon les bulletins officiels.
+Retour sec et anticyclonique probable en début de semaine 2 (GFS, ECMWF, bulletins Météo-France).
+Températures en hausse lundi-mardi par rapport au week-end.
+Pas de signal pour une dégradation majeure ni un froid durable.
 **Points de divergence :**
-1. ITN 14 jours suggère un risque de vague de chaleur, en contradiction avec un scénario de températures proches des normales.
-2. Position exacte des centres d'action après mercredi : NAO- faible vs NAO+ avec blocage.
-3. Évolution des précipitations si une ondulation atlantique se creuse, scénario humide minoritaire.
+Durée de l’influence anticyclonique après le 14 octobre.
+Possibilité d’une ondulation atlantique et retour de températures sous les normales.
+Position exacte des hautes pressions, avec un petit groupe de scénarios NAO+.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (IFS 15 jours)** (Partiel) | Tendance anticyclonique et temps sec probable en début de semaine 2, incertitude ensuite. | Temps généralement sec, températures en hausse lundi-mardi puis incertaines. | Toutes zones | Faible (45%) | Aucune discussion spécifique sur la semaine 2. Les projections du sujet Semaine 41 suggèrent une poursuite du temps sec sous influence anticyclonique, mais l'ITN 14 jours signale un risque de vague de chaleur. Incertitude forte. |
-| **GFS (384 heures)** (Partiel) | Vortex arctique peu conquérant, pas de froid durable sur la France, poursuite de la douceur. | Poursuite de la douceur, pas de dégradation majeure. | Toutes zones, surtout nord | Faible (45%) | L'animation GFS long terme montre une poche d'air froid résiduelle, mais pas de débordement vers la France. Les centres d'action laissent une influence anticyclonique, sous réserve des échéances lointaines. |
-| **Ensembles (GEFS / IFS ENS)** (Partiel) | Majorité de scénarios sous influence anticyclonique, temps plutôt sec, froid restant en Arctique. | Temps sec probable, sans excès de chaleur confirmé. | France entière | Modérée (60%) | Le diagramme 2D PDF d'ECMWF montre une absence de tendance nette, avec une majorité de scénarios à faible NAO- et BL-, donc plutôt anticycloniques. Un petit groupe de scénarios NAO+ et blocage existe. |
+| **GFS (projection long terme)** (Partiel) | Maintien d’une influence anticyclonique, temps sec, douceur revenue, froid arctique contenu. | Soleil dominant, quelques nuages, pas de précipitations significatives. | France entière. | Faible (45%) | L’animation GFS suggère un vortex arctique peu menaçant et une ceinture anticyclonique protégeant la France. Le scénario sec et doux est privilégié, mais sans discussion dédiée il reste fragile. |
+| **ECMWF/EPS (projection long terme)** (Partiel) | Scénarios majoritaires sous influence anticyclonique, températures proches des normales ou en hausse, pas de froid durable. | Temps calme, sec, éclaircies, quelques nuages élevés. | France entière. | Modérée (65%) | L’EPS ne montre pas de tendance nette mais un groupe majoritaire NAO-/BL-, favorable à un temps sec sous anticyclone. Un petit groupe NAO+ bloquant existe, d’où une incertitude réelle. Une ondulation atlantique pourrait encore maintenir des températures sous les normales en fin d’échéance. |
+| **GEFS (ensemble américain)** (Partiel) | Stabilité d’ensemble envisagée, pas de signal fort pour des pluies durables. | Sec dominant, températures de saison ou un peu douces. | France entière. | Faible (45%) | L’analyse des GEFS sur la semaine 41 montre une stabilité des cumuls ; prolongée à longue échéance, elle ne suggère pas d’épisode pluvieux majeur pour la semaine 42. Pas de discussion dédiée disponible. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Tendance anticyclonique probable, temps sec, mais aucune certitude. | Non documentée au-delà de mardi, incertitude forte. | faible | ECMWF | Aucun bulletin détaillé, sujet forum non ouvert. |
-| **Nord** | Passages nuageux lundi, retour d'éclaircies, temps sec probable ensuite. | Minimales stationnaires, maximales en hausse sur le sud-est. | faible | Météo-France, ECMWF | Incertitude pour le reste de la semaine, pas de sujet forum. |
-| **Nord-Est** | Temps sec probable, incertitude après mardi. | Non documentée, tendance douce possible. | faible | GFS | Aucune source directe pour cette zone. |
-| **Ouest et Façade Atlantique** | Littoral et sud pluvieux lundi matin, ailleurs ensoleillé, sec ensuite probable. | Maximales en hausse autour de l'estuaire et sur le sud du département. | faible | Météo-France, ECMWF | Évolution après mardi incertaine. |
-| **Centre** | Tendance anticyclonique, temps sec probable, mais aucun scénario fiable. | Non documentée, incertitude. | faible | ECMWF | Pas de bulletin dédié ni de discussion semaine 2. |
-| **Sud-Ouest** | Soleil lundi-mardi, temps sec, tendance anticyclonique ensuite. | Maximales en hausse sur le piémont et la montagne. | faible | Météo-France, ECMWF | Changements possibles après mardi, non documentés. |
-| **Sud-Est et Vallée du Rhône** | Risque de pluie localisée lundi matin, puis ensoleillé, sec probable. | Minimales en hausse dans les monts du Lyonnais, maximales en hausse. | faible | Météo-France, ECMWF | Incertitude après mardi, pas de sujet forum. |
-| **Méditerranée et Corse** | Largement ensoleillé lundi-mardi, temps sec, mistral possible. | Minimales en hausse dans le val de Durance, maximales en hausse de Marignane à Carry. | faible | Météo-France, ECMWF | Évolution au-delà de mardi très incertaine. |
+| **Nord-Ouest** | Tendance anticyclonique et sèche, soleil probable, à confirmer. | Non documenté précisément. | faible | GFS, ECMWF | Sujet Semaine 42 non ouvert, peu de données locales. |
+| **Nord** | Pluies localisées lundi matin, puis soleil et temps sec. | Maximales en hausse, minimales stationnaires. | moderee | GFS, ECMWF, Météo-France | Étendue exacte des pluies matinales de lundi. |
+| **Nord-Est** | Tendance anticyclonique, sec et doux, à confirmer. | Non documenté précisément. | faible | GFS, ECMWF | Absence de discussion dédiée Semaine 42. |
+| **Ouest et Façade Atlantique** | Beau temps sec et ensoleillé lundi-mardi, maximales en hausse. | Maximales en hausse sur le sud du département, minimales stables. | moderee | GFS, ECMWF, Météo-France | Évolution au-delà de mardi non documentée. |
+| **Centre** | Soleil généreux lundi-mardi, températures en hausse. | Maximales en hausse en Val de Saône, à Lyon et sur le relief ; minimales en hausse. | moderee | GFS, ECMWF, Météo-France | Évolution au-delà de mardi non documentée. |
+| **Sud-Ouest** | Soleil sans partage lundi-mardi, températures en hausse. | Maximales en hausse. | moderee | GFS, ECMWF, Météo-France | Évolution au-delà de mardi non documentée. |
+| **Sud-Est et Vallée du Rhône** | Beau temps sec et bien ensoleillé lundi-mardi, températures en hausse. | Maximales en hausse de la Camargue au val de Durance ; minimales en hausse à l’est de l’étang de Berre. | moderee | GFS, ECMWF, Météo-France | Évolution au-delà de mardi non documentée. |
+| **Méditerranée et Corse** | Tendance anticyclonique et sèche, à confirmer. | Non documenté précisément. | non_estimable | ECMWF, GFS, Guillaume Séchet | Aucune donnée exploitable spécifique pour cette zone en semaine 42. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 12 – Mardi 13 octobre** : Temps généralement sec et ensoleillé, températures en hausse sur de nombreuses régions.
-- **Mercredi 14 – Vendredi 16 octobre** : Tendance anticyclonique probable, incertitude sur le niveau thermique.
-- **Samedi 17 – Dimanche 18 octobre** : Poursuite probable du temps sec, mais aucune certitude à cette échéance.
 
 **Points solides :**
-1. Temps généralement sec lundi-mardi sur la plupart des régions, selon les bulletins officiels.
-2. Températures en hausse sur de nombreux départements lundi-mardi.
-3. Pas de signal de froid durable ni d'épisode méditerranéen majeur à cet horizon.
+Retour du sec et du soleil lundi-mardi sur une grande partie du pays.
+Températures en hausse après le frais épisode de fin de semaine 1.
+Pas de signal fort pour une dégradation majeure en début de semaine 2.
 
 **Points fragiles :**
-1. Absence de sujet forum dédié, donc aucune discussion de référence pour la semaine 2.
-2. Contradiction entre la tendance anticyclonique et le risque de vague de chaleur de l'ITN.
-3. Scénario humide minoritaire non totalement écarté.
+Évolution après mercredi 14 octobre très incertaine.
+Sujet Semaine 42 non ouvert, donc aucune discussion détaillée disponible.
+Possibilité d’une ondulation atlantique avec températures sous les normales en fin de semaine 2.
 
 **À surveiller (prochains runs) :**
-Ouverture du sujet forum Semaine 42, runs long terme ECMWF/GFS, évolution des indicateurs ITN et indices EFI.
+Ouverture du sujet Semaine 42 sur Infoclimat.
+Runs GFS et CEP de lundi 12 et mardi 13.
+Ensembles GEFS et EPS pour les échéances du 15 au 18 octobre.
 
 
 ========================================
@@ -133,29 +131,24 @@ Ouverture du sujet forum Semaine 42, runs long terme ECMWF/GFS, évolution des i
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Alternance entre une première semaine très douce et ensoleillée, une dégradation orageuse modérée mercredi, un rafraîchissement net en fin de semaine 1, puis un probable retour anticyclonique en semaine 2. Les incertitudes deviennent fortes à partir de la semaine 2, avec un signal contradictoire de l'indicateur thermique sur un possible excès de chaleur.
-
-### Période la plus fiable
-La semaine 1 est nettement plus fiable, avec des échéances courtes et un bon accord entre modèles et bulletins. La semaine 2 reste très incertaine.
+Après un début de semaine 1 très doux et ensoleillé, une dégradation orageuse modérée se produirait mercredi 7, suivie d’un net rafraîchissement jeudi-vendredi. La semaine 2 pourrait débuter sous un temps sec et anticyclonique avec températures en hausse, mais les incertitudes restent fortes.
 
 ### Phénomènes récurrents
-Prolongation de conditions anticycloniques et sèches, anomalies de températures positives, orages limités aux régions proches de la Méditerranée et ponctuellement au centre.
+Blocage anticyclonique, douceur persistante, déficit de pluie, instabilités orageuses surtout près de la Méditerranée.
 
 ### Principales incertitudes
-1. Évolution des températures en semaine 2 : vague de chaleur ou retour aux normales ?
-2. Intensité et localisation des pluies orageuses de mercredi.
-3. Risque de sécheresse de surface après des semaines sans pluie généralisée.
+Intensité des orages mercredi 7, durée du rafraîchissement, scénario de la semaine 2 non confirmé par un sujet dédié.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Le passage de la dégradation orageuse est centré sur mercredi 7, mais certains modèles l'étalent du 6 au 8. En semaine 2, le timing d'un éventuel changement est très incertain.
-- **Localisation :** La localisation des plus fortes pluies orageuses mercredi varie selon les modèles, entre le sud-est, le sud-ouest et le centre.
-- **Intensité :** Les cumuls orageux en Méditerranée pourraient atteindre 40 mm, mais un épisode plus faible est possible. L'ampleur du rafraîchissement, sous les normales ou proche, est incertaine.
-- **Informations manquantes :** Pas de bulletin détaillé pour le nord-ouest, le nord-est et le centre. Pas de sujet dédié pour la semaine 2. Peu de données sur le vent en général.
-- **Modèles sous-documentés :** ICON et UKMO sont cités une seule fois ; GEFS et GFS ont fait l'objet d'analyses plus détaillées.
-- **Incertitudes images :** Les cartes d'EFI et de 2D PDF sont mentionnées mais non reproductibles dans ce bulletin. Les animations GFS long terme sont des moyennes d'ensemble qui lissent les scénarios extrêmes.
+- **Timing/Chronologie :** La bascule vers le frais pourrait intervenir jeudi 8 ou vendredi 9 ; le passage pluvieux de mercredi est plus ou moins précoce selon les runs.
+- **Localisation :** Localisation exacte des orages de mercredi (Châteaurenard-Salon, Cagire-Luchonnais, Landes girondines) et des averses du weekend encore incertaine.
+- **Intensité :** Cumuls orageux du Sud-Est (40 mm possibles) et températures minimales/maximales de fin de semaine à surveiller.
+- **Informations manquantes :** Pas de discussion dédiée pour la semaine 2 ; peu d’éléments sur le nord-ouest et le nord-est ; Corse peu détaillée.
+- **Modèles sous-documentés :** UKMO (une carte seulement), ARPEGE non commenté sur le forum, ICON et GEM non cités.
+- **Incertitudes images :** Cartes T850 et cumuls évoquées sans précision de runs pour certaines ; animation GFS à cheval sur deux runs.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-Bulletin consolidé sur 2 semaines : une première semaine très douce mais une dégradation orageuse mercredi, suivie d'un rafraîchissement. La semaine 2 reste très incertaine malgré une tendance anticyclonique. Restons prudents ! #Météo #Prévisions #Automne2026
+Semaine contrastée : douceur estivale lundi-mardi, dégradation orageuse mercredi, rafraîchissement net jeudi-vendredi. Week-end variable, puis probable retour anticyclonique la semaine suivante, à confirmer. Prudence sur le Sud-Est mercredi.
