@@ -331,11 +331,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps-Centre du Quebec
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi de la secheresse
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Du 05 octobre au 11 octobre 2026 prévisions météo semaine 41
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -344,51 +344,14 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 4 Octobre 2026.
-Résumé général HDF précédent : Première partie de semaine 1 très douce et sèche, dégradation mercredi puis fraîcheur ; week-end instable. Semaine 2 : probable retour anticyclonique et sec, sans certitude absolue..
+Résumé général HDF précédent : Tendance globale sur 15 jours : Temps sec et très doux jusqu'à mardi 6 octobre (anticyclone), dégradation mercredi 7 avec averses et net rafraîchissement jeudi-vendredi (14-16°C), week-end des 10-11 octobre instable et frais. Semaine 2 (12-18 octobre) : début encore perturbé lundi-mardi avec un vent de sud-ouest, puis probable retour d'un temps plus sec et anticyclonique, températures en hausse, mais avec une incertitude réelle sur une possible dégradation humide..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses possibles mercredi, surtout au nord ; ensuite fraîcheur relative, vent modéré à assez fort..
+Températures attendues précédemment : Soleil et douceur jusqu'à mardi, averses mercredi, fraîcheur nette jeudi-vendredi, week-end instable..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: Jojobarbar
 Message:
-Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
-	Sur une minorité de scénario, l'ondulation se poursuit, se transformant en véritable talweg puis goutte froide. Sur une minorité de cette minorité de scénario, cet isolement se fait en passant sur la France, amenant fraicheur et humidité jusqu'au confins du pays, y compris au sud. 
-	Sur une majorité de scénario, l'ondulation est trop faible, et le retour de l'anticyclone ou d'un marais barométrique à tendance anticyclonique nous concerne jusqu'à la fin du topic. 
-	Le clustering de l'IFS ENS montre que les scénarios à faible plongement des bas géopotentiels sont majoritaires et soutenu par les déterministes (cluster 1 et 3 : la France est à l'est immédiat d'un fort anticyclone. Les précipitations seraient faibles et ne concerneraient que le sud méditerranéen si le flux se courbe assez et que les paramétrages fins sont favorables). On pourrait tout de même avoir un flux de sud, cyclonique sur l'extrême sud déclenchant un épisode méditerranéen modéré). Le cluster 2 est beaucoup plus humide, frais, sur toute la France et donnerait un nouvel épisode méditerranéen potentiellement intense, de la pluie copieuse sur le reste du territoire. Il est minoritaire mais reste bien présent.
-	Notons aussi que tous les scénarios intermédiaires sont probables, la situation synoptique générale est plutôt similaire dans tous les clusters : on a une dorsale Atlantique s'étirant des Açores au large du Groenland (tous les clusters sont d'ailleurs classifiés comme Atlantic Ridge).
-	On retrouve la même situations globale chez GEFS, mais quasiment tous les membres se classeraient dans un équivalent du cluster 3 de l'IFS ENS : anticyclonique, sec, partout.
-	Si on regarde la suite, naturellement, elle dépend de l'intensité de l'ondulation qui destructurera plus ou moins l'anticyclone. On se retrouve alors avec 2 grands clusters :
-	- un cluster de 29 membres (probablement les 13 du cluster 3 de l'échéance précédentes + 16 des 22 membres du cluster 1) dont la situation serait issue d'une faible ondulation, anticyclonique ou au moins à tendance anticyclonique et marais barométrique jusqu'en fin d'échéance. Pour exemple, on a le membre le plus "représentatif du cluster 3 de la première échéance et du cluster 1 de la seconde qui est le même le membre 39 qui démontre bien qu'une faible ondulation donne une situation de marais barométrique anticyclonique pour la suite de la semaine. ;
-	- un cluster de 22 membres (probablement les 16 du cluster 2 et 6 transfuges du 1 qui doivent être intermédiaires) dont la situation serait issue d'une forte ondulation, avec potentiellement un isolement/renforcement d'une goutte froide méditerranéenne, brisant l'anticyclone et permettant aux perturbations de se frayer un chemin jusqu'à nous. 
-	La prévision apparaît fermée si on regarde GEFS : sec, anticyclonique, chaud. Elle apparaît bien plus ouverte si on regarde IFS ENS. Qu'en déduire ? Avec tous mes biais et ma préférence pour IFS ENS, je pense que l'incertitude est pour le moment assez importante, bien que s'il fallait se prononcer, le scénario sec apparaît le plus probable. Je reste néanmoins optimiste car en cas de scénario humide, on pourrait toucher un beau pactole, un peu partout.
-	Je mise aussi sur un abaissement furtif mais potentiellement rapide et remarquable des températures au nord de la France au passage de l'ondulation mais que GEFS ne voit pas forcément.
-								8
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
-	GEFS qui propose effectivement est un nombre non négligeable de scénarii chauds avec une dispersion qui s'accentue au 07/10. Il repousse au 16/10 (hors topic donc) un éventuel retour des PP au nord
-	le 0z de CEP n'est pas encore sorti mais on voit déjà plus de PP, avec une première petite dégradation possible en tout début d'échéance et un 2ème passage en milieu de semaine.
-	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
-	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
-	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
-								1
-
-=======================
-
-Auteur: Plancher
-Message:
-Nous avons donc encore beaucoup de divergences dans les scénarios proposés et donc beaucoup d'incertitudes. L'échéance n'est pourtant pas si lointaine.
-	Est-ce lié à la présence de gouttes froides ?
-
-=======================
-
-Auteur: Jojobarbar
-Message:
 A voir quand même comment ça évolue, l'épisode méditerrannéen m'apparaît faiblard (ça reste un épisode bien humide sur la zone concerné mais pas exceptionnel), on aura probablement un léger flux d'altitude (500hPa) de sud en raison d'une timide goutte froide sur l'Espagne évoluant en talweg lors du passage de l'ondulation, mais en surface, c'est haut en pression.
 	On voit l'effet de la Méditerrannée (notamment en raison de ses SST chaudes ?) : l'air est très humide, le moindre flux sud essore l'éponge, même en mettant peu de force !
 	Malgré tout, pour appuyer l'incertitude et la faiblesse du phénomène, on peut se référer aux EFI qui sont pour ces échéances faibles -&gt; on s'écarte peu de la normalité.
@@ -514,7 +477,7 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 4 heures par Leonai
+	Modifié il y a 6 heures par Leonai
 								1
 								1
 								1
@@ -549,8 +512,8 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 3 heures par Jojobarbar
-								3
+	Modifié il y a 5 heures par Jojobarbar
+								5
 								4
 								1
 
@@ -564,14 +527,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 3 heures par Leonai
+	Modifié il y a 5 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 3 heures par Krholam
+	Modifié il y a 5 heures par Krholam
 
 =======================
 
@@ -582,7 +545,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 1 heure par Jojobarbar
+	Modifié il y a 3 heures par Jojobarbar
 								3
 
 =======================
@@ -594,48 +557,39 @@ Il y a 2 heures, Jojobarbar a dit :
 	Highjacker : pirater
 	Cluster : groupe 
 	L'usage de l'anglais n'est pas nécessaire. Les termes existent déjà en français. 
+								6
+								1
+
+=======================
+
+Auteur: Twister83
+Message:
+À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
+
+=======================
+
+Auteur: serge26
+Message:
+il y a 25 minutes, Twister83 a dit :
+			À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
+	Si tenté qu'il arrive à geler , car avec des anomalies de +3, +4 voire +5° persistantes, comme c'est le cas depuis des mois, çà va etre compliqué.
+								3
+
+=======================
+
+Auteur: Twister83
+Message:
+il y a 50 minutes, serge26 a dit :
+			Si tenté qu'il arrive à geler , car avec des anomalies de +3, +4 voire +5° persistantes, comme c'est le cas depuis des mois, çà va etre compliqué.
+	On n'est pas à l'abri de sensations hivernales en automne même dans dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
+	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
+	En espérant le moins de patates possible ces prochains semaines...
+	Modifié il y a 10 minutes par Twister83
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: Jojobarbar
 Message:
-Le début de semaine apparaît anticyclonique, sec, chaud jusqu'à mercredi.
-	Sur une minorité de scénario, l'ondulation se poursuit, se transformant en véritable talweg puis goutte froide. Sur une minorité de cette minorité de scénario, cet isolement se fait en passant sur la France, amenant fraicheur et humidité jusqu'au confins du pays, y compris au sud. 
-	Sur une majorité de scénario, l'ondulation est trop faible, et le retour de l'anticyclone ou d'un marais barométrique à tendance anticyclonique nous concerne jusqu'à la fin du topic. 
-	Le clustering de l'IFS ENS montre que les scénarios à faible plongement des bas géopotentiels sont majoritaires et soutenu par les déterministes (cluster 1 et 3 : la France est à l'est immédiat d'un fort anticyclone. Les précipitations seraient faibles et ne concerneraient que le sud méditerranéen si le flux se courbe assez et que les paramétrages fins sont favorables). On pourrait tout de même avoir un flux de sud, cyclonique sur l'extrême sud déclenchant un épisode méditerranéen modéré). Le cluster 2 est beaucoup plus humide, frais, sur toute la France et donnerait un nouvel épisode méditerranéen potentiellement intense, de la pluie copieuse sur le reste du territoire. Il est minoritaire mais reste bien présent.
-	Notons aussi que tous les scénarios intermédiaires sont probables, la situation synoptique générale est plutôt similaire dans tous les clusters : on a une dorsale Atlantique s'étirant des Açores au large du Groenland (tous les clusters sont d'ailleurs classifiés comme Atlantic Ridge).
-	On retrouve la même situations globale chez GEFS, mais quasiment tous les membres se classeraient dans un équivalent du cluster 3 de l'IFS ENS : anticyclonique, sec, partout.
-	Si on regarde la suite, naturellement, elle dépend de l'intensité de l'ondulation qui destructurera plus ou moins l'anticyclone. On se retrouve alors avec 2 grands clusters :
-	- un cluster de 29 membres (probablement les 13 du cluster 3 de l'échéance précédentes + 16 des 22 membres du cluster 1) dont la situation serait issue d'une faible ondulation, anticyclonique ou au moins à tendance anticyclonique et marais barométrique jusqu'en fin d'échéance. Pour exemple, on a le membre le plus "représentatif du cluster 3 de la première échéance et du cluster 1 de la seconde qui est le même le membre 39 qui démontre bien qu'une faible ondulation donne une situation de marais barométrique anticyclonique pour la suite de la semaine. ;
-	- un cluster de 22 membres (probablement les 16 du cluster 2 et 6 transfuges du 1 qui doivent être intermédiaires) dont la situation serait issue d'une forte ondulation, avec potentiellement un isolement/renforcement d'une goutte froide méditerranéenne, brisant l'anticyclone et permettant aux perturbations de se frayer un chemin jusqu'à nous. 
-	La prévision apparaît fermée si on regarde GEFS : sec, anticyclonique, chaud. Elle apparaît bien plus ouverte si on regarde IFS ENS. Qu'en déduire ? Avec tous mes biais et ma préférence pour IFS ENS, je pense que l'incertitude est pour le moment assez importante, bien que s'il fallait se prononcer, le scénario sec apparaît le plus probable. Je reste néanmoins optimiste car en cas de scénario humide, on pourrait toucher un beau pactole, un peu partout.
-	Je mise aussi sur un abaissement furtif mais potentiellement rapide et remarquable des températures au nord de la France au passage de l'ondulation mais que GEFS ne voit pas forcément.
-								8
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Je vais appuyer les clusters de @Jojobarbar avec les diagrammes ensemblistes
-	GEFS qui propose effectivement est un nombre non négligeable de scénarii chauds avec une dispersion qui s'accentue au 07/10. Il repousse au 16/10 (hors topic donc) un éventuel retour des PP au nord
-	le 0z de CEP n'est pas encore sorti mais on voit déjà plus de PP, avec une première petite dégradation possible en tout début d'échéance et un 2ème passage en milieu de semaine.
-	La dispersion du 07/10 me parait moins marqué (et je suis donc naturellement plus enclin à me fier à CEP)
-	Pour le sud, GEFS a une dispersion plus marquée, un nombre important de scénario chaud avec cependant un risque d'épisode méditerranée qui apparait vers le 07/10
-	No comment sur CEP qui part franchement sur ce scénario d'épisode méditerranée
-								1
-
-=======================
-
-Auteur: Plancher
-Message:
-Nous avons donc encore beaucoup de divergences dans les scénarios proposés et donc beaucoup d'incertitudes. L'échéance n'est pourtant pas si lointaine.
-	Est-ce lié à la présence de gouttes froides ?
-
-=======================
-
-Auteur: Jojobarbar
-Message:
 A voir quand même comment ça évolue, l'épisode méditerrannéen m'apparaît faiblard (ça reste un épisode bien humide sur la zone concerné mais pas exceptionnel), on aura probablement un léger flux d'altitude (500hPa) de sud en raison d'une timide goutte froide sur l'Espagne évoluant en talweg lors du passage de l'ondulation, mais en surface, c'est haut en pression.
 	On voit l'effet de la Méditerrannée (notamment en raison de ses SST chaudes ?) : l'air est très humide, le moindre flux sud essore l'éponge, même en mettant peu de force !
 	Malgré tout, pour appuyer l'incertitude et la faiblesse du phénomène, on peut se référer aux EFI qui sont pour ces échéances faibles -&gt; on s'écarte peu de la normalité.
@@ -761,7 +715,7 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 4 heures par Leonai
+	Modifié il y a 6 heures par Leonai
 								1
 								1
 								1
@@ -796,8 +750,8 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 3 heures par Jojobarbar
-								3
+	Modifié il y a 5 heures par Jojobarbar
+								5
 								4
 								1
 
@@ -811,14 +765,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 3 heures par Leonai
+	Modifié il y a 5 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 3 heures par Krholam
+	Modifié il y a 5 heures par Krholam
 
 =======================
 
@@ -829,7 +783,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 1 heure par Jojobarbar
+	Modifié il y a 3 heures par Jojobarbar
 								3
 
 =======================
@@ -841,4 +795,32 @@ Il y a 2 heures, Jojobarbar a dit :
 	Highjacker : pirater
 	Cluster : groupe 
 	L'usage de l'anglais n'est pas nécessaire. Les termes existent déjà en français. 
+								6
+								1
+
+=======================
+
+Auteur: Twister83
+Message:
+À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
+
+=======================
+
+Auteur: serge26
+Message:
+il y a 25 minutes, Twister83 a dit :
+			À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
+	Si tenté qu'il arrive à geler , car avec des anomalies de +3, +4 voire +5° persistantes, comme c'est le cas depuis des mois, çà va etre compliqué.
+								3
+
+=======================
+
+Auteur: Twister83
+Message:
+il y a 50 minutes, serge26 a dit :
+			Si tenté qu'il arrive à geler , car avec des anomalies de +3, +4 voire +5° persistantes, comme c'est le cas depuis des mois, çà va etre compliqué.
+	On n'est pas à l'abri de sensations hivernales en automne même dans dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
+	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
+	En espérant le moins de patates possible ces prochains semaines...
+	Modifié il y a 10 minutes par Twister83
 								1
