@@ -319,12 +319,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Prévisions Massif Central octobre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Prévisions Nord - Octobre 2026
+• Infoclimat Direct : Glaciers pyrénéens
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 04/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -332,9 +332,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 4 Octobre 2026.
-Résumé général précédent : Après un début de semaine 1 très doux et ensoleillé, une dégradation orageuse modérée se produirait mercredi 7, suivie d’un net rafraîchissement jeudi-vendredi. La semaine 2 pourrait débuter sous un temps sec et anticyclonique avec températures en hausse, mais les incertitudes restent fortes..
+Résumé général précédent : Après un début de semaine très doux et ensoleillé, une dégradation orageuse est attendue en milieu de semaine, suivie d'un net rafraîchissement. La semaine 2 pourrait débuter sous un temps sec et anticyclonique avec des températures en hausse, mais les incertitudes restent fortes..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Températures en baisse en milieu de semaine, pluies orageuses localisées, retour de conditions plus stables et sèches..
+Températures attendues précédemment : Pluies orageuses parfois évanescentes, températures en baisse modérée en milieu de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -439,7 +439,7 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 10 heures par Leonai
+	Modifié il y a 12 heures par Leonai
 								1
 								1
 								1
@@ -474,9 +474,9 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 9 heures par Jojobarbar
+	Modifié il y a 11 heures par Jojobarbar
 								5
-								5
+								6
 								1
 
 =======================
@@ -489,14 +489,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 9 heures par Leonai
+	Modifié il y a 11 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 9 heures par Krholam
+	Modifié il y a 11 heures par Krholam
 
 =======================
 
@@ -507,7 +507,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 7 heures par Jojobarbar
+	Modifié il y a 9 heures par Jojobarbar
 								3
 
 =======================
@@ -519,7 +519,7 @@ Il y a 2 heures, Jojobarbar a dit :
 	Highjacker : pirater
 	Cluster : groupe 
 	L'usage de l'anglais n'est pas nécessaire. Les termes existent déjà en français. 
-								9
+								10
 								1
 								1
 								1
@@ -554,7 +554,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 3 heures par Twister83
+	Modifié il y a 5 heures par Twister83
 								2
 								2
 								1
@@ -572,7 +572,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
 								1
 
 =======================
@@ -586,7 +586,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 2 heures par Leonai
+	Modifié il y a 4 heures par Leonai
 								1
 
 =======================
@@ -594,7 +594,7 @@ Il y a 3 heures, Twister83 a dit :
 Auteur: ripocheguillaume_88
 Message:
 Toujours un temps inintéressant de prévu pendant que la végétation crève !!
-								1
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: Victor hurricane tempête
@@ -698,7 +698,7 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 10 heures par Leonai
+	Modifié il y a 12 heures par Leonai
 								1
 								1
 								1
@@ -733,9 +733,9 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 9 heures par Jojobarbar
+	Modifié il y a 11 heures par Jojobarbar
 								5
-								5
+								6
 								1
 
 =======================
@@ -748,14 +748,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 9 heures par Leonai
+	Modifié il y a 11 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 9 heures par Krholam
+	Modifié il y a 11 heures par Krholam
 
 =======================
 
@@ -766,7 +766,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 7 heures par Jojobarbar
+	Modifié il y a 9 heures par Jojobarbar
 								3
 
 =======================
@@ -778,7 +778,7 @@ Il y a 2 heures, Jojobarbar a dit :
 	Highjacker : pirater
 	Cluster : groupe 
 	L'usage de l'anglais n'est pas nécessaire. Les termes existent déjà en français. 
-								9
+								10
 								1
 								1
 								1
@@ -813,7 +813,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 3 heures par Twister83
+	Modifié il y a 5 heures par Twister83
 								2
 								2
 								1
@@ -831,7 +831,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 3 heures par giec 2100
+	Modifié il y a 5 heures par giec 2100
 								1
 
 =======================
@@ -845,7 +845,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 2 heures par Leonai
+	Modifié il y a 4 heures par Leonai
 								1
 
 =======================
@@ -853,4 +853,4 @@ Il y a 3 heures, Twister83 a dit :
 Auteur: ripocheguillaume_88
 Message:
 Toujours un temps inintéressant de prévu pendant que la végétation crève !!
-								1
+								2
