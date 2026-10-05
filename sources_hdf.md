@@ -282,7 +282,7 @@ Températures minimales : similaires à la veille.
 Températures maximales : en hausse sur les trois quarts Sud du département, ainsi que sur la Thiérache.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 041620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 4 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 4 octobre 2026 à 12H00 UTC, et évolution Anticyclone 1030 hPa à l'ouest du golfe de Gascogne, s'affaissant 1026 hPa la nuit. Dorsale associée sur la Manche. Dépression relative 1018 hPa sur la péninsule ibérique. 3 - Prévisions pour la nuit du dimanche 4 octobre au lundi 5 octobre VENT : Variable 1 à 3, parfois 4, s'orientant secteur Ouest dominant en milieu de nuit. MER : belle. HOULE : non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 4 - Prévisions pour la journée du lundi 5 octobre VENT : Secteur Ouest 1 à 3, fraîchissant 2 à 4 à la mi-journée. MER : belle. HOULE : non significative. TEMPS : peu nuageux. VISIBILITE : bonne. 5 - Tendance pour la nuit du 5 au 6, et la journée du mardi 6 octobre VENT : Variable 1 à 3, mais Sud-Ouest 2 à 4 le soir, fraîchissant Nord-Est 3 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : devenant peu nuageux à nuageux. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 6 au 7 et la journée du mercredi 7 octobre VENT : Secteur Nord-Est 3 à 4, fraîchissant 6 en cours de matinée. MER : belle, devenant agitée en milieu d'après-midi. Pas de houle significative. 7 - Tendance pour les jours suivants Jeudi 8 octobre secteur Nord modéré. Indice de confiance : 4 sur 5 Vendredi 9 octobre secteur Sud-Ouest modéré. Indice de confiance : 2 sur 5 Samedi 10 octobre secteur Nord-Ouest faible à modéré à l'ouest du domaine, secteur Ouest à l'est du domaine. Indice de confiance : 2 sur 5 Dimanche 11 octobre secteur Ouest modéré à assez fort. Indice de confiance : 2 sur 5 8 - Observations le dimanche 4 octobre 2026 à 15H00 UTC Dunkerque : vent Nord 4 noeuds, 1028 hPa en baisse. Cap Gris Nez : vent Nord-Ouest 2 noeuds. Boulogne : vent Nord-Nord-Ouest 6 noeuds, 1028 hPa en baisse, clair ou peu nuageux, visibilité 13 milles. Bouée Sandettie : vent Sud-Est 4 noeuds, creux 0,3 mètre, 1028 hPa en baisse, visibilité 10 milles. Prochain bulletin le lundi 5 octobre 2026, vers 06H30 légales
+FQCT40 LFQQ 050400 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 5 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 5 octobre 2026 à 00H00 UTC, et évolution Dorsale s'étendant de l'Allemagne au nord des Açores s'affaissant la nuit prochaine. Zone dépressionnaire à l'ouest de la péninsule Ibérique, progressant vers le nord-est avec une nouvelle dépression prévue 1012 hPa dans le golfe de Gascogne demain mi-journée. 3 - Prévisions pour la journée du lundi 5 octobre VENT : Secteur Ouest 1 à 3, localement 3 à 4 en Mer du Nord, fraîchissant Ouest à Sud-Ouest 3 à 4 à la mi-journée. MER : belle, devenant localement peu agitée en Mer du Nord l'après-midi. HOULE : non significative. TEMPS : peu nuageux, ensoleillé l'après-midi. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 5 octobre au mardi 6 octobre VENT : Ouest à Sud-Ouest 2 à 4, mollissant Variable 1 à 3 en milieu de nuit. MER : s'atténuant belle. HOULE : non significative. TEMPS : ciel clair, devenant nuageux avec brume en seconde partie de nuit. VISIBILITE : mauvaise par brume. 5 - Prévisions pour la journée du mardi 6 octobre VENT : Variable 1 à 3, fraîchissant Nord à Nord-Est 3 à 4 l'après-midi. MER : belle. HOULE : non significative. TEMPS : brume le matin, puis peu nuageux à nuageux l'après-midi. VISIBILITE : mauvaise par brume puis bonne. 6 - Prévisions pour la nuit du 6 au 7 et la journée du mercredi 7 octobre VENT : Nord à Nord-Est 3 à 4, fraîchissant 6 en milieu d'après-midi. MER : belle, devenant peu agitée à agitée en milieu d'après-midi. Pas de houle significative. 7 - Tendance pour les jours suivants Jeudi 8 octobre secteur Nord modéré. Indice de confiance : 4 sur 5 Vendredi 9 octobre secteur Sud-Ouest modéré. Indice de confiance : 2 sur 5 Samedi 10 octobre secteur Nord-Ouest faible à modéré à l'ouest du domaine, secteur Ouest à l'est du domaine. Indice de confiance : 2 sur 5 Dimanche 11 octobre secteur Ouest modéré à assez fort. Indice de confiance : 2 sur 5 8 - Observations le lundi 5 octobre 2026 à 03H00 UTC Dunkerque : vent Sud-Sud-Ouest 6 noeuds, 1026 hPa en baisse. Cap Gris Nez : vent Sud-Sud-Ouest 4 noeuds. Boulogne : vent Sud-Est 4 noeuds, 1026 hPa en baisse. Bouée Sandettie : vent Ouest 6 noeuds, creux 0,2 mètre, 1026 hPa en baisse, visibilité 10 milles. Prochain bulletin le lundi 5 octobre 2026, vers 12H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -321,9 +321,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 5 Octobre 2026.
-Résumé général HDF précédent : Sur 15 jours : début très doux et sec, dégradation modérée et fraîche en milieu de semaine 1, puis retour probable d’un temps plus sec et doux sous influence anticyclonique en semaine 2, avec incertitudes fortes après le 14..
+Résumé général HDF précédent : Sur 15 jours : début très doux et sec, dégradation modérée et fraîche en milieu de semaine 1, puis retour probable d'un temps plus sec et doux sous influence anticyclonique en semaine 2, avec incertitudes fortes après le 14..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Fraîcheur plus marquée jeudi-vendredi, avec pluies ou averses possibles ; vent assez fort sur le littoral..
+Températures attendues précédemment : Baisse des températures, possible passage sous les normales à partir de jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -378,7 +378,7 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 18 heures par Leonai
+	Modifié il y a 20 heures par Leonai
 								1
 								1
 								1
@@ -413,7 +413,7 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 17 heures par Jojobarbar
+	Modifié il y a 19 heures par Jojobarbar
 								7
 								6
 								1
@@ -428,14 +428,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 17 heures par Leonai
+	Modifié il y a 19 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 17 heures par Krholam
+	Modifié il y a 19 heures par Krholam
 								1
 
 =======================
@@ -447,7 +447,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 15 heures par Jojobarbar
+	Modifié il y a 17 heures par Jojobarbar
 								1
 								3
 
@@ -495,7 +495,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 11 heures par Twister83
+	Modifié il y a 13 heures par Twister83
 								3
 								2
 								1
@@ -513,7 +513,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								1
 
 =======================
@@ -527,7 +527,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 10 heures par Leonai
+	Modifié il y a 12 heures par Leonai
 								1
 
 =======================
@@ -545,7 +545,7 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 5 heures par Nono34
+	Modifié il y a 7 heures par Nono34
 								3
 								1
 
@@ -572,7 +572,7 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 3 heures par Ciel d&#039;encre
+	Modifié il y a 5 heures par Ciel d&#039;encre
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: tao
@@ -626,7 +626,7 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 18 heures par Leonai
+	Modifié il y a 20 heures par Leonai
 								1
 								1
 								1
@@ -661,7 +661,7 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 17 heures par Jojobarbar
+	Modifié il y a 19 heures par Jojobarbar
 								7
 								6
 								1
@@ -676,14 +676,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 17 heures par Leonai
+	Modifié il y a 19 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 17 heures par Krholam
+	Modifié il y a 19 heures par Krholam
 								1
 
 =======================
@@ -695,7 +695,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 15 heures par Jojobarbar
+	Modifié il y a 17 heures par Jojobarbar
 								1
 								3
 
@@ -743,7 +743,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 11 heures par Twister83
+	Modifié il y a 13 heures par Twister83
 								3
 								2
 								1
@@ -761,7 +761,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								1
 
 =======================
@@ -775,7 +775,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 10 heures par Leonai
+	Modifié il y a 12 heures par Leonai
 								1
 
 =======================
@@ -793,7 +793,7 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 5 heures par Nono34
+	Modifié il y a 7 heures par Nono34
 								3
 								1
 
@@ -820,4 +820,4 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 3 heures par Ciel d&#039;encre
+	Modifié il y a 5 heures par Ciel d&#039;encre
