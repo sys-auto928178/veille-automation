@@ -15,45 +15,45 @@ TRANSPARENCE SUJETS FORUM INFOCLIMAT :
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL NORD (DEPT59) ===
-Emis le : 05/10/2026 06:30
+Emis le : 05/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Nord est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Lille-Lesquin : température de 10 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1026 hPa.
-A Dunkerque : température de 13 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 15 km/h.
+Aujourd'hui on observait à 09h :
+A Lille-Lesquin : température de 10 degrés, vent de secteur Nord soufflant jusqu'à 5 km/h, pression niveau mer 1026 hPa.
+A Dunkerque : température de 14 degrés, vent de secteur Sud Sud-Ouest soufflant jusqu'à 20 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui lundi 05 :
-Le ciel est très ensoleillé. Seuls quelques rares nuages se montrent timidement en fin de matinée, sur l'Avesnois.
-L'après-midi, vent s'orientant Ouest modéré, en Flandres ; atténuation ensuite.
-Températures maximales : dans l'intérieur entre 22 et 24 degrés. 20 degrés en Flandre maritime.
+Le soleil devrait largement s'imposer, malgré quelques développements nuageux inoffensifs, en fin de matinée, sur l'Avesnois.
+En seconde partie de journée, vent s'orientant Ouest modéré, en Flandres ; atténuation ensuite.
+Températures maximales : dans l'intérieur de 22 à 24 degrés. 20 degrés en Flandre maritime.
 
 • Pour la nuit prochaine :
 Quelques brouillards sont présents dès le début de nuit. Ils se densifient et s'étendent au fil des heures, depuis la côte jusqu'au Valenciennois et au Cambrésis. Quand il n'y a pas de brouillard, les nuages laissent une large place aux étoiles.
-Vent faible, variable.
-Températures minimales : dans l'intérieur comprises entre 8 et 11 degrés. 13 degrés en Flandre maritime.
+Vent variable, faible.
+Températures minimales : dans l'intérieur de 8 à 11 degrés. 13 degrés en Flandre maritime.
 
 • Pour demain mardi 06 en journée et la nuit suivante :
 Les brouillards présents depuis la côte jusqu'au Valenciennois et au Cambrésis au lever du jour, se dissipent rapidement. Puis c'est un temps très largement ensoleillé qui se maintient jusqu'en fin de journée. Pour la nuit : Les éclaircies sont belles en soirée, puis elles s'amenuisent. Le ciel devient très nuageux à couvert, avec des brumes après minuit, en Flandre intérieure.
-En première partie de nuit, établissement d'un vent d'Est à Nord-Est, localement modéré ; atténuation ensuite.
+En première partie de nuit, établissement d'un vent d'Est à Nord-Est, modéré par endroits ; puis atténuation.
 Températures maximales pour le jour : dans l'intérieur comprises entre 22 et 25 degrés. 20 degrés en Flandre maritime.
 Températures minimales pour la nuit suivante : entre 11 et 14 degrés.
 
 • Pour la journée de mercredi 07 et la nuit suivante :
-Les petites éclaircies du matin s'élargissent après le déjeuner. Cette amélioration n'est que de courte durée, puisqu'en début de soirée, les nuages reprennent le dessus, apportant même quelques averses fugaces en Flandres ainsi que sur l'Avesnois, le Valenciennois et le Cambrésis. Pour la nuit : Le ciel est bien chargé, et de rares averses peuvent survenir tout au long de la nuit. De temps à autre, entre deux nuages, une éclaircie est possible.
+Les petites éclaircies du matin s'élargissent après le déjeuner. Cette amélioration n'est que de courte durée, puisqu'en début de soirée, les nuages reprennent le dessus, apportant même quelques averses fugaces en Flandres ainsi que sur l'Avesnois, le Valenciennois et le Cambrésis. Pour la nuit : Le ciel est variable, des éclaircies sont possibles. Les nuages apportent de temps en temps quelques averses.
 Les plus forts cumuls de pluie attendus sont de 15 millimètres en Flandre maritime.
-En cours de nuit, vent s'établissant au Nord à Nord-Ouest assez fort, en Flandre maritime. Avec des rafales atteignant 65 km/h.
+La nuit, vent de Nord à Nord-Ouest assez fort, en Flandre maritime. Avec des rafales atteignant 65 km/h.
 Températures maximales pour le jour : dans l'intérieur de 21 à 24 degrés. 20 degrés en Flandre maritime.
 Températures minimales pour la nuit suivante : comprises entre 10 et 12 degrés.
 
 • Pour la journée de jeudi 08 :
 Les averses du matin se raréfient peu à peu. Des éclaircies se forment en Flandre maritime ainsi que sur l'Avesnois, en cours de matinée, et se généralisent en fin d'après-midi.
-Jusqu'en milieu d'après-midi, vent de Nord-Ouest soufflant assez fort, en Flandre maritime ; puis atténuation. Rafales atteignant 65 km/h.
-Températures maximales : entre 13 et 15 degrés.
+Jusqu'en milieu d'après-midi, vent de Nord-Ouest assez fort, en Flandre maritime ; atténuation ensuite. Rafales atteignant 65 km/h.
+Températures maximales : comprises entre 13 et 15 degrés.
 
 • Pour vendredi 09 et samedi 10 :
 Ciel nuageux s'éclaircissant par moments ; risque de pluie ou d'averses de vendredi matin jusqu'au lendemain à la mi-journée.
@@ -74,45 +74,45 @@ Températures minimales : en hausse en Flandre maritime.
 Températures maximales : en hausse sur l'Avesnois, le Valenciennois et le Cambrésis.
 
 === BULLETIN DÉPARTEMENTAL PAS-DE-CALAIS (DEPT62) ===
-Emis le : 05/10/2026 06:30
+Emis le : 05/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département du Pas-de-Calais est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Arras : température de 6 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 10 km/h.
-A Boulogne-Sémaphore : température de 14 degrés, vent de secteur Sud Sud-Est soufflant jusqu'à 10 km/h.
+Aujourd'hui on observait à 09h :
+A Arras : température de 7 degrés, vent de secteur Ouest Sud-Ouest soufflant jusqu'à 5 km/h.
+A Boulogne-Sémaphore : température de 12 degrés, vent de secteur Sud-Est soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui lundi 05 :
 Le ciel est clair en cette journée. Les quelques bancs de brouillard présents en début de matinée, sur les côtes de la Manche ainsi que de l'Audomarois au Béthunois, se dissipent rapidement.
-En seconde partie de journée, vent s'établissant à l'Ouest, généralement modéré ; puis atténuation.
-Températures maximales : de 20 à 23 degrés.
+Etablissement, en seconde partie de journée, d'un vent d'Ouest, généralement modéré ; atténuation ensuite.
+Températures maximales : entre 20 et 23 degrés.
 
 • Pour la nuit prochaine :
 Les brumes et brouillards se généralisent en cours de nuit. Vers le matin, la visibilité est parfois très réduite.
 Vent faible, variable.
-Températures minimales : sur les côtes de la Manche, ainsi que dans les terres entre 8 et 11 degrés. 12 degrés près de la Mer du Nord.
+Températures minimales : sur les côtes de la Manche, ainsi que dans les terres de 8 à 11 degrés. 12 degrés près de la Mer du Nord.
 
 • Pour demain mardi 06 en journée et la nuit suivante :
 Après dissipation des brouillards matinaux sur la plaine d'Arras ainsi que sur les trois quarts Ouest du département, le temps est sec, et le ciel partagé entre éclaircies et passages nuageux. Pour la nuit : Le ciel est clair, et des formations brumeuses sont attendues passé minuit, près de la Mer du Nord, sur les reliefs de l'Artois ainsi que du bassin minier à la plaine de la Lys.
 En première partie de nuit, établissement d'un vent d'Est, modéré par endroits ; puis atténuation.
-Températures maximales pour le jour : entre 20 et 23 degrés.
-Températures minimales pour la nuit suivante : de 11 à 12 degrés.
+Températures maximales pour le jour : comprises entre 20 et 23 degrés.
+Températures minimales pour la nuit suivante : comprises entre 11 et 12 degrés.
 
 • Pour la journée de mercredi 07 et la nuit suivante :
 Le temps est brumeux au lever du jour, près de la Mer du Nord, sur le Haut-Artois ainsi que de l'Audomarois au Béthunois. La grisaille matinale se dissipe, puis la journée se déroule sous un ciel partagé entre fréquents nuages et quelques éclaircies. En toute fin de journée, de rares averses sont attendues. Pour la nuit : De rares averses peuvent survenir jusqu'après minuit. Le risque de précipitations persiste même jusqu'en fin de nuit, près de la Mer du Nord, de l'Audomarois au Béthunois ainsi que de l'Arrageois au bassin minier.
 Le maximum de pluie attendu est de l'ordre de 10 millimètres près de la Mer du Nord.
-La nuit, vent s'établissant au Nord à Nord-Ouest assez fort, sur le littoral. Avec des rafales atteignant 65 km/h.
-Températures maximales pour le jour : comprises entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : de 8 à 11 degrés.
+En cours de nuit, vent s'établissant au Nord à Nord-Ouest assez fort, sur le littoral. Avec des rafales atteignant 65 km/h.
+Températures maximales pour le jour : de 19 à 21 degrés.
+Températures minimales pour la nuit suivante : entre 8 et 11 degrés.
 
 • Pour la journée de jeudi 08 :
-Le ciel est souvent ensoleillé. Cependant, en mi-journée, des cumulus se développent, de l'Audomarois au Béthunois ainsi que de l'Arrageois au bassin minier. Ils laissent tomber quelques averses. Ces précipitations s'arrêtent en fin d'après-midi, et la journée finit avec d'assez belles éclaircies.
+Le ciel est souvent ensoleillé. Toutefois, à la mi-journée, des nuages plus menaçants laissent tomber quelques averses, de l'Audomarois au Béthunois ainsi que de l'Arrageois au bassin minier. Ces averses s'arrêtent en fin d'après-midi, pour offrir une fin de journée avec d'assez belles éclaircies.
 Jusqu'en milieu d'après-midi, vent de Nord-Ouest assez fort, sur le littoral ; atténuation ensuite. Rafales atteignant 55 km/h.
-Températures maximales : comprises entre 14 et 15 degrés.
+Températures maximales : de 14 à 15 degrés.
 
 • Pour vendredi 09 et samedi 10 :
 Ciel nuageux s'éclaircissant par moments ; risque de pluie ou d'averses de vendredi matin jusqu'en début de nuit de samedi à dimanche.
@@ -133,45 +133,45 @@ Températures minimales : identiques à la veille.
 Températures maximales : stables.
 
 === BULLETIN DÉPARTEMENTAL SOMME (DEPT80) ===
-Emis le : 05/10/2026 06:30
+Emis le : 05/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de la Somme est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Amiens-Glisy : température de 8 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1026 hPa.
-A Cayeux-sur-Mer : température de 8 degrés, vent de secteur Est soufflant jusqu'à 5 km/h.
+Aujourd'hui on observait à 09h :
+A Amiens-Glisy : température de 8 degrés, vent de secteur Ouest soufflant jusqu'à 5 km/h, pression niveau mer 1026 hPa.
+A Cayeux-sur-Mer : température de 9 degrés, vent de secteur Est soufflant jusqu'à 5 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui lundi 05 :
 Après la dissipation des bancs de brume présents sur la moyenne et basse vallée de la Somme en début de matinée, c'est un soleil généreux qui brille toute la journée.
-Vent faible, variable.
-Températures maximales : comprises entre 20 et 23 degrés.
+Vent variable, faible.
+Températures maximales : de 20 à 23 degrés.
 
 • Pour la nuit prochaine :
 Les brumes et brouillards se généralisent en cours de nuit. Vers le matin, la visibilité est parfois très réduite.
-Vent variable, faible.
-Températures minimales : de 8 à 10 degrés.
+Vent faible, variable.
+Températures minimales : entre 8 et 10 degrés.
 
 • Pour demain mardi 06 en journée et la nuit suivante :
 Après dissipation des brouillards matinaux, le temps est sec, et le ciel partagé entre éclaircies et passages nuageux. Pour la nuit : En soirée, des nuages plus ou moins épais passent dans le ciel. Puis le ciel est largement étoilé. Après minuit, les nuages grossissent peu à peu. Si bien que l'aurore ne bénéficie que de quelques éclaircies.
-En milieu de nuit, vent s'orientant Est-Nord-Est modéré, sur le Doullennais ; atténuation ensuite.
+Etablissement, en milieu de nuit, d'un vent d'Est-Nord-Est modéré, sur le Doullennais ; atténuation ensuite.
 Températures maximales pour le jour : de 21 à 24 degrés.
 Températures minimales pour la nuit suivante : comprises entre 10 et 11 degrés.
 
 • Pour la journée de mercredi 07 et la nuit suivante :
 Éclaircies et passages nuageux se succèdent toute la journée, mais le temps reste le plus souvent sec. Seules quelques averses sont à attendre sur le littoral picard ainsi que sur le Santerre et le Vermandois, en fin d'après-midi. Pour la nuit : De rares averses sont possibles presque toute la nuit, voire même jusqu'à l'aube sur le Santerre et le Vermandois. Le ciel, couvert jusqu'en milieu de nuit, laisse ensuite entrevoir des éclaircies.
-Le maximum de pluie attendu est de l'ordre de 5 millimètres sur le Santerre.
-La nuit, vent s'établissant au Nord à Nord-Ouest assez fort, sur le littoral picard. Avec des rafales atteignant 65 km/h.
-Températures maximales pour le jour : entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : de 9 à 12 degrés.
+Les plus forts cumuls de pluie peuvent avoisiner 5 millimètres sur le Santerre.
+La nuit, vent de Nord à Nord-Ouest assez fort, sur le littoral picard. Avec des rafales atteignant 65 km/h.
+Températures maximales pour le jour : comprises entre 19 et 21 degrés.
+Températures minimales pour la nuit suivante : comprises entre 9 et 12 degrés.
 
 • Pour la journée de jeudi 08 :
-La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
+Le soleil brille sans discontinuer du matin jusqu'au soir.
 Jusqu'en milieu d'après-midi, vent de Nord-Ouest assez fort, sur le littoral picard ; atténuation ensuite. Rafales atteignant 55 km/h.
-Températures maximales : comprises entre 14 et 15 degrés.
+Températures maximales : de 14 à 15 degrés.
 
 • Pour vendredi 09 et samedi 10 :
 Ciel nuageux se dégageant temporairement ; risque de pluie ou d'averses de vendredi matin jusqu'en début de nuit de samedi à dimanche.
@@ -192,44 +192,44 @@ Températures minimales : sans changement significatif.
 Températures maximales : en hausse sur le Santerre ainsi que sur le Vimeu, le Ponthieu et le Doullennais.
 
 === BULLETIN DÉPARTEMENTAL OISE (DEPT60) ===
-Emis le : 05/10/2026 06:30
+Emis le : 05/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Oise est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Beauvais-Tillé : température de 7 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1026 hPa.
+Aujourd'hui on observait à 09h :
+A Beauvais-Tillé : température de 8 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 10 km/h, pression niveau mer 1027 hPa.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui lundi 05 :
 Le temps reste sec et très ensoleillé. Un léger voile nuageux sur le Vexin français et le pays de Thelle ainsi que sur une large moitié Nord du département ne gâche pas cette impression de beau temps.
-Vent variable, faible.
-Températures maximales : entre 23 et 25 degrés. Ces températures sont au-dessus des valeurs normalement observées.
+Vent faible, variable.
+Températures maximales : de 23 à 25 degrés. Ces températures se situent au-dessus des valeurs normalement observées.
 
 • Pour la nuit prochaine :
 À la faveur des éclaircies nocturnes largement présentes en début de nuit, de nombreux brouillards, parfois denses, se forment progressivement.
-En début de nuit, vent de Nord-Nord-Est soufflant modérément, sur le Vexin français et le pays de Thelle ; puis atténuation.
-Températures minimales : comprises entre 8 et 9 degrés.
+En début de nuit, vent de Nord-Nord-Est modéré, sur le Vexin français et le pays de Thelle ; atténuation ensuite.
+Températures minimales : de 8 à 9 degrés.
 
 • Pour demain mardi 06 en journée et la nuit suivante :
 Les brouillards présents sur une large moitié Nord du département au lever du jour, se dissipent rapidement. Puis c'est un temps très largement ensoleillé qui se maintient jusqu'en fin de journée. Pour la nuit : En soirée, des nuages plus ou moins épais passent dans le ciel. Puis le ciel est largement étoilé. Après minuit, les nuages grossissent peu à peu. Si bien que l'aurore ne bénéficie que de quelques éclaircies.
-Etablissement, en première partie de nuit, d'un vent d'Est-Nord-Est modéré, sur le Vexin français et le pays de Thelle ; atténuation ensuite.
-Températures maximales pour le jour : comprises entre 23 et 25 degrés.
-Températures minimales pour la nuit suivante : de 9 à 11 degrés.
+En début de nuit, vent s'orientant Est-Nord-Est modéré, sur le Vexin français et le pays de Thelle ; atténuation ensuite.
+Températures maximales pour le jour : entre 23 et 25 degrés.
+Températures minimales pour la nuit suivante : comprises entre 9 et 11 degrés.
 
 • Pour la journée de mercredi 07 et la nuit suivante :
 La matinée se déroule sous de belles éclaircies. En revanche l'après-midi le ciel se couvre subitement et les premières averses arrivent du Valois Multien au Noyonnais en début d'après-midi pour se généraliser en soirée. Pour la nuit : Sous un ciel couvert, les pluies éparses tombent, toute la nuit. Elles sont cependant plus disparates, avant le lever du jour.
-Le maximum de pluie attendu est de l'ordre de 15 millimètres sur le Valois Multien.
-En fin d'après-midi et la nuit suivante, établissement d'un vent de Nord à Nord-Ouest, souvent modéré.
-Températures maximales pour le jour : entre 20 et 22 degrés, et 18 degrés sur le pays de Bray et la Picardie verte.
-Températures minimales pour la nuit suivante : entre 9 et 11 degrés.
+Les plus forts cumuls de pluie attendus sont de 15 millimètres sur le Valois Multien.
+En fin d'après-midi et la nuit suivante, établissement d'un vent de Nord à Nord-Ouest, modéré.
+Températures maximales pour le jour : comprises entre 20 et 22 degrés, et 18 degrés sur le pays de Bray et la Picardie verte.
+Températures minimales pour la nuit suivante : de 9 à 11 degrés.
 
 • Pour la journée de jeudi 08 :
-Le temps est ensoleillé du matin au soir.
-Vent modéré, de Nord-Ouest.
-Températures maximales : de 14 à 16 degrés.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets.
+Vent de Nord-Ouest, modéré.
+Températures maximales : entre 14 et 16 degrés.
 
 • Pour vendredi 09 et samedi 10 :
 Ciel nuageux se dégageant temporairement ; risque de pluie ou d'averses de vendredi matin jusqu'au lendemain à la mi-journée.
@@ -250,40 +250,40 @@ Températures minimales : stables.
 Températures maximales : en hausse sur le pays de Bray et la Picardie verte.
 
 === BULLETIN DÉPARTEMENTAL AISNE (DEPT02) ===
-Emis le : 05/10/2026 06:30
+Emis le : 05/10/2026 09:30
 
 Vigilance :
 Aujourd'hui et demain, le département de l'Aisne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 06h :
-A Aulnoy-sous-Laon : température de 9 degrés, vent de secteur Nord soufflant jusqu'à 5 km/h.
-A Saint-Quentin : température de 8 degrés.
+Aujourd'hui on observait à 09h :
+A Aulnoy-sous-Laon : température de 10 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 5 km/h.
+A Saint-Quentin : température de 10 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour aujourd'hui lundi 05 :
-Le temps est ensoleillé du matin au soir.
-Vent variable, faible.
-Températures maximales : entre 23 et 25 degrés. Ces températures sont au-dessus des valeurs normalement observées.
+Le soleil brille sans discontinuer du matin jusqu'au soir.
+Vent faible, variable.
+Températures maximales : entre 23 et 25 degrés. Ces températures se situent au-dessus des valeurs de saison.
 
 • Pour la nuit prochaine :
 La nuit est étoilée. Petit bémol, sur le Vermandois, car des brumes se forment en seconde partie de nuit.
-Vent faible, variable.
-Températures minimales : comprises entre 6 et 9 degrés.
+Vent variable, faible.
+Températures minimales : de 6 à 9 degrés.
 
 • Pour demain mardi 06 en journée et la nuit suivante :
 Le soleil est généreux de son lever à son coucher. Quelques nuages circulent ça et là en fin de journée. Pour la nuit : Les éclaircies sont belles, même si par moments, quelques nuages inoffensifs passent dans le ciel.
-Etablissement, en début de nuit, d'un vent d'Est-Nord-Est modéré, sur la Thiérache ; atténuation ensuite.
-Températures maximales pour le jour : comprises entre 23 et 26 degrés.
-Températures minimales pour la nuit suivante : de 9 à 12 degrés.
+En début de nuit, vent s'orientant Est-Nord-Est modéré, sur la Thiérache ; atténuation ensuite.
+Températures maximales pour le jour : de 23 à 26 degrés.
+Températures minimales pour la nuit suivante : entre 9 et 12 degrés.
 
 • Pour la journée de mercredi 07 et la nuit suivante :
-Les éclaircies, encore belles par endroits le matin, ne durent pas. Le ciel se charge et l'après-midi de petites pluies ou des averses se produisent. Pour la nuit : En début de nuit, les nuages ponctués d'averses laissent quelquefois entrevoir les étoiles. Le ciel se couvre progressivement, alors que le risque d'averses persiste jusqu'en fin de nuit.
-Les plus forts cumuls de pluie peuvent avoisiner 15 millimètres sur la Champagne crayeuse.
+Les éclaircies, encore belles par endroits le matin, ne durent pas. Le ciel se charge et l'après-midi de petites pluies ou des averses se produisent. Pour la nuit : Sous un ciel bien encombré, quelques gouttes sont possibles toute la nuit.
+Les plus forts cumuls de pluie attendus sont de 15 millimètres sur la Champagne crayeuse.
 La nuit, établissement d'un vent de Nord à Nord-Ouest, souvent modéré.
 Températures maximales pour le jour : comprises entre 20 et 23 degrés.
-Températures minimales pour la nuit suivante : entre 9 et 11 degrés.
+Températures minimales pour la nuit suivante : de 9 à 11 degrés.
 
 • Pour la journée de jeudi 08 :
 En début de journée, il tombe quelques gouttes sur le Tardenois ainsi que sur la moitié Est du département. Très vite, le temps devient sec et le soleil resplendit jusqu'en fin de journée, à peine gêné par quelques nuages ici ou là.
@@ -335,12 +335,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Nord - Octobre  2026
-• Infoclimat Direct : Prévisions Massif Central octobre 2026
-• Infoclimat Direct : Suivi du temps en Belgique.
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi de la secheresse
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 05/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -348,16 +348,16 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 5 Octobre 2026.
-Résumé général HDF précédent : Sur 15 jours : début très doux et sec, dégradation modérée et fraîche en milieu de semaine 1, puis retour probable d'un temps plus sec et doux sous influence anticyclonique en semaine 2, avec incertitudes fortes après le 14..
+Résumé général HDF précédent : Le scénario dominant pour les 15 prochains jours est celui d'un temps souvent sec et doux, entrecoupé d'une dégradation modérée en fin de semaine 1. Le retour d'un temps plus anticyclonique est probable en semaine 2, mais sans excès de chaleur..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Brouillards matinaux, averses mercredi, vent assez fort sur le littoral jeudi-vendredi..
+Températures attendues précédemment : Coup de frais marqué jeudi et vendredi, suivi d'un possible redoux anticyclonique le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								10
+								11
 								1
 
 =======================
@@ -395,8 +395,8 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 22 heures par Leonai
-								1
+	Modifié hier à 07:20 par Leonai
+								2
 								1
 								1
 
@@ -430,8 +430,8 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 21 heures par Jojobarbar
-								7
+	Modifié il y a 23 heures par Jojobarbar
+								8
 								6
 								1
 
@@ -445,14 +445,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 21 heures par Leonai
+	Modifié il y a 23 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 21 heures par Krholam
+	Modifié il y a 23 heures par Krholam
 								1
 
 =======================
@@ -464,7 +464,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 19 heures par Jojobarbar
+	Modifié il y a 21 heures par Jojobarbar
 								1
 								3
 
@@ -512,7 +512,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 15 heures par Twister83
+	Modifié il y a 17 heures par Twister83
 								3
 								2
 								1
@@ -530,7 +530,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 15 heures par giec 2100
+	Modifié il y a 17 heures par giec 2100
 								1
 
 =======================
@@ -544,7 +544,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 14 heures par Leonai
+	Modifié il y a 16 heures par Leonai
 								1
 
 =======================
@@ -553,7 +553,7 @@ Auteur: ripocheguillaume_88
 Message:
 Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 								4
-								2
+								3
 
 =======================
 
@@ -562,7 +562,7 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 9 heures par Nono34
+	Modifié il y a 11 heures par Nono34
 								3
 								1
 
@@ -574,7 +574,7 @@ il y a 9 minutes, Nono34 a dit :
 			Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
 	Bonsoir, 
 	Une dizaine de mm de modelisée en moyenne ne va pas changer grand chose concernant la sécheresse. 
-								1
+								3
 
 =======================
 
@@ -582,6 +582,7 @@ Auteur: Jojobarbar
 Message:
 Je trouve que c'est pas si inintéressant, on a une belle perturbation frontale sur une large partie du pays, ce n'est pas miraculeux ok mais y'a pas mal à faire avec ! On a par la suite un régime NAO+ (OAN+ 😉) marqué, avec des dépressions bien creuses, et avec l'avancée de la saison, la zone limite descend de plus en plus vers la France, à voir si cela suffirait pour que les tempêtes ne soit pas sans cesse repoussée à l'approche des côtes européennes du sud... Pour l'instant un peu tout est sur la table : toute la France sous un anticyclone (comme d'hab, plus probable) / nord sous dépression (bien possible !) / ou toute la France concernée (j'en doute)
 								7
+								1
 
 =======================
 
@@ -590,7 +591,7 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 7 heures par Ciel d&#039;encre
+	Modifié il y a 9 heures par Ciel d&#039;encre
 								4
 
 =======================
@@ -600,13 +601,13 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: Nico 14
 Message:
 Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								10
+								11
 								1
 
 =======================
@@ -644,8 +645,8 @@ En fait vous savez quoi?
 	Comment peut-on rester passionné par le climat français aujourd'hui, quand on habite loin des mers? 
 	Cet hiver, ce sera quoi? Une bise pinçante qui déboulera et assèchera le "grand Nord-Est de la France" en déstabilisant la masse d'air au-dessus des mers en continu ?
 	Franchement pas facile! 🥲
-	Modifié il y a 22 heures par Leonai
-								1
+	Modifié hier à 07:20 par Leonai
+								2
 								1
 								1
 
@@ -679,8 +680,8 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 21 heures par Jojobarbar
-								7
+	Modifié il y a 23 heures par Jojobarbar
+								8
 								6
 								1
 
@@ -694,14 +695,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 21 heures par Leonai
+	Modifié il y a 23 heures par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 21 heures par Krholam
+	Modifié il y a 23 heures par Krholam
 								1
 
 =======================
@@ -713,7 +714,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 19 heures par Jojobarbar
+	Modifié il y a 21 heures par Jojobarbar
 								1
 								3
 
@@ -761,7 +762,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 15 heures par Twister83
+	Modifié il y a 17 heures par Twister83
 								3
 								2
 								1
@@ -779,7 +780,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 15 heures par giec 2100
+	Modifié il y a 17 heures par giec 2100
 								1
 
 =======================
@@ -793,7 +794,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 14 heures par Leonai
+	Modifié il y a 16 heures par Leonai
 								1
 
 =======================
@@ -802,7 +803,7 @@ Auteur: ripocheguillaume_88
 Message:
 Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 								4
-								2
+								3
 
 =======================
 
@@ -811,7 +812,7 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 9 heures par Nono34
+	Modifié il y a 11 heures par Nono34
 								3
 								1
 
@@ -823,7 +824,7 @@ il y a 9 minutes, Nono34 a dit :
 			Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
 	Bonsoir, 
 	Une dizaine de mm de modelisée en moyenne ne va pas changer grand chose concernant la sécheresse. 
-								1
+								3
 
 =======================
 
@@ -831,6 +832,7 @@ Auteur: Jojobarbar
 Message:
 Je trouve que c'est pas si inintéressant, on a une belle perturbation frontale sur une large partie du pays, ce n'est pas miraculeux ok mais y'a pas mal à faire avec ! On a par la suite un régime NAO+ (OAN+ 😉) marqué, avec des dépressions bien creuses, et avec l'avancée de la saison, la zone limite descend de plus en plus vers la France, à voir si cela suffirait pour que les tempêtes ne soit pas sans cesse repoussée à l'approche des côtes européennes du sud... Pour l'instant un peu tout est sur la table : toute la France sous un anticyclone (comme d'hab, plus probable) / nord sous dépression (bien possible !) / ou toute la France concernée (j'en doute)
 								7
+								1
 
 =======================
 
@@ -839,7 +841,7 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 7 heures par Ciel d&#039;encre
+	Modifié il y a 9 heures par Ciel d&#039;encre
 								4
 
 =======================
@@ -849,4 +851,4 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
