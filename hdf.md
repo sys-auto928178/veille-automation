@@ -1,122 +1,127 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
-**Généré le :** Dimanche 4 Octobre 2026
-**Période :** Semaine 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) & Semaine 2 (Du Lundi 12 au Dimanche 18 Octobre 2026)
+**Généré le :** Lundi 5 Octobre 2026
+**Période :** Semaine 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) & Semaine 2 (Du Lundi 12 au Dimanche 18 Octobre 2026
+
+⚠️ TRANSPARENCE : Le sujet spécifique de la Semaine 42 (du 12 au 18 octobre 2026) n’est pas encore ouvert sur Infoclimat. Aucun pseudo ni message inventé : les éléments ci-dessous proviennent uniquement des projections long terme extraites du sujet Semaine 41 et des bulletins Météo-France J+7.)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Bon accord sur le début de semaine 1, désaccord à partir de jeudi et surtout pour la semaine 2.*
-- **Fiabilité du scénario majoritaire :** Dégradation puis rebond doux — *Le plus probable : dégradation jeudi-vendredi puis retour d'un temps plus sec et doux en semaine 2, mais confiance limitée.*
+- **Consensus des modèles :** Modéré — *Accord sur la baisse thermique jeudi/vendredi, désaccord sur les cumuls et le retour de la douceur.*
+- **Fiabilité du scénario majoritaire :** Doux-sec → frais-perturbé → doux-sec — *Scénario principal : anticyclone, dégradation modérée mercredi/jeudi, retour anticyclonique possible en S2.*
 - **Stabilité des cartes/scénarios :** 6 / 118 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Forte — *Deux familles de scénarios pour la semaine 2; le sujet Infoclimat n'est pas encore ouvert.*
+- **Niveau d'incertitude global :** Forte — *Échéance au-delà de 5 jours incertaine ; sujet S42 non ouvert.*
 
 ## 🗓️ SEMAINE 1 : Du Lundi 5 au Dimanche 11 Octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Début très doux : Soleil et douceur automnale lundi-mardi, maximales 21 à 25°C sur les cinq départements.
-2. Bascule mercredi : Nuages et averses arrivent par l'ouest, vent modéré en soirée sur les littoraux.
-3. Forte dégradation jeudi : Pluies et fraîcheur s'installent, maximales chutent à 14-16°C, rafales possibles.
-4. Week-end instable : Risque de pluies ou d'averses persiste, vent d'ouest à sud-ouest modéré à assez fort.
-5. Semaine 2 incertaine : Sujet non ouvert; projections long terme évoquent un possible retour de la douceur.
+1. Début très doux et ensoleillé : Lundi-mardi, grand soleil sur les Hauts-de-France avec des températures jusqu'à 24-26°C possibles dans l'intérieur.
+2. Dégradation progressive mercredi : Averses éparses possibles en fin de journée, surtout du littoral au Santerre/Vermandois.
+3. Forte baisse thermique jeudi-vendredi : Retour à 14-16°C, pluies ou averses probables, vent assez fort sur le littoral.
+4. Week-end variable mais frais : Samedi-dimanche encore instable, risque d’averses, températures voisines de 15°C.
+5. Brouillards fréquents : Brumes et bancs de brouillard possibles en fin de nuit et au lever du jour, surtout lundi-mardi.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Baisse nette des températures à partir de jeudi 8, retour proche ou sous les normales.
-- Passage d'une dégradation active mercredi-jeudi avec pluies/averses sur la moitié nord.
-- Début de semaine anticyclonique, sec et très doux, avec brumes ou brouillards matinaux.
+- Baisse thermique nette à partir de jeudi 8, validée par EPS, UKMO, IFS et bulletins Météo-France.
+- Temps sec et très doux lundi-mardi, avec brouillards matinaux, soutenu par le scénario anticyclonique.
+- Vent assez fort sur le littoral mercredi soir/jeudi, confirmé par Météo-France et le bulletin côtier.
 **Points de divergence :**
-- GFS déterministe très instable vs ensembles plus stables; amplitude exacte du refroidissement incertaine.
-- Position et intensité de la dégradation de mercredi/jeudi encore à affiner (sec vs pluies).
-- Rebond doux possible dès le week-end ou maintien de la fraîcheur; scénarios partagés.
+- Timing exact des pluies : mercredi 7 en fin de journée vs dégradation étalée du 6 au 8 (Krholam).
+- Cumuls : GFS déterministe a tendance à surévaluer les pluies orageuses, tandis que GEFS/IFS restent plus mesurés (10-20 mm) avec des scénarios secs.
+- Rebond de douceur du week-end : certains scénarios restent sous les normales, d’autres voient une crête subtropicale revenir.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS déterministe** (Commenté en détail sur sa fiabilité) | GFS déterministe très instable d'un run à l'autre: refroidissement modéré en milieu de semaine, mais 6Z plus chaud; les cumuls de pluie/averses restent incertains. | Averses ou pluies possibles mercredi-jeudi, fraîcheur en fin de semaine; à confirmer. | France, moitié nord; HDF concerné par la baisse thermique, localisation des pluies incertaine. | Modérée | Le run 06Z est systématiquement plus chaud. Les scénarios de pluies orageuses dans le centre du pays se sont évaporés à l'approche de l'échéance. GEFS: pour Blois, 6 à 16% de membres secs selon les runs, stabilité relative des cumuls. |
-| **CEP / IFS / EPS (ECMWF)** (Commenté, tendance claire) | CEP/EPS confirment une baisse des températures en seconde partie de semaine, avec une ondulation atlantique; pas de froid majeur, plutôt influence anticyclonique au sec. | Baisse thermique jeudi-vendredi, pluies/averses possibles, puis amélioration. | HDF, France, Atlantique; ondulation atlantique à l'origine du refroidissement. | Modérée | Nico 14 souligne que la baisse des températures est bien anticipée par l'EPS, avec une possible légère sous-normalité à partir de jeudi. Plancher confirme la baisse CEP. giec 2100 insiste sur une influence anticyclonique et un temps plutôt sec. |
-| **UKMO** (Peu commenté) | UKMO +144h suggère une ondulation atlantique avec T850 en baisse, compatible avec le scénario CEP. | Refroidissement à partir de jeudi; pluies possibles sur la moitié nord. | Europe de l'Ouest, HDF indirectement via les températures à 850 hPa. | Faible | Mention unique par Nico 14 avec carte T850Hpa, en appui de la tendance EPS/CEP. |
-| **GEFS / IFS ENS** (Commenté en détail sur la méthode) | Ensembles GEFS et IFS ENS montrent une relative stabilité des cumuls pour le centre de la France; extrapolation HDF prudente. | Cumuls de pluie généralement modestes (quelques mm), pas de gros épisode. | Centre de la France dans les discussions (Blois); à transposer avec prudence aux HDF. | Modérée | Jojobarbar dénonce le run par run déterministe et montre que les ensembles sont plus stables. Pour Blois, entre 6 et 16% de membres secs selon les runs, et des cumuls majoritairement entre 0 et 20 mm. |
+| **ECMWF (IFS/EPS/CEP)** (Commenté en détail, cohérent avec Météo-France.) | Baisse des températures en 2e partie de semaine, possiblement sous les normales de jeudi à dimanche, puis timide rebond anticyclonique. | Fraîcheur plus marquée jeudi-vendredi, avec pluies ou averses possibles ; vent assez fort sur le littoral. | Hauts-de-France, surtout les trois départements côtiers pour le vent ; intérieur pour les brouillards. | Élevée (80-90%) | Nico 14 : l’EPS a anticipé la baisse, possiblement sous les normales. giec 2100 : majorité de scénarios secs sous influence anticyclonique. Ciel d’encre : yo-yo thermique (14°C à 850 hPa en début de semaine, ~0°C jeudi/vendredi). |
+| **GFS / GEFS (NCEP)** (Utilisé avec prudence, critiqué par les membres.) | GFS déterministe hésite fortement entre chaud et froid ; les ensembles GEFS restent plus stables, avec une dégradation modérée en milieu de semaine. | Pluies ou averses passagères vers mercredi 7, puis fraîcheur relative ; cumuls très incertains. | Moitié nord de la France, dont les Hauts-de-France ; littoral plus exposé au vent. | Modérée (60-70%) | Plancher note la girouette du GFS (6Z plus chaud) ; Leonai critique les MUCAPE orageuses qui s’évanouissent ; Jojobarbar recommande de s’appuyer sur les ensembles GEFS plutôt que sur le déterministe. |
+| **UKMO (Unified Model)** (Évoqué, peu documenté.) | Ondulation atlantique entraînant une baisse des températures en fin de semaine, cohérente avec IFS/EPS. | Refroidissement à partir de jeudi, T850 proche de 0°C, ciel changeant. | Nord de la France, dont probablement les Hauts-de-France. | Faible (40-50%) | Nico 14 utilise UKMO+144h pour illustrer l’ondulation atlantique et le possible passage sous les normales à partir de jeudi. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Soleil dominant lundi-mardi puis dégradation pluvio-venteuse jeudi-vendredi; averses mercredi. | Min 6-8°C dans l'intérieur, 11°C en Flandre maritime; Max 21-25°C lundi-mardi, puis 14-16°C jeudi-vendredi. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des averses mercredi incertaine; intensité des pluies du week-end à affiner. |
-| **Pas-de-Calais (62)** | Soleil généreux lundi-mardi, grisaille et averses mercredi, pluie/averses jeudi-vendredi, temps instable samedi-dimanche. | Min 6-10°C dans les terres, 10-12°C près de la mer; Max 21-23°C en début de semaine, puis 14-16°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brumes et brouillards matinaux localisés; intensité des rafales selon évolution dépressionnaire. |
-| **Somme (80)** | Soleil très présent lundi-mardi, passages nuageux mercredi avec possible averse, pluie/averses jeudi-vendredi, week-end nuageux. | Min 6-11°C selon secteurs; Max 20-24°C lundi-mardi, puis 14-16°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Brouillards sur les deux tiers ouest en fin de nuit; cumuls de pluie incertains. |
-| **Oise (60)** | Ensoleillé et très doux lundi-mardi, ciel se couvrant mercredi avec averses, pluie/averses jeudi-vendredi, éclaircies temporaires week-end. | Min 5-10°C, Plateau Picard plus frais; Max 23-25°C lundi-mardi, puis environ 14°C jeudi-vendredi, 15°C week-end. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Risque faible de brouillard sur le Plateau Picard lundi nuit; localisation des averses mercredi à surveiller. |
-| **Aisne (02)** | Temps sec et très ensoleillé lundi-mardi, nuages et averses faibles mercredi, pluie/averses jeudi-vendredi, éclaircies temporaires week-end. | Min 5-12°C; Max 23-27°C mardi, puis 13-16°C jeudi-vendredi, 14-16°C week-end. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls mercredi limités mais localisation variable; fraîcheur plus marquée possible jeudi matin. |
+| **Nord (59)** | Soleil et douceur lundi-mardi, averses possibles mercredi soir, pluies/averses jeudi-vendredi, temps variable le week-end. | Lundi 8-9°C min, 22-24°C max ; mardi jusqu'à 26°C sur l'Avesnois ; jeudi-vendredi 6-8°C min, 14-16°C max ; week-end 8-11°C/15°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation exacte des averses mercredi et cumuls du front de jeudi encore incertains. |
+| **Pas-de-Calais (62)** | Belles éclaircies lundi-mardi, nuages et rares averses mercredi, pluies/averses jeudi-vendredi, temps variable le week-end. | Lundi 8-11°C min, 20-23°C max ; mardi 21-23°C ; mercredi 19-21°C ; jeudi-vendredi 6-8°C min, 14-16°C max ; week-end 8-11°C/15°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Intensité du vent littoral et localisation des averses de mercredi à affiner. |
+| **Somme (80)** | Soleil généreux lundi-mardi après dissipation des brumes, averses localisées mercredi, pluies/averses jeudi-vendredi, variable le week-end. | Lundi 8-10°C min, 20-23°C max ; mardi 21-24°C ; mercredi 19-21°C ; jeudi-vendredi 6°C min dans les terres, 10°C sur le littoral, 14-16°C max ; week-end 8-11°C/15°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Cumuls des averses mercredi et timing du passage pluvieux de jeudi encore incertains. |
+| **Oise (60)** | Ensoleillé lundi-mardi, ciel se couvrant mercredi avec averses, nuageux et frais jeudi-vendredi, variable le week-end. | Lundi 7-9°C min, 5°C sur le Plateau Picard, 22-24°C max ; mardi 23-25°C ; mercredi 20-22°C max, 18°C sur le Bray ; jeudi-vendredi 5°C min, environ 14°C max ; week-end 8°C/15°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Étendue des averses mercredi et amplitude thermique exacte jeudi-vendredi à confirmer. |
+| **Aisne (02)** | Grand soleil lundi-mardi, dégradation nuageuse mercredi avec petites pluies, nuageux et frais jeudi-vendredi, variable le week-end. | Lundi 8-11°C min, 23-25°C max ; mardi 24-26°C ; mercredi 20-23°C ; jeudi-vendredi environ 5°C min, 13-15°C max ; week-end 7-9°C/14-16°C. | elevee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Localisation des pluies mercredi et durée du passage frais jeudi-vendredi à surveiller. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 5 - mardi 6 octobre** : Temps sec, ensoleillé et très doux, avec brumes ou brouillards matinaux possibles.
-- **Mercredi 7 octobre** : Nuages de plus en plus nombreux, averses éparses en fin de journée, vent modéré.
-- **Jeudi 8 - vendredi 9 octobre** : Dégradation plus fraîche avec pluies ou averses, vent assez fort sur les littoraux.
-- **Samedi 10 - dimanche 11 octobre** : Temps instable, risque de pluies ou d'averses, maximales proches de 15°C.
+- **Lundi 5 - Mardi 6 Octobre** : Beau temps sec et très doux, brouillards matinaux, températures au-dessus des normales.
+- **Mercredi 7 Octobre** : Ciel variable, averses éparses en fin de journée, vent se renforçant sur le littoral.
+- **Jeudi 8 - Vendredi 9 Octobre** : Pluies/averses, nette fraîcheur, vent assez fort de secteur NO puis OSO, surtout sur le littoral.
+- **Samedi 10 - Dimanche 11 Octobre** : Temps variable et frais, averses possibles, températures autour de 15°C.
 
 **Points solides :**
-- Temps sec et très doux lundi-mardi, maximales 21-25°C.
-- Refroidissement jeudi-vendredi avec pluies/averses, maximales 14-16°C.
-- Vent assez fort sur les littoraux jeudi-vendredi, avec rafales.
+- Très doux lundi-mardi : 22-26°C possibles dans l’intérieur des Hauts-de-France.
+- Rafraîchissement marqué jeudi-vendredi : retour à 14-16°C avec pluies ou averses probables.
+- Brumes et brouillards fréquents en fin de nuit et au lever du jour sur une large partie de la région.
 
 **Points fragiles :**
-- Cumuls et timing exact des averses de mercredi.
-- Rafales du week-end selon la position des dépressions.
-- Évolution du talweg : simple ondulation ou goutte froide plus creuse.
+- Cumuls exacts et localisation précise des averses de mercredi.
+- Durée du régime plus frais et possibilité de pluies samedi-dimanche.
+- Fiabilité de GFS déterministe sur l’évolution thermique de fin de semaine.
 
 **À surveiller (prochains runs) :**
-Prochains runs GFS 00Z/12Z, CEP 00Z/12Z, UKMO +144h; surveiller la profondeur du talweg et le positionnement de la dorsale atlantique.
+- IFS/EPS 00Z et 12Z
+- UKMO +144h / +168h
+- GEFS 00Z
+- Météo-France J+4 à J+7
 
 
 ## 🗓️ SEMAINE 2 : Du Lundi 12 au Dimanche 18 Octobre 2026
+
+⚠️ TRANSPARENCE : Le sujet spécifique de la Semaine 42 (du 12 au 18 octobre 2026) n’est pas encore ouvert sur Infoclimat. Aucun pseudo ni message inventé : les éléments ci-dessous proviennent uniquement des projections long terme extraites du sujet Semaine 41 et des bulletins Météo-France J+7.
 ### 💡 Points clés de la semaine 2
-1. Sujet non ouvert : Aucune discussion dédiée à la semaine 42; analyse basée sur les projections long terme.
-2. Possible retour tiédeur : Crête subtropicale du Maroc vers l'Espagne pourrait apporter de la douceur en fin de semaine.
-3. Régime NAO+ : Dépressions atlantiques plus creuses, mais impact HDF encore très incertain.
-4. Toujours sec ? : Les projections privilégient plutôt un temps anticyclonique et des pluies peu abondantes.
-5. Froid au frigo : Pas de vague de froid en vue; anomalies de températures plutôt positives.
+1. Sujet S42 non ouvert : Analyse basée sur les projections long terme du sujet S41, sans discussion dédiée.
+2. Retour de douceur possible : Crête subtropicale du Maghreb vers la péninsule Ibérique, tiédeur en fin d’échéance selon Ciel d’encre.
+3. Lundi-mardi encore variable : Bulletins Météo-France prévoient éclaircies et averses temporaires, vent assez fort sur le littoral.
+4. Incertitudes fortes après le 14 : ECMWF plutôt anticyclonique, GFS hésitant, scénario « nord sous dépression » possible selon Jojobarbar.
+5. Sécheresse toujours présente : Les pluies attendues ne suffiront probablement pas à résorber le déficit hydrique.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Tendance générale à un temps plutôt sec en début de semaine 2.
-- Pas de froid durable; températures proches ou au-dessus des normales.
-- Incertitude très forte sur la fin de semaine, avec deux familles de scénarios.
+- Rebond de douceur probable après le 13-14 octobre (Ciel d’encre, giec 2100).
+- Temps plutôt sec dans la majorité des scénarios long terme.
+- Averses temporaires lundi-mardi 12-13, conformes aux bulletins Météo-France.
 **Points de divergence :**
-- Anticyclone sur toute la France vs nord sous influence dépressionnaire.
-- Retour de la tiédeur vs maintien d'un flux d'ouest frais.
-- Pluies significatives possibles sur le nord vs temps sec généralisé.
+- « France sous anticyclone » vs « nord sous dépression » (Jojobarbar).
+- Intensité de la tiédeur : ECMWF plus tranché vers une crête subtropicale, GFS plus erratic.
+- Impact sur la sécheresse : pluies utiles pour certains, insuffisantes pour d’autres (Nono34 vs mathias).
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF/CEP (projection long terme)** (Projeté, non confirmé) | Possible crête subtropicale du Maroc vers l'Espagne: retour d'un temps plus sec et plus doux en fin de semaine; régime NAO+ en débat. | Temps sec, douceur diurne, brouillards possibles; pluies rares. | HDF, France, Europe de l'Ouest; incertitude sur la position exacte de la crête. | Faible | Ciel d'encre évoque un possible rebond de tiédeur/chaleur automnale avec une crête subtropicale. giec 2100 voit une influence anticyclonique plutôt au sec. Jojobarbar mentionne un régime NAO+ avec des dépressions plus creuses. |
-| **GFS/GEFS (projection long terme)** (Projection, très incertaine) | GFS/GEFS prolongent la danse des centres d'action; scénarios partagés entre anticyclone généralisé et nord sous influence dépressionnaire. | Temps sec dominant, pas de froid marqué; quelques pluies possibles sur le nord. | HDF, moitié nord de la France. | Faible | giec 2100: l'animation GFS de midi montre des minimums arctiques incapables de faire descendre le froid vers la France; plutôt anticyclonique. |
+| **ECMWF (IFS/EPS)** (Projection long terme, sujet non ouvert.) | Retour d’une crête subtropicale vers la péninsule Ibérique, favorisant douceur et temps souvent sec sur les Hauts-de-France, mais à confirmer. | Douceur automnale, faibles précipitations, éclaircies ; brouillards possibles. | Hauts-de-France en entier, plus marqué sur l’intérieur. | Modérée (60-70%) | Ciel d’encre évoque une « chaleur automnale » possible ; giec 2100 privilégie un temps sec sous anticyclone ; Jojobarbar n’exclut pas un nord sous dépression. |
+| **GFS / GEFS** (Incertain, à réévaluer avec l’ouverture du sujet S42.) | Scénarios partagés : France sous anticyclone (le plus probable), nord sous dépression, ou flux d’Ouest actif ; signal peu fiable à cette échéance. | Temps variable, éclaircies et averses possibles selon les scénarios ; douceur relative. | Nord et littoral des Hauts-de-France potentiellement plus exposés en cas de scénario dépressionnaire. | Modérée (60-70%) | Jojobarbar : « un peu tout est sur la table » ; Plancher note l’inconstance de GFS ; Leonai doute des précipitations orageuses modélisées. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord (59)** | Éclaircies prédominantes, passages nuageux et risque de pluie/averses temporaire; nette incertitude au-delà de mardi 13. | Minimales stationnaires (8-11°C), maximales en hausse en Flandre maritime et sur l'Avesnois (15-18°C), à confirmer. | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Scénario du 14 au 18 octobre très incertain : sec vs pluies, douceur vs fraîcheur. |
-| **Pas-de-Calais (62)** | Éclaircies prédominantes, risque de pluie/averses temporaire; incertitude forte ensuite. | Minimales similaires à la veille (8-11°C), maximales en hausse sur le littoral et l'est (15-18°C). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Évolution dépressionnaire au large incertaine; possible regain de vent en fin de semaine. |
-| **Somme (80)** | Ciel nuageux se dégageant temporairement, risque de pluie/averses jusqu'à lundi et en seconde partie de nuit lundi-mardi; éclaircies ensuite. | Minimales similaires (8-11°C), maximales en hausse au nord et à l'ouest d'Amiens (15-18°C). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Semaine 42 non ouverte; tendances long terme partagées entre temps sec et influence plus humide. |
-| **Oise (60)** | Soleil entrecoupé de passages nuageux sur une large moitié nord, soleil prédominant ailleurs; risque temporaire d'averses. | Minimales similaires (8-10°C), maximales en hausse sur le Valois Multien et du Vexin au Plateau Picard (17-20°C). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Retour de la tiédeur en fin de semaine possible mais non confirmé. |
-| **Aisne (02)** | Éclaircies prédominantes sur Laonnois, Vermandois, Thiérache et moitié sud; temps souvent ensoleillé ailleurs. | Minimales similaires (7-10°C), maximales en hausse sur les trois quarts sud et la Thiérache (17-20°C). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Projection long terme : crête subtropicale possible mais non confirmée; impact HDF incertain. |
+| **Nord (59)** | Lundi-mardi : éclaircies et passages nuageux, averses temporaires ; ensuite probable retour d’un temps plus sec et doux, à confirmer. | Tmin stables 8-11°C ; Tmax en hausse sur le littoral et l’Avesnois (15-19°C possibles). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Semaine 42 non ouverte sur Infoclimat ; projections long terme ECMWF/GFS divergentes. |
+| **Pas-de-Calais (62)** | Lundi-mardi : éclaircies prédominantes, averses temporaires ; ensuite tendance plus sèche et douce, à confirmer. | Tmin similaires 8-11°C ; Tmax en hausse sur le littoral et la moitié Est (15-19°C possibles). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Signal de retour anticyclonique à confirmer après le 13 ; scénario nord sous dépression possible. |
+| **Somme (80)** | Lundi-mardi : ciel nuageux se dégageant temporairement, averses possibles ; ensuite probable retour d’un temps sec et doux. | Tmin 8-11°C ; Tmax en hausse au nord et à l’ouest d’Amiens (15-19°C possibles). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Durée du régime anticyclonique en seconde partie de semaine très incertaine. |
+| **Oise (60)** | Lundi-mardi : soleil entrecoupé de passages nuageux, averses temporaires sur le nord et le Vexin ; ensuite plutôt sec et doux à confirmer. | Tmin similaires à la veille, environ 8°C ; Tmax en hausse sur le Valois Multien, le Vexin et le Plateau Picard (15-19°C possibles). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Projections long terme ECMWF/GFS non détaillées pour l’Oise ; sujet S42 non ouvert. |
+| **Aisne (02)** | Lundi-mardi : éclaircies prédominantes, averses temporaires sur le Laonnois, le Vermandois et la Thiérache ; ensuite plutôt sec et doux à confirmer. | Tmin 7-9°C ; Tmax en hausse sur les trois quarts Sud et la Thiérache (15-19°C possibles). | moderee | Météo-France XML, ECMWF, GFS, Guillaume Séchet | Absence de sujet dédié S42 ; scénario sec et doux majoritaire mais non garanti. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 12 - mardi 13 octobre** : Éclaircies prédominantes, risque de pluie/averses temporaire, vent SO assez fort sur le littoral.
-- **Mercredi 14 - jeudi 15 octobre** : Tendance anticyclonique probable, temps sec et brumes possibles; à confirmer.
-- **Vendredi 16 - samedi 17 octobre** : Possible crête subtropicale, douceur en hausse; incertitude forte.
-- **Dimanche 18 octobre** : Maintien probable d'un temps sec et doux, mais scénarios non consolidés.
 
 **Points solides :**
-- Lundi 12 - mardi 13 : éclaircies prédominantes, risque de pluie/averses temporaire, vent SO assez fort sur le littoral.
-- Températures minimales stationnaires, maximales en hausse sur plusieurs secteurs.
-- Pas de signal de vague de froid.
+- Lundi 12 et mardi 13 : éclaircies et averses temporaires, vent SO assez fort sur le littoral (source Météo-France).
+- Tendance majoritaire à un retour de douceur et d’un temps plus sec en seconde partie de semaine, mais pas encore fiable.
+- Pas de signal de froid durable ni d’épisode violent pour la semaine 2 dans l’état actuel des projections.
 
 **Points fragiles :**
-- Semaine 42 non ouverte sur le forum Infoclimat.
-- Cumuls et position des averses encore très incertains.
-- Retour de la tiédeur en fin de semaine dépendant de la crête subtropicale.
+- Tout le scénario au-delà du 13 octobre reste fragile, le sujet Semaine 42 n’étant pas ouvert.
+- GFS déterministe toujours très instable d’un run à l’autre.
+- Position exacte de la crête subtropicale et influence sur les Hauts-de-France à préciser.
 
 **À surveiller (prochains runs) :**
-Ouverture du sujet semaine 42, runs CEP/GFS 12Z, UKMO long terme, indices NAO et position de la crête subtropicale.
+- Ouverture du sujet Infoclimat Semaine 42
+- IFS/EPS long terme, notamment les run 00Z/12Z
+- GEFS 00Z
+- Météo-France J+8 à J+14
 
 
 ========================================
@@ -124,33 +129,33 @@ Ouverture du sujet semaine 42, runs CEP/GFS 12Z, UKMO long terme, indices NAO et
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Temps sec et très doux en début de semaine 1, dégradation plus fraîche et pluvieuse du 7 au 10 octobre, puis probable retour d'un temps plus sec et doux en semaine 2; incertitudes fortes à partir de jeudi.
+Sur 15 jours : début très doux et sec, dégradation modérée et fraîche en milieu de semaine 1, puis retour probable d’un temps plus sec et doux sous influence anticyclonique en semaine 2, avec incertitudes fortes après le 14.
 
 ### Période la plus fiable
-Semaine 1 (5-11 octobre) : sujet forum ouvert, bulletins départementaux Météo-France détaillés.
+Semaine 1, surtout jusqu’à mercredi 7, grâce aux bulletins Météo-France détaillés et à la convergence des modèles.
 
 ### Phénomènes récurrents
-Brumes et brouillards matinaux, averses éparses, sécheresse de surface, rafales sur le littoral.
+Brumes et brouillards matinaux, températures diurnes souvent au-dessus des normales, rafales littorales, sécheresse de surface persistante.
 
 ### Principales incertitudes
-Cumuls et timing de la dégradation de mercredi-jeudi; scénario de la semaine 2 (sec vs pluies, douceur vs fraîcheur); évolution de la crête subtropicale.
+Cumuls et localisation des pluies jeudi-vendredi ; intensité du rebond de douceur en semaine 2 ; fiabilité de GFS déterministe.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes HDF : passage de la dégradation mercredi soir vs jeudi, retour au sec week-end vs semaine 2.
-- **Localisation :** Doutes sur la localisation précise HDF : averses mercredi plutôt Oise/Aisne ou littoral; zone de vent fort entre Flandre maritime, littoral picard et côte d'Opale.
-- **Intensité :** Doutes sur l'intensité HDF : cumuls de pluie très variables selon les modèles, amplitude du refroidissement, rafales à affiner.
-- **Informations manquantes :** Pas de sujet semaine 42 ouvert; pas de discussion spécifique aux températures HDF en semaine 2; pas de données Keraunos/indices convectifs détaillés pour HDF; pas de cumuls par département au-delà de mardi 13.
-- **Modèles sous-documentés :** UKMO (une mention), GEM, ICON, AROME, ARPEGE, JMA non ou peu commentés.
-- **Incertitudes images :** Les cartes long terme (EPS/GEFS) montrent des clusters divergents; les cartes de cumuls changent fortement entre runs; prudence sur les graphiques.
+- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes HDF.
+Le passage pluvieux pourrait arriver dès mercredi 7 en fin de journée, ou s’étendre jeudi 8 ; le rebond de douceur pourrait intervenir dès dimanche 11 ou seulement après le 13.
+- **Localisation :** Doutes sur la localisation précise HDF.
+Averses mercredi localisées différemment selon les départements : Flandres/Avesnois/Valenciennois, littoral picard/Santerre/Vermandois, Valois Multien/Noyonnais. La position exacte de la perturbation frontale jeudi reste incertaine.
+- **Intensité :** Doutes sur l’intensité HDF.
+Les cumuls de pluie semblent modestes (5-20 mm), mais GFS déterministe peut les surestimer ; rafales littorales possibles de 55 à 70 km/h selon les secteurs et les échéances.
+- **Informations manquantes :** Informations importantes non abordées ou manquantes.
+Sujet Semaine 42 non ouvert ; aucune discussion détaillée par département pour l’Oise et l’Aisne ; pas d’analyse spécifique des risques orageux sur les Hauts-de-France ; évolution de la sécheresse des sols peu documentée.
+- **Modèles sous-documentés :** Modèles peu ou pas commentés par les membres.
+UKMO (une seule mention), ARPEGE/AROME non commentés sur le forum, ICON non évoqué.
+- **Incertitudes images :** Incertitudes sur les graphiques.
+Les cartes UKMO+144h et IFS+156h sont citées mais non reprises ; les diagrammes d’ensemble présentés concernent Blois (Centre), pas les Hauts-de-France ; aucune carte de vigilance n’est fournie dans les échanges.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌦️ Bulletin météo Hauts-de-France – Semaines du 5 au 18 octobre 2026.
-
-Au programme : un début de semaine très doux et ensoleillé, une dégradation plus fraîche et ventée jeudi/vendredi, puis un possible retour de la douceur en semaine 2.
-
-⚠️ Fortes incertitudes à partir de jeudi et surtout pour la semaine du 12 au 18 octobre : le sujet de prévisions n'est pas encore ouvert sur le forum, les projections long terme restent à confirmer.
-
-Restez prudents, suivez les prochains runs ! #Météo #HautsDeFrance #Prévisions #Octobre2026
+🌦️ #Météo #HautsDeFrance : après un début de semaine très doux et ensoleillé (jusqu’à 26°C possibles mardi), une dégradation plus fraîche et venteuse est attendue à partir de jeudi. Pour la semaine du 12 au 18 octobre, les signaux sont encore flous : retour d’une douceur anticyclonique probable, mais forte incertitude. À suivre de près ! Merci à Météo-France et aux passionnés d’Infoclimat. #MonsieurMétéo
