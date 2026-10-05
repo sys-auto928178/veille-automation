@@ -293,7 +293,7 @@ Températures minimales : stationnaires.
 Températures maximales : en hausse du muretain au pièmont.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 051030 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 5 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 5 octobre 2026 à 06H00 UTC, et évolution Hautes pressions autour de 1020-1022 hPa, s'affaissant un peu mardi. Dépression relative 1019 hPa sur les îles Baléares, se creusant un peu et se décalant vers la Corse et la mer Tyrrhénienne mardi. Dépression voisine de 1014 hPa se creusant près de la côte du Roussillon mardi après-midi. Pluies ou averses orageuses sur le bassin. 3 - Prévisions pour l'après-midi du lundi 5 octobre VENT : Est à Sud-Est 2 à 4, revenant secteur Est en fin de journée. Rafales, parfois fortes, sous orages. MER : peu agitée, localement agitée vers le large à l'ouest au début. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : pluie ou averses, localement orageuses, avec rafales, parfois fortes. VISIBILITE : moyenne à mauvaise sous précipitations. 4 - Prévisions pour la nuit du lundi 5 octobre au mardi 6 octobre VENT : secteur Est 2 à 4, fraîchissant Nord-Est 4 à 5 à l'est de Sicié en fin de nuit. Rafales sous orages. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : averses, parfois orageuses avec rafales. VISIBILITE : moyenne à mauvaise sous précipitations. 5 - Prévisions pour la journée du mardi 6 octobre VENT : - à l'ouest du cap Sicié : Est à Sud-Est 2 à 4, fraîchissant 4 à 5 en cours d'après-midi. - à l'est du cap Sicié : Est à Nord-Est 4 à 5, mollissant 3 à 4, parfois 5, en fin de journée. MER : peu agitée à agitée. HOULE : Sud à Sud-Est 0,5 à 1 m, s'orientant Est l'après-midi. TEMPS : passages nuageux et éclaircies, quelques averses possibles. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 6 au 7 et la journée du mercredi 7 octobre VENT : secteur Est dominant 4 à 5, passagèrement 6. Rafales, parfois fortes, sous orages. MER : peu agitée à agitée. HOULE : Sud à Sud-Est 0.5 à 1 m, s'orientant Sud-Ouest à l'ouest de Sicié mercredi. TEMPS : pluie ou averses orageuses, avec rafales, parfois fortes. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 7 au 8 et la journée du jeudi 8 octobre VENT : De Port Camargue à Fos Sud à Sud-Est 5, mollissant 4 en début de nuit, virant ensuite Ouest à Nord-Ouest 8. Rafales. De Fos à St Raphaël Est à Sud-Est 3 à 5, fraîchissant 6 à 8 en cours de matinée en s'orientant Ouest à Nord-Ouest. Rafales. MER : peu agitée à agitée devenant agitée, à localement forte. HOULE non significative s'établissant localement au Sud-Ouest 1 à 1,5 m. 8 - Tendance pour les jours suivants Vendredi 9 octobre secteur Nord-Ouest modéré à assez fort dans le golfe du Lion. Variable faible à modéré ailleurs. Indice de confiance : 3 sur 5 Samedi 10 octobre secteur Nord-Ouest faible modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 3 sur 5 Dimanche 11 octobre secteur Nord-Ouest faible modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 3 sur 5 Lundi 12 octobre secteur Nord faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le lundi 5 octobre 2026 à 09H00 UTC Cap Camarat : vent Nord-Nord-Est 8 noeuds, nuageux avec éclaircies, visibilité 8 milles. Le Levant : vent Est-Nord-Est 10 noeuds, 1023 hPa en hausse. Porquerolles : vent Est-Nord-Est 6 noeuds, rafales 17 noeuds. Cap Couronne : vent Est-Nord-Est 6 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le lundi 5 octobre 2026, vers 18H30 légales
+FQCT40 LFML 051625 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 5 octobre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 5 octobre 2026 à 12H00 UTC, et évolution Hautes pressions autour de 1020-1022 hPa, s'affaissant un peu mardi. Dépression relative 1019 hPa sur les îles Baléares, se creusant un peu et se décalant vers la Corse et la mer Tyrrhénienne mardi. Dépression voisine de 1014 hPa se creusant près de la côte du Roussillon mardi après-midi. Pluies ou averses orageuses sur le bassin. 3 - Prévisions pour la nuit du lundi 5 octobre au mardi 6 octobre VENT : secteur Est 2 à 4, fraîchissant Nord-Est 4 à 5 à l'est de Sicié en seconde partie de nuit. Rafales sous orages. MER : peu agitée. HOULE : Sud à Sud-Est 0.5 à 1 m. TEMPS : averses, parfois orageuses avec rafales. VISIBILITE : moyenne à mauvaise sous précipitations. 4 - Prévisions pour la journée du mardi 6 octobre VENT : - à l'ouest du cap Sicié : Est à Sud-Est 2 à 4, fraîchissant 4 à 5 en cours d'après-midi. - à l'est du cap Sicié : Est à Nord-Est 4 à 5, mollissant 3 à 4, parfois 5, en fin de journée. MER : peu agitée à agitée. HOULE : Sud à Sud-Est 0,5 à 1 m, s'orientant Est l'après-midi. TEMPS : passages nuageux et éclaircies, quelques averses possibles. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 5 - Tendance pour la nuit du 6 au 7, et la journée du mercredi 7 octobre VENT : secteur Est dominant 4 à 5, passagèrement 6, virant secteur Sud-Est mercredi. Rafales, parfois fortes, sous orages. MER : peu agitée à agitée. HOULE : secteur Est 0.5 à 1 m, s'orientant Sud-Ouest à l'ouest de Sicié mercredi. TEMPS : pluie ou averses orageuses, avec rafales, parfois fortes. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 7 au 8 et la journée du jeudi 8 octobre VENT : De Port Camargue à Fos Sud à Sud-Est 5, mollissant 4 en début de nuit, virant ensuite Ouest à Nord-Ouest 8. Rafales. De Fos à St Raphaël Est à Sud-Est 3 à 5, fraîchissant 6 à 8 en cours de matinée en s'orientant Ouest à Nord-Ouest. Rafales. MER : peu agitée à agitée devenant agitée, à localement forte. HOULE non significative s'établissant localement au Sud-Ouest 1 à 1,5 m. 7 - Tendance pour les jours suivants Vendredi 9 octobre secteur Nord-Ouest modéré à assez fort dans le golfe du Lion. Variable faible à modéré ailleurs. Indice de confiance : 3 sur 5 Samedi 10 octobre secteur Nord-Ouest faible modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 3 sur 5 Dimanche 11 octobre secteur Nord-Ouest faible modéré dans le golfe du Lion. Variable faible ailleurs. Indice de confiance : 3 sur 5 Lundi 12 octobre secteur Nord faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le lundi 5 octobre 2026 à 15H00 UTC Cap Camarat : vent Est 6 noeuds, nuageux avec éclaircies, visibilité 8 milles. Le Levant : vent Est-Sud-Est 8 noeuds, 1021 hPa en baisse. Porquerolles : vent Est-Sud-Est 10 noeuds. Cap Couronne : vent Sud-Est 8 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le mardi 6 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -322,12 +322,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
-• Infoclimat Direct : Incendies 2026
-• Infoclimat Direct : A Ciel Ouvert
-• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
-• Infoclimat Direct : Prévisions Massif Central octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Climatologie 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Octobre  2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 05/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -335,9 +335,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 5 Octobre 2026.
-Résumé général précédent : Après une semaine 41 contrastée (chaleur automnale, orages, coup de frais), une tendance anticyclonique pourrait s’installer en semaine 42, avec un temps plus sec et doux, surtout au sud..
+Résumé général précédent : Sur 15 jours : chaleur automnale marquée en début de semaine 41, dégradation orageuse mercredi, net rafraîchissement jeudi, puis retour anticyclonique probable en semaine 42 avec un temps sec et doux..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur mardi, dégradation mercredi, fraîcheur jeudi; orages du Centre très incertains..
+Températures attendues précédemment : Orages potentiellement forts mercredi sur un axe centre-est, puis net rafraîchissement jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -466,7 +466,7 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 19 heures par Nono34
+	Modifié il y a 21 heures par Nono34
 								4
 								1
 								1
@@ -496,7 +496,7 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 17 heures par Ciel d&#039;encre
+	Modifié il y a 19 heures par Ciel d&#039;encre
 								7
 								1
 
@@ -507,7 +507,7 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 
 =======================
@@ -577,7 +577,7 @@ Va-t-on retrouver des conditions anticyclonique sur la France ou du moins partie
 	Ce ne sont que des tendances mais si elles se confirmaient on pourrait être de nouveau au régime assez sec question précipitations et les températures pourraient à nouveau repasser au dessus des moyennes, notamment dans le sud.
 	Exemple diagrammes de Bordeaux  et de Marseille :
 	Mais aussi plus au nord, exemple Clermont Ferrand :
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 Modifié
 								2
 								1
@@ -608,10 +608,23 @@ en effet les ami-e-s, c'est du gros bloc de chez blocage, qui roule à l'infini.
 	mais à méso échelle si on suit les isobares, ça resterait du flux l'W on dirait... divergence au niveau des groupes majoritaires de scénarios entre CEP (diagramme de Hovmoller) et GEFS... ? on en conclurait une indétermination pour la tendance...
 	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=204&amp;mode=0&amp;code=31&amp;ext=0
 	quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
-	Modifié il y a 15 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
 
 =======================
 
 Auteur: Nico 14
 Message:
 En effet,anomalie anticyclonique à envisager sur cette échéance avec un jet renvoyé au nord de notre position. Signal sec sur ce courant d'ouest haut en latitude avec température proche des normes ou au dessus.
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+2 hours ago, giec 2100 said:
+			quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
+	Attention tout de même ces probabilité sont quasiment illisibles à ces échéances : les décalages temporels (qui excédent 1 jour sans problème pour lesdites échéances) floutent complètement le signal. Si on regarde le tableau pour Clermont-Ferrand par exemple, il montre des scénarios sec, et des très humides. --&gt; on ne peut pas dire grand chose sur la prévision.
+	Bon dans ce cas ça ne change pas grandement l'analyse, on se dirige vers une semaine probablement sèche, à mon qu'un cyclogenèse ne vienne perturber l'extension des hauts géopotentiels.
+	Modifié il y a 1 heure par Jojobarbar
+								2

@@ -284,7 +284,7 @@ Températures minimales : en hausse sur la Thiérache ainsi que sur le Laonnois.
 Températures maximales : en hausse sur la Thiérache.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 050945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 5 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 5 octobre 2026 à 06H00 UTC, et évolution Dorsale atlantique s'étendant sur la Manche, s'affaissant la nuit. Dépression relative 1014 hPa à l'ouest de la péninsule Ibérique, se décalant vers le nord-est la nuit, prévue 1012 hPa dans le golfe de Gascogne mardi matin. 3 - Prévisions pour l'après-midi du lundi 5 octobre VENT : Ouest à Sud-Ouest 3 à 4. MER : belle, localement peu agitée en Mer du Nord. HOULE : non significative. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du lundi 5 octobre au mardi 6 octobre VENT : Ouest à Sud-Ouest 3 à 4, mollissant Variable 1 à 3 en milieu de nuit. MER : belle, parfois peu agitée en Mer du Nord le soir. HOULE : non significative. TEMPS : clair, parfois bancs de brume en seconde partie de nuit. VISIBILITE : bonne, parfois mauvaise par bancs de brume en seconde partie de nuit. 5 - Prévisions pour la journée du mardi 6 octobre VENT : Variable 1 à 3, fraîchissant Nord-Est 3 à 4 à la fin. MER : belle. HOULE : non significative. TEMPS : devenant nuageux, parfois bancs de brume le matin. VISIBILITE : bonne, parfois mauvaise par bancs de brume le matin. 6 - Prévisions pour la nuit du 6 au 7 et la journée du mercredi 7 octobre VENT : virant secteur Est 3 à 4, puis fraîchissant Nord 5 à 6 en journée. Rafales. MER : belle, devenant peu agitée à agitée en journée. HOULE : non significative. TEMPS : nuageux, parfois pluie et averses à la fin. VISIBILITE : bonne, parfois mauvaise sous pluie et averses à la fin. 7 - Prévisions pour la nuit du 7 au 8 et la journée du jeudi 8 octobre VENT : Nord à Nord-Ouest 6, fraîchissant 7 en début de nuit, puis mollissant 4 à 5 en milieu d'après-midi. Rafales. MER : peu agitée à agitée, localement forte en mer du nord. HOULE de Nord-Est inférieure à 1,5 m, s'orientant en cours de matinée au Nord à Nord-Ouest. 8 - Tendance pour les jours suivants Vendredi 9 octobre secteur Ouest modéré. Indice de confiance : 3 sur 5 Samedi 10 octobre secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Dimanche 11 octobre secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Lundi 12 octobre secteur Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 9 - Observations le lundi 5 octobre 2026 à 09H00 UTC Dunkerque : vent Ouest 8 noeuds, mer belle, 1025 hPa en hausse, clair ou peu nuageux, visibilité 4 milles. Cap Gris Nez : vent Sud-Sud-Ouest 14 noeuds. Boulogne : vent Sud-Sud-Ouest 4 noeuds, 1026 hPa en hausse, nuageux avec éclaircies, visibilité 5 milles. Prochain bulletin le lundi 5 octobre 2026, vers 18H00 légales
+FQCT40 LFQQ 051620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 5 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 5 octobre 2026 à 12H00 UTC, et évolution Dorsale atlantique s'étendant sur la Manche, s'affaissant la nuit. Dépression relative 1014 hPa à l'ouest de la péninsule Ibérique, prévue 1013 hPa dans le golfe de Gascogne mardi matin, puis 1010 hPa le soir. 3 - Prévisions pour la nuit du lundi 5 octobre au mardi 6 octobre VENT : Ouest à Sud-Ouest 3 à 4, mollissant Variable 1 à 3 en seconde partie de nuit. MER : belle, parfois peu agitée en Mer du Nord le soir. HOULE : non significative. TEMPS : clair, parfois bancs de brume en seconde partie de nuit. VISIBILITE : bonne, parfois mauvaise par bancs de brume en seconde partie de nuit. 4 - Prévisions pour la journée du mardi 6 octobre VENT : Variable 1 à 3, fraîchissant Nord-Est 3 à 4 à la fin. MER : belle. HOULE : non significative. TEMPS : devenant nuageux, parfois bancs de brume le matin. VISIBILITE : bonne, parfois mauvaise par bancs de brume le matin. 5 - Tendance pour la nuit du 6 au 7, et la journée du mercredi 7 octobre VENT : Est à Nord-Est 3 à 4, fraîchissant Nord 5 à 6 avec rafales l'après-midi. MER : belle, devenant peu agitée à agitée l'après-midi. HOULE : non significative. TEMPS : nuageux, parfois pluie et averses à la fin. VISIBILITE : bonne, parfois mauvaise sous pluie et averses à la fin. 6 - Prévisions pour la nuit du 7 au 8 et la journée du jeudi 8 octobre VENT : Nord à Nord-Ouest 6, fraîchissant 7 en début de nuit, puis mollissant 4 à 5 en milieu d'après-midi. Rafales. MER : peu agitée à agitée, localement forte en mer du nord. HOULE de Nord-Est inférieure à 1,5 m, s'orientant en cours de matinée au Nord à Nord-Ouest. 7 - Tendance pour les jours suivants Vendredi 9 octobre secteur Ouest modéré. Indice de confiance : 3 sur 5 Samedi 10 octobre secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Dimanche 11 octobre secteur Ouest faible à modéré. Indice de confiance : 3 sur 5 Lundi 12 octobre secteur Sud-Ouest faible à modéré. Indice de confiance : 2 sur 5 8 - Observations le lundi 5 octobre 2026 à 15H00 UTC Dunkerque : vent Sud-Sud-Ouest 8 noeuds, 1022 hPa en baisse. Cap Gris Nez : vent Sud-Ouest 14 noeuds. Boulogne : vent Sud-Ouest 10 noeuds, 1023 hPa en baisse. Bouée Sandettie : vent Sud-Ouest 16 noeuds, creux 1,1 mètre, 1022 hPa en baisse, visibilité 5 milles. Prochain bulletin le mardi 6 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -313,12 +313,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Prévisions Massif Central octobre 2026
-• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
-• Infoclimat Direct : Incendies 2026
-• Infoclimat Direct : A Ciel Ouvert
+• Infoclimat Direct : Premières neiges au Spitzberg
 • Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 05/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -326,9 +326,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 5 Octobre 2026.
-Résumé général HDF précédent : .
+Résumé général HDF précédent : Alternance très douce en début de semaine 1, passage pluvio-orageux et rafraîchissement net mercredi/jeudi, puis probable retour d'un temps sec et anticyclonique en semaine 2 avec températures au-dessus des normales..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : De saison.
+Températures attendues précédemment : Averses parfois orageuses mercredi, pluies éparses jeudi, rafales 55-65 km/h sur les littoraux, brouillards matinaux..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -457,7 +457,7 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 19 heures par Nono34
+	Modifié il y a 21 heures par Nono34
 								4
 								1
 								1
@@ -487,7 +487,7 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 17 heures par Ciel d&#039;encre
+	Modifié il y a 19 heures par Ciel d&#039;encre
 								7
 								1
 
@@ -498,7 +498,7 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 
 =======================
@@ -568,7 +568,7 @@ Va-t-on retrouver des conditions anticyclonique sur la France ou du moins partie
 	Ce ne sont que des tendances mais si elles se confirmaient on pourrait être de nouveau au régime assez sec question précipitations et les températures pourraient à nouveau repasser au dessus des moyennes, notamment dans le sud.
 	Exemple diagrammes de Bordeaux  et de Marseille :
 	Mais aussi plus au nord, exemple Clermont Ferrand :
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 Modifié
 								2
 								1
@@ -599,10 +599,23 @@ en effet les ami-e-s, c'est du gros bloc de chez blocage, qui roule à l'infini.
 	mais à méso échelle si on suit les isobares, ça resterait du flux l'W on dirait... divergence au niveau des groupes majoritaires de scénarios entre CEP (diagramme de Hovmoller) et GEFS... ? on en conclurait une indétermination pour la tendance...
 	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=204&amp;mode=0&amp;code=31&amp;ext=0
 	quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
-	Modifié il y a 15 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
 
 =======================
 
 Auteur: Nico 14
 Message:
 En effet,anomalie anticyclonique à envisager sur cette échéance avec un jet renvoyé au nord de notre position. Signal sec sur ce courant d'ouest haut en latitude avec température proche des normes ou au dessus.
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+2 hours ago, giec 2100 said:
+			quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
+	Attention tout de même ces probabilité sont quasiment illisibles à ces échéances : les décalages temporels (qui excédent 1 jour sans problème pour lesdites échéances) floutent complètement le signal. Si on regarde le tableau pour Clermont-Ferrand par exemple, il montre des scénarios sec, et des très humides. --&gt; on ne peut pas dire grand chose sur la prévision.
+	Bon dans ce cas ça ne change pas grandement l'analyse, on se dirige vers une semaine probablement sèche, à mon qu'un cyclogenèse ne vienne perturber l'extension des hauts géopotentiels.
+	Modifié il y a 1 heure par Jojobarbar
+								2
