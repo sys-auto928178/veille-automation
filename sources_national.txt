@@ -343,12 +343,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord - Octobre  2026
-• Infoclimat Direct : Suivi de la secheresse
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 05/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -356,34 +356,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 5 Octobre 2026.
-Résumé général précédent : Quinzaine contrastée : chaleur automnale en début de semaine 41, dégradation orageuse mercredi, net refroidissement jeudi-vendredi, puis nouveau regain de douceur possible en semaine 42. L'anticyclone ne lâchera pas durablement prise..
+Résumé général précédent : Quinze jours en yo-yo : chaleur automnale record en début de semaine 41, dégradation orageuse mercredi, coup de frais net et généralisé jeudi, puis retour à un temps sec et anticyclonique avec un redoux progressif en semaine 42. La sécheresse reste le fil rouge, les pluies annoncées étant insuffisantes..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies orageuses initialement modélisées puis dégonflées ; coup de frais jeudi-vendredi..
+Températures attendues précédemment : Orages limités au centre puis annulés ; coup de frais net en fin de semaine ; retour d'un temps sec et anticyclonique..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
-Auteur: Nico 14
-Message:
-Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								11
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son carré magique, pour voir si la situation avait bougé depuis le début de sa prévision : 
-	j'avais déjà dit ma réticence au sujet de ces oscillation NAO plus ou moins, du fait de la migration des centres d'action vers le N sous la poussée de l'influence de la zone intertropicale, au vu d'une certaine littérature ;  
-	on s'en servira quand même, en constatant qu'on va se trouver encore avec le popotin entre deux chaises (l'ensemble des scénarios enfermés dans le cercle d'écart type égal à 1 ne donne pas de tendance nette...), avec une majorité de scénarios à faible tendance NAO- et BL- - faible flux d'W et minimum sur la Fennoscandie - accompagné d'un petit groupe de scénarios à tendance NAO+ et léger blocage...
-	concrètement le froid devrait rester dans le frigo poussif arctique sans débordement vers le pays au cours de la période et la position des centres d'action nous mettre sous influence anticyclonique, donc plutôt au sec...
-	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
-	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
-	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié vendredi à 21:14 par giec 2100
-								4
-
-=======================
-
 Auteur: Plancher
 Message:
 GFS continue à faire sa girouette. Un coup froid, un coup chaud... Le run de 6Z est toujours le plus chaud étrangement.
@@ -438,7 +416,7 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 23 heures par Jojobarbar
+	Modifié hier à 08:15 par Jojobarbar
 								8
 								6
 								1
@@ -453,14 +431,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 23 heures par Leonai
+	Modifié hier à 08:08 par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 23 heures par Krholam
+	Modifié hier à 08:14 par Krholam
 								1
 
 =======================
@@ -472,7 +450,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 21 heures par Jojobarbar
+	Modifié il y a 23 heures par Jojobarbar
 								1
 								3
 
@@ -520,7 +498,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 17 heures par Twister83
+	Modifié il y a 19 heures par Twister83
 								3
 								2
 								1
@@ -538,7 +516,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -552,7 +530,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 16 heures par Leonai
+	Modifié il y a 18 heures par Leonai
 								1
 
 =======================
@@ -570,8 +548,8 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 11 heures par Nono34
-								3
+	Modifié il y a 13 heures par Nono34
+								4
 								1
 
 =======================
@@ -599,8 +577,8 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 9 heures par Ciel d&#039;encre
-								4
+	Modifié il y a 11 heures par Ciel d&#039;encre
+								5
 
 =======================
 
@@ -609,31 +587,27 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
+
+=======================
+
+Auteur: Plancher
+Message:
+J'ai regardé les différents modèles ce matin. Je suis perplexe. Le changement c'est pas réellement pour maintenant. Le rafraîchissement promis n'est pas si marqué et ça repart à la hausse assez rapidement. On risque d'être encore en tee-shirt à La Toussaint. Je pense n'avoir jamais connu cela.
+	Seul la réduction du nombre d'heures de jour nous sauve.
+
+=======================
+
+Auteur: Krholam
+Message:
+Il y a 11 heures, giec 2100 a dit :
+			celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
+			https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
+	Mouais, pas trop d'accord avec le fait que nous partirions sur du blocage. En terme d'évolution temporelle du diagramme, le blocage entre le 12 et le 19 semble stable ou en regression.
+	Je ne dis pas non plus qu'on se taper de la pluie où je te rejoint totalement dessus.
+	A voir dans le topic suivant (désolé j'ai pas assez de temps aujourd'hui pour faire une belle ouverture  )
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: Nico 14
-Message:
-Oui, la baisse des températures en seconde partie de semaine a bien été anticipée par l'EPS.On pourrait même réussir l'exploit d’être légèrement sous les normes à partir de jeudi et possiblement jusqu'à la fin d'échéance à la faveur d'une ondulation atlantique.UKMO+144h et IFS+156h T850Hpa:
-								11
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-bon, j'ai farfouillé dans la boîte à outils de Tao et lui ai dérobé son carré magique, pour voir si la situation avait bougé depuis le début de sa prévision : 
-	j'avais déjà dit ma réticence au sujet de ces oscillation NAO plus ou moins, du fait de la migration des centres d'action vers le N sous la poussée de l'influence de la zone intertropicale, au vu d'une certaine littérature ;  
-	on s'en servira quand même, en constatant qu'on va se trouver encore avec le popotin entre deux chaises (l'ensemble des scénarios enfermés dans le cercle d'écart type égal à 1 ne donne pas de tendance nette...), avec une majorité de scénarios à faible tendance NAO- et BL- - faible flux d'W et minimum sur la Fennoscandie - accompagné d'un petit groupe de scénarios à tendance NAO+ et léger blocage...
-	concrètement le froid devrait rester dans le frigo poussif arctique sans débordement vers le pays au cours de la période et la position des centres d'action nous mettre sous influence anticyclonique, donc plutôt au sec...
-	ce que rend bien compte l'animation de l'Américain de midi, avec le moulin de la danse des minimums arctiques incapable de faire le presse-purée à l'égard de la ceinture patatoïde...
-	quand au rinçage de glotte le bar devrait rester fermé jusqu'à la fin d'échéance, avec peut-être un passage à la sauvette du tenancier en milieu de semaine (mercredi), mais servant prioritairement et chichement les soiffards de la moitié N du pays...
-	https://charts.ecmwf.int/products/extended-2dim-pdf?base_time=202610010000&amp;valid_time=202610120000
-	Modifié vendredi à 21:14 par giec 2100
-								4
-
-=======================
-
 Auteur: Plancher
 Message:
 GFS continue à faire sa girouette. Un coup froid, un coup chaud... Le run de 6Z est toujours le plus chaud étrangement.
@@ -688,7 +662,7 @@ Message:
 	Qu'en conclure ? Si on ne regarde QUE ces figures, on peut s'attendre entre mardi et mercredi à une dizaine de mm. A priori, on peut assurer que ce ne sera pas sec in fine. On peut assurer de la même manière que les cumuls n'excéderont pas 20mm. On peut assurer cela depuis assez longtemps.
 	Naturellement, plus on remonte dans le temps, plus l'incertitude était grande. De plus, on ne se concentre que sur les cartes de cumuls, que sur une fenêtre de 48h, que sur 2 modèles ensemblistes, que sur Blois, sans s'intéresser aux mécanismes... Donc ce n'est pas que ça la météo et cette prévision très statistiques (mais basée sur des modèles météo) pourrait être grandement enrichie.
 	Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	Modifié il y a 23 heures par Jojobarbar
+	Modifié hier à 08:15 par Jojobarbar
 								8
 								6
 								1
@@ -703,14 +677,14 @@ il y a 10 minutes, Jojobarbar a dit :
 			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
 	😲
 	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié il y a 23 heures par Leonai
+	Modifié hier à 08:08 par Leonai
 
 =======================
 
 Auteur: Krholam
 Message:
 Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié il y a 23 heures par Krholam
+	Modifié hier à 08:14 par Krholam
 								1
 
 =======================
@@ -722,7 +696,7 @@ Message:
 			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
 	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
 	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié il y a 21 heures par Jojobarbar
+	Modifié il y a 23 heures par Jojobarbar
 								1
 								3
 
@@ -770,7 +744,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 17 heures par Twister83
+	Modifié il y a 19 heures par Twister83
 								3
 								2
 								1
@@ -788,7 +762,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -802,7 +776,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 16 heures par Leonai
+	Modifié il y a 18 heures par Leonai
 								1
 
 =======================
@@ -820,8 +794,8 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 11 heures par Nono34
-								3
+	Modifié il y a 13 heures par Nono34
+								4
 								1
 
 =======================
@@ -849,8 +823,8 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 9 heures par Ciel d&#039;encre
-								4
+	Modifié il y a 11 heures par Ciel d&#039;encre
+								5
 
 =======================
 
@@ -859,4 +833,22 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
+
+=======================
+
+Auteur: Plancher
+Message:
+J'ai regardé les différents modèles ce matin. Je suis perplexe. Le changement c'est pas réellement pour maintenant. Le rafraîchissement promis n'est pas si marqué et ça repart à la hausse assez rapidement. On risque d'être encore en tee-shirt à La Toussaint. Je pense n'avoir jamais connu cela.
+	Seul la réduction du nombre d'heures de jour nous sauve.
+
+=======================
+
+Auteur: Krholam
+Message:
+Il y a 11 heures, giec 2100 a dit :
+			celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
+			https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
+	Mouais, pas trop d'accord avec le fait que nous partirions sur du blocage. En terme d'évolution temporelle du diagramme, le blocage entre le 12 et le 19 semble stable ou en regression.
+	Je ne dis pas non plus qu'on se taper de la pluie où je te rejoint totalement dessus.
+	A voir dans le topic suivant (désolé j'ai pas assez de temps aujourd'hui pour faire une belle ouverture  )
