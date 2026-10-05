@@ -347,12 +347,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Incendies 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
-• Infoclimat Direct : Prévisions Sud-Ouest. Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps &#xE0; Montréal
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps au Saguenay, Québec (Canada)
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 05/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -360,9 +360,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 5 Octobre 2026.
-Résumé général précédent : Première quinzaine d'octobre en yo-yo : chaleur automnale record en début de semaine 41, dégradation orageuse mercredi, coup de frais net jeudi/vendredi, puis retour d'un temps sec et anticyclonique avec un redoux progressif en semaine 42. La sécheresse reste préoccupante, les pluies attendues étant insuffisantes..
+Résumé général précédent : Sur 15 jours : chaleur automnale en début de semaine 41, dégradation orageuse mercredi 7, coup de frais jeudi-vendredi, puis tendance anticyclonique et douceur en semaine 42, à confirmer..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies orageuses modélisées dans le centre puis annulées ; baisse des températures finalement peu marquée..
+Températures attendues précédemment : Orages et précipitations très incertains sur le centre mardi-mercredi ; coup de frais ensuite..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 5 au Dimanche 11 Octobre 2026) ===
@@ -493,7 +493,7 @@ il y a une heure, serge26 a dit :
 	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
 	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
 	En espérant le moins de patates possible ces prochains semaines...
-	Modifié il y a 21 heures par Twister83
+	Modifié il y a 23 heures par Twister83
 								3
 								2
 								1
@@ -511,7 +511,7 @@ Il y a 3 heures, Ciel d'encre a dit :
 	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
 	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
 	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié il y a 21 heures par giec 2100
+	Modifié il y a 23 heures par giec 2100
 								1
 
 =======================
@@ -525,7 +525,7 @@ Il y a 3 heures, Twister83 a dit :
 	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
 	novembre: ?
 	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié il y a 20 heures par Leonai
+	Modifié il y a 22 heures par Leonai
 								1
 
 =======================
@@ -543,8 +543,9 @@ Message:
 Il y a 3 heures, ripocheguillaume_88 a dit :
 			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
 	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié il y a 15 heures par Nono34
+	Modifié il y a 17 heures par Nono34
 								4
+								1
 								1
 
 =======================
@@ -555,7 +556,7 @@ il y a 9 minutes, Nono34 a dit :
 			Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
 	Bonsoir, 
 	Une dizaine de mm de modelisée en moyenne ne va pas changer grand chose concernant la sécheresse. 
-								3
+								4
 
 =======================
 
@@ -572,8 +573,8 @@ Message:
 On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
 	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
 	À suivre...
-	Modifié il y a 13 heures par Ciel d&#039;encre
-								6
+	Modifié il y a 15 heures par Ciel d&#039;encre
+								7
 
 =======================
 
@@ -582,7 +583,7 @@ Message:
 celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
 	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
 	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								1
 
 =======================
@@ -626,7 +627,20 @@ Va-t-on retrouver des conditions anticyclonique sur la France ou du moins partie
 	Ce ne sont que des tendances mais si elles se confirmaient on pourrait être de nouveau au régime assez sec question précipitations et les températures pourraient à nouveau repasser au dessus des moyennes, notamment dans le sud.
 	Exemple diagrammes de Bordeaux  et de Marseille :
 	Mais aussi plus au nord, exemple Clermont Ferrand :
-	Modifié il y a 31 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 Modifié
+								2
 								1
-								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Effectivement on voit bien cette possibilité de "patate" anticyclonique"
+	A voir dans cela si nous serions plutôt dans le "frais" ou dans le "chaud" sachant qu'en s'enfonçant de plus en plus dans l'automne les inversions vont devenir de plus en plus probable.
+	Pour le moment
+	Dans des températures au dessus de la moyenne sans pourtant dans de grands excès même si l'on voit le potentiel "chaud" avec des plages rose foncées pas si loins que ça de nous
+	Coté PP je ne serais pas aussi catégorique car même si la tendances des Géopotentiels est à leur rapprochement de nous, il y a sans doutes des possibilités de faiblesses de l'AA qui resteraient possible avec la barocline peut être pas si éloignée que ça du nord de la France, permettant peut être quelques pluies sur le nord de la france (avec cependant une incertitude assez marquée)
+	Un exemple de ça (pour ce que ça vaut) est par exemple le det de CEP au 15/10 qui voit un peu d'humidité par le nord malgrès 1025/1030 Hpa sur la france
+	On est donc sur une situation globalement seche mais qui n'est peut être pas aussi verrouillée
+								2
