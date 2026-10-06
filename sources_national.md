@@ -69,41 +69,41 @@ Températures minimales : sans changement significatif.
 Températures maximales : identiques à la veille.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 06/10/2026 16:45
+Emis le : 06/10/2026 22:02
 
 Vigilance :
-Attention, aujourd'hui, le département des Bouches-du-Rhône est en vigilance jaune pour le phénomène orages. Demain, il sera en vigilance orange pour les phénomènes orages et pluie-inondation.
+Aujourd'hui, le département des Bouches-du-Rhône est en vigilance verte. Demain, il sera en vigilance orange pour les phénomènes pluie-inondation et orages.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Marignane : température de 26 degrés, vent de secteur Sud-Ouest soufflant jusqu'à 20 km/h, pression niveau mer 1016 hPa.
-A Aix-en-Provence : température de 24 degrés, vent de secteur Sud soufflant jusqu'à 20 km/h.
+Aujourd'hui on observait à 21h :
+A Marignane : température de 21 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 15 km/h, pression niveau mer 1016 hPa.
+A Aix-en-Provence : température de 21 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 15 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
 Le ciel est assez bien dégagé en début de nuit, puis les nuages deviennent nombreux et menaçants. En seconde partie de nuit, des averses se produisent, des orages sont possibles.
-Les plus forts cumuls de pluie attendus sont de 40 millimètres sur la Camargue et la Crau.
-Vent d'Est à Sud-Est, faible à modéré, avec des rafales proches de 55 km/h, localement, en deuxième partie de nuit.
+40 millimètres est le cumul maximum de pluie attendu sur la Camargue et la Crau.
+Vent d'Est à Sud-Est, faible à modéré, avec des rafales proches de 55 km/h, localement, en seconde partie de nuit.
 Températures minimales : de 16 à 19 degrés, et 20 degrés d'Arles au Golfe de Fos.
 
 • Pour demain mercredi 07 en journée et la nuit suivante :
-Dans une atmosphère agitée, le ciel est très changeant avec quelques éclaircies et de nombreux nuages. Ces derniers donnent des averses parfois marquées, et un coup de tonnerre n'est pas exclu en matinée, autour des Alpilles, sur le pays aixois ainsi que sur la Camargue et les Calanques. Pour la nuit : En début de soirée, le temps est orageux sous un ciel bien chargé. Rapidement, le caractère orageux s'estompe, et il ne persiste plus que quelques rares averses jusqu'à minuit. La seconde partie de nuit se déroule ensuite sous un ciel largement étoilé. Mais il faut noter qu'en fin de nuit, des brumes ou brouillards légers font leur apparition.
-On prévoit au maximum jusqu'à 50 millimètres de pluie sur le pays d'Aix.
-Vents irréguliers, avec des rafales proches de 55 km/h, localement, en fin de matinée.
+Dans une atmosphère agitée, le ciel est très changeant avec quelques éclaircies et de nombreux nuages. Ces derniers donnent des averses parfois marquées, et un coup de tonnerre n'est pas exclu en matinée, autour des Alpilles, sur le pays d'Aix ainsi que sur la Camargue et les Calanques. Pour la nuit : En début de soirée, le temps est orageux sous un ciel bien chargé. Rapidement, le caractère orageux s'estompe, et il ne persiste plus que quelques rares averses jusqu'à minuit. La seconde partie de nuit se déroule ensuite sous un ciel largement étoilé. Mais il faut noter qu'en fin de nuit, des brumes ou brouillards légers font leur apparition.
+Les plus forts cumuls de pluie attendus sont de 50 millimètres sur le pays aixois.
+Vent généralement faible à modéré, mais avec des rafales atteignant 55 km/h, localement, en fin de matinée.
 Températures maximales pour le jour : entre 20 et 23 degrés.
-Températures minimales pour la nuit suivante : entre 12 et 15 degrés, et 16 degrés de la Camargue au Golfe de Fos.
+Températures minimales pour la nuit suivante : de 12 à 15 degrés, et 16 degrés de la Camargue au Golfe de Fos.
 
 • Pour la journée de jeudi 08 et la nuit suivante :
-Le ciel est variable le matin, et de petites averses se produisent. L'après-midi, le ciel se dégage et le soleil brille généreusement en fin de journée. Pour la nuit : Le temps est calme et propice à l'observation des étoiles.
+Le ciel est variable le matin, et de petites averses se produisent. L'après-midi, le ciel se dégage et le soleil brille généreusement en fin de journée. Pour la nuit : Les rares nuages présents n'empêchent nullement l'observation des étoiles.
 L'après-midi et la nuit suivante, établissement de Mistral, généralement assez fort à fort. Rafales atteignant 85 km/h localement, l'après-midi et la nuit suivante.
-Températures maximales pour le jour : de 19 à 21 degrés.
-Températures minimales pour la nuit suivante : du Rhône à Aix et à Marseille comprises entre 10 et 13 degrés. Entre 7 et 8 degrés sur le val de Durance et la Sainte Baume.
+Températures maximales pour le jour : entre 19 et 21 degrés.
+Températures minimales pour la nuit suivante : du Rhône à Aix et à Marseille comprises entre 10 et 13 degrés. Comprises entre 7 et 8 degrés sur le val de Durance et la Sainte Baume.
 
 • Pour la journée de vendredi 09 :
-L'ensoleillement est excellent et le soleil règne sans partage.
-Mistral assez fort, du Rhône à l'étang de Berre et autour de Marseille. Rafales atteignant 85 km/h, en journée.
-Températures maximales : de 19 à 22 degrés, et 18 degrés de Châteaurenard à Salon.
+Le soleil règne en maître du matin au soir.
+Mistral assez fort, du Rhône à l'étang de Berre et jusqu'aux Calanques. Rafales atteignant 85 km/h, en journée.
+Températures maximales : comprises entre 19 et 22 degrés, et 18 degrés de Châteaurenard à Salon.
 
 • Pour samedi 10 et dimanche 11 :
 Le soleil brille sans partage.
@@ -320,12 +320,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord - Octobre  2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 06/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -333,9 +333,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 6 Octobre 2026.
-Résumé général précédent : Début de semaine doux et orageux, net rafraîchissement jeudi/vendredi, puis retour probable d’un temps sec, doux et anticyclonique pour la mi-octobre..
+Résumé général précédent : Après un début de semaine très doux et orageux, net rafraîchissement en milieu de semaine 1, puis retour progressif d'un temps sec, doux et anticyclonique pour la mi-octobre..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses orageuses mardi/mercredi, nette baisse des températures jeudi/vendredi, retour du soleil le week-end..
+Températures attendues précédemment : Averses orageuses mercredi, baisse des températures jeudi/vendredi, éclaircies le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 6 au Dimanche 11 Octobre 2026) ===
@@ -565,23 +565,6 @@ Il y a 1 heure, Plancher a dit :
 	Les incursions fraîches pourraient quand même se montrer plus fréquentes ce mois-ci et heureusement.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-Va-t-on retrouver des conditions anticyclonique sur la France ou du moins partiellement ?
-	Le modèle Weekly modélise des hauts geopotentions en hausse par l'ouest :
-	Les moyennes CEP et GEM consolident le signal de Weekly avec une possible hausse des géopotentiels par le sud-ouest : 
-	Le déterministe de CEP illustre parfaitement ce possible scenario avec pourquoi pas une patate anticyclonique. On ne sait pas par contre à ce stade si cela pourrait perdurer longtemps
-	et le positionnement précis de ces hautes pressions :
-	Ce ne sont que des tendances mais si elles se confirmaient on pourrait être de nouveau au régime assez sec question précipitations et les températures pourraient à nouveau repasser au dessus des moyennes, notamment dans le sud.
-	Exemple diagrammes de Bordeaux  et de Marseille :
-	Mais aussi plus au nord, exemple Clermont Ferrand :
-	Modifié hier à 11:29 par petit âge glaciaire 11
-Modifié
-								2
-								2
-
-=======================
-
 Auteur: Krholam
 Message:
 Effectivement on voit bien cette possibilité de "patate" anticyclonique"
@@ -650,7 +633,7 @@ Il y a 2 heures, Jojobarbar a dit :
 		il y a une heure, tao a dit :
 			attention quand même
 	Ok ok, on va faire gaffe!
-								14
+								15
 
 =======================
 
@@ -687,7 +670,7 @@ Il y a 2 heures, giec 2100 a dit :
 	 La difference entte ce matin (run du 04/10) et maintenant est flagrante
 	Il est beaucoup trop tot pour donc parler d’installation de tendance au blocage.
 	Mais on reste au sec, l’anomalie d’absence de PP fait un bon
-	Modifié il y a 22 heures par Krholam
+	Modifié hier à 21:38 par Krholam
 								4
 								2
 
@@ -706,7 +689,7 @@ Message:
 	sur un tout autre sujet, mais toujours en lien avec le run sur run, déconseillé par certain-e-s, un beau retournement - dans tous les sens du terme - avec la circulation du jet chez GFS ce soir, comparée à celle de midi en-dessous : 
 	https://images.meteociel.fr/im/97/534/gfsnh_5_204dus5.png
 	https://images.meteociel.fr/im/33/28104/gfsnh_m5.png5_270tl
-	Modifié il y a 21 heures par giec 2100
+	Modifié il y a 23 heures par giec 2100
 								1
 
 =======================
@@ -742,7 +725,7 @@ il y a 41 minutes, nickdu77 a dit :
 	peu déterminable mais sans doute ni nordique ni de sud.
 	Décalage à l'ouest des hautes pressions et des géopotentiels d'altitude néanmoins visible par rapport à mercredi, reflux de la patate anticyclonique ? A voir.... :
 	Bon ce ne sont que des signaux à long terme d'un modèle.
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 								1
 								2
 								1
@@ -767,7 +750,7 @@ il y a 55 minutes, nickdu77 a dit :
 	Juste un run det à 300h.
 	Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
 								2
-								9
+								10
 
 =======================
 
@@ -777,7 +760,7 @@ il y a une heure, Krholam a dit :
 			Juste un run det à 300h.
 			Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
 	Ben si c'est une voiture, j'espère qu'elle ne va pas rester en stationnement... 😄
-	Modifié il y a 3 heures par nickdu77
+	Modifié il y a 5 heures par nickdu77
 								1
 								2
 
@@ -788,7 +771,7 @@ Message:
 Trop de rouge (températures à 2 mètres) à mon goût surtout en deuxième partie de topic. 
 	Short et tee-shirt à La Toussaint.
 								1
-								1
+								2
 								1
 
 =======================
@@ -807,5 +790,32 @@ Il y a 2 heures, Plancher a dit :
 	un îlot de refuge climatique polaire au N du Groënland, avec sa petite poche relictuelle à -16°C... 
 	https://www.meteociel.fr/modeles/ecmwfens_cartes.php?code=51&amp;ech=192&amp;carte=1&amp;mode=1
 	* @nickdu77 oui, faudrait mettre des parcmètres, à tarification dissuasive aggravée avec la durée de stationnement et les sales habitudes de retour pour ces anticyclones ventouses...
-	Modifié il y a 3 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
 								1
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a une heure, giec 2100 a dit :
+			autre carte, même source, même date pour la température à 850hPa ce coup-là, à l'échelle de l'hémisphère N :
+			un îlot de refuge climatique polaire au N du Groënland, avec sa petite poche relictuelle à -16°C... 
+	Mais la barre des 20⁰C qui a bien refluée et le nord de l’hexagone qui se "teinte de vert"
+	C’est pas fantastique, mais pas aussi atroce que d’autres endroit à lattitude equivalente.
+	D’autant qu’on part de loin. 
+	Je vais faire du parisiano centrisme mais cette tendance se voit bien dur les diagrammes avec une moyenne qui descend de maniere reguliere vers les 5⁰C (ça n’empeche pas de possible soubressaut)
+	(Le diagramme 12z de CEP n’est pas encore sorti)
+	Toujours impressionnant cette vision seche persistante de GEFS par rapport à Cep et Aifs
+	Modifié il y a 1 heure par Krholam
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a 2 minutes, Krholam a dit :
+			Mais la barre des 20⁰C qui a bien refluée et le nord de l’hexagone qui se "teinte de vert"
+			C’est pas fantastique, mais pas aussi atroce que d’autres endroit à lattitude equivalente.
+			D’autant qu’on part de loin. 
+	oui on sent bien le surplomb de l'astronomie sur la météorologie, avec cette durée du jour déclinante, qui aide notre vieille glaciaire arctique à accumuler assez de frigories pour continuer à prouver son existence... !
+	attendons le solstice pour contempler de beaux restes (!)... peut-être...
