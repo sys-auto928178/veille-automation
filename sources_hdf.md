@@ -336,12 +336,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Prévisions Sud-Ouest. Octobre 2026
-• Infoclimat Direct : Prévisions Sud-Ouest. Octobre 2026
 • Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
+• Infoclimat Direct : Prévisions régions méditerranéennes - octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 06/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -349,9 +349,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 6 Octobre 2026.
-Résumé général HDF précédent : Après une première partie de semaine très douce et ensoleillée, dégradation pluvieuse et venteuse mercredi 7, rafraîchissement jeudi-vendredi, puis probable retour d’un temps plus sec et anticyclonique du 12 au 18 octobre, avec températures souvent au-dessus des normales..
+Résumé général HDF précédent : Après une première partie de semaine très douce et ensoleillée, dégradation pluvieuse et venteuse mercredi 7, net rafraîchissement jeudi-vendredi, puis probable retour d'un temps plus sec et anticyclonique du 12 au 18 octobre, avec des températures souvent au-dessus des normales..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Dégradation pluvieuse mercredi, averses jeudi, rafraîchissement net, retour d’éclaircies et douceur le week-end..
+Températures attendues précédemment : Pluies modérées mercredi, averses jeudi, éclaircies et douceur relative le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 6 au Dimanche 11 Octobre 2026) ===
@@ -622,7 +622,7 @@ en effet les ami-e-s, c'est du gros bloc de chez blocage, qui roule à l'infini.
 	mais à méso échelle si on suit les isobares, ça resterait du flux l'W on dirait... divergence au niveau des groupes majoritaires de scénarios entre CEP (diagramme de Hovmoller) et GEFS... ? on en conclurait une indétermination pour la tendance...
 	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=204&amp;mode=0&amp;code=31&amp;ext=0
 	quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								4
 								1
 
@@ -642,7 +642,7 @@ Message:
 			quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
 	Attention tout de même ces probabilité sont quasiment illisibles à ces échéances : les décalages temporels (qui excédent 1 jour sans problème pour lesdites échéances) floutent complètement le signal. Si on regarde le tableau pour Clermont-Ferrand par exemple, il montre des scénarios sec, et des très humides. --&gt; on ne peut pas dire grand chose sur la prévision.
 	Bon dans ce cas ça ne change pas grandement l'analyse, on se dirige vers une semaine probablement sèche, à mon qu'un cyclogenèse ne vienne perturber l'extension des hauts géopotentiels.
-	Modifié il y a 19 heures par Jojobarbar
+	Modifié il y a 21 heures par Jojobarbar
 								2
 
 =======================
@@ -653,7 +653,7 @@ Bonsoir,
 	attention quand même à l'interprétation des modèles. Ce n'est pas parce que la tendance est sèche et chaude que la synoptique tend vers un blocage massif, surtout en cette saison.
 	Je pense vraiment que cette tendance à une circulation d'ouest septentrionale est bien plus représentée dans notre fin d'été début d'automne.
 	Ce n'est pas rassurant car le contexte global prendrait le pas sur la variabilité synoptique.
-	Modifié il y a 17 heures par tao
+	Modifié il y a 19 heures par tao
 								5
 								1
 
@@ -682,7 +682,7 @@ Il y a 1 heure, tao a dit :
 	https://charts.ecmwf.int/products/extended-regime-probabilities?forecast_from=latest
 	ces deux prévisions nous mettent davantage le derche entre deux tabourets qu'elles ne nous renseignent sur la bonne synoptique à venir, sauf au milieu de l'Atlantique N, avec ce flux d'W haut perché...
 	mais on pourrait peut-être s'accorder sur la rémanence de la situation depuis l'été avec cet obstacle permanent à l'entrée des perturbations sur le pays en mode zonal... ?
-	Modifié il y a 16 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								2
 
 =======================
@@ -703,7 +703,7 @@ Il y a 2 heures, giec 2100 a dit :
 	 La difference entte ce matin (run du 04/10) et maintenant est flagrante
 	Il est beaucoup trop tot pour donc parler d’installation de tendance au blocage.
 	Mais on reste au sec, l’anomalie d’absence de PP fait un bon
-	Modifié il y a 14 heures par Krholam
+	Modifié il y a 16 heures par Krholam
 								3
 								1
 
@@ -722,7 +722,7 @@ Message:
 	sur un tout autre sujet, mais toujours en lien avec le run sur run, déconseillé par certain-e-s, un beau retournement - dans tous les sens du terme - avec la circulation du jet chez GFS ce soir, comparée à celle de midi en-dessous : 
 	https://images.meteociel.fr/im/97/534/gfsnh_5_204dus5.png
 	https://images.meteociel.fr/im/33/28104/gfsnh_m5.png5_270tl
-	Modifié il y a 13 heures par giec 2100
+	Modifié il y a 15 heures par giec 2100
 								1
 
 =======================
