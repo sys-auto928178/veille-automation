@@ -294,7 +294,7 @@ Températures minimales : en hausse sur le Lauragais, sur le piémont et la mont
 Températures maximales : stationnaires.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 060935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 6 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 6 octobre 2026 à 06H00 UTC, et évolution Dépression orageuse 1017 hPa entre les îles Baléares et la Sardaigne, se décalant vers l'est et prévue 1014 hPa sur l'ouest de la Mer Tyrrhénienne ce soir, puis se comblant progressivement demain après-midi. Nouvelle dépression se creusant près de 1010 hPa sur le Golfe du Lion demain matin, quasi-stationnaire et évoluant peu. 3 - Prévisions pour l'après-midi du mardi 6 octobre VENT : - à l'ouest du cap Sicié : fraîchissant Sud-Est 4 à 5. - à l'est du cap Sicié : Est à Nord-Est 4 à 5. MER : peu agitée à agitée. HOULE : Sud-Est 0.5 à 1 m. TEMPS : nuageux, quelques averses. VISIBILITE : bonne, parfois moyenne sous averses. 4 - Prévisions pour la nuit du mardi 6 octobre au mercredi 7 octobre VENT : Est à Sud-Est 4 à 5, fraîchissant secteur Sud-Est 5 à 6 en milieu de nuit. Fortes rafales sous orages. MER : peu agitée à agitée. HOULE : non significative. TEMPS : pluie et orages par l'ouest en fin de soirée. VISIBILITE : mauvaise à très mauvaise sous orages. 5 - Prévisions pour la journée du mercredi 7 octobre VENT : Est à Sud-Est dominant 4 à 5, parfois 6. Rafales, parfois fortes, sous orages. MER : peu agitée à agitée. HOULE : secteur Est 1 à 1.5 m vers le large, s'amortissant 0.5 à 1 m l'après-midi. TEMPS : pluie et orages. VISIBILITE : mauvaise à très mauvaise sous orages. 6 - Prévisions pour la nuit du 7 au 8 et la journée du jeudi 8 octobre VENT : Variable 3 à 5, d'Ouest dominant, fraîchissant Ouest à Nord-Ouest 6 à 7 en journée, avec menace de 8. Fortes rafales. MER : devenant peu agitée à agitée, puis agitée à forte en journée. HOULE : s'établissant Sud à Sud-Ouest 0.5 à 1 m, puis s'amplifiant longue de Sud-Ouest 1 à 1.5 m en journée. TEMPS : orages la nuit, puis éclaircies progressives en journée. VISIBILITE : mauvaise à très mauvaise sous orages, puis bonne. 7 - Prévisions pour la nuit du 8 au 9 et la journée du vendredi 9 octobre VENT : De Port Camargue à la Ciotat Nord-Ouest 6 à 7, fraîchissant 7 à 8 en début de nuit, puis mollissant 5 à 6 en milieu d'après-midi. Fortes rafales. De la Ciotat à Porquerolles Ouest à Nord-Ouest 7, fraîchissant 8 en début de nuit, puis mollissant 2 en milieu d'après-midi. Fortes rafales. De Porquerolles à St Raphaël Nord-Ouest 6 à 8, devenant variable 1 à 3 en milieu d'après-midi. Fortes rafales. MER : peu agitée à agitée, localement forte de Fos à St Raphaël. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1,5 à 2 m en début de nuit. 8 - Tendance pour les jours suivants Samedi 10 octobre Nord-Ouest assez fort. Sud-Ouest modéré entre Corse et continent. Indice de confiance : 4 sur 5 Dimanche 11 octobre Nord-Ouest modéré. Indice de confiance : 3 sur 5 Lundi 12 octobre Nord-Ouest modéré. Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mardi 13 octobre Secteur Nord-Ouest faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 9 - Observations le mardi 6 octobre 2026 à 09H00 UTC Cap Camarat : vent Est-Nord-Est 17 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 21 noeuds, rafales 31 noeuds, 1018 hPa en hausse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 23 noeuds. Cap Couronne : vent Est 2 noeuds. Prochain bulletin le mardi 6 octobre 2026, vers 18H30 légales
+FQCT40 LFML 061625 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 6 octobre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 6 octobre 2026 à 12H00 UTC, et évolution Dépression orageuse 1017 hPa sur la Sardaigne, se décalant vers l'est et prévue 1015 hPa sur l'ouest de la Mer Tyrrhénienne ce soir, puis se comblant progressivement demain après-midi. Nouvelle dépression orageuse se creusant près de 1010 hPa sur le Golfe du Lion en fin de nuit, se décalant lentement vers l'est et prévue sur les côtes de Provence demain soir. 3 - Prévisions pour la nuit du mardi 6 octobre au mercredi 7 octobre VENT : Est à Sud-Est 4 à 5, fraîchissant localement 5 à 6 près des côtes en milieu de nuit. Fortes rafales sous orages. MER : peu agitée à agitée. HOULE : non significative, localement Est autour 0.5 m. TEMPS : pluie et orages par l'ouest en fin de soirée. VISIBILITE : mauvaise à très mauvaise sous orages. 4 - Prévisions pour la journée du mercredi 7 octobre VENT : secteur Sud 3 à 5, parfois 6 à l'est de Porquerolles, revenant secteur Est 4 à 5, parfois 6, en milieu de journée, excepté de Port-Camargue à Fos, puis virant secteur Sud-Est 3 à 5 partout en fin de journée. Fortes rafales sous orages. MER : peu agitée à agitée, s'atténuant peu agitée en fin de journée. HOULE : secteur Est 1 à 1.5 m vers le large, s'amortissant 0.5 à 1 m l'après-midi. TEMPS : pluie et orages. VISIBILITE : mauvaise à très mauvaise sous orages. 5 - Tendance pour la nuit du 7 au 8, et la journée du jeudi 8 octobre VENT : Variable 3 à 5, parfois 6, s'orientant Ouest à Nord-Ouest en seconde partie de nuit, puis fraîchissant 6 à 7 le matin, avec menace de 8 l'après-midi. Fortes rafales. MER : devenant peu agitée à agitée, puis agitée à forte en journée. HOULE : s'établissant Sud à Sud-Ouest 0.5 à 1 m, puis s'amplifiant longue de Sud-Ouest 1 à 1.5 m en journée. TEMPS : orages la nuit, puis éclaircies progressives en journée. VISIBILITE : mauvaise à très mauvaise sous orages, puis progressivement bonne. 6 - Prévisions pour la nuit du 8 au 9 et la journée du vendredi 9 octobre VENT : De Port Camargue à la Ciotat Nord-Ouest 6 à 7, fraîchissant 7 à 8 en début de nuit, puis mollissant 5 à 6 en milieu d'après-midi. Fortes rafales. De la Ciotat à Porquerolles Ouest à Nord-Ouest 7, fraîchissant 8 en début de nuit, puis mollissant 2 en milieu d'après-midi. Fortes rafales. De Porquerolles à St Raphaël Nord-Ouest 6 à 8, devenant variable 1 à 3 en milieu d'après-midi. Fortes rafales. MER : peu agitée à agitée, localement forte de Fos à St Raphaël. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1,5 à 2 m en début de nuit. 7 - Tendance pour les jours suivants Samedi 10 octobre Nord-Ouest assez fort. Sud-Ouest modéré entre Corse et continent. Indice de confiance : 4 sur 5 Dimanche 11 octobre Nord-Ouest modéré. Indice de confiance : 3 sur 5 Lundi 12 octobre Nord-Ouest modéré. Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mardi 13 octobre Secteur Nord-Ouest faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 8 - Observations le mardi 6 octobre 2026 à 15H00 UTC Cap Camarat : vent Est-Nord-Est 14 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1017 hPa en baisse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 25 noeuds. Cap Couronne : vent Sud-Est 12 noeuds, mer belle, clair ou peu nuageux, visibilité 10 milles. Prochain bulletin le mercredi 7 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -321,10 +321,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Prévisions Sud-Ouest. Octobre 2026
+• Infoclimat Direct : AMORE : réécriture par l'IA du modèle météo AROME, en open-source.
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -333,9 +333,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 6 Octobre 2026.
-Résumé général précédent : Sur les 15 prochains jours, la France devrait connaître un temps souvent sec et anticyclonique, avec une douceur marquée pour la saison, entrecoupé d'une dégradation orageuse en début de période et d'un net rafraîchissement jeudi..
+Résumé général précédent : Après une dégradation orageuse mardi/mercredi et un net rafraîchissement jeudi, un retour à un temps sec et doux est probable à partir du week-end et de la semaine suivante, sous un anticyclone dont la durée reste incertaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Orages possibles sur Langres, Dijon, Nevers ; rafraîchissement modéré..
+Températures attendues précédemment : Rafraîchissement marqué jeudi puis remontée des températures dès le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 6 au Dimanche 11 Octobre 2026) ===
@@ -626,7 +626,7 @@ Message:
 			quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
 	Attention tout de même ces probabilité sont quasiment illisibles à ces échéances : les décalages temporels (qui excédent 1 jour sans problème pour lesdites échéances) floutent complètement le signal. Si on regarde le tableau pour Clermont-Ferrand par exemple, il montre des scénarios sec, et des très humides. --&gt; on ne peut pas dire grand chose sur la prévision.
 	Bon dans ce cas ça ne change pas grandement l'analyse, on se dirige vers une semaine probablement sèche, à mon qu'un cyclogenèse ne vienne perturber l'extension des hauts géopotentiels.
-	Modifié il y a 23 heures par Jojobarbar
+	Modifié hier à 16:45 par Jojobarbar
 								2
 
 =======================
@@ -637,7 +637,7 @@ Bonsoir,
 	attention quand même à l'interprétation des modèles. Ce n'est pas parce que la tendance est sèche et chaude que la synoptique tend vers un blocage massif, surtout en cette saison.
 	Je pense vraiment que cette tendance à une circulation d'ouest septentrionale est bien plus représentée dans notre fin d'été début d'automne.
 	Ce n'est pas rassurant car le contexte global prendrait le pas sur la variabilité synoptique.
-	Modifié il y a 21 heures par tao
+	Modifié il y a 23 heures par tao
 								6
 								1
 
@@ -666,7 +666,7 @@ Il y a 1 heure, tao a dit :
 	https://charts.ecmwf.int/products/extended-regime-probabilities?forecast_from=latest
 	ces deux prévisions nous mettent davantage le derche entre deux tabourets qu'elles ne nous renseignent sur la bonne synoptique à venir, sauf au milieu de l'Atlantique N, avec ce flux d'W haut perché...
 	mais on pourrait peut-être s'accorder sur la rémanence de la situation depuis l'été avec cet obstacle permanent à l'entrée des perturbations sur le pays en mode zonal... ?
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								2
 
 =======================
@@ -687,9 +687,9 @@ Il y a 2 heures, giec 2100 a dit :
 	 La difference entte ce matin (run du 04/10) et maintenant est flagrante
 	Il est beaucoup trop tot pour donc parler d’installation de tendance au blocage.
 	Mais on reste au sec, l’anomalie d’absence de PP fait un bon
-	Modifié il y a 18 heures par Krholam
+	Modifié il y a 20 heures par Krholam
 								4
-								1
+								2
 
 =======================
 
@@ -706,7 +706,7 @@ Message:
 	sur un tout autre sujet, mais toujours en lien avec le run sur run, déconseillé par certain-e-s, un beau retournement - dans tous les sens du terme - avec la circulation du jet chez GFS ce soir, comparée à celle de midi en-dessous : 
 	https://images.meteociel.fr/im/97/534/gfsnh_5_204dus5.png
 	https://images.meteociel.fr/im/33/28104/gfsnh_m5.png5_270tl
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -723,6 +723,9 @@ Il y a 7 heures, giec 2100 a dit :
 Auteur: nickdu77
 Message:
 Effectivement, ça a l'air de vouloir rester assez sec et bien trop doux. Toutes les perturbations sont rejetées vers le nord : je ne sais pas combien il tombe en Norvège (au nord du pays surtout) mais ça doit être costaud. J'ai aussi vu cette carte en fin de topic et je ne comprends pas ce que je vois. Cette configuration me semble étrange ou c'est moi?. Si quelqu'un peut m'éclairer. C'est un oméga d'automne? Un bug? Moi qui devient daltonien?
+								1
+								1
+								1
 
 =======================
 
@@ -739,8 +742,9 @@ il y a 41 minutes, nickdu77 a dit :
 	peu déterminable mais sans doute ni nordique ni de sud.
 	Décalage à l'ouest des hautes pressions et des géopotentiels d'altitude néanmoins visible par rapport à mercredi, reflux de la patate anticyclonique ? A voir.... :
 	Bon ce ne sont que des signaux à long terme d'un modèle.
-	Modifié il y a 48 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 								1
+								2
 								1
 
 =======================
@@ -752,6 +756,7 @@ Message:
 	zoologiquement c'est à classer dans du NAO+ : pression élevée sur les Açores, basse sur l'Islande...
 	flux d'W faible en régime anticyclonique ; températures "douces" avec seulement le N du pays exposé à d'éventuelles perturbations, donc on continue la sécheresse...
 								1
+								1
 
 =======================
 
@@ -761,4 +766,22 @@ il y a 55 minutes, nickdu77 a dit :
 			Effectivement, ça a l'air de vouloir rester assez sec et bien trop doux. Toutes les perturbations sont rejetées vers le nord : je ne sais pas combien il tombe en Norvège (au nord du pays surtout) mais ça doit être costaud. J'ai aussi vu cette carte en fin de topic et je ne comprends pas ce que je vois. Cette configuration me semble étrange ou c'est moi?. Si quelqu'un peut m'éclairer. C'est un oméga d'automne? Un bug? Moi qui devient daltonien?
 	Juste un run det à 300h.
 	Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
-								7
+								2
+								8
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a une heure, Krholam a dit :
+			Juste un run det à 300h.
+			Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
+	Ben si c'est une voiture, j'espère qu'elle ne va pas rester en stationnement... 😄
+	Modifié il y a 1 heure par nickdu77
+
+=======================
+
+Auteur: Plancher
+Message:
+Trop de rouge (températures à 2 mètres) à mon goût surtout en deuxième partie de topic. 
+	Short et tee-shirt à La Toussaint.

@@ -286,7 +286,7 @@ Températures minimales : en hausse sur la Champagne crayeuse.
 Températures maximales : sans changement significatif.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 061030 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mardi 6 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 6 octobre 2026 à 06H00 UTC, et évolution Dépression 1013 hPa au nord des Cantabriques, se décalant lentement vers le nord en se creusant, prévue 1010 hPa au large de la Vendée en soirée, puis 1009 hPa vers le nord de la France mercredi. Dorsale atlantique atteignant les îles britanniques mercredi. 3 - Prévisions pour l'après-midi du mardi 6 octobre VENT : Variable 1 à 3, s'orientant secteur Nord-Est 3 à 4 en fin de journée. MER : belle. HOULE : non significative. TEMPS : nuageux avec bancs de brume VISIBILITE : bonne, localement mauvaise à très mauvaise par bancs de brume. 4 - Prévisions pour la nuit du mardi 6 octobre au mercredi 7 octobre VENT : secteur Est 2 à 4. MER : belle. HOULE : non significative. TEMPS : très nuageux, localement bancs de brume. VISIBILITE : bonne, localement mauvaise à très mauvaise par bancs de brume. 5 - Prévisions pour la journée du mercredi 7 octobre VENT : Variable 2 à 4, s'orientant secteur Nord vers la mi-journée, puis fraîchissant 5 à 6 l'après-midi, avec menace de grand frais en fin de journée. Rafales. MER : belle à peu agitée, devenant peu agitée à agitée en fin de journée. HOULE : non significative. TEMPS : ciel couvert, pluie ou averses. Localement bancs de brume le matin. VISIBILITE : mauvaise sous précipitations ou par bancs de brume. 6 - Prévisions pour la nuit du 7 au 8 et la journée du jeudi 8 octobre VENT : Nord à Nord-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit, puis Ouest à Nord6Ouest 3 à 4 en fin de journée. Rafales. MER : agitée à forte, devenant peu agitée à agitée. HOULE : - en Manche : s'établissant secteur Nord-Ouest 0.5 à 1 m. - en mer du Nord : s'établissant Nord-Est 0.5 à 1.5 m. TEMPS : pluie ou averses, s'améliorant en journée. VISIBILITE : moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 8 au 9 et la journée du vendredi 9 octobre VENT : Secteur Ouest 4, fraîchissant 6 à 7 en seconde partie de nuit et revenant Ouest à Sud-Ouest en milieu d'après-midi. Rafales. MER : peu agitée à agitée, devenant forte en milieu d'après-midi en Manche. HOULE : En mer du nord houle de Nord à Nord-Est inférieure à 1,5 m, s'atténuant ensuite. En Manche houle dominante d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Samedi 10 octobre Ouest à Nord-Ouest modéré à assez fort. Indice de confiance : 4 sur 5 Dimanche 11 octobre secteur Ouest faible à modéré revenant Sud-Ouest. Indice de confiance : 3 sur 5 Lundi 12 octobre Sud-Ouest modéré, passagèrement assez fort. Indice de confiance : 3 sur 5 Mardi 13 octobre Sud-Ouest modéré, passagèrement assez fort. Indice de confiance : 3 sur 5 9 - Observations le mardi 6 octobre 2026 à 09H00 UTC Dunkerque : vent Calme, 1020 hPa en baisse. Cap Gris Nez : vent Sud-Sud-Ouest 6 noeuds. Boulogne : vent Sud-Sud-Ouest 4 noeuds, 1020 hPa en hausse, brouillard, visibilité 150 mètres. Prochain bulletin le mardi 6 octobre 2026, vers 18H00 légales
+FQCT40 LFQQ 061625 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mardi 6 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 132. 2 - Situation générale mardi 6 octobre 2026 à 12H00 UTC, et évolution Dépression 1012 hPa dans le golfe de Gascogne, se décalant lentement vers le nord-est en se creusant, prévue 1008 hPa vers le nord de la France mercredi, puis se décalant vers la Scandinavie. Dorsale atlantique atteignant les îles britanniques et le golfe de Gascogne mercredi. 3 - Prévisions pour la nuit du mardi 6 octobre au mercredi 7 octobre VENT : secteur Est 2 à 4. MER : belle. HOULE : non significative. TEMPS : très nuageux, localement bancs de brume. VISIBILITE : bonne, localement mauvaise à très mauvaise par bancs de brume. 4 - Prévisions pour la journée du mercredi 7 octobre VENT : Variable 2 à 4, fraîchissant secteur Nord 4 à 5, parfois 6, vers la mi-journée, puis 6 à 7 l'après-midi. Rafales. MER : belle à peu agitée, devenant peu agitée à agitée en fin de journée. HOULE : non significative. TEMPS : ciel couvert, pluie ou averses, parfois orageuses. Localement bancs de brume le matin. VISIBILITE : mauvaise sous précipitations ou par bancs de brume. 5 - Tendance pour la nuit du 7 au 8, et la journée du jeudi 8 octobre VENT : Nord à Nord-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit, puis progressivement Ouest à Nord-Ouest 3 à 4 en fin de journée. Rafales. MER : agitée à forte, devenant peu agitée à agitée. HOULE : - en Manche : s'établissant secteur Nord-Ouest 0.5 à 1 m. - en mer du Nord : s'établissant Nord à Nord-Est 0.5 à 1.5 m. TEMPS : pluie ou averses, s'améliorant en journée. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 8 au 9 et la journée du vendredi 9 octobre VENT : Secteur Ouest 4, fraîchissant 6 à 7 en seconde partie de nuit et revenant Ouest à Sud-Ouest en milieu d'après-midi. Rafales. MER : peu agitée à agitée, devenant forte en milieu d'après-midi en Manche. HOULE : En mer du nord houle de Nord à Nord-Est inférieure à 1,5 m, s'atténuant ensuite. En Manche houle dominante d'Ouest 0,5 à 1 m. 7 - Tendance pour les jours suivants Samedi 10 octobre Ouest à Nord-Ouest modéré à assez fort. Indice de confiance : 4 sur 5 Dimanche 11 octobre secteur Ouest faible à modéré revenant Sud-Ouest. Indice de confiance : 3 sur 5 Lundi 12 octobre Sud-Ouest modéré, passagèrement assez fort. Indice de confiance : 3 sur 5 Mardi 13 octobre Sud-Ouest modéré, passagèrement assez fort. Indice de confiance : 3 sur 5 8 - Observations le mardi 6 octobre 2026 à 15H00 UTC Dunkerque : vent Nord-Nord-Est 8 noeuds, 1017 hPa en baisse. Cap Gris Nez : vent Nord-Est 8 noeuds. Boulogne : vent Nord-Nord-Est 4 noeuds, 1017 hPa en baisse. Bouée Sandettie : vent Nord-Est 4 noeuds, creux 0,2 mètre, 1017 hPa en baisse, visibilité 5 milles. Prochain bulletin le mercredi 7 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -312,12 +312,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
-• Infoclimat Direct : Le jeu de l'été saison 2026 !
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
+• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 06/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -325,9 +325,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 6 Octobre 2026.
-Résumé général HDF précédent : Scénario dominant d'un temps sec et anticyclonique pour la quinzaine, avec un refroidissement temporaire en fin de semaine 1 avant une remontée des températures et un possible "blocage" en semaine 2..
+Résumé général HDF précédent : Temps sec et doux dominant, avec une dégradation pluvieuse et un rafraîchissement temporaire en semaine 1, puis retour d'un temps anticyclonique en semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Dégradation pluvieuse et venteuse mercredi, net rafraîchissement jeudi-vendredi, amélioration samedi et dimanche. (Max 120 caractères).
+Températures attendues précédemment : Averses parfois soutenues, coup de vent possible mercredi nuit, fraîcheur jeudi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 6 au Dimanche 11 Octobre 2026) ===
@@ -618,7 +618,7 @@ Message:
 			quant à la conduite d'eau pluviale, pensez à un réglage pine de mouche de l'auget du pluviomètre : je suis obligé de fabriquer l'animation du cumul des précipitations quotidiennes à UN MILLIMETRE pour avoir une proba pas trop en-dessous de 50%...
 	Attention tout de même ces probabilité sont quasiment illisibles à ces échéances : les décalages temporels (qui excédent 1 jour sans problème pour lesdites échéances) floutent complètement le signal. Si on regarde le tableau pour Clermont-Ferrand par exemple, il montre des scénarios sec, et des très humides. --&gt; on ne peut pas dire grand chose sur la prévision.
 	Bon dans ce cas ça ne change pas grandement l'analyse, on se dirige vers une semaine probablement sèche, à mon qu'un cyclogenèse ne vienne perturber l'extension des hauts géopotentiels.
-	Modifié il y a 23 heures par Jojobarbar
+	Modifié hier à 16:45 par Jojobarbar
 								2
 
 =======================
@@ -629,7 +629,7 @@ Bonsoir,
 	attention quand même à l'interprétation des modèles. Ce n'est pas parce que la tendance est sèche et chaude que la synoptique tend vers un blocage massif, surtout en cette saison.
 	Je pense vraiment que cette tendance à une circulation d'ouest septentrionale est bien plus représentée dans notre fin d'été début d'automne.
 	Ce n'est pas rassurant car le contexte global prendrait le pas sur la variabilité synoptique.
-	Modifié il y a 21 heures par tao
+	Modifié il y a 23 heures par tao
 								6
 								1
 
@@ -658,7 +658,7 @@ Il y a 1 heure, tao a dit :
 	https://charts.ecmwf.int/products/extended-regime-probabilities?forecast_from=latest
 	ces deux prévisions nous mettent davantage le derche entre deux tabourets qu'elles ne nous renseignent sur la bonne synoptique à venir, sauf au milieu de l'Atlantique N, avec ce flux d'W haut perché...
 	mais on pourrait peut-être s'accorder sur la rémanence de la situation depuis l'été avec cet obstacle permanent à l'entrée des perturbations sur le pays en mode zonal... ?
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								2
 
 =======================
@@ -679,9 +679,9 @@ Il y a 2 heures, giec 2100 a dit :
 	 La difference entte ce matin (run du 04/10) et maintenant est flagrante
 	Il est beaucoup trop tot pour donc parler d’installation de tendance au blocage.
 	Mais on reste au sec, l’anomalie d’absence de PP fait un bon
-	Modifié il y a 18 heures par Krholam
+	Modifié il y a 20 heures par Krholam
 								4
-								1
+								2
 
 =======================
 
@@ -698,7 +698,7 @@ Message:
 	sur un tout autre sujet, mais toujours en lien avec le run sur run, déconseillé par certain-e-s, un beau retournement - dans tous les sens du terme - avec la circulation du jet chez GFS ce soir, comparée à celle de midi en-dessous : 
 	https://images.meteociel.fr/im/97/534/gfsnh_5_204dus5.png
 	https://images.meteociel.fr/im/33/28104/gfsnh_m5.png5_270tl
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -715,6 +715,9 @@ Il y a 7 heures, giec 2100 a dit :
 Auteur: nickdu77
 Message:
 Effectivement, ça a l'air de vouloir rester assez sec et bien trop doux. Toutes les perturbations sont rejetées vers le nord : je ne sais pas combien il tombe en Norvège (au nord du pays surtout) mais ça doit être costaud. J'ai aussi vu cette carte en fin de topic et je ne comprends pas ce que je vois. Cette configuration me semble étrange ou c'est moi?. Si quelqu'un peut m'éclairer. C'est un oméga d'automne? Un bug? Moi qui devient daltonien?
+								1
+								1
+								1
 
 =======================
 
@@ -731,8 +734,9 @@ il y a 41 minutes, nickdu77 a dit :
 	peu déterminable mais sans doute ni nordique ni de sud.
 	Décalage à l'ouest des hautes pressions et des géopotentiels d'altitude néanmoins visible par rapport à mercredi, reflux de la patate anticyclonique ? A voir.... :
 	Bon ce ne sont que des signaux à long terme d'un modèle.
-	Modifié il y a 48 minutes par petit âge glaciaire 11
+	Modifié il y a 2 heures par petit âge glaciaire 11
 								1
+								2
 								1
 
 =======================
@@ -744,6 +748,7 @@ Message:
 	zoologiquement c'est à classer dans du NAO+ : pression élevée sur les Açores, basse sur l'Islande...
 	flux d'W faible en régime anticyclonique ; températures "douces" avec seulement le N du pays exposé à d'éventuelles perturbations, donc on continue la sécheresse...
 								1
+								1
 
 =======================
 
@@ -753,4 +758,22 @@ il y a 55 minutes, nickdu77 a dit :
 			Effectivement, ça a l'air de vouloir rester assez sec et bien trop doux. Toutes les perturbations sont rejetées vers le nord : je ne sais pas combien il tombe en Norvège (au nord du pays surtout) mais ça doit être costaud. J'ai aussi vu cette carte en fin de topic et je ne comprends pas ce que je vois. Cette configuration me semble étrange ou c'est moi?. Si quelqu'un peut m'éclairer. C'est un oméga d'automne? Un bug? Moi qui devient daltonien?
 	Juste un run det à 300h.
 	Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
-								7
+								2
+								8
+
+=======================
+
+Auteur: nickdu77
+Message:
+il y a une heure, Krholam a dit :
+			Juste un run det à 300h.
+			Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
+	Ben si c'est une voiture, j'espère qu'elle ne va pas rester en stationnement... 😄
+	Modifié il y a 1 heure par nickdu77
+
+=======================
+
+Auteur: Plancher
+Message:
+Trop de rouge (températures à 2 mètres) à mon goût surtout en deuxième partie de topic. 
+	Short et tee-shirt à La Toussaint.
