@@ -312,12 +312,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
-• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 06/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -325,9 +325,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Mardi 6 Octobre 2026.
-Résumé général HDF précédent : Temps sec et doux dominant, avec une dégradation pluvieuse et un rafraîchissement temporaire en semaine 1, puis retour d'un temps anticyclonique en semaine 2..
+Résumé général HDF précédent : Première quinzaine d’octobre sous double influence : douceur très marquée et sécheresse persistante, avec une courte pause pluvio-venteuse du 7 au 9, puis un probable retour anticyclonique. Les températures devraient rester au-dessus des normales, surtout en semaine 2..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses parfois soutenues, coup de vent possible mercredi nuit, fraîcheur jeudi..
+Températures attendues précédemment : Averses, rafales 75 km/h possibles en bord de mer, fraîcheur 14-16°C..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 6 au Dimanche 11 Octobre 2026) ===
@@ -629,7 +629,7 @@ Bonsoir,
 	attention quand même à l'interprétation des modèles. Ce n'est pas parce que la tendance est sèche et chaude que la synoptique tend vers un blocage massif, surtout en cette saison.
 	Je pense vraiment que cette tendance à une circulation d'ouest septentrionale est bien plus représentée dans notre fin d'été début d'automne.
 	Ce n'est pas rassurant car le contexte global prendrait le pas sur la variabilité synoptique.
-	Modifié il y a 23 heures par tao
+	Modifié hier à 18:29 par tao
 								6
 								1
 
@@ -642,7 +642,7 @@ Il y a 2 heures, Jojobarbar a dit :
 		il y a une heure, tao a dit :
 			attention quand même
 	Ok ok, on va faire gaffe!
-								13
+								14
 
 =======================
 
@@ -658,7 +658,7 @@ Il y a 1 heure, tao a dit :
 	https://charts.ecmwf.int/products/extended-regime-probabilities?forecast_from=latest
 	ces deux prévisions nous mettent davantage le derche entre deux tabourets qu'elles ne nous renseignent sur la bonne synoptique à venir, sauf au milieu de l'Atlantique N, avec ce flux d'W haut perché...
 	mais on pourrait peut-être s'accorder sur la rémanence de la situation depuis l'été avec cet obstacle permanent à l'entrée des perturbations sur le pays en mode zonal... ?
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 19:51 par giec 2100
 								2
 
 =======================
@@ -679,7 +679,7 @@ Il y a 2 heures, giec 2100 a dit :
 	 La difference entte ce matin (run du 04/10) et maintenant est flagrante
 	Il est beaucoup trop tot pour donc parler d’installation de tendance au blocage.
 	Mais on reste au sec, l’anomalie d’absence de PP fait un bon
-	Modifié il y a 20 heures par Krholam
+	Modifié il y a 22 heures par Krholam
 								4
 								2
 
@@ -698,7 +698,7 @@ Message:
 	sur un tout autre sujet, mais toujours en lien avec le run sur run, déconseillé par certain-e-s, un beau retournement - dans tous les sens du terme - avec la circulation du jet chez GFS ce soir, comparée à celle de midi en-dessous : 
 	https://images.meteociel.fr/im/97/534/gfsnh_5_204dus5.png
 	https://images.meteociel.fr/im/33/28104/gfsnh_m5.png5_270tl
-	Modifié il y a 19 heures par giec 2100
+	Modifié il y a 21 heures par giec 2100
 								1
 
 =======================
@@ -734,7 +734,7 @@ il y a 41 minutes, nickdu77 a dit :
 	peu déterminable mais sans doute ni nordique ni de sud.
 	Décalage à l'ouest des hautes pressions et des géopotentiels d'altitude néanmoins visible par rapport à mercredi, reflux de la patate anticyclonique ? A voir.... :
 	Bon ce ne sont que des signaux à long terme d'un modèle.
-	Modifié il y a 2 heures par petit âge glaciaire 11
+	Modifié il y a 4 heures par petit âge glaciaire 11
 								1
 								2
 								1
@@ -759,7 +759,7 @@ il y a 55 minutes, nickdu77 a dit :
 	Juste un run det à 300h.
 	Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
 								2
-								8
+								9
 
 =======================
 
@@ -769,7 +769,9 @@ il y a une heure, Krholam a dit :
 			Juste un run det à 300h.
 			Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
 	Ben si c'est une voiture, j'espère qu'elle ne va pas rester en stationnement... 😄
-	Modifié il y a 1 heure par nickdu77
+	Modifié il y a 3 heures par nickdu77
+								1
+								2
 
 =======================
 
@@ -777,3 +779,25 @@ Auteur: Plancher
 Message:
 Trop de rouge (températures à 2 mètres) à mon goût surtout en deuxième partie de topic. 
 	Short et tee-shirt à La Toussaint.
+								1
+								1
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+Il y a 2 heures, Plancher a dit :
+			Trop de rouge (températures à 2 mètres) à mon goût surtout en deuxième partie de topic. 
+			Short et tee-shirt à La Toussaint.
+	prévision pour vendredi 16 oct. 2026 12 h, d'après CEP, pour les masses d'air - température prise ici comme la moyenne de celle de la colonne d'air entre 1000 et 500hPa  - :
+	nous sommes encore - et toujours - sous influence de la masse d'air tropical ;
+	outre la barrière anticyclonique* de l'océan Atlantique à l'W de l'Europe on voit une poussée chaude qui va jusqu'au S de l'Islande... :
+	https://charts.ecmwf.int/products/medium-thickness-mslp?base_time=202610061200&amp;projection=opencharts_europe&amp;valid_time=202610161200
+	légende : en général l'air polaire est représenté par les couleurs de la palette du bleu, l'air tropical par celle commençant à l'orange, couleur concernant la petite moitié S du pays sur cette carte ; on remarquera donc ici l'extrême contention de l'air polaire à cette date...
+	autre carte, même source, même date pour la température à 850hPa ce coup-là, à l'échelle de l'hémisphère N :
+	un îlot de refuge climatique polaire au N du Groënland, avec sa petite poche relictuelle à -16°C... 
+	https://www.meteociel.fr/modeles/ecmwfens_cartes.php?code=51&amp;ech=192&amp;carte=1&amp;mode=1
+	* @nickdu77 oui, faudrait mettre des parcmètres, à tarification dissuasive aggravée avec la durée de stationnement et les sales habitudes de retour pour ces anticyclones ventouses...
+	Modifié il y a 3 minutes par giec 2100
+								1
