@@ -1,130 +1,129 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Mercredi 7 Octobre 2026
-**Période :** Semaine 1 (Période exacte semaine 1 : Du Mercredi 7 au Dimanche 11 Octobre 2026) & Semaine 2 (Période exacte semaine 2 : Du Lundi 12 au Dimanche 18 Octobre 2026)
+**Période :** Semaine 1 (Du mercredi 7 au dimanche 11 octobre 2026) & Semaine 2 (Du lundi 12 au dimanche 18 octobre 2026)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur le sec, désaccord sur l'intensité du blocage.*
-- **Fiabilité du scénario majoritaire :** Anticyclone + douceur — *Scénario le plus probable, mais à affiner.*
+- **Consensus des modèles :** Modéré — *Semaine 1 assez bien cernée ; semaine 2 très incertaine, GEFS et CEP divergent.*
+- **Fiabilité du scénario majoritaire :** Sec et doux, blocage — *Scénario dominant : anticyclone tenace, perturbations confinées au nord, chaleur automnale.*
 - **Stabilité des cartes/scénarios :** 6 / 120 — *6 cartes sur 120 analysées*
-- **Niveau d'incertitude global :** Position de l'anticyclone — *La majeure source de variabilité pour la semaine 2.*
+- **Niveau d'incertitude global :** Forte pour S2 — *La fiabilité s’effondre au-delà de jeudi 15 ; ne pas figer le scénario.*
 
-## 🗓️ SEMAINE 1 : Période exacte semaine 1 : Du Mercredi 7 au Dimanche 11 Octobre 2026
+## 🗓️ SEMAINE 1 : Du mercredi 7 au dimanche 11 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. ⛈️ Perturbation express : Une dégradation orageuse traverse le pays en début de semaine.
-2. 🌡️ Coup de frais : Net rafraîchissement attendu jeudi et vendredi.
-3. ☀️ Retour de la douceur : Rebond thermique dès le week-end.
-4. 💧 Sécheresse sous surveillance : Les pluies resteront faibles et mal réparties.
-5. 💨 Mistral fort : Fort coup de vent méditerranéen jeudi et vendredi.
+1. Passage perturbé mercredi : Averses parfois orageuses sur une large partie du pays, surtout du sud-ouest au quart nord-est.
+2. Coup de frais jeudi-vendredi : Nette baisse des températures sous un flux de nord-ouest, avec un ressenti automnal.
+3. Rebond doux le week-end : La crête subtropicale pourrait ramener des températures très douces dès samedi.
+4. Régime NAO+ marqué : Les dépressions circulent haut en latitude, la France reste sous influence anticyclonique.
+5. Fiabilité limitée : Les scénarios orageux de GFS ont disparu ; il faut privilégier les ensembles.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-1. Rafraîchissement net entre jeudi 8 et vendredi 9.
-2. Amélioration et retour d'un temps sec dès samedi 10.
-3. Précipitations limitées, insuffisantes pour la sécheresse.
+- Passage frontal pluvio-orageux mercredi/jeudi, avec un maximum d’intensité probable sur un axe sud-ouest / quart nord-est.
+- Baisse très sensible des températures jeudi/vendredi, avec des valeurs de saison, voire fraîches en montagne.
+- Retour d’une tendance sèche et douce à partir de samedi, sous l’influence d’une crête subtropicale.
 **Points de divergence :**
-1. Intensité du rafraîchissement (UKMO plus timide).
-2. Vitesse de remontée des températures en fin de semaine.
-3. Évolution possible de la perturbation atlantique en début de semaine suivante.
+- Localisation et intensité des orages (MUCAPE) ; GFS déterministe a montré des scénarios instables ensuite abandonnés.
+- Rythme du rebond thermique après vendredi ; UKMO plus timide que GFS/ECMWF.
+- Position de l’anticyclone pour la semaine suivante : blocage persistant ou amorce de flux d’ouest ?
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS** (En phase d'ajustement : les sorties sont passées d'un scénario instable à un scénario plus stable en fin d'échéance.) | Scénario d'un net rafraîchissement entre jeudi et vendredi, avec un possible coup de froid à 0°C à 850 hPa, suivi d'un retour de la douceur dès le week-end. | Averses orageuses mercredi, baisse des températures jeudi/vendredi, temps sec et plus doux le week-end. | Large quart nord-est, centre-est, vallée du Rhône. | Élevée (85%) | Leonai souligne que GFS avait modélisé des précipitations orageuses avec MUCAPE élevée qui ont disparu à l'approche de l'échéance. Jojobarbar recommande de surveiller les ensembles, le déterministe pouvant s'écarter du scénario majoritaire. |
-| **ECMWF (CEP)** (Modèle de référence pour les membres ; les moyennes d'ensemble sont privilégiées.) | Yo-yo thermique marqué : chaleur en début de semaine, fraîcheur jeudi/vendredi, puis nouvelle crête subtropicale et rebond doux dès le week-end. | Coup de frais passager, puis retour de la douceur, temps sec dans l'ensemble. | France entière, plus marqué sur l'ouest et le nord. | Élevée (85%) | Ciel d'encre évoque un possible 0°C à 850 hPa jeudi/vendredi, puis une nouvelle crête subtropicale du Maghreb vers la péninsule Ibérique. |
-| **UKMO** (Cité une seule fois dans le topic.) | Scénario plus timide sur le rafraîchissement ; les températures resteraient un peu plus élevées. | Temps sec, douceur persistante. | Moitié nord. | Modérée (65%) | Nicolas L indique qu'UKMO se montre "un peu plus timide" sur la baisse des températures en fin de topic. |
-| **GEFS (ensembles GFS)** (Utilisé via les diagrammes pour illustrer la tendance.) | Maintien d'un temps sec et doux, avec une tendance anticyclonique assez nette. | Peu de précipitations, températures au-dessus des normales. | France entière. | Modérée (65%) | nickdu77 partage des diagrammes GEFS pour montrer que la baisse des températures est réelle mais limitée, et que la tendance reste au sec. |
+| **GFS (déterministe + GEFS)** (Documenté) | Perturbation frontale mercredi/jeudi, puis NAO+ avec dépressions au nord et douceur ; fortes valeurs de MUCAPE initialement prévues ensuite disparues. | Averses orageuses mercredi, coup de frais jeudi/vendredi, rebond doux dès samedi. | Quart nord-est, Centre-Est, Île-de-France. | Élevée (85%) | Leonai et Jojobarbar ont échangé sur des prévisions orageuses à fort MUCAPE, notamment pour Langres, Dijon et Nevers, ensuite abandonnées par GFS à l’approche de l’échéance. Jojobarbar conseille de suivre les ensembles GEFS plutôt que le déterministe, qui peut sortir du cluster majoritaire. |
+| **ECMWF (IFS / CEP)** (Documenté) | Rafraîchissement marqué jeudi/vendredi (850 hPa proche de 0 °C), puis crête subtropicale et chaleur automnale dès le week-end ; NAO+ qui s’estompe vers le 11. | Coup de frais net, éclaircies, puis retour d’un temps sec et doux. | Nord, Centre-Est, quart nord-est ; crête concernant l’ouest et le sud ensuite. | Modérée (65%) | Ciel d’encre décrit un « yo-yo thermique » : 14 °C à 850 hPa en début de semaine, puis un talweg pouvant approcher 0 °C jeudi/vendredi, avant une crête subtropicale qui pourrait se reconstituer du Maghreb vers l’Espagne. |
+| **UKMO** (Partiel) | Scénario plus timide sur le rafraîchissement et la remontée chaude de fin de période. | Températures un peu moins chaudes en fin de semaine. | Non déterminable. | Faible (45%) | Nicolas L évoque un UKMO « un peu plus timide » sans plus de précision. Mention isolée mais utile pour relativiser l’ampleur du rebond. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps variable, averses en début de période, éclaircies ensuite, douceur relative. | Max 15-20°C, min 8-12°C. | moderee | GFS, ECMWF | Peu de messages spécifiques sur cette zone. |
-| **Nord** | Ciel variable, averses mercredi, éclaircies jeudi, pluies possibles dimanche. | Max 15-19°C, min 6-11°C. | elevee | GFS, ECMWF, UKMO | Intensité des pluies de dimanche. |
-| **Nord-Est** | Averses orageuses en début de période, temps frais et sec ensuite. | Max 14-18°C, min 5-9°C. | moderee | GFS, ECMWF | Évolution des orages, décalage possible vers le nord. |
-| **Ouest et Façade Atlantique** | Averses orageuses mercredi, belle éclaircie jeudi, pluies littorales vendredi. | Max 18-22°C, min 6-16°C. | elevee | GFS, ECMWF, UKMO | Position des averses littorales vendredi. |
-| **Centre** | Averses orageuses mercredi, coup de frais jeudi, temps sec en fin de semaine. | Max 16-19°C, min 5-10°C. | moderee | GFS, ECMWF | Localisation des orages et intensité du rafraîchissement. |
-| **Sud-Ouest** | Averses parfois orageuses mercredi, soleil jeudi et vendredi, douceur. | Max 16-22°C, min 2-12°C selon altitude. | elevee | GFS, ECMWF | Épaisseur des précipitations en montagne. |
-| **Sud-Est et Vallée du Rhône** | Averses orageuses mercredi, éclaircies jeudi, fraîcheur matinale. | Max 12-18°C, min 2-8°C dans les monts du Lyonnais. | elevee | GFS, ECMWF | Précipitations résiduelles vendredi. |
-| **Méditerranée et Corse** | Orages mercredi, mistral fort jeudi et vendredi, grand soleil ensuite. | Max 19-24°C, min 5-13°C selon vallées. | elevee | GFS, ECMWF, GEFS | Durée exacte du mistral fort. |
+| **Nord-Ouest** | Variable, averses possibles mercredi puis éclaircies et fraîcheur. | Tendance en baisse jeudi/vendredi, puis rebond doux. | faible | GFS, ECMWF | Manque de données locales ; cumuls et vent non documentés. |
+| **Nord** | Averses mercredi, nette amélioration jeudi/vendredi, éclaircies samedi, risque d’averses dimanche. | Max 14-18 °C, min 6-11 °C en petite couronne. | elevee | Météo-France, GFS, ECMWF | Cumuls exacts des averses. |
+| **Nord-Est** | Averses orageuses possibles mercredi, fraîcheur jeudi/vendredi puis éclaircies. | Tendance en baisse, puis douceur le week-end. | faible | GFS, ECMWF | Précipitations orageuses très incertaines ; scénarios divergents. |
+| **Ouest et Façade Atlantique** | Averses parfois orageuses mercredi, soleil jeudi, pluies littorales vendredi, éclaircies samedi. | Max 18-22 °C, min 6-13 °C selon secteurs. | elevee | Météo-France, GFS, ECMWF | Cumuls orageux et évolution des averses littorales. |
+| **Centre** | Averses orageuses mercredi, amélioration jeudi/vendredi, temps sec et doux le week-end. | Tendance en baisse puis rebond ; valeurs non détaillées. | faible | GFS, ECMWF | Manque de données locales ; scénarios orageux variables. |
+| **Sud-Ouest** | Averses parfois orageuses mercredi, neige vers 2200 m en montagne, amélioration jeudi après-midi, belles journées vendredi/samedi. | Max 16-22 °C en plaine, 12 °C en montagne ; min 5-10 °C. | elevee | Météo-France, GFS, ECMWF | Cumuls en montagne et limite pluie-neige. |
+| **Sud-Est et Vallée du Rhône** | Nombreuses averses orageuses mercredi, temps frais et éclaircies jeudi/vendredi, soleil samedi/dimanche. | Max 12-18 °C jeudi/vendredi, min 2-12 °C selon secteurs. | elevee | Météo-France, GFS, ECMWF | Averses orageuses de mercredi et fraîcheur jeudi. |
+| **Méditerranée et Corse** | Orages et fortes pluies mercredi, mistral fort jeudi/vendredi, soleil samedi/dimanche. | Max 19-24 °C, min 5-13 °C. | elevee | Météo-France, GFS, ECMWF | Intensité des orages et rafales de mistral. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Mercredi 7 - Jeudi 8 octobre** : Dégradation orageuse et rafraîchissement progressif sur l'ensemble du pays.
-- **Vendredi 9 octobre** : Amélioration, éclaircies, températures en baisse.
-- **Samedi 10 - Dimanche 11 octobre** : Temps calme, sec et plus doux.
-- **Lundi 12 octobre et au-delà** : Tendance anticyclonique, douceur persistante, précipitations rares.
+- **Mercredi 7 octobre** : Averses parfois orageuses du sud-ouest au quart nord-est, douceur avant le passage.
+- **Jeudi 8 et vendredi 9 octobre** : Coup de frais, éclaircies et averses résiduelles, mistral fort en Méditerranée.
+- **Samedi 10 et dimanche 11 octobre** : Temps plus sec, éclaircies, douceur qui revient par le sud-ouest.
+- **Dimanche 11 octobre et amorce de la semaine 2** : Retour d’un temps calme et doux, prémices d’une nouvelle période anticyclonique.
 
 **Points solides :**
-1. Baisse des températures jeudi et vendredi.
-2. Accalmie et retour du sec pour le week-end.
-3. Précipitations faibles, insuffisantes pour la sécheresse.
+- Le passage perturbé de mercredi/jeudi est confirmé par les bulletins officiels et les modèles.
+- Le coup de frais de jeudi/vendredi est bien marqué, surtout au nord et au centre-est.
+- Le week-end s’annonce plus sec et plus doux, avec des températures en hausse.
 
 **Points fragiles :**
-1. Vitesse de remontée des températures en fin de week-end.
-2. Localisation exacte des fortes pluies orageuses.
-3. Influence des dépressions atlantiques à courte échéance.
+- Cumuls de pluie et activité orageuse très variables localement.
+- Ampleur et rapidité du rebond chaud.
+- Scénario de la semaine suivante encore très incertain.
 
 **À surveiller (prochains runs) :**
-À surveiller : Run 12Z de GFS, sorties CEP à 12Z, évolution de UKMO, ensembles GEFS et CEP.
+À surveiller : runs de jeudi 8 octobre (00Z et 12Z), position du talweg, extension de la crête subtropicale et remontée des températures ; suivi des ensembles CEP et GEFS.
 
 
-## 🗓️ SEMAINE 2 : Période exacte semaine 2 : Du Lundi 12 au Dimanche 18 Octobre 2026
+## 🗓️ SEMAINE 2 : Du lundi 12 au dimanche 18 octobre 2026
 ### 💡 Points clés de la semaine 2
-1. 🌀 Anticyclone ventouse : Temps sec et doux, les pluies restent très rares.
-2. 🌡️ Douceur excessive : Températures au-dessus des normales, surtout dans le sud.
-3. ⛅ Flux dévié : Perturbations rejetées vers les îles Britanniques.
-4. 🤔 Blocage en question : Le scénario de blocage reste débattu entre modèles.
-5. 🔥 Pic de chaleur automnale : Possible envolée à 850 hPa en milieu de semaine.
+1. Anticyclone tenace : La « patate » reste sur l’Europe, les perturbations sont rejetées vers la Norvège.
+2. Chaleur automnale : Des températures très douces, localement estivales, sont envisagées, surtout au sud.
+3. Sécheresse qui s’accentue : Les pluies manquent, les sols restent secs et la végétation souffre.
+4. Modèles en désaccord : GEFS voit la persistance, CEP et GEM un léger retrait de l’anticyclone.
+5. Prudence à long terme : Au-delà de jeudi 15, la fiabilité est faible et les runs changent vite.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-1. Poursuite d'un temps sec et anticyclonique sur la France.
-2. Températures au-dessus des normales de saison.
-3. Précipitations rares, sécheresse qui perdure.
+- Poursuite d’un temps majoritairement sec, avec des anomalies de précipitations négatives sur la France.
+- Températures souvent très douces pour la saison, malgré une possible inflexion en fin de semaine.
+- Pas de retour franc d’un flux d’ouest océanique ; les perturbations restent bloquées au nord.
 **Points de divergence :**
-1. Maintien ou non du blocage anticyclonique.
-2. Retrait de l'anticyclone vers l'ouest (CEP/GEM) ou persistance (GFS/GEFS).
-3. Intensité du pic de douceur en milieu de semaine.
+- Devenir de l’anticyclone des Açores : retrait vers l’ouest (CEP/GEM) ou persistance (GEFS).
+- Niveau des températures à 2 m : chaleur marquée ou simple douceur, selon l’arrivée ou non d’un flux plus frais.
+- Risque de faibles précipitations sur le nord en fin de période : quasi nul côté GEFS, un peu plus présent côté CEP/GEM.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF (CEP)** (Modèle privilégié par plusieurs membres, avec prudence sur l'interprétation des régimes.) | Maintien d'un temps sec et doux, avec un possible retrait de l'anticyclone vers l'ouest en fin de semaine. | Temps sec, douceur, flux d'ouest un peu plus présent sur le nord. | France entière, nord plus exposé aux passages nuageux. | Élevée (85%) | petit âge glaciaire 11 privilégie le scénario CEP avec un AA en retrait vers l'ouest, permettant un flux un peu plus normal mais toujours sec. Krholam insiste sur la régression de la tendance au blocage. |
-| **GFS / GEFS** (GEFS voit une persistance de la "patate anticyclonique", avec des températures élevées.) | Persistance plus marquée de l'anticyclone, températures ayant du mal à baisser, sécheresse durable. | Très sec, douceur prononcée, soleil généreux. | France entière. | Élevée (85%) | Krholam note l'impressionnante vision sèche de GEFS par rapport à CEP et AIFS. Plancher redoute un temps en tee-shirt à la Toussaint. |
-| **GEM** (Cité comme modèle d'appui du CEP.) | Appui le scénario CEP, avec un AA légèrement en retrait vers l'ouest. | Temps sec, températures un peu moins chaudes sur le nord. | Nord et ouest. | Modérée (65%) | petit âge glaciaire 11 mentionne GEM comme appuyant le scénario d'un AA un peu en retrait. |
-| **AIFS** (Mentionné brièvement dans une comparaison de modèles.) | Signal peu détaillé, tendance sèche partagée avec CEP et GEFS. | Temps sec, douceur. | France entière. | Modérée (65%) | Krholam compare la vision sèche de GEFS avec CEP et AIFS, mais sans plus de précisions. |
+| **GFS / GEFS** (Documenté) | Persistance de l’anticyclone (« patate »), températures qui peinent à baisser, temps très sec, perturbations rejetées vers la Norvège. | Chaleur automnale, absence quasi totale de précipitations. | France entière, plus marqué au sud. | Élevée (85%) | GEFS est régulièrement cité pour sa vision sèche et persistante, contrastant avec CEP et AIFS. Un run déterministe à 306 h a suscité des débats : à cette échéance, il ne faut pas surinterpréter la carte. Les membres insistent sur l’importance des moyennes d’ensemble. Mention d’une température à 850 hPa proche de 20 °C en milieu de semaine par Run999H. |
+| **ECMWF (CEP / IFS)** (Documenté) | Anticyclone des Açores un peu en retrait vers l’ouest, flux d’ouest revenant dans les normes après mardi-mercredi, mais toujours très peu de précipitations. | Temps sec, douceur un peu moins forte que GEFS, possible flux d’ouest faible. | France entière, surtout nord et ouest pour le flux. | Élevée (85%) | Les membres comparent les diagrammes de probabilité des régimes de temps : la tendance au blocage est en nette régression par rapport au run du 04/10. L’ensemble CEP voit des géopotentiels en baisse par le nord et une masse d’air un peu moins chaude, mais pas de retour pluvieux franc. |
+| **GEM** (Partiel) | Appuie le scénario CEP : anticyclone un peu en retrait vers l’ouest, flux d’ouest de retour dans les normes après trois jours au-dessus, mais toujours sec. | Temps sec, températures proches des normales possibles en fin de semaine. | Non déterminable (France entière par recoupement). | Modérée (65%) | Mention unique par petit âge glaciaire 11 : « L’ensemble CEP, appuyé par GEM, modélise un AA un peu en retrait vers l’ouest ». Faible détail mais cohérent avec CEP. |
+| **AIFS** (Faible) | Scénario proche de CEP, moins sec que GEFS, sans signal franc de blocage massif. | Peu d’éléments supplémentaires ; tendance à un temps moins chaud et moins sec que GFS. | Non déterminable. | Faible (45%) | Cité une seule fois par Krholam dans une comparaison GEFS vs CEP et AIFS : GEFS paraît plus sec et persistant. Aucun détail de run, carte ou paramètre. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec, douceur, passages nuageux possibles. | Max 18-22°C, min 8-12°C. | moderee | GFS, ECMWF | Incertitude sur l'arrivée d'un flux océanique en fin de semaine. |
-| **Nord** | Soleil prédominant, quelques passages nuageux, douceur. | Max 21°C mercredi, puis baisse à partir de jeudi. | elevee | GFS, ECMWF, GEFS | Baisse des températures en fin de semaine. |
-| **Nord-Est** | Temps sec et plutôt doux, quelques passages nuageux. | Max 19-21°C, min 6-9°C. | moderee | GFS, ECMWF, GEM | Évolution de la douceur et du blocage. |
-| **Ouest et Façade Atlantique** | Beau temps ensoleillé, douceur parfois marquée. | Max 23-26°C mardi/mercredi, 20°C sur le littoral. | elevee | GFS, ECMWF, GEFS | Baisse thermique en toute fin de période. |
-| **Centre** | Temps sec, ensoleillé, douceur au-dessus des normales. | Max 20-24°C, min 7-10°C. | moderee | GFS, ECMWF, AIFS | Incertitude sur le maintien du blocage. |
-| **Sud-Ouest** | Soleil généreux, quelques pluies possibles mercredi sur le piémont pyrénéen. | Max 24°C mercredi, baisse ensuite. | elevee | GFS, ECMWF, GEM | Précipitations résiduelles en montagne. |
-| **Sud-Est et Vallée du Rhône** | Soleil sans partage, ciel bleu, douceur. | Max 19-21°C, min 6-9°C. | elevee | GFS, ECMWF | Baisse thermique en fin de période. |
-| **Méditerranée et Corse** | Temps largement ensoleillé, possible brume matinale, douceur. | Max 22-24°C, min 7-12°C. | elevee | GFS, ECMWF, GEFS | Rafales de nord-ouest possibles. |
+| **Nord-Ouest** | Temps souvent sec et doux, quelques passages nuageux ; incertitude sur un possible flux d’ouest. | Douceur de saison à très doux ; non détaillée localement. | faible | ECMWF, GFS | Manque de données locales, position de l’anticyclone. |
+| **Nord** | Risque de pluie mardi matin, puis soleil prédominant ; douceur, vent de sud-ouest modéré. | Max 21 °C mardi/mercredi, en baisse jeudi/vendredi ; min proches de 12 °C puis en baisse. | elevee | Météo-France, ECMWF, GFS | Ampleur de la baisse thermique en fin de semaine. |
+| **Nord-Est** | Probablement sec et doux, avec un léger risque d’averses si le flux d’ouest revient. | Tendance douce en début de semaine, possible baisse ensuite ; non détaillée. | faible | ECMWF, GFS | Divergence GEFS (sec) vs CEP (léger flux d’ouest). |
+| **Ouest et Façade Atlantique** | Beau temps ensoleillé mardi/mercredi, soleil jeudi/vendredi, vent de nord-est modéré. | Max 23-26 °C (20 °C sur le littoral), min 9-16 °C ; baisse en fin de période. | elevee | Météo-France, ECMWF, GFS | Rafales possibles sur le littoral en fin de semaine. |
+| **Centre** | Temps sec et souvent ensoleillé, douceur diurne marquée. | Max voisines de 20-24 °C en plaine, min plus fraîches ; non précisées localement. | faible | ECMWF, GFS | Position exacte de l’AA et température à 850 hPa. |
+| **Sud-Ouest** | Largement ensoleillé mardi/mercredi, soleil jeudi/vendredi ; risque de pluie sur les Pyrénées mercredi. | Max voisines de 24 °C, min 5-10 °C ; baisse en fin de semaine. | elevee | Météo-France, ECMWF, GFS | Précipitations pyrénéennes et évolution thermique. |
+| **Sud-Est et Vallée du Rhône** | Soleil sans partage mardi/mercredi, puis ciel bleu jeudi/vendredi ; douceur en plaine. | Max 19-21 °C, min 6-9 °C ; en hausse en plaine, baisse en fin de période. | elevee | Météo-France, ECMWF, GFS | Baisse des températures en fin de semaine. |
+| **Méditerranée et Corse** | Temps largement ensoleillé, brumes locales près des côtes, mistral parfois assez fort à Marseille. | Max 22-24 °C, min 7-12 °C intérieur, 12 °C littoral ; Corse non détaillée. | moderee | Météo-France, ECMWF, GFS | Corse non documentée, rafales locales de mistral. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 12 - Mardi 13 octobre** : Temps sec et doux, anticyclone en place.
-- **Mercredi 14 - Jeudi 15 octobre** : Pic de douceur possible avec des températures très au-dessus des normales.
-- **Vendredi 16 - Samedi 17 octobre** : Incertitude sur le positionnement de l'anticyclone, flux possible un peu plus océanique.
-- **Dimanche 18 octobre** : Tendance à la baisse des températures, à confirmer.
+- **Lundi 12 et mardi 13 octobre** : Temps calme et sec, douceur diurme, quelques nuages bas possibles.
+- **Mercredi 14 et jeudi 15 octobre** : Poussée chaude la plus marquée, T850 proche de 20 °C au sud ; mistral faible.
+- **Vendredi 16 et samedi 17 octobre** : Possible léger recul des températures selon CEP/GEM, AA en retrait ; très incertain.
+- **Dimanche 18 octobre** : Maintien probable d’un temps sec, flux faible ; incertitude majeure sur la fin.
 
 **Points solides :**
-1. Poursuite d'un temps sec et anticyclonique.
-2. Températures au-dessus des normales.
-3. Sécheresse qui s'aggrave.
+- Le blocage anticyclonique reste le scénario le plus probable pour la semaine 2.
+- La sécheresse de surface devrait s’accentuer faute de précipitations significatives.
+- La douceur, parfois marquée, sera au rendez-vous, surtout dans la moitié sud.
 
 **Points fragiles :**
-1. Maintien ou non du blocage.
-2. Pic de douceur en milieu de semaine.
-3. Passages pluvieux possibles sur le nord.
+- Position de l’AA et bascule éventuelle du flux.
+- Ampleur thermique en fin de semaine (T850 entre environ 10 et 20 °C selon les modèles).
+- Possibilité de précipitations faibles sur le nord, très incertaine.
 
 **À surveiller (prochains runs) :**
-À surveiller : sorties CEP 12Z, ensembles GEFS, évolution de GEM et AIFS.
+À surveiller : runs des 11 et 12 octobre, convergence des ensembles CEP/GEFS/AIFS sur la position de l’anticyclone, évolution des températures à 850 hPa et éventuelle goutte froide.
 
 
 ========================================
@@ -132,27 +131,27 @@
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Temps sec et doux pour les 15 prochains jours, avec un risque de pluie limité au nord et à la Méditerranée.
+Sur 15 jours, un temps majoritairement sec et anormalement doux pour la saison, avec un passage perturbé les 7-8 octobre puis un retour d’une chaleur automnale marquée sous un puissant blocage anticyclonique. Le sud-est subit des épisodes venteux et orageux localisés, mais les pluies généralisées manquent toujours. L’indicateur thermique national reste très doux pour la saison.
 
 ### Période la plus fiable
-Semaine 1 (échéances plus courtes, données plus stables).
+Semaine 1 (7-11 octobre) : échéance plus courte, meilleure convergence entre modèles et observations.
 
 ### Phénomènes récurrents
-Anticyclone récurrent sur l'Europe, flux d'ouest rejeté au nord.
+Anticyclone récurrent sur l’Europe, flux d’ouest rejeté au nord, températures à 850 hPa élevées, mistral/tramontane en Méditerranée, orages localisés d’air chaud.
 
 ### Principales incertitudes
-Évolution de l'anticyclone des Açores, possibilité d'incursions plus humides sur le nord.
+Position exacte de l’anticyclone après le 12, vitesse de remontée des températures, répartition des pluies orageuses du 7-8, évolution après le 15.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Un décalage de 24 à 48h est possible pour la remontée des températures en fin de semaine 1 et le pic de douceur de la semaine 2.
-- **Localisation :** Les Pyrénées et le quart nord-est pourraient voir des averses plus ou moins localisées, les cartes divergent.
-- **Intensité :** Le rafraîchissement de jeudi pourrait être plus ou moins marqué (0°C à 850 hPa évoqué, mais UKMO plus timide).
-- **Informations manquantes :** Vent non précisé pour de nombreuses zones intérieures ; informations sur les gelées matinales en semaine 2 encore floues.
-- **Modèles sous-documentés :** AIFS et GEM ne sont cités que brièvement ; peu d'éléments pour les départager.
-- **Incertitudes images :** Les cartes à 300h pour la semaine 2 montrent des configurations atypiques, à prendre avec précaution.
+- **Timing/Chronologie :** Doutes sur le timing du talweg et de la remontée chaude : jeudi/vendredi ou week-end ? En semaine 2, la bascule éventuelle est encore floue.
+- **Localisation :** Localisation des orages mercredi : quart nord-est, Centre-Est, Sud-Ouest ? Cumuls très variables à petite échelle. En S2, le nord pourrait voir quelques averses si l’AA recule, mais rien n’est acquis.
+- **Intensité :** Amplitude thermique importante selon les échéances : 850 hPa de 0 °C à +20 °C. Risque de chaleur automnale marquée, mais les températures à 2 m dépendront du rayonnement nocturne. Intensité du mistral jeudi/vendredi également incertaine, avec rafales possibles de 85 km/h.
+- **Informations manquantes :** Vent non détaillé pour la plupart des zones en S2 ; humidité des sols peu évoquée dans les topics ; pas de discussion dédiée sur la Corse et le Languedoc ; orages méditerranéens de mercredi peu commentés dans le forum.
+- **Modèles sous-documentés :** UKMO (mention unique), GEM et AIFS (une mention en S2) ; ARPEGE non commenté sur le forum.
+- **Incertitudes images :** Certaines cartes partagées sans légende, date ou lien ; un run GFS à 306 h a été interprété à tort comme une prévision fiable, d’où des discussions parasites.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-🌦️ Nouveau bulletin météo 15 jours : la France reste sous l'influence d'un puissant anticyclone. Temps sec, douceur, faible pluviosité. Les incertitudes demeurent sur le comportement du blocage. Décryptage sur le blog.
+Après un passage perturbé et plus frais jeudi/vendredi, la France bascule à nouveau dans un temps sec et très doux pour la saison. La semaine du 12 au 18 octobre devrait rester sous haute pression, avec une chaleur automnale marquée et peu de pluies. Point important : la sécheresse de surface va s’accentuer. Incertitudes fortes sur la position de l’anticyclone. Restons prudents ! #météo #prévisions #automne #sécheresse #Infoclimat
