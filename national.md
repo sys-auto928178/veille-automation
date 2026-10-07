@@ -13,60 +13,60 @@
 
 ## 🗓️ SEMAINE 1 : Du mercredi 7 au dimanche 11 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Orages méditerranéens : Vigilance orange pluie-inondation et orages sur les Bouches-du-Rhône, avec des cumuls possibles jusqu’à 50 mm.
-2. Rafraîchissement marqué : Le mercure pourrait chuter de 5 à 7°C jeudi, surtout dans le Centre-Est.
-3. Mistral puissant : Des rafales à 85 km/h sont possibles jeudi et vendredi en Provence.
-4. Week-end sec : Le soleil reviendrait samedi et dimanche, avec un temps plus calme.
-5. Prudence modèles : GFS et CEP divergent sur l’intensité des orages et la durée du rafraîchissement.
+1. Yo-yo thermique : Douceur marquée en début de semaine puis nette fraîcheur jeudi et vendredi.
+2. Perturbation active : Large passage pluvio-orageux mercredi sur une grande partie du pays.
+3. Anticyclone de retour : Temps sec et plus doux à nouveau attendu pour le week-end.
+4. Prudence sur les runs : Les sorties déterministes varient fortement, surtout pour les précipitations orageuses.
+5. Sécheresse persistante : Les pluies attendues ne suffiront pas à résorber le déficit hydrique.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-1. Un passage perturbé traverse une large partie du pays entre mercredi et jeudi.
-2. Un net rafraîchissement est attendu jeudi et vendredi, avant une remontée des températures.
-3. Le week-end s’annonce plus sec, avec le retour de hautes pressions.
+• Large consensus sur un passage perturbé mercredi 7, suivi d'un rafraîchissement jeudi/vendredi.
+• Retour d'un temps plus sec et anticyclonique à partir du week-end.
+• Températures globalement au-dessus des normales, malgré le coup de frais.
 **Points de divergence :**
-1. L’intensité et la localisation des orages du 07 au 08 restent incertaines.
-2. L’ampleur du rafraîchissement diffère selon les modèles, UKMO étant plus timide.
-3. La structure de l’anticyclone en fin de semaine (blocage ou NAO+) n’est pas tranchée.
+• Intensité et localisation des pluies orageuses de mercredi, très variables selon les runs.
+• Amplitude exacte du rafraîchissement jeudi/vendredi.
+• Rapidité du retour de la douceur le week-end.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS (déterministe)** (documented) | Une dégradation orageuse puis un rafraîchissement, avec des écarts importants entre les runs sur les précipitations. | Averses orageuses mercredi, fraîcheur jeudi/vendredi, retour sec le week-end. | Nord-Est, Centre, Est | Élevée (85%) | GFS a d’abord proposé des précipitations orageuses à fort MUCAPE sur l’Est, avant de les voir s’effacer à l’approche de l’échéance. Les membres recommandent de suivre les ensembles. |
-| **ECMWF (IFS/CEP)** (partial) | Tendance à un régime NAO+ puis possible blocage, avec un net rafraîchissement avant un rebond doux. | Fraîcheur jeudi/vendredi, puis retour de la douceur et du sec. | France entière, plus marqué au nord et à l’est | Modérée (65%) | Les cartes de régimes ECMWF évoquent une diminution du NAO+ vers le 11, avec une possible installation de blocage. La confiance reste limitée à cette échéance. |
-| **UKMO** (insufficient) | Rafraîchissement plus timide que les autres modèles, avec une remontée rapide des températures. | Peu de précipitations, douceur persistante. | Non précisé, plutôt moitié nord | Faible (45%) | UKMO serait un peu plus timide sur le rafraîchissement. Mention unique, donc à interpréter avec prudence. |
-| **GEFS (ensemble GFS)** (partial) | Les diagrammes GEFS montrent une baisse des températures puis une remontée, avec un temps plus sec. | Quelques précipitations possibles, puis blocage sec. | France entière, notamment moitié nord | Modérée (65%) | Les diagrammes GEFS, bien que déterministes, indiquent une baisse régulière des températures vers des valeurs plus acceptables pour octobre, sans grand excès. |
+| **GFS** (documented) | Passage pluvio-orageux mercredi, net rafraîchissement jeudi/vendredi, puis retour d'un temps sec et anticyclonique le week-end. | Pluies orageuses mercredi, fraîcheur jeudi/vendredi, éclaircies et douceur le week-end. | Nord-est, centre, est ; impact plus large possible. | Élevée (85%) | Les membres pointent une forte variabilité des runs GFS, notamment sur les précipitations orageuses (MUCAPE) qui ont disparu à l'approche de l'échéance. Le déterministe doit être croisé avec les ensembles. |
+| **ECMWF / CEP** (documented) | Temps d'abord perturbé puis rafraîchissant, avant un retour anticyclonique et plus doux à partir du week-end. | Pluies mercredi, fraîcheur jeudi/vendredi, sec et doux le week-end. | Large, surtout moitié nord puis tout le pays. | Modérée (65%) | Les régimes de temps ECMWF suggèrent un flux NAO+ s'estompant vers le 11, avec une possible reconstitution d'une crête subtropicale. |
+| **GEFS** (documented) | Baisse des températures en milieu de semaine puis remontée ; possibilités d'incursions humides et fraîches plus fréquentes. | Frais jeudi/vendredi, retour de températures moins élevées qu'en été. | Moitié nord, centre-est. | Modérée (65%) | Les diagrammes GEFS montrent un fléchissement des températures, mais une remontée en fin d'échéance. Les précipitations restent faibles. |
+| **UKMO** (mention) | Rafraîchissement un peu plus timide que les autres modèles, incertitude sur l'amplitude. | Fraîcheur modérée, pas de signal froid marqué. | France entière (non détaillé). | Faible (45%) | Une seule mention : UKMO serait plus timide sur le rafraîchissement, sans plus de précisions. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps variable, averses possibles mercredi puis éclaircies et fraîcheur jeudi. | Maximales en baisse de 20-22°C mercredi à 15-17°C jeudi/vendredi. | moderee | GFS, ECMWF, GEFS | Localisation exacte des averses et timing du rafraîchissement. |
-| **Nord** | Pluies faibles mercredi, puis soleil jeudi et week-end sec et doux. | Maximales 20-21°C mercredi, 15-16°C jeudi, puis 17°C le week-end. | elevee | Météo-France | Intensité des pluies et durée des éclaircies. |
-| **Nord-Est** | Tendance mal documentée, probablement variable puis amélioration. | Non documenté précisément. | faible | GFS, ECMWF | Aucun bulletin départemental spécifique; modèles divergents sur les orages. |
-| **Ouest et Façade Atlantique** | Averses orageuses mercredi, éclaircies jeudi, soleil vendredi puis risque d’averses week-end. | Maximales 21-23°C mercredi, 17-19°C jeudi, 19-21°C week-end. | elevee | Météo-France | Cumuls orageux et retour des averses samedi/dimanche. |
-| **Centre** | Averses orageuses mercredi, net rafraîchissement jeudi, soleil vendredi. | Maximales 19-22°C mercredi, 12-15°C jeudi, 14-17°C vendredi. | elevee | Météo-France | Localisation des orages et températures jeudi en dessous des normales. |
-| **Sud-Ouest** | Averses orageuses mercredi, éclaircies jeudi, soleil vendredi, week-end sec. | Maximales 20-22°C mercredi, 16-17°C jeudi, 16-18°C vendredi, 19°C week-end. | elevee | Météo-France | Cumuls orageux et limite pluie-neige en montagne. |
-| **Sud-Est et Vallée du Rhône** | Pluies orageuses mercredi, mistral fort jeudi/vendredi, soleil ensuite. | Maximales 20-23°C mercredi, 19-21°C jeudi, 18-21°C vendredi, 21-23°C week-end. | elevee | Météo-France | Intensité orageuse et force du mistral. |
-| **Méditerranée et Corse** | Pluie et orages mercredi, forte houle, puis mistral et amélioration. | Températures de saison, minimales 12-15°C, maximales 19-23°C. | elevee | Météo-France | Trajectoire des dépressions orageuses et cumuls sur la Corse. |
+| **Nord-Ouest** | Passage perturbé mercredi, net rafraîchissement jeudi, retour sec et plus doux le week-end. | Fraîcheur jeudi/vendredi, puis douceur en hausse le week-end. | faible | GFS, ECMWF | Détails locaux non abordés dans les discussions. |
+| **Nord** | Ciel chargé mercredi avec faibles pluies, puis ensoleillé jeudi, variable vendredi et weekend. | Max 20-21°C mercredi, 15-17°C jeudi/vendredi, 17°C le weekend ; min 7-10°C. | moderee | Météo-France, GFS, ECMWF | Évolution du week-end encore à préciser. |
+| **Nord-Est** | Averses orageuses possibles mercredi, nette fraîcheur jeudi/vendredi, puis éclaircies. | Baisse marquée jeudi, valeurs proches des normales, remontée le week-end. | faible | GFS, ECMWF | Localisation précise des pluies orageuses. |
+| **Ouest et Façade Atlantique** | Perturbé mercredi avec averses orageuses, éclaircies jeudi, averses vendredi, weekend variable. | Max 21-23°C mercredi, 17-20°C jeudi/vendredi, 19-21°C le weekend ; min 10-14°C. | moderee | Météo-France, GFS, ECMWF | Intensité des averses vendredi en fin de journée. |
+| **Centre** | Averses orageuses mercredi, nette fraîcheur jeudi, retour sec et plus doux le week-end. | Forte baisse jeudi, minimales 5-9°C, remontée le week-end. | faible | GFS, ECMWF | Cumuls orageux et amplitude du rafraîchissement. |
+| **Sud-Ouest** | Temps agité mercredi avec averses orageuses, éclaircies jeudi/vendredi, beau weekend. | Max 20-22°C mercredi, 16-18°C jeudi/vendredi, 19°C le weekend ; min 7-12°C. | moderee | Météo-France, GFS, ECMWF | Limite pluie-neige et cumuls sur le relief. |
+| **Sud-Est et Vallée du Rhône** | Averses et orages mercredi, nette fraîcheur jeudi, soleil vendredi, weekend variable. | Max 19-22°C mercredi, 12-15°C jeudi, 14-17°C vendredi, 16-18°C weekend ; min 5-12°C. | moderee | Météo-France, GFS, ECMWF | Localisation des orages en soirée de mercredi. |
+| **Méditerranée et Corse** | Pluies orageuses mercredi, mistral fort jeudi/vendredi, soleil ensuite. | Max 20-23°C mercredi, 18-21°C jeudi/vendredi, 21-23°C le weekend ; min 6-16°C. | moderee | Météo-France, GFS, ECMWF | Cumuls orageux sur le pays d'Aix et évolution du risque en Corse jeudi. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Mercredi 7 octobre** : Des pluies orageuses traverseraient le pays d’ouest en est, avec un risque marqué en Méditerranée.
-- **Jeudi 8 octobre** : Le temps s’éclaircirait après le passage de la perturbation, avec un net coup de frais et un mistral fort en Provence.
-- **Vendredi 9 octobre** : Le soleil reviendrait, mais les températures resteraient inférieures aux normales, avec quelques gelées possibles en montagne.
-- **Samedi 10 et dimanche 11 octobre** : Un temps sec et de plus en plus doux s’installerait, avec un risque d’averses temporaire.
+- **Mercredi 7 octobre** : Dégradation pluvio-orageuse attendue sur une large partie du pays, vigilance orange sur les Bouches-du-Rhône.
+- **Jeudi 8 octobre** : Forte baisse des températures, éclaircies, mistral assez fort en Méditerranée.
+- **Vendredi 9 octobre** : Soleil puis averses possibles à l'ouest et au sud-ouest en fin de journée.
+- **Samedi 10 et dimanche 11 octobre** : Temps plus sec et plus doux, avec quelques passages nuageux.
 
 **Points solides :**
-1. Dégradation orageuse mercredi, surtout sur le Sud-Est et le Sud-Ouest.
-2. Rafraîchissement net jeudi et vendredi, avec mistral en Provence.
-3. Amélioration samedi et dimanche.
+• Mercredi 7 : dégradation pluvio-orageuse sur une large partie du pays.
+• Jeudi 8 : nette baisse des températures avec éclaircies.
+• Week-end : retour d'un temps plus sec.
 
 **Points fragiles :**
-1. Cumuls orageux jusqu’à 50 mm sur le pays d’Aix.
-2. Force du mistral, avec rafales possibles à 85 km/h.
-3. Rythme de la remontée des températures en fin de semaine.
+• Cumuls orageux exacts, notamment dans le nord-est et le centre.
+• Comportement du GFS déterministe, avec disparition possible des pluies orageuses.
+• Tenue du blocage anticyclonique au-delà de dimanche.
 
 **À surveiller (prochains runs) :**
-Ensembles GFS et CEP pour la semaine 42, position exacte de l’anticyclone, retour éventuel d’air chaud.
+Surveiller la position du talweg jeudi et la reconstitution de la crête anticyclonique ; comparer les ensembles CEP et GEFS.
 
 
 ## 🗓️ SEMAINE 2 : Du Lundi 12 au Dimanche 18 Octobre 2026
