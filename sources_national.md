@@ -316,12 +316,12 @@ période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 07/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -329,9 +329,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mercredi 7 Octobre 2026.
-Résumé général précédent : Sur ces 15 jours, la France reste sous un régime anticyclonique dominant : un passage perturbé les 7-8 octobre, un rafraîchissement temporaire, puis le retour d'une douceur marquée. Les précipitations s'annoncent globalement faibles et insuffisantes pour la sécheresse..
+Résumé général précédent : Après un passage perturbé les 7-8 octobre et un bref rafraîchissement, la France reste sous un régime anticyclonique très doux et sec jusqu'au 18 octobre. Les précipitations devraient rester faibles et insuffisantes pour la sécheresse..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pluies orageuses initialement prévues sur l'Est non confirmées ; averses résiduelles possibles jeudi..
+Températures attendues précédemment : Averses orageuses initialement prévues sur Langres, Dijon, Nevers non confirmées à l'approche de l'échéance. (max 120).
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 7 au Dimanche 11 Octobre 2026) ===
@@ -561,55 +561,6 @@ Il y a 1 heure, Plancher a dit :
 	Les incursions fraîches pourraient quand même se montrer plus fréquentes ce mois-ci et heureusement.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: Ciel d&#039;encre
-Message:
-Prudence prudence....
-
-=======================
-
-Auteur: Krholam
-Message:
-Il y a 2 heures, giec 2100 a dit :
-			et au 14 octobre sur le diagramme on est au début de l'installation de la tendance au blocage : 
-			https://charts.ecmwf.int/products/extended-regime-probabilities?forecast_from=latest
-	Encore une fois attention a ce diagramme. Je me suis moi même fais avoir et repris à juste titre en Juillet. Son interet reside dans l’evolution de la tendance par jour au fil des runs et non pas à son avancement au fil des jours sur une même run (bizarre commd formulation je l’admet)
-	Dans notre échéance (12/10 18/10), la tendance au blocage est en nette regression.
-	 La difference entte ce matin (run du 04/10) et maintenant est flagrante
-	Il est beaucoup trop tot pour donc parler d’installation de tendance au blocage.
-	Mais on reste au sec, l’anomalie d’absence de PP fait un bon
-	Modifié lundi à 21:38 par Krholam
-								4
-								2
-
-=======================
-
-Auteur: giec 2100
-Message:
-@Krholam certes ! mais la comparaison des runs ne servirait-elle pas à juger si la prévision se stabilise plutôt qu'à extrapoler sa dérive...?
-	la lecture entre runs pourrait servir à évaluer la confiance et la lecture dans le run pour comprendre le scénario : les deux se complètent plus qu'ils ne s'excluent, non... ?
-	OK pour la carte d'évaluation des précipitations, c'est maigre effectivement, mais n'oublie pas de mettre la légende, la date, la source... et le lien où l'on peut la repêcher, autant pour mon autoformation que pour celle des autres :
-	on n'est pas des scribes ou apprentis scribes, jaloux de son savoir, et déterminés à ne pas le partager pour rester dans la caste des savants/sachants ! 😉😘
-	plein de smileys pour détendre l'atmosphère et bien faire comprendre que cette remarque reste uniquement dans le chapitre "pédagogie"...
-	@+ avec encore plus de conseils j'espère ! 
-	le "métier" va finir par rentrer chez moi, j'ai confiance dans la patience des un-e-s et des autres...
-	une demi-heure après :
-	sur un tout autre sujet, mais toujours en lien avec le run sur run, déconseillé par certain-e-s, un beau retournement - dans tous les sens du terme - avec la circulation du jet chez GFS ce soir, comparée à celle de midi en-dessous : 
-	https://images.meteociel.fr/im/97/534/gfsnh_5_204dus5.png
-	https://images.meteociel.fr/im/33/28104/gfsnh_m5.png5_270tl
-	Modifié lundi à 22:49 par giec 2100
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Il y a 7 heures, giec 2100 a dit :
-			OK pour la carte d'évaluation des précipitations, c'est maigre effectivement, mais n'oublie pas de mettre la légende, la date, la source... et le lien où l'on peut la repêcher, autant pour mon autoformation que pour celle des autres :
-	Je t’avoues que j’etais sur mon téléphone juste avant de dormir. J’ai du donc eu la flemme de faire un upload et j’ai juste copier coller l’image 😅
-								1
-
-=======================
-
 Auteur: nickdu77
 Message:
 Effectivement, ça a l'air de vouloir rester assez sec et bien trop doux. Toutes les perturbations sont rejetées vers le nord : je ne sais pas combien il tombe en Norvège (au nord du pays surtout) mais ça doit être costaud. J'ai aussi vu cette carte en fin de topic et je ne comprends pas ce que je vois. Cette configuration me semble étrange ou c'est moi?. Si quelqu'un peut m'éclairer. C'est un oméga d'automne? Un bug? Moi qui devient daltonien?
@@ -715,7 +666,7 @@ il y a une heure, giec 2100 a dit :
 	Je vais faire du parisiano centrisme mais cette tendance se voit bien dur les diagrammes avec une moyenne qui descend de maniere reguliere vers les 5⁰C (ça n’empeche pas de possible soubressaut)
 	(Le diagramme 12z de CEP n’est pas encore sorti)
 	Toujours impressionnant cette vision seche persistante de GEFS par rapport à Cep et Aifs
-	Modifié il y a 23 heures par Krholam
+	Modifié hier à 20:41 par Krholam
 								3
 
 =======================
@@ -728,7 +679,7 @@ Il y a 12 heures, Krholam a dit :
 			D’autant qu’on part de loin. 
 	oui on sent bien le surplomb de l'astronomie sur la météorologie, avec cette durée du jour déclinante, qui aide notre vieille glacière arctique à accumuler assez de frigories pour continuer à prouver son existence... !
 	attendons le solstice pour contempler de beaux restes (!)... peut-être...
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								1
 
 =======================
@@ -748,7 +699,7 @@ Toujours une ceinture de hauts géopotentiels subtropicaux très élevée en lat
 	Les perspectives sont donc globalement anticycloniques et sèches pour la saison, aux échelles tempérées de notre hémisphère mais aussi en France.
 	Seuls quelques faiblesses localisées permettent de voir s'immiscer quelques gouttes froides/talweg, à l'image de ce qui nous concerne actuellement et pour cette fin de semaine. 
 	Pour ma part toujours ces interrogations sur le caractère désormais structurel de cette situation hémisphérique et sur la zone euro-atlantique en particulier.
-	Modifié il y a 12 heures par thib91
+	Modifié il y a 14 heures par thib91
 								6
 								1
 								3
@@ -795,7 +746,7 @@ L'ensemble CEP, appuyé par GEM  modélise un AA un peu en retrait vers l'ouest
 	J'aurais tendance donc à privilégier le scénario de CEP, même s'il reste beaucoup d'incertitudes sur la latitude que va prendre l'AA et l'amplitude l'importance de son décalage à l'ouest.
 	De ces évolutions dépendra la nature du flux et les possibilité de précipitations.
 	Mais le flux d'ouest vers la France est toujours en panne, d'ailleurs le Jet est bien loin de la France dévié vers le nord  :
-	Modifié il y a 10 heures par petit âge glaciaire 11
+	Modifié il y a 12 heures par petit âge glaciaire 11
 								2
 								1
 								3
@@ -810,4 +761,60 @@ scénario cauchemar :
 	de profundis...
 	??? !!!
 	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=192&amp;mode=3&amp;carte=1&amp;map=&amp;code=36&amp;ext=0
-	Modifié il y a 41 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+1 hour ago, giec 2100 said:
+			scénario cauchemar :
+			jetstream en voie de disparation en fin d'échéance pour l'hémisphère N côté atlantique... 
+			il a donné procuration à son cousin du pacifique dans ses dernières volontés... 
+			de profundis...
+			??? !!!
+			https://www.meteociel.fr/modeles/gefs_cartes.php?ech=192&amp;mode=3&amp;carte=1&amp;map=&amp;code=36&amp;ext=0
+	Désolé tu vas croire que je m'acharne 🤣, bien évidemment, c'est juste pour info, et merci beaucoup pour ta participation !
+	Attention, pour le jetstream, la moyenne et les quantile sont extrêmement piégeux, un peu pour la même raison que les précipitations :
+	Si on regarde les membres isolés les cartes consistent en un des bandes de jet stream localisées et de nombreux 0 partout ailleurs (blanc). La médiane ici est calculée en chaque point : pour chaque échéance, on superpose toues les membres, et on prend les pixels médian (et pas le scénario médian [qu'il faudrait définir, car je ne vois pas de définition immédiate]). Ainsi ce qu'on regarde n'est pas vraiment physique : il s'agit de pixels de carte potentiellement différentes. 
+	Les cartes que tu as postées donnent bien une information néanmoins, on voit que dans le Pacifique, la médiane est non nulle : il y a de nombreux scénarios (plus de la moitié) dans lesquels ces pixels ont une valeurs de jetstream non nulle : la prévision est stable de ce côté de l'hémisphère, le jet stream se trouve toujours à peu près au même endroit. Pour notre côté, cette carte nous indique :
+	- Soit qu'il n'y a pas de jet stream (mais c'est très peu cohérent avec ce que l'on connaît de ce processus) ;
+	- Soit que sa position varie entre les membres : la moitié au moins des pixels présentent une valeurs &gt; à la valeur de la médiane. Si le jet stream est nul sur + de la moitié des scénarios sur ce pixel, alors la valeur de la médiane sera 0.
+	Un coup d'oeil au panel (équivalent du tableaux des précipitations en quelques sortes) :
+	On voit bien qu'il y a 0 membres sans jet stream de notre côté. Aucun des membres ne ressemble à la carte moyenne ou médiane. La carte médiane pour cette variable et cette manière de calculer n'est absolument physique (mais elle peut être informative).
+	Ce qu'on en retient donc c'est que la fiabilité de la prévision est modérée sur la position du jet stream en sortie des côtes américaines. En revanche on ne sait pas comment il sera positionné au voisinage de la France : sud ? nord ? plein dans le mille ? Par contre, il sera là.
+	PS : on remarque d'ailleurs que si les cartes de l'écart-type sont calculées pour le géopotentiel, les températures, les champs continu sans 0 en général, elles ne le sont pas pour les précipitations et le jet stream, pour les même raisons que cités ci-dessus : ces cartes seraient quasiment inutilisable avec un écart-type qui exploserait si un membre propose 0mm et qu'un autre décalant l'orage propose 70mm... Pour les température, les décalages sont de quelques degrés maximum...
+	Modifié il y a 1 heure par Jojobarbar
+								3
+								2
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
+								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Jojobarbar
+	il faut que je m'arrache de ces moyennes et médianes :
+	mais où diable trouver ce panel, as-tu le lien... ?
+	houlà ça y est :en bas à gauche sur l'onglet "ensembles" puis le dernier "Panel des différents ensembles :
+	Panel Cartes des Ensembles GEFS"
+	idem pour le commentaire https://forums.infoclimat.fr/f/topic/61446-du-12-octobre-au-18-octobre-2026-prévisions-météo-semaine-42/#comment-4145613
+	où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
+	ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
+	bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
+	Modifié il y a 24 minutes par giec 2100
+plusieurs rectifs après recherches... fructueuses
+
+=======================
+
+Auteur: Lorrd&#039;ici
+Message:
+Journée démarrant sous le soleil et la fraîcheur puis les nuages se sont installés en cours d’après-midi. Très doux et lourd.  Quelques gouttes en soirée.
+	Tn : 6.9°C / Tx : 24.8°C / Ta : 17.2°C.
