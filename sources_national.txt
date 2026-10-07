@@ -294,7 +294,7 @@ Températures minimales : en hausse sur le Lauragais, sur le piémont et la mont
 Températures maximales : stationnaires.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 061945 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 6 octobre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 307 pour PROVENCE 2 - Situation générale mardi 6 octobre 2026 à 12H00 UTC, et évolution Dépression orageuse 1017 hPa sur la Sardaigne, se décalant vers l'est et prévue 1015 hPa sur l'ouest de la Mer Tyrrhénienne ce soir, puis se comblant progressivement demain après-midi. Nouvelle dépression orageuse se creusant près de 1010 hPa sur le Golfe du Lion en fin de nuit, se décalant lentement vers l'est et prévue sur les côtes de Provence demain soir. 3 - Prévisions pour la nuit du mardi 6 octobre au mercredi 7 octobre VENT : Est à Sud-Est 4 à 5, fraîchissant localement 5 à 6 près des côtes en milieu de nuit. Vent pouvant atteindre ou dépasser 7 sous orages, avec fortes rafales. MER : peu agitée à agitée. HOULE : non significative, localement Est autour 0.5 m. TEMPS : pluie et orages par l'ouest en fin de soirée. VISIBILITE : mauvaise à très mauvaise sous orages. 4 - Prévisions pour la journée du mercredi 7 octobre VENT : secteur Sud 3 à 5, parfois 6 à l'est de Porquerolles, revenant secteur Est 4 à 5, parfois 6, en milieu de journée, excepté de Port-Camargue à Fos, puis virant secteur Sud-Est 3 à 5 partout en fin de journée. Fortes rafales sous orages. MER : peu agitée à agitée, s'atténuant peu agitée en fin de journée. HOULE : secteur Est 1 à 1.5 m vers le large, s'amortissant 0.5 à 1 m l'après-midi. TEMPS : pluie et orages. VISIBILITE : mauvaise à très mauvaise sous orages. 5 - Tendance pour la nuit du 7 au 8, et la journée du jeudi 8 octobre VENT : Variable 3 à 5, parfois 6, s'orientant Ouest à Nord-Ouest en seconde partie de nuit, puis fraîchissant 6 à 7 le matin, avec menace de 8 l'après-midi. Fortes rafales. MER : devenant peu agitée à agitée, puis agitée à forte en journée. HOULE : s'établissant Sud à Sud-Ouest 0.5 à 1 m, puis s'amplifiant longue de Sud-Ouest 1 à 1.5 m en journée. TEMPS : orages la nuit, puis éclaircies progressives en journée. VISIBILITE : mauvaise à très mauvaise sous orages, puis progressivement bonne. 6 - Prévisions pour la nuit du 8 au 9 et la journée du vendredi 9 octobre VENT : De Port Camargue à la Ciotat Nord-Ouest 6 à 7, fraîchissant 7 à 8 en début de nuit, puis mollissant 5 à 6 en milieu d'après-midi. Fortes rafales. De la Ciotat à Porquerolles Ouest à Nord-Ouest 7, fraîchissant 8 en début de nuit, puis mollissant 2 en milieu d'après-midi. Fortes rafales. De Porquerolles à St Raphaël Nord-Ouest 6 à 8, devenant variable 1 à 3 en milieu d'après-midi. Fortes rafales. MER : peu agitée à agitée, localement forte de Fos à St Raphaël. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1,5 à 2 m en début de nuit. 7 - Tendance pour les jours suivants Samedi 10 octobre Nord-Ouest assez fort. Sud-Ouest modéré entre Corse et continent. Indice de confiance : 4 sur 5 Dimanche 11 octobre Nord-Ouest modéré. Indice de confiance : 3 sur 5 Lundi 12 octobre Nord-Ouest modéré. Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mardi 13 octobre Secteur Nord-Ouest faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 8 - Observations le mardi 6 octobre 2026 à 15H00 UTC Cap Camarat : vent Est-Nord-Est 14 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Est 16 noeuds, 1017 hPa en baisse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 25 noeuds. Cap Couronne : vent Sud-Est 12 noeuds, mer belle, clair ou peu nuageux, visibilité 10 milles. Prochain bulletin le mercredi 7 octobre 2026, vers 06H30 légales
+FQCT40 LFML 070350 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mercredi 7 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de grand frais Nr 308 pour LANGUEDOC-ROUSSILLON, PROVENCE 2 - Situation générale mercredi 7 octobre 2026 à 00H00 UTC, et évolution Dépression orageuse 1015 hPa sur l'ouest de la Mer Tyrrhénienne, se comblant progressivement l'après-midi. Nouvelle dépression orageuse se creusant 1010 hPa sur le Golfe du Lion, se décalant lentement vers l'est, prévue sur les côtes de Provence la nuit prochaine, et sur la Mer Ligure demain. 3 - Prévisions pour la journée du mercredi 7 octobre VENT : secteur Sud-Est 3 à 5, devenant Variable 2 à 4 l'après-midi. Fortes rafales sous orages. MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi. HOULE : secteur Est 0.5 à 1 m, s'orientant Sud-Ouest l'après-midi. TEMPS : pluie et orages. VISIBILITE : mauvaise à très mauvaise sous orages. 4 - Prévisions pour la nuit du mercredi 7 octobre au jeudi 8 octobre VENT : Variable 2 à 4, fraîchissant Ouest à Sud-Ouest 4 à 6 par l'ouest en seconde partie de nuit, localement 7 à l'ouest de Fos en fin de nuit. Rafales. MER : peu agitée, devenant peu agitée à agitée en fin de nuit. HOULE : Sud à Sud-Ouest 0.5 à 1 m. TEMPS : couvert avec orages. VISIBILITE : mauvaise à très mauvaise sous orages. 5 - Prévisions pour la journée du jeudi 8 octobre VENT : Ouest à Nord-Ouest 6 à 7, menace de 8 l'après-midi. Fortes rafales. MER : agitée à forte. HOULE : Sud-Ouest 1 à 1.5 m. TEMPS : très nuageux avec averses orageuses, devenant nuageux l'après-midi. VISIBILITE : bonne, localement mauvaise sous averses. 6 - Prévisions pour la nuit du 8 au 9 et la journée du vendredi 9 octobre VENT : De Port Camargue à Porquerolles Nord-Ouest 8 à 9, mollissant 6 à 8 en milieu d'après-midi. Fortes rafales. De Porquerolles à St Raphaël Ouest à Nord-Ouest 7 à 8, mollissant et devenant variable 1 à 3 en début de matinée. Rafales. MER : De Port Camargue à Porquerolles mer agitée à forte, localement très forte de Fos à Porquerolles. De Porquerolles à St Raphaël mer forte localement très forte, devenant agitée en milieu de nuit. HOULE : De Port Camargue à la Ciotat houle d'Ouest à Sud-Ouest 0,5 à 1,5 m, localement 1,5 à 2 m. De la Ciotat à St Raphaël petite houle d'Ouest à Sud-Ouest, s'amplifiant 1 à 3,5 m en milieu de nuit. 7 - Tendance pour les jours suivants Samedi 10 octobre Nord-Ouest assez fort. Sud-Ouest modéré entre Corse et continent. Indice de confiance : 4 sur 5 Dimanche 11 octobre Nord-Ouest modéré. Indice de confiance : 3 sur 5 Lundi 12 octobre Nord-Ouest modéré. Nord-Est faible à modéré entre Corse et continent. Indice de confiance : 3 sur 5 Mardi 13 octobre Secteur Nord-Ouest faible à modéré, localement Nord-Est entre Corse et continent. Indice de confiance : 3 sur 5 8 - Observations le mercredi 7 octobre 2026 à 03H00 UTC Cap Camarat : vent Est 23 noeuds, rafales 35 noeuds, très nuageux à couvert. Le Levant : vent Est-Sud-Est 10 noeuds, rafales 37 noeuds, 1014 hPa en baisse. Porquerolles : vent Est-Nord-Est 8 noeuds, rafales 23 noeuds. Cap Couronne : vent Est 17 noeuds, rafales 29 noeuds, mer peu agitée, visibilité 8 milles. Prochain bulletin le mercredi 7 octobre 2026, vers 13H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -320,11 +320,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : AMORE : réécriture par l'IA du modèle météo AROME, en open-source.
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 • Infoclimat Direct : AMORE : réécriture par l'IA du modèle météo AROME, en open-source.
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -335,7 +335,7 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 Dernier bulletin généré le Mercredi 7 Octobre 2026.
 Résumé général précédent : .
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses orageuses mercredi, fraîcheur jeudi/vendredi, retour sec le week-end..
+Températures attendues précédemment : Pluies orageuses mercredi, fraîcheur jeudi/vendredi, éclaircies et douceur le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mercredi 7 au Dimanche 11 Octobre 2026) ===
@@ -725,7 +725,7 @@ il y a 41 minutes, nickdu77 a dit :
 	peu déterminable mais sans doute ni nordique ni de sud.
 	Décalage à l'ouest des hautes pressions et des géopotentiels d'altitude néanmoins visible par rapport à mercredi, reflux de la patate anticyclonique ? A voir.... :
 	Bon ce ne sont que des signaux à long terme d'un modèle.
-	Modifié il y a 10 heures par petit âge glaciaire 11
+	Modifié il y a 12 heures par petit âge glaciaire 11
 								1
 								2
 								1
@@ -760,7 +760,7 @@ il y a une heure, Krholam a dit :
 			Juste un run det à 300h.
 			Mon fils de 5 ans me dit aussi que ça ressemble à une voiture avec les 2 zones GF comme roue et l’habitacle sur les iles britanniques
 	Ben si c'est une voiture, j'espère qu'elle ne va pas rester en stationnement... 😄
-	Modifié il y a 9 heures par nickdu77
+	Modifié il y a 11 heures par nickdu77
 								1
 								2
 
@@ -790,7 +790,7 @@ Il y a 2 heures, Plancher a dit :
 	un îlot de refuge climatique polaire au N du Groënland, avec sa petite poche relictuelle à -16°C... 
 	https://www.meteociel.fr/modeles/ecmwfens_cartes.php?code=51&amp;ech=192&amp;carte=1&amp;mode=1
 	* @nickdu77 oui, faudrait mettre des parcmètres, à tarification dissuasive aggravée avec la durée de stationnement et les sales habitudes de retour pour ces anticyclones ventouses...
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 								1
 
@@ -807,7 +807,7 @@ il y a une heure, giec 2100 a dit :
 	Je vais faire du parisiano centrisme mais cette tendance se voit bien dur les diagrammes avec une moyenne qui descend de maniere reguliere vers les 5⁰C (ça n’empeche pas de possible soubressaut)
 	(Le diagramme 12z de CEP n’est pas encore sorti)
 	Toujours impressionnant cette vision seche persistante de GEFS par rapport à Cep et Aifs
-	Modifié il y a 5 heures par Krholam
+	Modifié il y a 7 heures par Krholam
 								2
 
 =======================
