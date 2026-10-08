@@ -287,7 +287,7 @@ Températures minimales : en baisse sur la Thiérache.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 071610 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le mercredi 7 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 134. 2 - Situation générale mercredi 7 octobre 2026 à 12H00 UTC, et évolution Dépression 1007 hPa à l'ouest de la France, se décalant vers le nord-est, prévue 1003 hPa sur le Danemark cette nuit, et se creusant 985 hPa sur Scandinavie vendredi. Dorsale atlantique se renforçant sur le Golfe de Gascogne. Talweg circulant en Manche vendredi après-midi. 3 - Prévisions pour la nuit du mercredi 7 octobre au jeudi 8 octobre VENT : Nord à Nord-Ouest 6 à 7, mollissant 5 à 6 en Manche en fin de nuit. Rafales, parfois fortes en Mer du Nord. MER : agitée, devenant localement agitée à forte vers la frontière belge en milieu de nuit. HOULE : s'établissant Nord-Est 0.5 à 1 m en milieu de nuit. TEMPS : pluie, s'améliorant en fin de nuit. VISIBILITE : mauvaise sous précipitations. 4 - Prévisions pour la journée du jeudi 8 octobre VENT : Nord-Ouest 5 à 6, localement 6 à 7 en Mer du Nord jusqu'à la mi-journée, puis mollissant Ouest à Nord-Ouest 4 à 5 en fin de journée. Rafales. MER : agitée, s'atténuant peu agitée à agitée l'après-midi. HOULE : Nord à Nord-Est 0.5 à 1.5 m d'ouest en est. TEMPS : peu nuageux. VISIBILITE : bonne. 5 - Tendance pour la nuit du 8 au 9, et la journée du vendredi 9 octobre VENT : secteur Ouest 4 à 5, fraîchissant Ouest à Sud-Ouest 6 à 7 en fin de nuit, puis virant Nord-Ouest 6 en toute fin de journée. Fortes rafales sous le vent du détroit. MER : peu agitée à agitée, devenant agitée à forte en fin de nuit. HOULE : s'atténuant Nord 0.5 m la nuit. TEMPS : se couvrant, pluies en fin de nuit et journée. VISIBILITE : mauvaise sous pluies. 6 - Prévisions pour la nuit du 9 au 10 et la journée du samedi 10 octobre VENT : Ouest 5 à 6. Rafales. MER : peu agitée à agitée, localement forte en Manche. HOULE de Sud-Ouest inférieure à 1,5 m, s'atténuant ensuite. 7 - Tendance pour les jours suivants Dimanche 11 octobre Secteur Ouest modéré. Indice de confiance : 4 sur 5 Lundi 12 octobre Secteur Sud-Ouest modéré. Indice de confiance : 4 sur 5 Mardi 13 octobre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Mercredi 14 octobre Secteur Ouest modéré. Indice de confiance : 3 sur 5 8 - Observations le mercredi 7 octobre 2026 à 15H00 UTC Dunkerque : vent Nord 17 noeuds, mer peu agitée, 1008 hPa en baisse, couvert, pluies ou bruines. Cap Gris Nez : vent Nord 27 noeuds. Boulogne : vent Nord 12 noeuds, rafales 23 noeuds, 1008 hPa en baisse, couvert, pluies ou bruines, visibilité 1 mille. Bouée Sandettie : vent Nord 25 noeuds, creux 0,9 mètre, 1009 hPa en baisse, visibilité 2 milles. Prochain bulletin le jeudi 8 octobre 2026, vers 06H30 légales
+FQCT40 LFQQ 080400 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le jeudi 8 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 135. 2 - Situation générale jeudi 8 octobre 2026 à 00H00 UTC, et évolution Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée. 3 - Prévisions pour la journée du jeudi 8 octobre VENT : Nord à Nord-Ouest 5 à 6, parfois 7 en mer du Nord en début de journée, mollissant progressivement Nord-Ouest 3 à 4 l'après-midi. Rafales. MER : agitée, devenant peu agitée en Manche l'après-midi. HOULE : Nord à Nord-Est 0.5 à 1 m, jusqu'à 1.5 m en mer du Nord. TEMPS : ciel peu nuageux à nuageux, rares averses vers la frontière belge en matinée. VISIBILITE : bonne, parfois moyenne sous averses. 4 - Prévisions pour la nuit du jeudi 8 octobre au vendredi 9 octobre VENT : Ouest à Nord-Ouest 3 à 4, revenant Ouest à Sud-Ouest 5 à 6 en milieu de nuit puis fraîchissant 6 à 7 à la fin. Rafales. MER : peu agitée, localement agitée vers la frontière belge en soirée, devenant agitée en deuxième partie de nuit. HOULE : Nord 0.5 à 1.5 m s'atténuant. TEMPS : ciel se couvrant, pluie en fin de nuit. VISIBILITE : mauvaise sous pluie. 5 - Prévisions pour la journée du vendredi 9 octobre VENT : Sud-Ouest 6 à 7. Fortes rafales. MER : agitée à forte. HOULE : confondue avec la mer du vent. TEMPS : pluie. VISIBILITE : mauvaise sous pluie. 6 - Prévisions pour la nuit du 9 au 10 et la journée du samedi 10 octobre VENT : Ouest 5 à 6. Fortes rafales. MER : forte, devenant agitée en début de nuit. HOULE d'Ouest à Sud-Ouest inférieure à 1,5 m, s'atténuant ensuite. 7 - Tendance pour les jours suivants Dimanche 11 octobre Secteur Ouest modéré. Indice de confiance : 4 sur 5 Lundi 12 octobre Secteur Sud-Ouest modéré. Indice de confiance : 4 sur 5 Mardi 13 octobre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Mercredi 14 octobre Secteur Ouest modéré. Indice de confiance : 3 sur 5 8 - Observations le jeudi 8 octobre 2026 à 03H00 UTC Dunkerque : vent Nord-Nord-Ouest 21 noeuds, rafales 33 noeuds, mer agitée, 1013 hPa en hausse, nuageux avec éclaircies, visibilité 4 milles. Cap Gris Nez : vent Nord-Nord-Ouest 25 noeuds. Boulogne : vent Nord-Nord-Ouest 17 noeuds, rafales 29 noeuds, 1014 hPa en hausse. Prochain bulletin le jeudi 8 octobre 2026, vers 12H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -311,12 +311,12 @@ période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Suivi du temps en Belgique.
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 • Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
 • Infoclimat Direct : Météo &#xE0; Rabat et territoire Marocain (climat, prévisions, tendances, et variations)
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 08/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -324,9 +324,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 8 Octobre 2026.
-Résumé général HDF précédent : Sur l'ensemble de la période du 8 au 18 octobre, les Hauts-de-France évoluent entre une courte dégradation venteuse et pluvieuse (jeudi-vendredi) et un retour progressif d'un temps plus sec et doux. La semaine 2 reste dominée par un anticyclone, mais sa position exacte conditionnera une éventuelle coulée fraîche en fin de période. Les précipitations devraient rester faibles, maintenant la sécheresse superficielle..
+Résumé général HDF précédent : Sur les 15 jours, les Hauts-de-France connaissent une dégradation pluvieuse et venteuse en fin de première semaine, puis un temps plus sec et doux. L'anticyclone pourrait rester proche en deuxième semaine, avec une incertitude sur une possible coulée fraîche en fin de période. Les températures restent au-dessus des normales, surtout en deuxième semaine..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Rafales 55-75 km/h, averses, minima 3-6°C en campagne, éclaircies samedi..
+Températures attendues précédemment : Averses, vent fort, rafales 75 km/h, éclaircies samedi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 8 au Dimanche 11 Octobre 2026) ===
@@ -665,7 +665,7 @@ Il y a 12 heures, Krholam a dit :
 			D’autant qu’on part de loin. 
 	oui on sent bien le surplomb de l'astronomie sur la météorologie, avec cette durée du jour déclinante, qui aide notre vieille glacière arctique à accumuler assez de frigories pour continuer à prouver son existence... !
 	attendons le solstice pour contempler de beaux restes (!)... peut-être...
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 								1
 
 =======================
@@ -685,7 +685,7 @@ Toujours une ceinture de hauts géopotentiels subtropicaux très élevée en lat
 	Les perspectives sont donc globalement anticycloniques et sèches pour la saison, aux échelles tempérées de notre hémisphère mais aussi en France.
 	Seuls quelques faiblesses localisées permettent de voir s'immiscer quelques gouttes froides/talweg, à l'image de ce qui nous concerne actuellement et pour cette fin de semaine. 
 	Pour ma part toujours ces interrogations sur le caractère désormais structurel de cette situation hémisphérique et sur la zone euro-atlantique en particulier.
-	Modifié il y a 18 heures par thib91
+	Modifié il y a 20 heures par thib91
 								6
 								1
 								3
@@ -732,7 +732,7 @@ L'ensemble CEP, appuyé par GEM  modélise un AA un peu en retrait vers l'ouest
 	J'aurais tendance donc à privilégier le scénario de CEP, même s'il reste beaucoup d'incertitudes sur la latitude que va prendre l'AA et l'amplitude l'importance de son décalage à l'ouest.
 	De ces évolutions dépendra la nature du flux et les possibilité de précipitations.
 	Mais le flux d'ouest vers la France est toujours en panne, d'ailleurs le Jet est bien loin de la France dévié vers le nord  :
-	Modifié il y a 16 heures par petit âge glaciaire 11
+	Modifié il y a 18 heures par petit âge glaciaire 11
 								2
 								1
 								3
@@ -747,7 +747,7 @@ scénario cauchemar :
 	de profundis...
 	??? !!!
 	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=192&amp;mode=3&amp;carte=1&amp;map=&amp;code=36&amp;ext=0
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 								1
 
 =======================
@@ -771,7 +771,7 @@ Message:
 	On voit bien qu'il y a 0 membres sans jet stream de notre côté. Aucun des membres ne ressemble à la carte moyenne ou médiane. La carte médiane pour cette variable et cette manière de calculer n'est absolument physique (mais elle peut être informative).
 	Ce qu'on en retient donc c'est que la fiabilité de la prévision est modérée sur la position du jet stream en sortie des côtes américaines. En revanche on ne sait pas comment il sera positionné au voisinage de la France : sud ? nord ? plein dans le mille ? Par contre, il sera là.
 	PS : on remarque d'ailleurs que si les cartes de l'écart-type sont calculées pour le géopotentiel, les températures, les champs continu sans 0 en général, elles ne le sont pas pour les précipitations et le jet stream, pour les même raisons que cités ci-dessus : ces cartes seraient quasiment inutilisable avec un écart-type qui exploserait si un membre propose 0mm et qu'un autre décalant l'orage propose 70mm... Pour les température, les décalages sont de quelques degrés maximum...
-	Modifié il y a 5 heures par Jojobarbar
+	Modifié il y a 7 heures par Jojobarbar
 								3
 								2
 
@@ -795,7 +795,7 @@ Message:
 	où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
 	ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
 	bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 plusieurs rectifs après recherches... fructueuses
 								1
 
