@@ -1,38 +1,34 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (RÉGIONAL HAUTS-DE-FRANCE)
 **Généré le :** Jeudi 8 Octobre 2026
-**Période :** Semaine 1 (Du Jeudi 8 au Dimanche 11 Octobre 2026) & Semaine 2 (Semaine 2 : Du Lundi 12 au Dimanche 18 Octobre 2026)
+**Période :** Semaine 1 (Jeudi 8 au Dimanche 11 Octobre 2026) & Semaine 2 (Période exacte semaine 2)
 *Analyse régionale ciblée sur les départements : Nord (59), Pas-de-Calais (62), Somme (80), Oise (60) et Aisne (02).*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord régional*
-- **Fiabilité du scénario majoritaire :** Stable — *Incertitude en semaine 2*
-- **Stabilité des cartes/scénarios :** 6 / 127 — *6 cartes analysées*
-- **Niveau d'incertitude global :** Timing — *Transition thermique*
+- **Consensus des modèles :** Modéré | Élevé | Faible — *Note très courte*
+- **Fiabilité du scénario majoritaire :** Scénario très court — *Note très courte*
+- **Stabilité des cartes/scénarios :** 6 / 131 — *6 cartes analysées*
+- **Niveau d'incertitude global :** Incertitude courte — *Note très courte*
 
-## 🗓️ SEMAINE 1 : Du Jeudi 8 au Dimanche 11 Octobre 2026
+## 🗓️ SEMAINE 1 : Jeudi 8 au Dimanche 11 Octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Temps sec et frais : un ciel souvent dégagé sur l'ensemble des Hauts-de-France, avec quelques passages nuageux possibles.
-2. Frais le matin : Températures basses en début de journée, surtout en intérieur de terres.
-3. Vent faible : Régime de nord-est à est généralement faible, rafales limitées.
-4. Pas d'orages : Aucune dégradation orageuse sur les cinq départements.
-5. Nuits fraîches : Quelques gelées blanches possibles en Aisne et Oise.
+1. Temps perturbé et doux : Passage pluvieux jeudi puis retour d'averses samedi.
+2. Vent modéré à fort : Rafales possibles près des caps et sur les hauteurs.
+3. Températures en baisse : retour à des valeurs de saison.
+4. Risque d'averses orageuses : Oise et Aisne.
+5. Amélioration dimanche : retour d'un temps plus calme.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-Convergence 1 : ...
-Convergence 2 : ...
-Convergence 3 : ...
+... (max 3 points)
 **Points de divergence :**
-Divergence 1 : ...
-Divergence 2 : ...
-Divergence 3 : ...
+... (max 3 points)
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Météo-France XML et Guillaume Séchet** (Confirmé pour le début de période, à surveiller ensuite.) | Temps sec et frais à froid la nuit sur les Hauts-de-France, éclaircies et brumes matinales. Passage océanique faiblement pluvieux possible lundi. | Rafales nord-est sensibles en bord de mer (Pas-de-Calais, littoral). | Nord, Pas-de-Calais, Somme, Oise, Aisne | Modérée (60-70%) : les bulletins XML et prévisions long-terme sont clairement utilisés pour HDF. | ... |
+| **ECMWF** (Disponible) | Dépression sur les Îles Britanniques avec talweg s'étendant sur la France. Temps humide et agité, fraîcheur marquée en fin de période. | Pluies modérées, vent de sud-ouest, rafales 60-70 km/h. | Toute la région HDF. | Élevée (80-90%) : ECMWF analysé dans le détail sur le sujet HDF. | ... (détail texte) |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
@@ -44,25 +40,39 @@ Divergence 3 : ...
 | **Aisne (02)** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **18 Octobre** : Dimanche : quelques averses résiduelles puis assèchement par le nord-ouest
+- **...** : ...
+- **...** : ...
+- **...** : ...
+- **...** : ...
+
+**Points solides :**
+- ...
+
+**Points fragiles :**
+- ...
+
+**À surveiller (prochains runs) :**
+- ...
 
 
-## 🗓️ SEMAINE 2 : Semaine 2 : Du Lundi 12 au Dimanche 18 Octobre 2026
+## 🗓️ SEMAINE 2 : Période exacte semaine 2
 ### 💡 Points clés de la semaine 2
-1. Titre : Lente dégradation - Dégradation pluvieuse lente venant de l'Atlantique, incertitudes sur l'ampleur et la durée.
-2. Titre : Avis de coup de vent - Sensible aux côdes de la Manche et Mer du Nord, rafales possibles 80-100 km/h, à confirmer.
-3. Titre : Baisse thermique - Températures en baisse, retour à des valeurs proches des normales de mi-octobre.
-4. Titre : Divergences modèles - Écart d'évolution entre les scénarios GFS (plus mobile) et CEP (plus anticyclonique) pour la France.
-5. Titre : Prudence Fin de semaine - Scénarios incertains au-delà de jeudi, l'anticyclone pourrait s'étendre ou s'effacer.
+1. Titre court 2-5 mots : Explication courte d'une phrase (12-18 mots max) concernant la région HDF.
+2. Titre court 2-5 mots : Explication courte.
+3. Titre court 2-5 mots : Explication courte.
+4. Titre court 2-5 mots : Explication courte.
+5. Titre court 2-5 mots : Explication courte.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
+...
+**Points de divergence :**
 ...
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **ECMWF** (...) | Scénario le plus stable et fiable à moyenne échéance | Temps souvent sec et frais, soleil voilé par périodes, quelques ondées possibles | L'ensemble des Hauts-de-France | Moyenne | ... |
+| **...** (...) | ... (max 160 caractères) | ... (max 120 caractères) | ... | ... | ... |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
@@ -85,15 +95,36 @@ Divergence 3 : ...
 **Points fragiles :**
 ...
 
+**À surveiller (prochains runs) :**
+...
+
 
 ========================================
 
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
+### Tendance 15 jours
+...
+
+### Période la plus fiable
+...
+
+### Phénomènes récurrents
+...
+
+### Principales incertitudes
+...
+
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur la chronologie et le timing des phénomènes HDF.
-- **Localisation :** Doutes sur la localisation précise HDF.
-- **Intensité :** Doutes sur l'intensité HDF.
-- **Informations manquantes :** Informations importantes non abordées ou manquantes.
-- **Modèles sous-documentés :** Modèles peu ou pas commentés par les membres.
-- **Incertitudes images :** Incertitudes sur les graphiques.
+- **Timing/Chronologie :** ...
+- **Localisation :** ...
+- **Intensité :** ...
+- **Informations manquantes :** ...
+- **Modèles sous-documentés :** ...
+- **Incertitudes images :** ...
+
+
+========================================
+
+## 📝 PROPOSITION DE POST LINKEDIN
+...
