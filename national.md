@@ -1,23 +1,23 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Jeudi 8 Octobre 2026
-**Période :** Semaine 1 (Du jeudi 8 octobre au mercredi 14 octobre 2026) & Semaine 2 (Du Lundi 12 au Dimanche 18 Octobre 2026)
+**Période :** Semaine 1 (Du jeudi 8 octobre 2026 au mercredi 14 octobre 2026) & Semaine 2 (...)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur la chaleur, intensité débattue*
-- **Fiabilité du scénario majoritaire :** Forte chaleur possible — *Intensité débattue en semaine 2*
+- **Consensus des modèles :** Modéré | Élevé | Faible — *...*
+- **Fiabilité du scénario majoritaire :** ... — *...*
 - **Stabilité des cartes/scénarios :** 6 / 127 — *6 cartes sur 127 analysées*
-- **Niveau d'incertitude global :** Intensité — *Écart GFS et ECMWF*
+- **Niveau d'incertitude global :** ... — *...*
 
-## 🗓️ SEMAINE 1 : Du jeudi 8 octobre au mercredi 14 octobre 2026
+## 🗓️ SEMAINE 1 : Du jeudi 8 octobre 2026 au mercredi 14 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Temps d'automne : Dégradation probable en toute fin de semaine, à confirmer avec les prochaines sorties.
-2. Températures en baisse : Un rafraîchissement pourrait gagner le pays par le nord-ouest.
-3. Incertitude modérée : La fiabilité des scénarios est à affiner sur l'Atlantique.
-4. Vigilance orages : Des orages localement forts restent possibles, surtout sur le centre-est.
-5. Coup de vent : Un renforcement du vent est possible sur les côtes atlantiques.
+1. Masse d’air océanique : Une alternance de perturbations atlantiques pourrait concerner le nord-ouest, sans certitude.
+2. Températures de saison : Mercure proche des normales, avec des valeurs potentiellement plus douces sur le sud.
+3. Précipitations éparses : Les passages pluvieux resteraient peu durables et localisés aux régions septentrionales.
+4. Vigilance orages : Un coup de chaud méditerranéen pourrait générer un épisode pluvio-orageux en fin de semaine.
+5. Vigilance vent : Pas de signal fort pour un coup de vent généralisé sur la semaine.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
@@ -28,7 +28,7 @@
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GFS** (Documenté) | GFS propose un creux dépressionnaire sur la façade atlantique, avec une dégradation samedi par le sud-ouest. Faible confiance sur l'évolution ensuite. | Pluies modérées et orage possibles sur une large moitié sud, vent de sud-ouest. | Sud-ouest, Centre, Massif central, vallée du Rhône. | Élevée (85%) | Détails complémentaires ici. |
+| **Modèle GFS** (documenté) | GFS privilégie un temps sec et anticyclonique en première partie de semaine, puis une dégradation orageuse par le sud-ouest en fin de période. | Températures douces, orages possibles sur le Sud-Ouest en toute fin de semaine. | Sud-ouest, centre, régions méditerranéennes. | Élevée (85%) | ... |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
@@ -43,10 +43,10 @@
 | **Méditerranée et Corse** | Beau temps chaud | 26°C à 32°C | Élevée | Météo-France XML, ECMWF, GFS | Validé d'après bulletins XML Meteotel |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Dates phase 1** : Une phrase courte
-- **Dates phase 2** : Une phrase courte
-- **Dates phase 3** : Une phrase courte
-- **Dates phase 4** : Une phrase courte
+- **...** : ...
+- **...** : ...
+- **...** : ...
+- **...** : ...
 
 **Points solides :**
 ...
@@ -58,13 +58,24 @@
 ...
 
 
-## 🗓️ SEMAINE 2 : Du Lundi 12 au Dimanche 18 Octobre 2026
+## 🗓️ SEMAINE 2 : ...
 ### 💡 Points clés de la semaine 2
+1. Titre court : Explication courte.
+2. Titre court : Explication courte.
+3. Titre court : Explication courte.
+4. Titre court : Explication courte.
+5. Titre court : Explication courte.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
+**Points de convergence :**
+Points de convergence (max 3 points)
+**Points de divergence :**
+Points de divergence (max 3 points)
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
-Aucun modèle spécifique détaillé.
+| Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
+| --- | --- | --- | --- | --- | --- |
+| **...** (...) | ... | ... | ... | ... | ... |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
@@ -79,10 +90,41 @@ Aucun modèle spécifique détaillé.
 | **Méditerranée et Corse** | Chaleur d'été | 25°C à 30°C | Modérée | ECMWF, GFS, Guillaume Séchet | Incertitude habituelle J+14 |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
+- **Dates phase 1** : Une phrase courte
+- **Dates phase 2** : Une phrase courte
+- **Dates phase 3** : Une phrase courte
+- **Dates phase 4** : Une phrase courte
+
+**Points solides :**
+Points solides (max 3)
+
+**Points fragiles :**
+Points fragiles (max 3)
+
+**À surveiller (prochains runs) :**
+À surveiller
 
 
 ========================================
 
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
+### Tendance 15 jours
+...
+
+### Période la plus fiable
+...
+
+### Phénomènes récurrents
+...
+
+### Principales incertitudes
+...
+
 ### 🚨 Analyse des doutes et lacunes
+
+
+========================================
+
+## 📝 PROPOSITION DE POST LINKEDIN
+...
