@@ -304,11 +304,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord - Octobre  2026
-• Infoclimat Direct : Recensement des tornades en France
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Recensement des tornades en France
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Production d'électricité renouvelable et météo
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -317,9 +317,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Jeudi 8 Octobre 2026.
-Résumé général HDF précédent : Après un vendredi 9 perturbé et venteux sur les Hauts-de-France, les hautes pressions dominent de samedi 10 jusqu’au milieu de la semaine 2, avec une douceur parfois marquée (18-21°C). En fin d’échéance (16-18 octobre), une coulée froide pourrait glisser le long de l’anticyclone, mais les modèles divergent fortement ; le scénario sec et doux reste le plus probable..
+Résumé général HDF précédent : .
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses vendredi puis nette amélioration samedi ; fraîcheur matinale, éclaircies dimanche..
+Températures attendues précédemment : Pluies fréquentes et vent sensible ; averses possibles..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 8 au Dimanche 11 Octobre 2026) ===
@@ -549,30 +549,6 @@ Il y a 1 heure, Plancher a dit :
 	Les incursions fraîches pourraient quand même se montrer plus fréquentes ce mois-ci et heureusement.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-il y a 50 minutes, thib91 a dit :
-			Toujours une ceinture de hauts géopotentiels subtropicaux très élevée en latitude, sur tout l'hémisphère nord.
-			Et cette situation est vue perdurer jusque début novembre.
-			Les perspectives sont donc globalement anticycloniques et sèches pour la saison, aux échelles tempérées de notre hémisphère mais aussi en France.
-			Seuls quelques faiblesses localisées permettent de voir s'immiscer quelques gouttes froides/talweg, à l'image de ce qui nous concerne actuellement et pour cette fin de semaine. 
-			Pour ma part toujours ces interrogations sur le caractère désormais structurel de cette situation hémisphérique et sur la zone euro-atlantique en particulier.
-	à propos de ce questionnement, même si "comparaison n'est pas raison" comme disait l'autre, il faudrait peut-être revoir les réanalyses NOAA des synoptiques de l'année 1921, pour voir si l'on retrouve ce genre de phénomène, particulièrement à l'automne...
-	tout est bon dans le cochon anticyclonique pour voir ce qu'il a dans le ventre...
-	https://www.meteociel.fr/modeles/archives/archives.php?day=7&amp;month=10&amp;year=1921&amp;hour=0&amp;type=ncep&amp;map=0&amp;type=ncep&amp;region=&amp;mode=0
-	https://www.meteociel.fr/modeles/archives/archives.php?day=15&amp;month=10&amp;year=1921&amp;hour=0&amp;type=ncep&amp;map=0&amp;type=ncep&amp;region=&amp;mode=0
-	ça nous avance-t-il vraiment... ?
-	la trituration de ces réanalyses mériterait sans doute l'intervention d'un bot pour une première synthèse...
-
-=======================
-
-Auteur: Plancher
-Message:
-En fait, le mois d'octobre 2026 peut être considéré comme un mois de septembre. Partant de là, tout paraît cohérent. Attendons nous à des pics de température au cours de ce topic et pour les suivants également.
-								1
-
-=======================
-
 Auteur: petit âge glaciaire 11
 Message:
 L'ensemble CEP, appuyé par GEM  modélise un AA un peu en retrait vers l'ouest :
@@ -621,7 +597,7 @@ Message:
 	On voit bien qu'il y a 0 membres sans jet stream de notre côté. Aucun des membres ne ressemble à la carte moyenne ou médiane. La carte médiane pour cette variable et cette manière de calculer n'est absolument physique (mais elle peut être informative).
 	Ce qu'on en retient donc c'est que la fiabilité de la prévision est modérée sur la position du jet stream en sortie des côtes américaines. En revanche on ne sait pas comment il sera positionné au voisinage de la France : sud ? nord ? plein dans le mille ? Par contre, il sera là.
 	PS : on remarque d'ailleurs que si les cartes de l'écart-type sont calculées pour le géopotentiel, les températures, les champs continu sans 0 en général, elles ne le sont pas pour les précipitations et le jet stream, pour les même raisons que cités ci-dessus : ces cartes seraient quasiment inutilisable avec un écart-type qui exploserait si un membre propose 0mm et qu'un autre décalant l'orage propose 70mm... Pour les température, les décalages sont de quelques degrés maximum...
-	Modifié il y a 23 heures par Jojobarbar
+	Modifié hier à 20:30 par Jojobarbar
 								4
 								5
 
@@ -645,7 +621,7 @@ Message:
 	où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
 	ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
 	bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:36 par giec 2100
 plusieurs rectifs après recherches... fructueuses
 								1
 								2
@@ -682,7 +658,7 @@ il y a une heure, Jojobarbar a dit :
 	... et si l'on revient à nos diagrammes, en se situant au 45éme parallèle - c'est presque neutre !  c'est la latitude Bordeaux... - on observe une forte dispersion des scénarios, tant sur CEP qu'avec l'Américain, dès la date du 14 octobre... :
 	https://images.meteociel.fr/im/7/27847/graphe_ens3_04nqh5.php.png
 	https://images.meteociel.fr/im/94/23669/graphe_ens4mbx5.php.png
-	Modifié il y a 21 heures par giec 2100
+	Modifié il y a 23 heures par giec 2100
 								2
 
 =======================
@@ -730,7 +706,7 @@ Message:
 	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
 	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
 	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié il y a 10 heures par Jojobarbar
+	Modifié il y a 12 heures par Jojobarbar
 								1
 
 =======================
@@ -761,7 +737,7 @@ le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques
 	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
 	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
 	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié il y a 5 heures par giec 2100
+	Modifié il y a 7 heures par giec 2100
 
 =======================
 
@@ -771,7 +747,7 @@ Il y a 2 heures, giec 2100 a dit :
 			petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
 	En carte ici avec l'ensembliste du Met Office(UKMO):
 								1
-								2
+								3
 
 =======================
 
@@ -780,7 +756,7 @@ Message:
 Le run 12 Z de GFS nous montre que les températures restent très élevées pour la saison surtout dans le Sud et à l'Ouest. Ca tourne autour de 20 degrés pour Nantes par exemple. Chaud pour une mi-octobre.
 	Et comme d'habitude, il faut attendre le prochain topic pour voir une véritable baisse. Mais, on commence à connaître la musique. Quand reviendra le flux d'Ouest ? Certains sites spécialisés commencent à dire que finalement, ça ne serait pas pour début novembre.
 								1
-								4
+								5
 
 =======================
 
@@ -807,9 +783,9 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 52 minutes par Nicolas L
+	Modifié il y a 2 heures par Nicolas L
 								1
-								4
+								5
 
 =======================
 
@@ -828,3 +804,21 @@ il y a 20 minutes, Krholam a dit :
 	Je voulais simplement souligner le fait que nous avions des températures hors norme et que les prévisions, bien qu'incertaines, continuaient à nous proposer des températures élevées. Rien que le fait de l'envisager est déconcertant.
 	Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement.
 								1
+								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
+	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
+	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
+	Modifié il y a 36 minutes par giec 2100
+
+=======================
+
+Auteur: Krholam
+Message:
+Il y a 2 heures, Plancher a dit :
+			Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement
+	Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
