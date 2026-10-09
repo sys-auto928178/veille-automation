@@ -307,12 +307,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
 • Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : Suivi du temps dans le nord-ouest octobre 2026
-• Infoclimat Direct : Suivi des évolutions du site Infoclimat.fr
-• Infoclimat Direct : Mesure automatique épaisseur neige
-• Infoclimat Direct : Mesure automatique épaisseur neige
+• Infoclimat Direct : https://www.meteole.eu
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 09/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,35 +320,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 9 Octobre 2026.
-Résumé général précédent : Sur la période du 12 au 25 octobre, les hautes pressions devraient dominer au moins jusqu'au 14, avec un temps sec et très doux pour la saison. Ensuite, un retrait possible de l'anticyclone vers l'Atlantique pourrait permettre une inflexion plus fraîche et plus humide par le nord, mais les modèles repoussent régulièrement ce scénario. L'incertitude devient forte dès le 15 et majeure pour la semaine du 19..
+Résumé général précédent : Période sous l'emprise d'un puissant anticyclone, avec un temps sec et très doux pour la saison. Un retrait possible de l'anticyclone vers l'Atlantique pourrait permettre une inflexion plus fraîche et humide par le nord en toute fin de période, mais ce scénario reste très incertain..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et très doux, éclaircies ; risque de passage pluvieux sur l'extrême nord le 16..
+Températures attendues précédemment : Temps sec, douceur marquée, risque pluvieux limité à l'extrême nord en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-Il y a 9 heures, Jojobarbar a dit :
-			Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
-	On voit toujours ces signaux et ils sont  aussi tres visibles ce matin sur GFS. 
-	Les déterministes sont encore a longue échéance et on va donc attendre que ces signaux se consolident ou pas.
-	CEP :
-	GFS :
-	Effectivement c'est projections montrent une belle goutte froide à même de bien déstabiliser notre climat sensible. 
-								4
-
-=======================
-
-Auteur: Krholam
-Message:
-On sent bien cette probabilité de retrait de l’anticyclone sur le det de CEP à la faveur du creusement de 2 depression du coté du labrador et des pays nordiques
-	Cela reste du det à 200h. Mais c’est sans doute plus lisible pour certains que les cartes de clusters
-	A voir comment cela se précise
-	Ps : @giec 2100 je vois mal me courant jet disparaitre vu les synoptiques proposées. Mais ton analyse a eu le grand mérite de soulever un belle questions et de tous nous enrichir par la réponse de @Jojobarbar
-								7
-
-=======================
-
 Auteur: Jojobarbar
 Message:
 12 hours ago, giec 2100 said:
@@ -436,7 +413,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 22 heures par Nicolas L
+	Modifié hier à 19:09 par Nicolas L
 								1
 								6
 
@@ -466,7 +443,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -494,7 +471,7 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 18 heures par Run999H
+	Modifié il y a 20 heures par Run999H
 								11
 								1
 								1
@@ -511,7 +488,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 11 heures par Krholam
+	Modifié il y a 13 heures par Krholam
 								1
 
 =======================
@@ -586,34 +563,27 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 								2
+								1
+
+=======================
+
+Auteur: greg13
+Message:
+Le Sud devrait rester à l'abri cette semaine là... avec différentes petites salves pluvieuses de faible intensité au Nord, sous un temps malgré tout assez anticyclonique au programme. 
+	Températures dans les normes.
+	Je profite pour vous proposer un petit moment détente sur le forum convivialités, avec des prévisions pour la semaine du 12 octobre...
+
+=======================
+
+Auteur: Tornado75
+Message:
+Températures dans les normes ?😱 Je crois rever. Lundi jusqu'à jeudi devraient voir des températures très au dessus des normes. Ensuite très légère dégradation et retour aux normes mais aucune dépression en vue avant perpet.
+	Je crois que certains n'ont pas comparé avec des cartes dil y a une dizaine d'années ! Toute notre Europe de l'ouest est archi anticyclonique depuis des mois et cette semaine lest aussi 
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-Il y a 9 heures, Jojobarbar a dit :
-			Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
-	On voit toujours ces signaux et ils sont  aussi tres visibles ce matin sur GFS. 
-	Les déterministes sont encore a longue échéance et on va donc attendre que ces signaux se consolident ou pas.
-	CEP :
-	GFS :
-	Effectivement c'est projections montrent une belle goutte froide à même de bien déstabiliser notre climat sensible. 
-								4
-
-=======================
-
-Auteur: Krholam
-Message:
-On sent bien cette probabilité de retrait de l’anticyclone sur le det de CEP à la faveur du creusement de 2 depression du coté du labrador et des pays nordiques
-	Cela reste du det à 200h. Mais c’est sans doute plus lisible pour certains que les cartes de clusters
-	A voir comment cela se précise
-	Ps : @giec 2100 je vois mal me courant jet disparaitre vu les synoptiques proposées. Mais ton analyse a eu le grand mérite de soulever un belle questions et de tous nous enrichir par la réponse de @Jojobarbar
-								7
-
-=======================
-
 Auteur: Jojobarbar
 Message:
 12 hours ago, giec 2100 said:
@@ -701,7 +671,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 22 heures par Nicolas L
+	Modifié hier à 19:09 par Nicolas L
 								1
 								6
 
@@ -731,7 +701,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 20 heures par giec 2100
+	Modifié il y a 22 heures par giec 2100
 								1
 
 =======================
@@ -759,7 +729,7 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 18 heures par Run999H
+	Modifié il y a 20 heures par Run999H
 								11
 								1
 								1
@@ -776,7 +746,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 11 heures par Krholam
+	Modifié il y a 13 heures par Krholam
 								1
 
 =======================
@@ -851,6 +821,22 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 								2
+								1
+
+=======================
+
+Auteur: greg13
+Message:
+Le Sud devrait rester à l'abri cette semaine là... avec différentes petites salves pluvieuses de faible intensité au Nord, sous un temps malgré tout assez anticyclonique au programme. 
+	Températures dans les normes.
+	Je profite pour vous proposer un petit moment détente sur le forum convivialités, avec des prévisions pour la semaine du 12 octobre...
+
+=======================
+
+Auteur: Tornado75
+Message:
+Températures dans les normes ?😱 Je crois rever. Lundi jusqu'à jeudi devraient voir des températures très au dessus des normes. Ensuite très légère dégradation et retour aux normes mais aucune dépression en vue avant perpet.
+	Je crois que certains n'ont pas comparé avec des cartes dil y a une dizaine d'années ! Toute notre Europe de l'ouest est archi anticyclonique depuis des mois et cette semaine lest aussi 
 								1
