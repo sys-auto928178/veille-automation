@@ -255,8 +255,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <h1 class="hero-title">Prévisions France</h1>
   </div>
   <div class="hero-dates-bar">
-    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du lundi 12 au dimanche 18 octobre 2026</div>
-    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du lundi 19 au dimanche 25 octobre 2026</div>
+    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du lundi 12 au dimanche 18 octobre 2026 (semaine 42)</div>
+    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du lundi 19 au dimanche 25 octobre 2026 (semaine 43) — ⚠️ Sujet non ouvert sur le forum Infoclimat. Analyse basée sur les projections à long terme extraites du sujet Semaine 42.</div>
     <div class="date-chip gen-chip">⚡ <strong>Génération :</strong> Vendredi 9 Octobre 2026</div>
   </div>
 </header>
@@ -267,8 +267,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🔥</span>
     <div>
       <div class="kpi-pill-label">Situation dominante</div>
-      <div class="kpi-pill-val">Anticyclone puis possible dégradation</div>
-      <div class="kpi-pill-note">Scénario majoritaire : blocage anticyclonique, avec une porte vers un temps plus frais en fin de quinzaine.</div>
+      <div class="kpi-pill-val">Blocage anticyclonique persistant</div>
+      <div class="kpi-pill-note">Scénario le plus récurrent, mais des signaux de rupture existent pour la seconde moitié de l'échéance.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -276,7 +276,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div>
       <div class="kpi-pill-label">Tendance</div>
       <div class="kpi-pill-val">Modéré</div>
-      <div class="kpi-pill-note">Bon accord sur la première partie de semaine, forte dispersion ensuite.</div>
+      <div class="kpi-pill-note">Forte convergence pour le début de semaine 1, divergences nettes après le 15.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -291,8 +291,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🟢</span>
     <div>
       <div class="kpi-pill-label">Niveau de Confiance</div>
-      <div class="kpi-pill-val">Forte incertitude après le 15 octobre</div>
-      <div class="kpi-pill-note">Les modèles divergent sur le retrait de l'anticyclone et l'arrivée d'un flux plus humide.</div>
+      <div class="kpi-pill-val">Position de l'anticyclone</div>
+      <div class="kpi-pill-note">Un léger décalage vers l'ouest ou vers l'est change radicalement le temps sur la France.</div>
     </div>
   </div>
 </section>
@@ -313,14 +313,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Lundi 12 - Mardi 13 octobre</strong>
-            <div class="day-short">Temps sec et ensoleillé, très doux, avec des maximales de 20 à 24°C.</div>
+            <strong class="day-name">12-13 octobre</strong>
+            <div class="day-short">Temps sec, ensoleillé et très doux sous l'anticyclone.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Temps sec et ensoleillé, très doux, avec des maximales de 20 à 24°C.</p>
+        <p>Temps sec, ensoleillé et très doux sous l'anticyclone.</p>
       </div>
     </details>
 
@@ -329,14 +329,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Mercredi 14 - Jeudi 15 octobre</strong>
-            <div class="day-short">Poursuite du temps anticyclonique, chaleur automnale marquée, brumes possibles.</div>
+            <strong class="day-name">14-15 octobre</strong>
+            <div class="day-short">Soleil prédominant, quelques pluies locales possibles, notamment Lyon et Pyrénées.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Poursuite du temps anticyclonique, chaleur automnale marquée, brumes possibles.</p>
+        <p>Soleil prédominant, quelques pluies locales possibles, notamment Lyon et Pyrénées.</p>
       </div>
     </details>
 
@@ -345,14 +345,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Vendredi 16 - Samedi 17 octobre</strong>
-            <div class="day-short">Possible dégradation plus fraîche et humide par le nord-ouest, incertitude forte.</div>
+            <strong class="day-name">16-17 octobre</strong>
+            <div class="day-short">Possible bascule avec coulée fraîche et humide, mistral renforcé en Méditerranée.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Possible dégradation plus fraîche et humide par le nord-ouest, incertitude forte.</p>
+        <p>Possible bascule avec coulée fraîche et humide, mistral renforcé en Méditerranée.</p>
       </div>
     </details>
 
@@ -361,14 +361,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Dimanche 18 octobre</strong>
-            <div class="day-short">Retour probable à un temps plus sec, mais sous réserve de la position de l'anticyclone.</div>
+            <strong class="day-name">18 octobre</strong>
+            <div class="day-short">Retour probable de conditions plus calmes, mais très incertain.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Retour probable à un temps plus sec, mais sous réserve de la position de l'anticyclone.</p>
+        <p>Retour probable de conditions plus calmes, mais très incertain.</p>
       </div>
     </details>
   </div>
@@ -384,7 +384,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     </div>
   </div>
   <div class="grid grid-2">
-    <div class="key"><i>💡</i><div><strong>Début anticyclonique</strong>Première partie de semaine quasiment assurée sous les hautes pressions.</div></div><div class="key"><i>🌡️</i><div><strong>Chaleur automnale</strong>Températures très douces, localement 23-25°C dans le Sud-Ouest.</div></div><div class="key"><i>🌦️</i><div><strong>Fin de semaine incertaine</strong>Possible coulée froide et humide le long d'un anticyclone décalé à l'ouest.</div></div><div class="key"><i>☀️</i><div><strong>Forte dispersion modèles</strong>Scénarios divergents dès le 14 octobre sur la position de l'anticyclone.</div></div><div class="key"><i>⚠️</i><div><strong>Pas de phénomène dangereux</strong>Vigilance verte sur la quasi-totalité du pays, aucun risque majeur.</div></div>
+    <div class="key"><i>☀️</i><div><strong>Anticyclone installé</strong>Première partie de semaine sèche et très douce sous un puissant anticyclone.</div></div><div class="key"><i>🌡️</i><div><strong>Douceur marquée</strong>Températures 20 à 25°C possibles, avec un excédent de 5 à 8°C.</div></div><div class="key"><i>🌦️</i><div><strong>Possible bascule</strong>Vers le 15-17, retrait de l'anticyclone et possible coulée fraîche et humide.</div></div><div class="key"><i>💡</i><div><strong>Modèles partagés</strong>GFS et CEP divergent sur l'ampleur de la dégradation de fin de semaine.</div></div><div class="key"><i>💨</i><div><strong>Méditerranée ventée</strong>Mistral et nord-ouest assez forts, avec rafales possibles en fin de semaine.</div></div>
   </div>
 </section>
 
@@ -412,7 +412,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🧭</span>
             <h3>Nord-Ouest</h3>
           </div>
-          <div class="zone-short-desc">Temps sec et doux, possible dégradation en fin de semaine.</div>
+          <div class="zone-short-desc">Sec et très doux, possible dégradation humide en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Modérée</span>
@@ -421,11 +421,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Temps sec et doux, possible dégradation en fin de semaine.</li><li><b>Températures :</b> Maximales 18-20°C, minimales 8-12°C.</li><li><b>Pluie / Orages :</b> Averses possibles le 16 octobre.</li><li><b>Période sensible :</b> 16-17 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, GFS • 2 mentions</li>
+          <li><b>Temps dominant :</b> Sec et très doux, possible dégradation humide en fin de semaine.</li><li><b>Températures :</b> Maximales proches de 20°C, douces pour la saison.</li><li><b>Pluie / Orages :</b> Pluies possibles en fin de semaine, surtout sur l'extrême nord.</li><li><b>Période sensible :</b> 16-17 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF • 2 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Position exacte de la dégradation</span>
+          <span class="chip-uncert">Incertitude : Localisation et intensité de la dégradation</span>
         </div>
       </div>
     </details>
@@ -438,20 +438,20 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">☁️</span>
             <h3>Nord</h3>
           </div>
-          <div class="zone-short-desc">Anticyclonique, puis risque de perturbation sur l'extrême nord.</div>
+          <div class="zone-short-desc">Soleil puis variable, pluie possible mardi et en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Modérée</span>
+          <span class="chip-conf" style="font-size:10px;">Élevée</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Anticyclonique, puis risque de perturbation sur l'extrême nord.</li><li><b>Températures :</b> Douces, maximales proches de 20°C.</li><li><b>Pluie / Orages :</b> Pluies possibles le 16 sur l'extrême nord.</li><li><b>Période sensible :</b> 16 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, GFS • Secteurs : Extrême nord du pays • 3 mentions</li>
+          <li><b>Temps dominant :</b> Soleil puis variable, pluie possible mardi et en fin de semaine.</li><li><b>Températures :</b> Minimales 9-13°C, maximales 20-21°C, douces.</li><li><b>Pluie / Orages :</b> Pluies possibles mardi 13 sur le nord, amélioration ensuite, pluies possibles en fin de semaine.</li><li><b>Vent :</b> Vent faible à modéré, Ouest-Sud-Ouest par moments</li><li><b>Période sensible :</b> 13 octobre, 16-17 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, ECMWF • Secteurs : Île-de-France et Hauts-de-France • 3 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Intensité et position exacte de la perturbation</span>
+          <span class="chip-conf">Confiance : Élevée</span>
+          <span class="chip-uncert">Incertitude : Passage pluvieux du 16 selon les modèles</span>
         </div>
       </div>
     </details>
@@ -464,20 +464,20 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌤️</span>
             <h3>Nord-Est</h3>
           </div>
-          <div class="zone-short-desc">Sec et doux, possible flux de nord-ouest en fin de semaine.</div>
+          <div class="zone-short-desc">Anticyclonique et sec, possible retour plus humide en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Faible</span>
+          <span class="chip-conf" style="font-size:10px;">Modérée</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Sec et doux, possible flux de nord-ouest en fin de semaine.</li><li><b>Températures :</b> Maximales 18-22°C, en baisse possible après le 16.</li><li><b>Pluie / Orages :</b> Averses possibles en fin de période.</li><li><b>Période sensible :</b> 17-18 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF • 2 mentions</li>
+          <li><b>Temps dominant :</b> Anticyclonique et sec, possible retour plus humide en fin de semaine.</li><li><b>Températures :</b> Douces, mais incertitude forte après le 15.</li><li><b>Pluie / Orages :</b> Quelques pluies possibles par contournement de l'anticyclone.</li><li><b>Vent :</b> Nord-ouest possible en fin de semaine</li><li><b>Période sensible :</b> 15-18 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, GEFS, AIFS • 2 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Faible</span>
-          <span class="chip-uncert">Incertitude : Flux de NW ou maintien de l'anticyclone</span>
+          <span class="chip-conf">Confiance : Modérée</span>
+          <span class="chip-uncert">Incertitude : Position du col anticyclonique et dispersion des membres</span>
         </div>
       </div>
     </details>
@@ -490,7 +490,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌊</span>
             <h3>Ouest & Atlantique</h3>
           </div>
-          <div class="zone-short-desc">Beau temps sec et très doux, surtout en première partie de semaine.</div>
+          <div class="zone-short-desc">Largement ensoleillé et très doux, possible baisse en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -499,11 +499,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Beau temps sec et très doux, surtout en première partie de semaine.</li><li><b>Températures :</b> Maximales 20-26°C, plus fraîches sur le littoral.</li><li><b>Pluie / Orages :</b> Aucune précipitation significative.</li><li><b>Vent :</b> Vent de nord temporairement modéré sur le bord de mer.</li><li><b>Période sensible :</b> Aucun</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Bulletins MF • 4 mentions</li>
+          <li><b>Temps dominant :</b> Largement ensoleillé et très doux, possible baisse en fin de semaine.</li><li><b>Températures :</b> Maximales 20-26°C, plus fraîches sur le littoral ; baisse attendue après le 16.</li><li><b>Pluie / Orages :</b> Généralement sec, rares averses possibles en fin de semaine.</li><li><b>Vent :</b> Vent de Nord à Nord-Est modéré sur le littoral en deuxième partie de semaine</li><li><b>Période sensible :</b> 16-18 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, ECMWF • 3 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Chaleur excessive possible en milieu de semaine</span>
+          <span class="chip-uncert">Incertitude : Évolution de la dégradation atlantique</span>
         </div>
       </div>
     </details>
@@ -511,12 +511,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <details class="zone zone-accordion" open>
       <summary class="zone-summary">
         <div>
-          
+          <span class="badge" style="margin-bottom:6px; font-size:10px; background:#fef3c7; color:#92400e;">Informations partielles</span>
           <div class="zone-head" style="margin-bottom:2px;">
             <span class="zone-icon">🌥️</span>
             <h3>Centre</h3>
           </div>
-          <div class="zone-short-desc">Soleil et passages nuageux, très doux.</div>
+          <div class="zone-short-desc">Sec et très doux, ciel souvent ensoleillé, dégradation incertaine en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Modérée</span>
@@ -525,11 +525,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Soleil et passages nuageux, très doux.</li><li><b>Températures :</b> Minimales 9-13°C, maximales 20-21°C.</li><li><b>Pluie / Orages :</b> Des cumuls de Risque de pluie mercredi/jeudi sur Paris et le sud-est de la région. sont évoqués localement vers Paris et sud-est de l'Île-de-France, sans pouvoir être généralisés à l'ensemble de la zone.</li><li><b>Vent :</b> Vent d'ouest faible à modéré.</li><li><b>Période sensible :</b> 14-15 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, Bulletins MF • Secteurs : Paris et sud-est de l'Île-de-France • 3 mentions</li>
+          <li><b>Temps dominant :</b> Sec et très doux, ciel souvent ensoleillé, dégradation incertaine en fin de semaine.</li><li><b>Températures :</b> Maximales autour de 20-24°C, anormalement douces.</li><li><b>Pluie / Orages :</b> Sec, pluies incertaines en fin de semaine.</li><li><b>Période sensible :</b> 16-18 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF • 2 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Risque de pluie localisé</span>
+          <span class="chip-uncert">Incertitude : Comportement de l'anticyclone en fin de semaine</span>
         </div>
       </div>
     </details>
@@ -542,7 +542,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌡️</span>
             <h3>Sud-Ouest</h3>
           </div>
-          <div class="zone-short-desc">Ensoleillé et anormalement chaud pour la saison.</div>
+          <div class="zone-short-desc">Ensoleillé et très doux, pluie possible sur les Pyrénées en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -551,11 +551,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Ensoleillé et anormalement chaud pour la saison.</li><li><b>Températures :</b> Maximales 23-25°C, voire plus en milieu de semaine.</li><li><b>Pluie / Orages :</b> Aucune, risque de brume matinale.</li><li><b>Vent :</b> Vent de nord-ouest modéré sur le Lauragais jeudi.</li><li><b>Période sensible :</b> Aucun</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : GFS, ECMWF, Run999H, Bulletins MF • 4 mentions</li>
+          <li><b>Temps dominant :</b> Ensoleillé et très doux, pluie possible sur les Pyrénées en fin de semaine.</li><li><b>Températures :</b> Maximales 23-25°C, localement plus, en baisse après le 16.</li><li><b>Pluie / Orages :</b> Sec en plaine ; pluie possible sur le Cagire et le Luchonnais à partir de jeudi 15.</li><li><b>Vent :</b> Nord-Ouest modéré sur le Lauragais jeudi, Ouest modéré sur la plaine vendredi</li><li><b>Période sensible :</b> 15-17 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, ECMWF, AIFS • 4 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Pic de chaleur possible</span>
+          <span class="chip-uncert">Incertitude : Précipitations sur les Pyrénées et baisse des températures</span>
         </div>
       </div>
     </details>
@@ -568,7 +568,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">☀️</span>
             <h3>Sud-Est & Rhône</h3>
           </div>
-          <div class="zone-short-desc">Soleil généreux, très doux, mistral possible.</div>
+          <div class="zone-short-desc">Soleil, sec, brumes possibles ; pluie possible jeudi en région lyonnaise.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -577,11 +577,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Soleil généreux, très doux, mistral possible.</li><li><b>Températures :</b> Maximales 21-25°C, minimales 5-13°C selon les secteurs.</li><li><b>Pluie / Orages :</b> Aucune précipitation significative.</li><li><b>Vent :</b> Mistral assez fort sur le Rhône et la Provence, rafales possibles.</li><li><b>Période sensible :</b> Aucun</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, Bulletins MF, Bulletin marine • 4 mentions</li>
+          <li><b>Temps dominant :</b> Soleil, sec, brumes possibles ; pluie possible jeudi en région lyonnaise.</li><li><b>Températures :</b> Maximales 19-22°C, minimales 5-10°C, douces en journée.</li><li><b>Pluie / Orages :</b> Pluie possible jeudi 15 matin en région lyonnaise, ailleurs sec.</li><li><b>Vent :</b> Vent de Nord temporairement modéré jeudi et en fin de semaine</li><li><b>Période sensible :</b> 15 octobre, 17 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, GFS, ECMWF • Secteurs : Région lyonnaise et monts du Lyonnais • 3 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Force du mistral en fin de semaine</span>
+          <span class="chip-uncert">Incertitude : Pluie du jeudi et baisse des températures vendredi-samedi</span>
         </div>
       </div>
     </details>
@@ -594,20 +594,20 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🏖️</span>
             <h3>Méditerranée & Corse</h3>
           </div>
-          <div class="zone-short-desc">Ensoleillé, vent de nord-ouest à ouest, mer agitée à forte.</div>
+          <div class="zone-short-desc">Soleil généreux, sec ; mistral possible en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
-          <span class="chip-conf" style="font-size:10px;">Modérée</span>
+          <span class="chip-conf" style="font-size:10px;">Élevée</span>
           <span class="zone-chevron">▼</span>
         </div>
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Ensoleillé, vent de nord-ouest à ouest, mer agitée à forte.</li><li><b>Températures :</b> Maximales 21-24°C, minimales 10-14°C.</li><li><b>Pluie / Orages :</b> Averses parfois orageuses possibles à l'est de Porquerolles en début de période.</li><li><b>Vent :</b> Vent de Nord-Ouest 4 à 6 Beaufort, localement 7.</li><li><b>Période sensible :</b> 12-13 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : ECMWF, Bulletin marine, Bulletins MF • Secteurs : Littoral méditerranéen, Corse • 3 mentions</li>
+          <li><b>Temps dominant :</b> Soleil généreux, sec ; mistral possible en fin de semaine.</li><li><b>Températures :</b> Maximales 23-25°C en début de semaine, en baisse modérée ensuite.</li><li><b>Pluie / Orages :</b> Aucune pluie significative, ciel souvent clair.</li><li><b>Vent :</b> Mistral / nord-ouest, faible à modéré en début de semaine, puis assez fort avec rafales possibles du 15 au 17</li><li><b>Période sensible :</b> 15-17 octobre</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France, Bulletin maritime, ECMWF • 3 mentions</li>
         </ul>
         <div class="zone-foot">
-          <span class="chip-conf">Confiance : Modérée</span>
-          <span class="chip-uncert">Incertitude : Évolution du mistral et de la tramontane</span>
+          <span class="chip-conf">Confiance : Élevée</span>
+          <span class="chip-uncert">Incertitude : Intensité du mistral en fin de semaine</span>
         </div>
       </div>
     </details>
@@ -622,7 +622,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
   <div class="section-head">
     <div>
       <span class="badge badge-gray">Perspective J+8 à J+14</span>
-      <h2>🔮 Tendance Semaine 2 — Du lundi 19 au dimanche 25 octobre 2026</h2>
+      <h2>🔮 Tendance Semaine 2 — Du lundi 19 au dimanche 25 octobre 2026 (semaine 43) — ⚠️ Sujet non ouvert sur le forum Infoclimat. Analyse basée sur les projections à long terme extraites du sujet Semaine 42.</h2>
     </div>
   </div>
   
@@ -631,7 +631,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </div>
         
   <div class="grid grid-2" style="margin-top:12px;">
-    <div class="key"><i>💡</i><div><strong>Sujet non ouvert</strong>Le topic Infoclimat Semaine 43 n'existe pas encore à la date de génération.</div></div><div class="key"><i>☀️</i><div><strong>Projections à long terme</strong>Les modèles suggèrent un possible retrait de l'anticyclone.</div></div><div class="key"><i>🤝</i><div><strong>Incertitude majeure</strong>Aucun scénario fiable ne se dégage pour cette échéance.</div></div><div class="key"><i>🌡️</i><div><strong>Température</strong>Excédent thermique probable mais en diminution par rapport à la semaine 1.</div></div><div class="key"><i>🌡️</i><div><strong>Prudence</strong>Aucune affirmation possible sur les précipitations ou les températures exactes.</div></div>
+    <div class="key"><i>💡</i><div><strong>Sujet non ouvert</strong>Aucune discussion dédiée à la semaine 43 sur le forum à ce jour.</div></div><div class="key"><i>🌡️</i><div><strong>Anticyclone probable</strong>Les projections long terme prolongent souvent un temps sec et doux.</div></div><div class="key"><i>🤝</i><div><strong>Échéance fragile</strong>Une porte vers un rafraîchissement est évoquée sans aucune fiabilité.</div></div><div class="key"><i>🌡️</i><div><strong>Températures douces</strong>L'excédent thermique pourrait persister, mais son ampleur reste incertaine.</div></div><div class="key"><i>⚠️</i><div><strong>À surveiller</strong>L'ouverture du topic et les runs des prochains jours seront décisifs.</div></div>
   </div>
 </section>
 
@@ -658,28 +658,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">ECMWF (IFS/CEP, ensemble et clusters)</div>
-              <span class="status-badge status-main">Documented</span>
+              <div class="model-name">GFS (déterministe)</div>
+              <span class="status-badge status-main">documented</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">10</span>
-              <span class="chip">Runs cités : 00Z, 12Z</span>
-              <span class="chip">Dégradation potentielle à partir du 16 octobre</span>
+              <span class="chip">4</span>
+              <span class="chip">Run : 12Z</span>
+              <span class="chip">12-18 octobre</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Situation bloquée du 12 au 19 octobre avec anticyclone puissant à l'ouest, possible coulée froide en fin de semaine. (150 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et doux, puis risque de dégradation humide et plus fraîche par le nord-ouest.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord, Nord-Ouest, puis possibilité sur l'ensemble du pays.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Temps très doux et sec, surtout au sud et à l'ouest, avec une inflexion possible vers le 15-17 puis un retour des hautes pressions.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Maximales autour de 20°C à Nantes, 23-25°C au sud-ouest, baisse possible en fin de semaine.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Ouest, sud-ouest, centre, nord</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
-              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
+              <div class="score-label">Extraction : <strong>Élevée (80%)</strong></div>
+              <div class="bar"><div class="fill" style="width:80%; background:var(--green);"></div></div>
               <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                L'ensemble IFS ouvre une porte vers une coulée froide et humide en seconde partie de semaine, mais selon les clusters, l'anticyclone pourrait rester plus proche et atténuer ce flux. Les diagrammes montrent une forte dispersion après le 14 octobre. Le déterministe CEP propose une perturbation seulement sur l'extrême nord le 16.
+                Plusieurs membres citent GFS 12Z pour des températures très élevées en mi-octobre, mais aussi des signaux de retrait de l'anticyclone et de possible goutte froide autour du 15-17. Le scénario chaud reste dominant, la dégradation reste à confirmer.
               </div>
             </details>
           </td>
@@ -689,18 +689,49 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">GFS (déterministe et GEFS)</div>
-              <span class="status-badge status-main">Documented</span>
+              <div class="model-name">GEFS (ensemble américain)</div>
+              <span class="status-badge status-main">documented</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">6</span>
-              <span class="chip">Runs cités : 00Z, 12Z</span>
-              <span class="chip">Inflexion vers le 15-16 octobre, remontée possible dès le 17</span>
+              <span class="chip">3</span>
+              <span class="chip">Run : 12Z</span>
+              <span class="chip">14-18 octobre</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Températures très élevées pour la saison, surtout au sud et à l'ouest, avec une inflexion possible vers le 15-16 octobre. (133 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps chaud et sec, jusqu'à 20°C à Nantes, 23-25°C dans le sud-ouest.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Sud-Ouest, Ouest, Centre, moitié nord en fin de semaine.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Forte dispersion des membres à partir du 14 ; plusieurs scénarios orientent un flux de nord-ouest par contournement de l'anticyclone.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Douceur maintenue, mais signaux de pluie et de fraîcheur relative sur la moitié est.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Moitié est, nord, nord-est</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Élevée (80%)</strong></div>
+              <div class="bar"><div class="fill" style="width:80%; background:var(--green);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                Les panels GEFS montrent que le jet stream reste présent mais sa position est très variable. La moyenne des membres s'infléchit vers le 15, avec une grande dispersion ensuite. Aucun scénario ne propose une disparition du courant-jet.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">CEP / IFS (ECMWF)</div>
+              <span class="status-badge status-main">documented</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">5</span>
+              <span class="chip">Runs cités : 00Z, 12Z</span>
+              <span class="chip">12-19 octobre</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Anticyclone dominant en première partie de semaine, puis possible coulée froide et humide glissant le long d'un anticyclone décalé à l'ouest.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Sec et très doux, risque de pluie et de fraîcheur relative à partir du 15-16, surtout sur la moitié est.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord, nord-est, est</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
@@ -710,7 +741,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Le run 12Z maintient des températures très douces, avec une anomalie chaude marquée. Les diagrammes GEFS montrent une dispersion importante après le 15, certains membres évoquant un retrait de l'anticyclone et une possible baisse thermique, d'autres un maintien de la chaleur.
+                L'ensemble IFS ouvre une porte pour une dégradation en seconde partie de semaine, mais le cluster majoritaire ne représente qu'une partie des scénarios. Les diagrammes montrent une forte dispersion dès le 14. Le CEP déterministe propose une situation bloquée du 12 au 19 avec un léger passage pluvieux sur l'extrême nord.
               </div>
             </details>
           </td>
@@ -720,59 +751,59 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">UKMO (Met Office, ensemble)</div>
-              <span class="status-badge status-main">Partial</span>
+              <div class="model-name">AIFS (ECMWF)</div>
+              <span class="status-badge status-main">partial</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">1</span>
+              <span class="chip">Run : 06Z</span>
+              <span class="chip">17 octobre</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Pour samedi 17, la ligne de 10°C à 850 hPa passe au sud du pays : douceur relative, incertitude forte sur la moitié est.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et doux, mais écart-type important sur l'est.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Moitié est</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Modérée (65%)</strong></div>
+              <div class="bar"><div class="fill" style="width:65%; background:var(--amber);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Non déterminable</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                Une carte AIFS ENS (moyenne et spread de T850) est utilisée par un membre pour illustrer la douceur et l'incertitude de fin de semaine. L'extraction reste limitée.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">UKMO (Met Office)</div>
+              <span class="status-badge status-main">insufficient</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">1</span>
               <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Fin de période</span>
+              <span class="chip">Non précisé</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Ensembliste brièvement évoqué, cohérent avec un col anticyclonique et une possible faiblesse relative sur l'Europe centrale. (125 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Non détaillé, probablement sec et doux.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non précisé, Europe centrale/Ouest.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Projection ensembliste du Met Office évoquée visuellement, sans commentaire détaillé.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Non déterminable</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non précisé</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
               <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Isolé</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Non déterminable</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Carte ensembliste UKMO mentionnée par un membre pour illustrer le minimum relatif entre deux dorsales. Pas de précision supplémentaire sur les paramètres de surface.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">AIFS (ensemble ECMWF)</div>
-              <span class="status-badge status-main">Partial</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
-              <span class="chip">Run : 06Z</span>
-              <span class="chip">Samedi 17 octobre à 00h</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Carte de température à 850 hPa montrant une relative douceur avec incertitude forte sur la moitié Est en fin de semaine. (119 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Douceur, ligne 10°C à 850 hPa passant au sud du pays.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Moitié Est, incertitude liée au col anticyclonique.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60%)</strong></div>
-              <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                L'ensemble AIFS confirme l'incertitude sur la moitié Est, entre une dorsale atlantique puissante et une dorsale russe. La douceur reste présente mais sans excès majeur.
+                Un membre renvoie vers une carte UKMO en lien avec le col anticyclonique, mais aucune analyse texte n'accompagne l'image.
               </div>
             </details>
           </td>
@@ -785,28 +816,26 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>🤝 Convergences & Divergences des Scénarios</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Ce qui converge</h3><p>- Forte probabilité d'un temps sec et anticyclonique en première partie de semaine.
-- Températures nettement au-dessus des normales, avec des maximales de 20 à 25°C selon les régions.
-- Pas de phénomène météorologique dangereux attendu sur la semaine.</p></div>
-        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>- Position exacte de l'anticyclone en fin de semaine : proche de la France ou décalé à l'ouest.
-- Possibilité et localisation d'une dégradation pluvieuse/fraîche entre le 16 et le 18 octobre.
-- Intensité de la chaleur résiduelle, surtout sur le sud et l'ouest.</p></div>
+        <div class="card card-solid"><h3>Ce qui converge</h3><p>1. Première partie de semaine anticyclonique, sèche et très douce.
+2. Températures au-dessus des normales, en particulier au sud-ouest et sur l'ouest.
+3. Un changement de temps est possible à partir du 15-16, mais son ampleur reste incertaine.</p></div>
+        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>1. GFS et CEP ne s'accordent pas sur le retrait de l'anticyclone.
+2. La dégradation du 15-17 concerne-t-elle le nord, la moitié est ou l'ensemble du pays ?
+3. Retour des hautes pressions en fin de semaine ou installation d'un flux plus frais ?</p></div>
       </div>
     </div>
 
     <div class="tech-block">
       <h4>🛡️ Fiabilité & Éléments à surveiller</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Points solides</h3><p>- Temps sec et anticyclonique au moins jusqu'au 14 octobre.
-- Températures très douces, avec des maximales de 20 à 25°C sur une large moitié sud et ouest.
-- Aucun phénomène dangereux prévu par Météo-France.</p></div>
-        <div class="card card-fragile"><h3>Points fragiles</h3><p>- La dégradation de fin de semaine, encore incertaine, pourrait concerner surtout le nord et l'est.
-- L'intensité de la chaleur en milieu de semaine, notamment le pic possible à 25°C dans le sud-ouest.
-- Le positionnement de l'anticyclone et son influence sur la localisation des pluies.</p></div>
+        <div class="card card-solid"><h3>Points solides</h3><p>1. Début de semaine 1 sec et très doux, avec une bonne convergence des modèles.
+2. Excédent thermique marqué, surtout au sud-ouest et sur l'ouest.
+3. Mistral / nord-ouest assez fort en Méditerranée en fin de semaine.</p></div>
+        <div class="card card-fragile"><h3>Points fragiles</h3><p>1. Bascule du 15-17 avec coulée fraîche et humide, encore non confirmée.
+2. Localisation de la dégradation : nord, moitié est ou généralisée.
+3. Retour de l'anticyclone en fin de semaine, très incertain.</p></div>
       </div>
-      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : - Runs de ce week-end (00Z et 12Z) d'ECMWF et GFS pour confirmer ou infirmer la coulée froide.
-- Évolution des clusters CEP à 192h et 240h.
-- Diagrammes GEFS sur la température à 850 hPa et les précipitations.</div>
+      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : À surveiller : CEP 00Z/12Z du 10-11 octobre, GFS 00Z/12Z, panels GEFS, clusters CEP et AIFS 06Z/12Z.</div>
     </div>
 
     <div class="tech-block">
@@ -842,90 +871,59 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">ECMWF (IFS/CEP, ensembles et extended)</div>
-              <span class="status-badge status-main">Partial</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">3</span>
-              <span class="chip">Runs cités : 00Z, 12Z</span>
-              <span class="chip">À partir du 19-20 octobre</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Retrait progressif de l'anticyclone vers l'Atlantique, avec une possible porte vers un temps plus frais et humide. (128 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps potentiellement plus frais, mais sans excès, avec incertitude sur les précipitations.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non déterminable, probablement nord et moitié est.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60%)</strong></div>
-              <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Les cartes d'anomalies de géopotentiel et de température à longue échéance montrent une diminution de l'anomalie chaude, mais le scénario précis reste flou. Le cluster majoritaire à 240h évoque un flux de NW, un autre un anticyclone plus proche.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">GFS / GEFS (long terme)</div>
-              <span class="status-badge status-main">Partial</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
-              <span class="chip">Run : 12Z</span>
-              <span class="chip">Après le 19 octobre</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Tendance à une inflexion plus fraîche vers le 19-20 octobre, mais grande dispersion ensuite. (109 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Possible retour d'un flux d'ouest, températures en baisse.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non déterminable.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60%)</strong></div>
-              <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Intermédiaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Les diagrammes GEFS montrent une forte dispersion après le 15 octobre, avec des scénarios allant d'un maintien de la chaleur à un refroidissement plus marqué. Aucune fiabilité à cette échéance.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">UKMO (ensemble, échéance lointaine)</div>
-              <span class="status-badge status-main">Insufficient</span>
+              <div class="model-name">ECMWF (CEP/AIFS) — projection long terme</div>
+              <span class="status-badge status-main">insufficient</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">1</span>
-              <span class="chip">Run : Run du scénario : non déterminable</span>
-              <span class="chip">Fin octobre</span>
+              <span class="chip">Run : Runs cités : base 07-08/10, longue échéance</span>
+              <span class="chip">19-25 octobre</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Non détaillé, évoqué à travers une carte d'ensemble à longue échéance. (95 caractères)</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Non documenté.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Non déterminable.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Sujet non ouvert : l'échéance du 19-25 octobre reste très incertaine, avec un anticyclone encore proche et une possible ouverture vers un flux plus frais.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps encore souvent sec et doux, possible dégradation plus humide et plus fraîche non confirmée.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
               <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
               <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Isolé</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Non déterminable</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Carte ensembliste UKMO mentionnée pour illustrer une configuration de col anticyclonique, sans précision pour la semaine 2.
+                Seules les projections long terme du sujet Semaine 42 sont utilisables. Aucun sujet dédié Semaine 43 n'est ouvert sur le forum Infoclimat à la date de génération.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">GFS / GEFS — projection long terme</div>
+              <span class="status-badge status-main">insufficient</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">1</span>
+              <span class="chip">Run : Runs cités : non déterminables</span>
+              <span class="chip">19-25 octobre</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Scénarios non consolidés : persistance probable de la douceur, possible mais non fiable dégradation plus fraîche.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pas de signal net de froid, ni de retour franc du flux d'ouest.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France entière</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Faible (45%)</strong></div>
+              <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Non déterminable</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                Les messages de la semaine 42 évoquent une possible porte plus fraîche sur l'échéance d'après, sans que les modèles déterministes aient confirmé une évolution nette.
               </div>
             </details>
           </td>
@@ -934,12 +932,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </tbody>
       </table>
       <div class="compare" style="margin-top:12px;">
-        <div class="card"><h3>Convergences S2</h3><p>- Tendance à un affaiblissement de l'anomalie chaude après le 19 octobre.
-- Retrait probable de l'anticyclone vers l'Atlantique, mais lent et timide.
-- Forte incertitude sur la position des centres d'action.</p></div>
-        <div class="card"><h3>Divergences S2</h3><p>- Maintien d'un temps sec et doux vs retour d'un flux plus humide et frais.
-- Localisation des éventuelles précipitations.
-- Date exacte de la bascule vers un temps plus automnal.</p></div>
+        <div class="card"><h3>Convergences S2</h3><p>1. Les projections long terme prolongent volontiers le blocage anticyclonique.
+2. Aucun signal fiable de retour du flux d'ouest durable sur la semaine 43.
+3. Températures probablement encore douces, mais sans excès marqué.</p></div>
+        <div class="card"><h3>Divergences S2</h3><p>1. Maintien ou retrait de l'anticyclone.
+2. Arrivée possible d'une coulée plus fraîche, à ce stade non confirmée.
+3. Répartition géographique des éventuelles pluies totalement incertaine.</p></div>
       </div>
       <div class="cards3" style="margin-top:12px;">
         
@@ -966,16 +964,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>📊 Transparence Méthodologique & Tableau des Doutes</h4>
       <div class="grid grid-2">
-        <div class="card"><h3>Calendrier</h3><p>La date exacte de la bascule vers un temps plus frais et humide est très incertaine. Les modèles évoquent une inflexion vers le 15-16 octobre, mais elle pourrait être repoussée ou annulée.</p></div>
-        <div class="card"><h3>Localisation</h3><p>La localisation de la dégradation de fin de semaine 1 est floue : extrême nord, moitié est ou absence totale de pluie. En semaine 2, aucune zone ne peut être privilégiée.</p></div>
-        <div class="card"><h3>Intensité</h3><p>L'intensité de la chaleur en milieu de semaine 1 (pics possibles à 25°C) et la force du refroidissement éventuel restent incertaines. Le mistral pourrait être fort sur le sud-est, mais son intensité exacte n'est pas confirmée.</p></div>
-        <div class="card"><h3>Données manquantes</h3><p>- Aucune discussion dédiée à la semaine 2 sur Infoclimat.
-- Pas d'information fiable sur les précipitations en semaine 2.
-- Les bulletins officiels ne couvrent pas au-delà du 17 octobre.</p></div>
-        <div class="card"><h3>Modèles peu documentés</h3><p>- UKMO : cité une seule fois, sans détail.
-- AIFS : mentionné pour une carte de température, pas de scénario complet.
-- Autres modèles (ARPEGE, ICON) : non évoqués dans les discussions analysées.</p></div>
-        <div class="card"><h3>Images incertaines</h3><p>Les cartes de clusters et de médianes de jet stream sont sujettes à des artefacts statistiques. Les cartes de précipitations moyennes peuvent masquer des disparités importantes entre membres.</p></div>
+        <div class="card"><h3>Calendrier</h3><p>Le timing exact du retrait de l'anticyclone et de l'éventuelle coulée froide entre le 15 et le 18 octobre reste incertain.</p></div>
+        <div class="card"><h3>Localisation</h3><p>Localisation de la dégradation très incertaine : extrême nord, moitié est, ou généralisation à toute la France.</p></div>
+        <div class="card"><h3>Intensité</h3><p>Ampleur du rafraîchissement et des températures maximales très variable selon les modèles, de 20°C à 25°C selon les scénarios.</p></div>
+        <div class="card"><h3>Données manquantes</h3><p>Aucun sujet dédié à la semaine 43 ; peu d'informations consolidées sur les cumuls de précipitations, les éventuels orages et le vent sur les régions de l'ouest.</p></div>
+        <div class="card"><h3>Modèles peu documentés</h3><p>UKMO peu détaillé, AIFS limité à une carte, AROME/ICON non cités par les membres.</p></div>
+        <div class="card"><h3>Images incertaines</h3><p>Les cartes de médiane du jetstream sont trompeuses et ne représentent pas un scénario physique ; plusieurs clusters et panels restent difficiles à interpréter à longue échéance.</p></div>
       </div>
     </div>
   </div>
@@ -991,38 +985,30 @@ function switchZoneTab(containerId, tabId, btnEl) {
       <div class="sparkline"><div class="sparkline-row"><span>08/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>08/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>08/10 :</span> <span>███████░░░ Modérée</span></div>
-<div class="sparkline-row"><span>08/10 :</span> <span>███████░░░ Modérée</span></div>
+<div class="sparkline-row"><span>09/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>09/10 :</span> <span>███████░░░ Modérée</span></div></div>
     </div>
     <div class="card">
       <h3>🌡️ Évolution des températures</h3>
       <div class="sparkline">
-            <div class="sparkline-row"><span>Précédent run :</span> <span>Temps sec et ensoleillé, températures de 20 à 25°C, aucun phénomène dangereux.</span></div>
-            <div class="sparkline-row"><span>Run actuel :</span> <span>Temps sec et doux, puis risque de dégradation humide et plus fraîche par le nord-ouest.</span></div>
-            <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">➡️ Évolution</span></span></div>
+            <div class="sparkline-row"><span>Précédent run :</span> <span>Temps sec et doux, puis risque de dégradation humide et plus fraîche par le nord-ouest.</span></div>
+            <div class="sparkline-row"><span>Run actuel :</span> <span>Maximales autour de 20°C à Nantes, 23-25°C au sud-ouest, baisse possible en fin de semaine.</span></div>
+            <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">⬇ Baisse</span></span></div>
             </div>
     </div>
   </div>
 
   <div class="grid grid-2" style="margin-top:14px;">
-    <div class="card"><h3>Évolution générale</h3><p>Temps sec et très doux pour la première semaine, avec une possible dégradation en fin de semaine 1 et un retour progressif vers des températures plus proches des normales en semaine 2, mais sous réserve d'une forte incertitude. (150 caractères)</p></div>
-    <div class="card"><h3>Semaine la plus fiable</h3><p>Semaine 1, avec une confiance modérée pour la première moitié et faible pour la fin de semaine.</p></div>
-    <div class="card"><h3>Phénomènes récurrents</h3><p>- Anticyclone persistant sur l'Europe de l'Ouest.
-- Risque de brumes et brouillards matinaux.
-- Mistral et tramontane sur le sud-est.</p></div>
-    <div class="card"><h3>Incertitude majeure</h3><p>- Position exacte de l'anticyclone en fin de semaine 1 et en semaine 2.
-- Intensité de la dégradation froide et humide potentielle.
-- Date de retour à des températures plus fraîches.</p></div>
+    <div class="card"><h3>Évolution générale</h3><p>Période dominée par un blocage anticyclonique sur l'Europe de l'Ouest, avec un temps sec et très doux. Une rupture plus fraîche et humide est possible en seconde partie de semaine 1 et en semaine 2, mais elle n'est pas confirmée.</p></div>
+    <div class="card"><h3>Semaine la plus fiable</h3><p>Semaine 1 (12-18 octobre) : confiance modérée. Semaine 2 (19-25 octobre) : confiance faible, sujet non ouvert.</p></div>
+    <div class="card"><h3>Phénomènes récurrents</h3><p>Blocage anticyclonique récurrent, anomalie de géopotentiels élevés, absence de flux zonal durable.</p></div>
+    <div class="card"><h3>Incertitude majeure</h3><p>Position de l'anticyclone, timing et trajectoire de la coulée froide, persistance de l'excédent thermique.</p></div>
   </div>
 
   <div style="margin-top:16px;">
     <h3>📱 Post LinkedIn</h3>
     <div class="linkedin-box">
-      <div id="linkedin" class="linkedin">🔶 Bulletin météo consolidé – 12 au 25 octobre 2026 🔶
-Semaine 1 : temps sec, très doux, jusqu'à 23-25°C dans le sud-ouest. Début de semaine anticyclonique, possible dégradation en fin de semaine par le nord-ouest. Incertitude marquée.
-Semaine 2 : aucune prévision fiable à ce stade, sujet forum pas encore ouvert. Tendance à un affaiblissement de la chaleur.
-Prudence : les scénarios restent très incertains après le 15 octobre. À suivre sur les prochains runs !
-#Météo #Prévisions #Automne2026 #Anticyclone #Chaleur</div>
+      <div id="linkedin" class="linkedin">🌦️ Analyse météo du 12 au 25 octobre 2026 : un blocage anticyclonique persistant, une douceur remarquable et une incertitude croissante pour la seconde semaine. Côté tendances : début de semaine 1 sec et très doux, 20 à 25°C possibles au sud-ouest, mistral en Méditerranée. Vers le 15-17, les modèles évoquent, sans certitude, une possible dégradation plus fraîche par le nord-ouest. Pour la semaine du 19, le fil de discussion dédié n'est pas encore ouvert : prudence maximale. Ce sont des tendances, pas des certitudes. #Météo #Prévisions #Climat #Anticyclone #Octobre</div>
     </div>
   </div>
 </section>
