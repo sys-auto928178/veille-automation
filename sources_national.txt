@@ -307,12 +307,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
-• Infoclimat Direct : https://www.meteole.eu
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 09/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -320,67 +320,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 9 Octobre 2026.
-Résumé général précédent : Période sous l'emprise d'un puissant anticyclone, avec un temps sec et très doux pour la saison. Un retrait possible de l'anticyclone vers l'Atlantique pourrait permettre une inflexion plus fraîche et humide par le nord en toute fin de période, mais ce scénario reste très incertain..
+Résumé général précédent : Période sous un puissant blocage anticyclonique : temps sec et très doux pour la saison sur la France, avec une petite dégradation possible sur l’extrême nord en semaine 1. En semaine 2, le retrait de l’anticyclone vers l’Atlantique est possible mais non confirmé, et une incertitude forte demeure sur une baisse plus nette des températures..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec, douceur marquée, risque pluvieux limité à l'extrême nord en fin de semaine..
+Températures attendues précédemment : Temps sec et doux ; possible perturbation très marginale sur l’extrême nord vers le 16..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: Jojobarbar
-Message:
-12 hours ago, giec 2100 said:
-			où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
-			ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
-			bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
-	Désolé en effet ce serait bien que je mette les liens dans ces cas.
-	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
-	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
-	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié hier à 09:59 par Jojobarbar
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-En parlant d'outil sur ECMWF,
-	Le coup de chaud comment à prendre un coup de froid https://charts.ecmwf.int/products/extended-anomaly-spread-2t?base_time=202610070000&amp;projection=opencharts_europe&amp;valid_time=202610260000
-	Pour rappel
-	Lundi nous étions ici (je met exprès la carte de la prochaine échéance pour voir l'évolution
-	Aujourd'hui nous somme là
-	Oui cela reste du rose au dessus des normes, mais à la vue des cartes sa surface diminue. 
-	A ce stade, je pencherais donc plus sur une semaine douce mais sans les excès (#25°C à Paris en octobre ....) et peut être , PEUT ETRE une porte encore plus fraiche à venir sur l'échéance d'après.
-	(Avec le retrait vers l'atlantique de l'anticyclone bien visible sur https://charts.ecmwf.int/products/extended-anomaly-z500?base_time=202610070000&amp;projection=opencharts_europe&amp;valid_time=202610260000
-								4
-
-=======================
-
-Auteur: giec 2100
-Message:
-le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques précisions pour les prévisions de cette semaine 42 :
-	lundi et mardi on connaît un dernier passage perturbé, résultant d'une descente un peu plus franche d'un des minimums du vortex polaire (lobe bleu  entre 10°O et 10°E) ;
-	mercredi le talweg associé s'évacue vers l'E avant le retour en force des hautes pressions par l'W pour le reste de la semaine ;
-	jours suivants : puissante dorsale juste à l'ouest, entre 30°O et 0°;
-	petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
-	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610070000&amp;parameter=geopotential 500 hPa
-	enfin la carte des régimes de temps d'hier nous signifie une transition brutale du NAO+ vers du blocage en fin de période : 
-	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
-	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
-	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié hier à 14:04 par giec 2100
-
-=======================
-
-Auteur: Nico 14
-Message:
-Il y a 2 heures, giec 2100 a dit :
-			petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
-	En carte ici avec l'ensembliste du Met Office(UKMO):
-								1
-								3
-
-=======================
-
 Auteur: Plancher
 Message:
 Le run 12 Z de GFS nous montre que les températures restent très élevées pour la saison surtout dans le Sud et à l'Ouest. Ca tourne autour de 20 degrés pour Nantes par exemple. Chaud pour une mi-octobre.
@@ -443,7 +388,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:24 par giec 2100
 								1
 
 =======================
@@ -471,7 +416,7 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 20 heures par Run999H
+	Modifié il y a 22 heures par Run999H
 								11
 								1
 								1
@@ -488,7 +433,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 13 heures par Krholam
+	Modifié il y a 15 heures par Krholam
 								1
 
 =======================
@@ -563,8 +508,43 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 								2
+								1
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la semaine prochaine : 
+	un coup d'œil sur le diagramme temps-longitude, réactualisé par rapport à celui d'hier - déjà analysé - où est évaluée l'évolution temporelle de l'anomalie moyenne d'ensemble de la hauteur géopotentielle à 500 hPa, apporte quelques détails sur quelques menus changements pour la semaine prochaine : 
+	- le minimum du début de semaine (lignes bleues), responsable de la dégradation de ce weekend, tend à se déplacer un peu plus à l'E du méridien de Greenwich ; donc atténuation du temps perturbé par rapport à la l'analyse de la veille ; 
+	- suit dès mardi l'arrivée des hauts géopotentiels,  finalement confirmée tant en timing que pour l'emplacement du centre d'action en altitude (lignes rouges) ;
+	- pour la fin de période le minimum à l'E (ligne verte), signalé dans l'analyse d'hier, tend à s'éloigner un chouia : s'il devait engendrer un flux de N ou NE le phénomène est attendu comme atténué ; 
+	les zones ombrées, représentant la dispersion de l'ensemble des scénarios, restent telles quelles avec la réactualisation, traduisant une forte incertitude pour la prévision...
+	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610080000&amp;parameter=geopotential 500 hPa
+	le panel "scénario de cluster" évoqué ce matin pour la synoptique de fin de période, datant d'hier, et qualifié de "bande des trois", avec ses trois clusters quasi équivalents, regroupant chacun autour d'un cinquième des scénarios, réactualisé à la date de ce jour, est toujours aussi "éclectique", avec 6 catégories retenues de synoptique, à partir d'un scénario-type ; il faudrait juste modifier le nom en parlant désormais de "bande des quatre"... comme à l'époque lointaine de Mao Zedong...  
+	les 4 premières catégories trustent  80% des scénarios ; on notera la disparition de la descente froide du second rang de la "pôle position" du panel de ce matin, qu'on peut retrouver cependant pour le dernier jour du troisième et quatrième rang, et marginalement dans le dernier rang : donc à ne pas exclure un phénomène repris par une petite moitié des scénarios (45%) au moins un jour de la fin de période...
+	en synthèse situation quand même sous influence anticyclonique forte avec un peu tous les régimes, d'où l'appellation "éclectique" pour le panel... 
+	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
+	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
+	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
+	Modifié il y a 2 heures par giec 2100
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Est-il possible de savoir pourquoi certains messages ne sont pas validés ? J'avais proposé un message à propos des températures. A priori, il a été refusé. Merci d'avance. Ça me permettait de ne pas reproduire les mêmes erreurs.
+
+=======================
+
+Auteur: Plancher
+Message:
+Selon ECMWF 12 Z, la France sera en anomalie positive de températures (à 2 mètres) tout le topic excepté le 17 et le 18.
+	J'espère ne pas avoir dit de bêtise.
 								1
 
 =======================
@@ -582,63 +562,19 @@ Message:
 Températures dans les normes ?😱 Je crois rever. Lundi jusqu'à jeudi devraient voir des températures très au dessus des normes. Ensuite très légère dégradation et retour aux normes mais aucune dépression en vue avant perpet.
 	Je crois que certains n'ont pas comparé avec des cartes dil y a une dizaine d'années ! Toute notre Europe de l'ouest est archi anticyclonique depuis des mois et cette semaine lest aussi 
 								1
+								1
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Heureusement que nous habitons en Norvège
+	Ah non mince, on est plus au sud
+								1
+								2
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
-Auteur: Jojobarbar
-Message:
-12 hours ago, giec 2100 said:
-			où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
-			ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
-			bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
-	Désolé en effet ce serait bien que je mette les liens dans ces cas.
-	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
-	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
-	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié hier à 09:59 par Jojobarbar
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-En parlant d'outil sur ECMWF,
-	Le coup de chaud comment à prendre un coup de froid https://charts.ecmwf.int/products/extended-anomaly-spread-2t?base_time=202610070000&amp;projection=opencharts_europe&amp;valid_time=202610260000
-	Pour rappel
-	Lundi nous étions ici (je met exprès la carte de la prochaine échéance pour voir l'évolution
-	Aujourd'hui nous somme là
-	Oui cela reste du rose au dessus des normes, mais à la vue des cartes sa surface diminue. 
-	A ce stade, je pencherais donc plus sur une semaine douce mais sans les excès (#25°C à Paris en octobre ....) et peut être , PEUT ETRE une porte encore plus fraiche à venir sur l'échéance d'après.
-	(Avec le retrait vers l'atlantique de l'anticyclone bien visible sur https://charts.ecmwf.int/products/extended-anomaly-z500?base_time=202610070000&amp;projection=opencharts_europe&amp;valid_time=202610260000
-								4
-
-=======================
-
-Auteur: giec 2100
-Message:
-le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques précisions pour les prévisions de cette semaine 42 :
-	lundi et mardi on connaît un dernier passage perturbé, résultant d'une descente un peu plus franche d'un des minimums du vortex polaire (lobe bleu  entre 10°O et 10°E) ;
-	mercredi le talweg associé s'évacue vers l'E avant le retour en force des hautes pressions par l'W pour le reste de la semaine ;
-	jours suivants : puissante dorsale juste à l'ouest, entre 30°O et 0°;
-	petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
-	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610070000&amp;parameter=geopotential 500 hPa
-	enfin la carte des régimes de temps d'hier nous signifie une transition brutale du NAO+ vers du blocage en fin de période : 
-	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
-	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
-	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié hier à 14:04 par giec 2100
-
-=======================
-
-Auteur: Nico 14
-Message:
-Il y a 2 heures, giec 2100 a dit :
-			petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
-	En carte ici avec l'ensembliste du Met Office(UKMO):
-								1
-								3
-
-=======================
-
 Auteur: Plancher
 Message:
 Le run 12 Z de GFS nous montre que les températures restent très élevées pour la saison surtout dans le Sud et à l'Ouest. Ca tourne autour de 20 degrés pour Nantes par exemple. Chaud pour une mi-octobre.
@@ -701,7 +637,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 22 heures par giec 2100
+	Modifié hier à 21:24 par giec 2100
 								1
 
 =======================
@@ -729,7 +665,7 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 20 heures par Run999H
+	Modifié il y a 22 heures par Run999H
 								11
 								1
 								1
@@ -746,7 +682,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 13 heures par Krholam
+	Modifié il y a 15 heures par Krholam
 								1
 
 =======================
@@ -821,8 +757,43 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 								2
+								1
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la semaine prochaine : 
+	un coup d'œil sur le diagramme temps-longitude, réactualisé par rapport à celui d'hier - déjà analysé - où est évaluée l'évolution temporelle de l'anomalie moyenne d'ensemble de la hauteur géopotentielle à 500 hPa, apporte quelques détails sur quelques menus changements pour la semaine prochaine : 
+	- le minimum du début de semaine (lignes bleues), responsable de la dégradation de ce weekend, tend à se déplacer un peu plus à l'E du méridien de Greenwich ; donc atténuation du temps perturbé par rapport à la l'analyse de la veille ; 
+	- suit dès mardi l'arrivée des hauts géopotentiels,  finalement confirmée tant en timing que pour l'emplacement du centre d'action en altitude (lignes rouges) ;
+	- pour la fin de période le minimum à l'E (ligne verte), signalé dans l'analyse d'hier, tend à s'éloigner un chouia : s'il devait engendrer un flux de N ou NE le phénomène est attendu comme atténué ; 
+	les zones ombrées, représentant la dispersion de l'ensemble des scénarios, restent telles quelles avec la réactualisation, traduisant une forte incertitude pour la prévision...
+	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610080000&amp;parameter=geopotential 500 hPa
+	le panel "scénario de cluster" évoqué ce matin pour la synoptique de fin de période, datant d'hier, et qualifié de "bande des trois", avec ses trois clusters quasi équivalents, regroupant chacun autour d'un cinquième des scénarios, réactualisé à la date de ce jour, est toujours aussi "éclectique", avec 6 catégories retenues de synoptique, à partir d'un scénario-type ; il faudrait juste modifier le nom en parlant désormais de "bande des quatre"... comme à l'époque lointaine de Mao Zedong...  
+	les 4 premières catégories trustent  80% des scénarios ; on notera la disparition de la descente froide du second rang de la "pôle position" du panel de ce matin, qu'on peut retrouver cependant pour le dernier jour du troisième et quatrième rang, et marginalement dans le dernier rang : donc à ne pas exclure un phénomène repris par une petite moitié des scénarios (45%) au moins un jour de la fin de période...
+	en synthèse situation quand même sous influence anticyclonique forte avec un peu tous les régimes, d'où l'appellation "éclectique" pour le panel... 
+	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
+	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
+	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
+	Modifié il y a 2 heures par giec 2100
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Est-il possible de savoir pourquoi certains messages ne sont pas validés ? J'avais proposé un message à propos des températures. A priori, il a été refusé. Merci d'avance. Ça me permettait de ne pas reproduire les mêmes erreurs.
+
+=======================
+
+Auteur: Plancher
+Message:
+Selon ECMWF 12 Z, la France sera en anomalie positive de températures (à 2 mètres) tout le topic excepté le 17 et le 18.
+	J'espère ne pas avoir dit de bêtise.
 								1
 
 =======================
@@ -840,3 +811,14 @@ Message:
 Températures dans les normes ?😱 Je crois rever. Lundi jusqu'à jeudi devraient voir des températures très au dessus des normes. Ensuite très légère dégradation et retour aux normes mais aucune dépression en vue avant perpet.
 	Je crois que certains n'ont pas comparé avec des cartes dil y a une dizaine d'années ! Toute notre Europe de l'ouest est archi anticyclonique depuis des mois et cette semaine lest aussi 
 								1
+								1
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Heureusement que nous habitons en Norvège
+	Ah non mince, on est plus au sud
+								1
+								2
