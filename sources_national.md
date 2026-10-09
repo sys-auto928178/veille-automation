@@ -320,9 +320,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Vendredi 9 Octobre 2026.
-Résumé général précédent : Temps sec et très doux pour la première semaine, avec une possible dégradation en fin de semaine 1 et un retour progressif vers des températures plus proches des normales en semaine 2, mais sous réserve d'une forte incertitude. (150 caractères).
+Résumé général précédent : Période dominée par un blocage anticyclonique sur l'Europe de l'Ouest, avec un temps sec et très doux. Une rupture plus fraîche et humide est possible en seconde partie de semaine 1 et en semaine 2, mais elle n'est pas confirmée..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et doux, puis risque de dégradation humide et plus fraîche par le nord-ouest..
+Températures attendues précédemment : Maximales autour de 20°C à Nantes, 23-25°C au sud-ouest, baisse possible en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -467,7 +467,7 @@ Message:
 	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
 	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
 	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié il y a 16 heures par Jojobarbar
+	Modifié il y a 18 heures par Jojobarbar
 								1
 
 =======================
@@ -498,7 +498,7 @@ le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques
 	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
 	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
 	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 
 =======================
 
@@ -544,7 +544,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 6 heures par Nicolas L
+	Modifié il y a 8 heures par Nicolas L
 								1
 								5
 
@@ -574,7 +574,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 
 =======================
@@ -602,7 +602,8 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 2 heures par Run999H
+	Modifié il y a 4 heures par Run999H
+								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
 Auteur: giec 2100
@@ -746,7 +747,7 @@ Message:
 	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
 	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
 	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié il y a 16 heures par Jojobarbar
+	Modifié il y a 18 heures par Jojobarbar
 								1
 
 =======================
@@ -777,7 +778,7 @@ le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques
 	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
 	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
 	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 
 =======================
 
@@ -823,7 +824,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 6 heures par Nicolas L
+	Modifié il y a 8 heures par Nicolas L
 								1
 								5
 
@@ -853,7 +854,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 
 =======================
@@ -881,4 +882,5 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 2 heures par Run999H
+	Modifié il y a 4 heures par Run999H
+								1
