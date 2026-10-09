@@ -255,7 +255,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <h1 class="hero-title">Prévisions France</h1>
   </div>
   <div class="hero-dates-bar">
-    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du Lundi 12 Octobre 2026 au Dimanche 18 Octobre 2026</div>
+    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du Lundi 12 au Dimanche 18 Octobre 2026</div>
     <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du Lundi 19 au Dimanche 25 Octobre 2026</div>
     <div class="date-chip gen-chip">⚡ <strong>Génération :</strong> Vendredi 9 Octobre 2026</div>
   </div>
@@ -267,32 +267,32 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🔥</span>
     <div>
       <div class="kpi-pill-label">Situation dominante</div>
-      <div class="kpi-pill-val">Scénario très court</div>
-      <div class="kpi-pill-note">Note très courte</div>
+      <div class="kpi-pill-val">Forte chaleur possible</div>
+      <div class="kpi-pill-note">Intensité débattue en semaine 2</div>
     </div>
   </div>
   <div class="kpi-pill">
     <span class="kpi-icon">📈</span>
     <div>
       <div class="kpi-pill-label">Tendance</div>
-      <div class="kpi-pill-val">Modéré | Élevé | Faible</div>
-      <div class="kpi-pill-note">Note très courte</div>
+      <div class="kpi-pill-val">Modéré</div>
+      <div class="kpi-pill-note">Accord sur la chaleur, intensité débattue</div>
     </div>
   </div>
   <div class="kpi-pill">
     <span class="kpi-icon">⚠️</span>
     <div>
       <div class="kpi-pill-label">Évolution & Cartes</div>
-      <div class="kpi-pill-val">6 / 178</div>
-      <div class="kpi-pill-note">6 cartes sur 178 analysées</div>
+      <div class="kpi-pill-val">6 / 190</div>
+      <div class="kpi-pill-note">6 cartes sur 190 analysées</div>
     </div>
   </div>
   <div class="kpi-pill">
     <span class="kpi-icon">🟢</span>
     <div>
       <div class="kpi-pill-label">Niveau de Confiance</div>
-      <div class="kpi-pill-val">Incertitude courte</div>
-      <div class="kpi-pill-note">Note très courte</div>
+      <div class="kpi-pill-val">Intensité</div>
+      <div class="kpi-pill-note">Écart GFS et ECMWF</div>
     </div>
   </div>
 </section>
@@ -313,7 +313,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">etc.</strong>
+            <strong class="day-name">Phase 1</strong>
             <div class="day-short">-</div>
           </div>
         </div>
@@ -384,7 +384,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     </div>
   </div>
   <div class="grid grid-2">
-    <div class="key"><i>🌡️</i><div><strong>Temps variable</strong>Succession rapide d'ondulations perturbées sur le nord-ouest, avec quelques passages pluvieux et du vent.</div></div><div class="key"><i>🌡️</i><div><strong>Températures en baisse</strong>Recul sensible du mercure en fin de semaine, surtout l'après-midi.</div></div><div class="key"><i>💨</i><div><strong>Rafales</strong>Vent souvent présent près des côtes, mer agitée à forte.</div></div><div class="key"><i>💡</i><div><strong>Goutte froide</strong>Passage d'une goutte froide sur la moitié nord jeudi et vendredi.</div></div><div class="key"><i>🌦️</i><div><strong>Cumuls</strong>Quelques averses localement marquées possibles, sans excès majeur.</div></div>
+    
   </div>
 </section>
 
@@ -542,37 +542,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
       <table class="model-table">
         <thead><tr><th>Modèle</th><th>Scénario</th><th>Temps sensible</th><th>Zones</th><th>Confiance & Soutien</th></tr></thead>
         <tbody>
-          
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">GFS</div>
-              <span class="status-badge status-main">documenté</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">4</span>
-              <span class="chip">Runs cités : 00Z, 12Z</span>
-              <span class="chip">Mercredi 14 et jeudi 15 (selon les runs 00Z et 12Z)</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>GFS suggère une dépression atlantique se creusant mercredi, s'approchant de la France par la Bretagne, avec un renforcement du flux de sud-ouest. Le scénario reste conditionnel à 3 jours.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pluies modérées et forte houle possibles sur la façade atlantique et la Manche.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Bretagne, Pays de la Loire, Normandie, ouest de la France.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Élevée (85%)</strong></div>
-              <div class="bar"><div class="fill" style="width:85%; background:var(--green);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Majoritaire</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Les membres citent GFS principalement...
-              </div>
-            </details>
-          </td>
-        </tr>
-        
+          <tr><td colspan='5'>Aucun modèle spécifique n'est détaillé dans les sources.</td></tr>
         </tbody>
       </table>
     </div>
@@ -580,22 +550,18 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>🤝 Convergences & Divergences des Scénarios</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Ce qui converge</h3><p>1. Point de convergence n°1
-2. Point de convergence n°2
-3. Point de convergence n°3</p></div>
-        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>1. Point de divergence n°1
-2. Point de divergence n°2
-3. Point de divergence n°3</p></div>
+        <div class="card card-solid"><h3>Ce qui converge</h3><p>-</p></div>
+        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>-</p></div>
       </div>
     </div>
 
     <div class="tech-block">
       <h4>🛡️ Fiabilité & Éléments à surveiller</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Points solides</h3><p>Points solides (max 3)</p></div>
-        <div class="card card-fragile"><h3>Points fragiles</h3><p>Points fragiles (max 3)</p></div>
+        <div class="card card-solid"><h3>Points solides</h3><p>-</p></div>
+        <div class="card card-fragile"><h3>Points fragiles</h3><p>-</p></div>
       </div>
-      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : À surveiller</div>
+      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : -</div>
     </div>
 
     <div class="tech-block">
@@ -625,12 +591,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>📊 Transparence Méthodologique & Tableau des Doutes</h4>
       <div class="grid grid-2">
-        <div class="card"><h3>Calendrier</h3><p>Doutes sur la chronologie et le timing des phénomènes.</p></div>
-        <div class="card"><h3>Localisation</h3><p>Doutes sur la localisation précise et les zones géographiques concernées.</p></div>
-        <div class="card"><h3>Intensité</h3><p>Doutes sur l'intensité (températures, force des orages, etc.).</p></div>
-        <div class="card"><h3>Données manquantes</h3><p>Informations importantes non abordées ou manquantes dans les discussions.</p></div>
-        <div class="card"><h3>Modèles peu documentés</h3><p>Modèles peu ou pas commentés par les membres.</p></div>
-        <div class="card"><h3>Images incertaines</h3><p>Incertitudes sur les graphiques et cartes du forum.</p></div>
+        <div class="card"><h3>Calendrier</h3><p>-</p></div>
+        <div class="card"><h3>Localisation</h3><p>-</p></div>
+        <div class="card"><h3>Intensité</h3><p>-</p></div>
+        <div class="card"><h3>Données manquantes</h3><p>-</p></div>
+        <div class="card"><h3>Modèles peu documentés</h3><p>-</p></div>
+        <div class="card"><h3>Images incertaines</h3><p>-</p></div>
       </div>
     </div>
   </div>
@@ -643,7 +609,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
   <div class="grid grid-2" style="margin-top:14px;">
     <div class="card">
       <h3>📈 Évolution de la confiance</h3>
-      <div class="sparkline"><div class="sparkline-row"><span>08/10 :</span> <span>███████░░░ Modérée</span></div>
+      <div class="sparkline"><div class="sparkline-row"><span>09/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>09/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>09/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>09/10 :</span> <span>███████░░░ Modérée</span></div>
@@ -652,24 +618,24 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="card">
       <h3>🌡️ Évolution des températures</h3>
       <div class="sparkline">
-            <div class="sparkline-row"><span>Précédent run :</span> <span>Temps sec et très doux, risque d’averses en seconde partie de semaine.</span></div>
-            <div class="sparkline-row"><span>Run actuel :</span> <span>Pluies modérées et forte houle possibles sur la façade atlantique et la Manche.</span></div>
+            <div class="sparkline-row"><span>Précédent run :</span> <span>Sec et doux; risque d’averses en fin de semaine sur une partie est.</span></div>
+            <div class="sparkline-row"><span>Run actuel :</span> <span>De saison</span></div>
             <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">➡️ Évolution</span></span></div>
             </div>
     </div>
   </div>
 
   <div class="grid grid-2" style="margin-top:14px;">
-    <div class="card"><h3>Évolution générale</h3><p>...</p></div>
-    <div class="card"><h3>Semaine la plus fiable</h3><p>...</p></div>
-    <div class="card"><h3>Phénomènes récurrents</h3><p>...</p></div>
-    <div class="card"><h3>Incertitude majeure</h3><p>...</p></div>
+    <div class="card"><h3>Évolution générale</h3><p>-</p></div>
+    <div class="card"><h3>Semaine la plus fiable</h3><p>-</p></div>
+    <div class="card"><h3>Phénomènes récurrents</h3><p>-</p></div>
+    <div class="card"><h3>Incertitude majeure</h3><p>-</p></div>
   </div>
 
   <div style="margin-top:16px;">
     <h3>📱 Post LinkedIn</h3>
     <div class="linkedin-box">
-      <div id="linkedin" class="linkedin">...</div>
+      <div id="linkedin" class="linkedin"></div>
     </div>
   </div>
 </section>

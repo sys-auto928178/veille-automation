@@ -312,7 +312,7 @@ Températures minimales : similaires à la veille.
 Températures maximales : en baisse sur les trois quarts Sud du département.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 090325 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 9 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 137 2 - Situation générale vendredi 9 octobre 2026 à 00H00 UTC, et évolution Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est. Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée. 3 - Prévisions pour la journée du vendredi 9 octobre VENT : Ouest à Sud-Ouest 6 à 7. Rafales. MER : agitée à forte. HOULE : non significative, s'établissant Sud-Ouest 1 à 1.5 m l'après-midi. TEMPS : couvert et pluvieux. VISIBILITE : mauvaise sous pluie. 4 - Prévisions pour la nuit du vendredi 9 octobre au samedi 10 octobre VENT : Ouest à Sud-Ouest 6 à 7, mollissant rapidement Ouest à Nord-Ouest 5 à 6. Rafales. MER : agitée, localement forte au large en Manche au début. HOULE : Ouest à Sud-Ouest 1 à 1.5 m. TEMPS : très nuageux, pluie en première partie de nuit. VISIBILITE : bonne, localement mauvaise sous pluie. 5 - Prévisions pour la journée du samedi 10 octobre VENT : Ouest à Nord-Ouest 5 à 6. MER : agitée. HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi. TEMPS : nuageux avec quelques averses. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 10 au 11 et la journée du dimanche 11 octobre VENT : Ouest 5 à 6, mollissant 2 à 4 en milieu d'après-midi. MER : agitée, devenant peu agitée en milieu d'après-midi. HOULE : Établissement temporaire d'une houle d'Ouest à Sud-Ouest 1 à 1,5 m en milieu de nuit. 7 - Tendance pour les jours suivants Lundi 12 octobre Secteur Sud modéré. Indice de confiance : 4 sur 5 Mardi 13 octobre Secteur Sud-Ouest faible à modéré. Indice de confiance : 4 sur 5 Mercredi 14 octobre Secteur Sud-Ouest faible à modéré. Indice de confiance : 4 sur 5 Jeudi 15 octobre Secteur Ouest modéré. Indice de confiance : 3 sur 5 8 - Observations le vendredi 9 octobre 2026 à 03H00 UTC Dunkerque : vent Sud 12 noeuds, 1017 hPa en baisse. Cap Gris Nez : vent Sud-Ouest 27 noeuds, rafales 41 noeuds. Boulogne : vent Sud-Ouest 23 noeuds, rafales 35 noeuds, 1017 hPa en baisse, couvert, pluies ou bruines, visibilité 5 milles. Prochain bulletin le vendredi 9 octobre 2026, vers 12H30 légales
+FQCT40 LFQQ 090955 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le vendredi 9 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 137. 2 - Situation générale vendredi 9 octobre 2026 à 06H00 UTC, et évolution Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est. Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée. 3 - Prévisions pour l'après-midi du vendredi 9 octobre VENT : Ouest à Sud-Ouest 6 à 7. Rafales. MER : agitée à forte. HOULE : s'établissant Sud-Ouest 1 à 1.5 m. TEMPS : couvert et pluvieux. VISIBILITE : mauvaise sous pluie. 4 - Prévisions pour la nuit du vendredi 9 octobre au samedi 10 octobre VENT : Ouest à Sud-Ouest 6 à 7, mollissant rapidement Ouest à Nord-Ouest 5 à 6. Rafales. MER : agitée, localement forte au large en Manche au début. HOULE : Ouest à Sud-Ouest 1 à 1.5 m. TEMPS : très nuageux, pluie en première partie de nuit. VISIBILITE : bonne, localement mauvaise sous pluie. 5 - Prévisions pour la journée du samedi 10 octobre VENT : Ouest à Nord-Ouest 5 à 6. MER : agitée. HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi. TEMPS : nuageux avec quelques averses. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 10 au 11 et la journée du dimanche 11 octobre VENT : Ouest à Nord-Ouest 5 à 6, mollissant 3 à 5 en matinée, puis mollissant Ouest à Sud-Ouest 2 à 4 l'après-midi. MER : agitée, devenant progressivement peu agitée en journée. HOULE : Sud-Ouest 0.5 à 1 m. TEMPS : nuageux, avec quelques averses la nuit. VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations. 7 - Prévisions pour la nuit du 11 au 12 et la journée du lundi 12 octobre VENT : Sud à Sud-Ouest 3 à 4, fraîchissant 5 en début de nuit. Rafales. MER : peu agitée devenant agitée en cours de matinée. HOULE d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Mardi 13 octobre Secteur Sud-Ouest modéré mollissant à la fin. Indice de confiance : 4 sur 5 Mercredi 14 octobre Secteur Ouest modéré. Indice de confiance : 4 sur 5 Jeudi 15 octobre Secteur Sud-Ouest modéré. Indice de confiance : 3 sur 5 Vendredi 16 octobre Secteur Ouest modéré virant secteur Nord modéré. Indice de confiance : 3 sur 5 9 - Observations le vendredi 9 octobre 2026 à 09H00 UTC Dunkerque : vent Ouest-Sud-Ouest 16 noeuds, mer peu agitée, 1013 hPa en baisse, très nuageux à couvert, visibilité 4 milles. Cap Gris Nez : vent Ouest 33 noeuds, rafales 43 noeuds. Boulogne : vent Ouest 21 noeuds, rafales 35 noeuds, 1014 hPa en baisse, couvert, pluies ou bruines, visibilité 4 milles. Prochain bulletin le vendredi 9 octobre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -334,12 +334,12 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Pluviometre mono-auget Davis
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : &#xC9;volution de la nature - 2026
-• Infoclimat Direct : Production d'électricité renouvelable et météo
+• Infoclimat Direct : Suivi du temps dans le Nord - Octobre  2026
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
+• Infoclimat Direct : Saison cyclonique 2026 - Atlantique Nord
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 09/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -347,35 +347,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Vendredi 9 Octobre 2026.
-Résumé général HDF précédent : Sur 15 jours, la région HDF devrait connaître un temps majoritairement sec et doux, avec une possible dégradation en fin de première semaine et une incertitude croissante pour la seconde. Les températures resteraient au-dessus des normales saisonnières, avec un léger fléchissement attendu après le 16 octobre..
+Résumé général HDF précédent : Tendance générale sur 15 jours pour HDF.
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Averses possibles sur l’extrême nord, températures en baisse, vent de nord-ouest à ouest..
+Températures attendues précédemment : Épisode venteux et humide avec des pluies intermittentes et des rafales autour de 60-70 km/h sur le littoral..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-il y a une heure, Jojobarbar a dit :
-			Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
-	oui, en effet, je comprends mieux maintenant : 
-	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=192_240&amp;parameter=500
-	commentaire :
-	un quart des scénarios - le cluster majoritaire - nous offre un flux de NW, sensible plutôt sur la moitié E du pays, par contournement de l'anticyclone, décalé,  prévu en face de la Bretagne sur l'Atlantique, entre 20° et 10°W ; le cadre bleu nous classe le type de temps en NAO+ ;
-	le second cluster - un cinquième des scénarios - voit l'anticyclone plus proche du pays et en mesure d'atténuer ce flux et de l'orienter en WNW...
-	le cadre violet nous caractérise la situation en "dorsale atlantique"...
-	chez GEFS 12h on retrouve la tendance du premier cluster précédent pour un peu moins d'un quart des scénarios : 
-	perturbations 5/11/16/20/25/29 et contrôle : 
-	https://images.meteociel.fr/im/74/2621/gens_panelfmr0.php.png
-	alors bien sûr l'échéance est assez lointaine, un peu moins d'une dizaine de jours :
-	même si un anticyclone n'a peut-être pas la bougeotte d'une goutte froide il faut s'attendre à du revirement...
-	... et si l'on revient à nos diagrammes, en se situant au 45éme parallèle - c'est presque neutre !  c'est la latitude Bordeaux... - on observe une forte dispersion des scénarios, tant sur CEP qu'avec l'Américain, dès la date du 14 octobre... :
-	https://images.meteociel.fr/im/7/27847/graphe_ens3_04nqh5.php.png
-	https://images.meteociel.fr/im/94/23669/graphe_ens4mbx5.php.png
-	Modifié mercredi à 22:32 par giec 2100
-								2
-
-=======================
-
 Auteur: Krholam
 Message:
 il y a 40 minutes, Lorrd&amp;#x27;ici a dit :
@@ -419,7 +396,7 @@ Message:
 	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
 	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
 	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié il y a 22 heures par Jojobarbar
+	Modifié hier à 09:59 par Jojobarbar
 								1
 
 =======================
@@ -450,7 +427,7 @@ le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques
 	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
 	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
 	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 
 =======================
 
@@ -496,7 +473,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 12 heures par Nicolas L
+	Modifié il y a 14 heures par Nicolas L
 								1
 								5
 
@@ -526,7 +503,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								1
 
 =======================
@@ -554,7 +531,7 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 8 heures par Run999H
+	Modifié il y a 10 heures par Run999H
 								9
 								1
 								1
@@ -571,7 +548,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 1 heure par Krholam
+	Modifié il y a 3 heures par Krholam
 								1
 
 =======================
@@ -589,6 +566,7 @@ Je me permets donc exceptionnellement de faire un 2ème post à la suite pour vo
 	L'avancé vers l'hiver et la mise en place d'inversion limiterai la casse niveau température pour le nord, mais ça reste trop doux comme dit plus haut.
 	CEP lui est carrément moins généreux sur le retrait de l'AA qui serait encore très haut.
 	Pas très engageant cette fin ce semaine aujourd'hui alors qu'on avait quelques espoirs
+								1
 								1
 
 =======================
@@ -628,31 +606,16 @@ La tendance douce et sèche semblait prédominer ces derniers jours mais, en eff
 	On peut en tout cas croire que les prévisions jusqu’à mercredi ne font plus de doutes et qu’on entre déjà dans les détails —&gt; « fera t’il 24° ou 26° mardi à Auch ». Et, malheureusement, j’exagère à peine. 
 	A partir de jeudi, la fiabilité de la prévision baisse par les côtes de la Manche et cette fiabilité plus bancale va progresser vers le sud-est en fin de semaine. Là encore c’est relatif, on va diverger sur le thermomètre, peu sur les précipitations (pas dans le sud en tout cas). Ça pourrait tout de même s’ennuager plus au nord voire précipiter au fur et à mesure qu’on s’approche des régions au nord de la Seine. 
 	Bref, des ajustements à prévoir et qui se renforcent, logiquement, en fin de semaine.
+
+=======================
+
+Auteur: Nico 14
+Message:
+Notre fin de semaine, l'échéance de ce topic et la suivante par l'ensembliste IA américain en termes d'anomalies Z500,T2m et en pourcentages de la normale pour les précipitations. Pas grand chose à rajouter, le signal sec demeure on observe effectivement un possible retrait progressif de l'AA plus à l'ouest pour la suite.
+	Pour cette échéance en version déterministe à part quelques débordements précipitants sur le nord en marge de la circulation océanique plus au nord pas grand chose à signaler.
+	Reste donc à jeter un œil aux températures sur cette échéance:
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-il y a une heure, Jojobarbar a dit :
-			Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
-	oui, en effet, je comprends mieux maintenant : 
-	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=192_240&amp;parameter=500
-	commentaire :
-	un quart des scénarios - le cluster majoritaire - nous offre un flux de NW, sensible plutôt sur la moitié E du pays, par contournement de l'anticyclone, décalé,  prévu en face de la Bretagne sur l'Atlantique, entre 20° et 10°W ; le cadre bleu nous classe le type de temps en NAO+ ;
-	le second cluster - un cinquième des scénarios - voit l'anticyclone plus proche du pays et en mesure d'atténuer ce flux et de l'orienter en WNW...
-	le cadre violet nous caractérise la situation en "dorsale atlantique"...
-	chez GEFS 12h on retrouve la tendance du premier cluster précédent pour un peu moins d'un quart des scénarios : 
-	perturbations 5/11/16/20/25/29 et contrôle : 
-	https://images.meteociel.fr/im/74/2621/gens_panelfmr0.php.png
-	alors bien sûr l'échéance est assez lointaine, un peu moins d'une dizaine de jours :
-	même si un anticyclone n'a peut-être pas la bougeotte d'une goutte froide il faut s'attendre à du revirement...
-	... et si l'on revient à nos diagrammes, en se situant au 45éme parallèle - c'est presque neutre !  c'est la latitude Bordeaux... - on observe une forte dispersion des scénarios, tant sur CEP qu'avec l'Américain, dès la date du 14 octobre... :
-	https://images.meteociel.fr/im/7/27847/graphe_ens3_04nqh5.php.png
-	https://images.meteociel.fr/im/94/23669/graphe_ens4mbx5.php.png
-	Modifié mercredi à 22:32 par giec 2100
-								2
-
-=======================
-
 Auteur: Krholam
 Message:
 il y a 40 minutes, Lorrd&amp;#x27;ici a dit :
@@ -696,7 +659,7 @@ Message:
 	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
 	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
 	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié il y a 22 heures par Jojobarbar
+	Modifié hier à 09:59 par Jojobarbar
 								1
 
 =======================
@@ -727,7 +690,7 @@ le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques
 	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
 	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
 	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié il y a 17 heures par giec 2100
+	Modifié il y a 19 heures par giec 2100
 
 =======================
 
@@ -773,7 +736,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 12 heures par Nicolas L
+	Modifié il y a 14 heures par Nicolas L
 								1
 								5
 
@@ -803,7 +766,7 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 10 heures par giec 2100
+	Modifié il y a 12 heures par giec 2100
 								1
 
 =======================
@@ -831,7 +794,7 @@ Il y a 2 heures, Krholam a dit :
 	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
 	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
 	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié il y a 8 heures par Run999H
+	Modifié il y a 10 heures par Run999H
 								9
 								1
 								1
@@ -848,7 +811,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 1 heure par Krholam
+	Modifié il y a 3 heures par Krholam
 								1
 
 =======================
@@ -866,6 +829,7 @@ Je me permets donc exceptionnellement de faire un 2ème post à la suite pour vo
 	L'avancé vers l'hiver et la mise en place d'inversion limiterai la casse niveau température pour le nord, mais ça reste trop doux comme dit plus haut.
 	CEP lui est carrément moins généreux sur le retrait de l'AA qui serait encore très haut.
 	Pas très engageant cette fin ce semaine aujourd'hui alors qu'on avait quelques espoirs
+								1
 								1
 
 =======================
@@ -905,3 +869,11 @@ La tendance douce et sèche semblait prédominer ces derniers jours mais, en eff
 	On peut en tout cas croire que les prévisions jusqu’à mercredi ne font plus de doutes et qu’on entre déjà dans les détails —&gt; « fera t’il 24° ou 26° mardi à Auch ». Et, malheureusement, j’exagère à peine. 
 	A partir de jeudi, la fiabilité de la prévision baisse par les côtes de la Manche et cette fiabilité plus bancale va progresser vers le sud-est en fin de semaine. Là encore c’est relatif, on va diverger sur le thermomètre, peu sur les précipitations (pas dans le sud en tout cas). Ça pourrait tout de même s’ennuager plus au nord voire précipiter au fur et à mesure qu’on s’approche des régions au nord de la Seine. 
 	Bref, des ajustements à prévoir et qui se renforcent, logiquement, en fin de semaine.
+
+=======================
+
+Auteur: Nico 14
+Message:
+Notre fin de semaine, l'échéance de ce topic et la suivante par l'ensembliste IA américain en termes d'anomalies Z500,T2m et en pourcentages de la normale pour les précipitations. Pas grand chose à rajouter, le signal sec demeure on observe effectivement un possible retrait progressif de l'AA plus à l'ouest pour la suite.
+	Pour cette échéance en version déterministe à part quelques débordements précipitants sur le nord en marge de la circulation océanique plus au nord pas grand chose à signaler.
+	Reste donc à jeter un œil aux températures sur cette échéance:
