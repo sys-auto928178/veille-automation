@@ -1,53 +1,53 @@
-# REGISTRE COMPLET DES SOURCES DU BULLETIN NATIONAL (Jeudi 8 Octobre 2026)
+# REGISTRE COMPLET DES SOURCES DU BULLETIN NATIONAL (Vendredi 9 Octobre 2026)
 
-Date actuelle de génération : Jeudi 8 Octobre 2026
+Date actuelle de génération : Vendredi 9 Octobre 2026
 Saison en France : AUTOMNE
 
 PÉRIODES EXACTES À RESPECTER IMPÉRATIVEMENT :
-- SEMAINE 1 PREVISION : Du Jeudi 8 au Dimanche 11 Octobre 2026
-- SEMAINE 2 PREVISION : Du Lundi 12 au Dimanche 18 Octobre 2026
+- SEMAINE 1 PREVISION : Du Lundi 12 au Dimanche 18 Octobre 2026
+- SEMAINE 2 PREVISION : Du Lundi 19 au Dimanche 25 Octobre 2026
 
 TRANSPARENCE SUJETS FORUM INFOCLIMAT :
-- Sujet 1 exploité : Du 05 Octobre Au 11 Octobre 2026 Prévisions Météo Semaine 41
-- Sujet 2 exploité : Du 12 Octobre Au 18 Octobre 2026 Prévisions Météo Semaine 42 
+- Sujet 1 exploité : Du 12 Octobre Au 18 Octobre 2026 Prévisions Météo Semaine 42
+- Sujet 2 exploité : Du 12 Octobre Au 18 Octobre 2026 Prévisions Météo Semaine 42  (⚠️ Le sujet spécifique de la Semaine 43 (du Du Lundi 19 au Dimanche 25 Octobre 2026) n'est pas encore ouvert par les membres sur le forum Infoclimat. L'analyse ci-dessous s'appuie sur les projections à long terme extraites du sujet Semaine 42).
 
 === SOURCES COMPLÉMENTAIRES (MÉTÉO-FRANCE XML 22SPC + SÉCHET + ITN 14J) ===
 
 === BULLETINS OFFICIELS MÉTÉO-FRANCE METEOTEL (XML 22SPC / SCHAPI05 EN DIRECT) ===
 === BULLETIN DÉPARTEMENTAL PARIS ET PETITE COURONNE (DEPT75) ===
-Emis le : 08/10/2026 16:46
+Emis le : 09/10/2026 00:30
 
 Vigilance :
-Aujourd'hui et demain, Paris et sa petite couronne sont en vigilance verte.
+Aujourd'hui, Paris et sa petite couronne sont en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Paris-Montsouris : température de 15 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 35 km/h, pression niveau mer 1022 hPa.
-Au Jardin du Luxembourg : température de 15 degrés.
+Aujourd'hui on observait à 00h :
+A Paris-Montsouris : température de 9 degrés, vent de secteur Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1025 hPa.
+Au Jardin du Luxembourg : température de 11 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
-La soirée débute sous un ciel étoilé où quelques nuages sont présents. En fin de nuit les nuages se font plus nombreux et quelques averses sont possibles à l'ouest.
-Aux premières heures du jour, vent de Sud-Ouest modéré, à l'ouest.
-Températures minimales : entre 7 et 8 degrés.
+En début de nuit, de belles éclaircies sont présentes. Puis peu à peu, les nuages gagnent, et en fin de nuit, quelques averses sont possibles sur une grande moité ouest.
+Au lever du jour, établissement d'un vent de Sud-Ouest, modéré.
+Températures minimales : de 7 à 9 degrés.
 
 • Pour demain vendredi 09 en journée et la nuit suivante :
-Le matin, les nuages, peu nombreux, laissent passer le soleil. Puis, progressivement, le ciel devient plus gris, et des averses se produisent ici ou là. Pour la nuit : La nuit commence sous la grisaille. Les nuages apportent des pluies faibles par endroits. Des éclaircies reviennent seconde partie de nuit.
-En journée et une grande partie de la nuit suivante, vent d'Ouest à Sud-Ouest, modéré ; puis faiblissant.
-Températures maximales pour le jour : comprises entre 15 et 17 degrés.
-Températures minimales pour la nuit suivante : 11 degrés.
+Le ciel est bien nuageux tout au long de la journée. De plus, au lever du jour, des pluies éparses sont attendues sur le sud-est. Si on note une accalmie en cours de matinée au niveau des précipitations, en début d'après-midi il faut alors composer avec quelques averses. Pour la nuit : Le ciel est nuageux, et de petites averses sont possibles, sur une grande moitié est. Une amélioration se dessine ensuite en fin de nuit, avec l'arrêt des précipitations, et un ciel devenant plus dégagé.
+Vent d'Ouest à Sud-Ouest, modéré.
+Températures maximales pour le jour : comprises entre 17 et 18 degrés.
+Températures minimales pour la nuit suivante : comprises entre 10 et 11 degrés.
 
 • Pour la journée de samedi 10 et la nuit suivante :
-En cours d'après-midi, des nuages menaçants peuvent occasionner quelques averses sur la Seine-Saint-Denis. À part cela, c'est une journée avec un soleil largement présent qui s'annonce. Pour la nuit : En soirée et début de nuit, le ciel est bien dégagé, mais après minuit les étoiles sont temporairement contestées par de nombreux nuages.
-Vent d'Ouest, modéré, jusqu'en milieu d'après-midi, sur Paris ; après une atténuation, reprise du vent, en milieu de nuit, avec orientation à l'Ouest-Sud-Ouest.
-Températures maximales pour le jour : entre 17 et 19 degrés.
-Températures minimales pour la nuit suivante : de 9 à 10 degrés.
+Le soleil brille largement. Toutefois, sur Paris ainsi qu'à Orly, des nuages sont présents l'après-midi. Pour la nuit : Le temps est calme, avec une première partie de nuit bien étoilée.
+Jusqu'en milieu d'après-midi, vent d'Ouest, modéré ; puis atténuation. En cours de nuit, vent se renforçant de nouveau par endroits, avec orientation à l'Ouest.
+Températures maximales pour le jour : entre 17 et 18 degrés.
+Températures minimales pour la nuit suivante : entre 9 et 10 degrés.
 
 • Pour la journée de dimanche 11 :
 Les nuages et les éclaircies se partagent le ciel, qui se dégage en fin de journée.
-Vent variable, faible.
-Températures maximales : comprises entre 17 et 18 degrés.
+Vent faible, variable.
+Températures maximales : 18 degrés.
 
 • Pour lundi 12 et mardi 13 :
 Sur les Hauts-de-Seine ainsi que sur le nord, temps pluvieux de mardi matin jusqu'en fin de journée. Sur les autres régions, soleil prédominant.
@@ -68,39 +68,39 @@ Températures minimales : en baisse sur une grande moité ouest.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL BOUCHES-DU-RHÔNE (DEPT13) ===
-Emis le : 08/10/2026 16:45
+Emis le : 09/10/2026 00:30
 
 Vigilance :
-Attention, aujourd'hui et demain, le département des Bouches-du-Rhône est en vigilance jaune pour le phénomène vent.
+Attention, aujourd'hui, le département des Bouches-du-Rhône est en vigilance jaune pour le phénomène vent.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Marignane : température de 18 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 65 km/h, pression niveau mer 1015 hPa.
-A Aix-en-Provence : température de 16 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 45 km/h.
+Aujourd'hui on observait à 00h :
+A Marignane : température de 15 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 85 km/h, pression niveau mer 1016 hPa.
+A Aix-en-Provence : température de 13 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 45 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
-Les rares nuages présents n'empêchent nullement l'observation des étoiles.
-Mistral assez fort à fort, du Rhône à Aix et à Marseille. Rafales atteignant 85 km/h, la nuit.
-Températures minimales : du Rhône à l'étang de Berre et autour de Marseille de 11 à 12 degrés. Comprises entre 7 et 8 degrés entre Peyrolles Aix et Aubagne.
+Le ciel est passagèrement assez nuageux. Les nuages ont tendance à se dissiper, et en fin de nuit, le ciel étoilé prend le dessus.
+Mistral assez fort, du Rhône à l'étang de Berre et jusqu'aux Calanques. Rafales atteignant 85 km/h, en cours de nuit.
+Températures minimales : du Rhône à l'étang de Berre et autour de Marseille de 11 à 12 degrés. Comprises entre 6 et 8 degrés entre Peyrolles Aix et Aubagne.
 
 • Pour demain vendredi 09 en journée et la nuit suivante :
-La journée est belle, le soleil est largement présent. Pour la nuit : Le ciel est dégagé. Seuls quelques rares nuages se montrent timidement vers minuit, des Alpilles au Salonnais.
-Jusqu'en milieu d'après-midi, Mistral assez fort, des Alpilles au golfe de Fos ; atténuation ensuite. Rafales atteignant 65 km/h.
-Températures maximales pour le jour : comprises entre 19 et 21 degrés.
-Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et jusqu'aux Calanques de 10 à 12 degrés. Entre 5 et 8 degrés entre Aix Aubagne et Jouques.
+La journée est ensoleillée, avec tout au plus quelques nuages très discrets. Pour la nuit : Le ciel est bien dégagé.
+À la mi-journée, Mistral assez fort, sur les Alpilles la Camargue et la Crau ; atténuation ensuite. Rafales atteignant 65 km/h.
+Températures maximales pour le jour : de 18 à 21 degrés.
+Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et autour de Marseille entre 11 et 12 degrés. Entre 4 et 7 degrés entre Aix Aubagne et Jouques. Ces températures se situent par endroits bien en-dessous des valeurs de saison.
 
 • Pour la journée de samedi 10 et la nuit suivante :
-L'ensoleillement est excellent et le soleil règne sans partage. Pour la nuit : Les étoiles sont largement visibles. Juste avant l'aurore, elles sont toutefois masquées par des nuages, de Châteaurenard à Salon ainsi que de Marseille à La Ciotat.
-Vent de Nord-Ouest temporairement assez fort, sur le bord de mer. Rafales atteignant 65 km/h, l'après-midi jusqu'en début de soirée.
-Températures maximales pour le jour : entre 22 et 24 degrés.
-Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et autour de Marseille entre 12 et 14 degrés. De 7 à 9 degrés entre Peyrolles Aix et Aubagne.
+Le temps est ensoleillé du matin au soir. Pour la nuit : Belle nuit étoilée. Quelques passages nuageux en fin de nuit.
+Vent de Nord-Ouest, assez fort, soufflant sur la frange littorale, l'après-midi ; et sur la Camargue et les Calanques, la nuit. Avec des rafales atteignant 55 km/h.
+Températures maximales pour le jour : comprises entre 23 et 24 degrés.
+Températures minimales pour la nuit suivante : du Rhône à l'étang de Berre et jusqu'aux Calanques comprises entre 13 et 14 degrés. De 7 à 10 degrés entre Aix Aubagne et Jouques.
 
 • Pour la journée de dimanche 11 :
-La journée est lumineuse, malgré la présence de nuages élevés.
-Etablissement, en début d'après-midi, d'un vent d'Ouest à Nord-Ouest assez fort, de Marseille à La Ciotat ; atténuation ensuite. Rafales atteignant 55 km/h.
-Températures maximales : entre 20 et 22 degrés.
+Le soleil est généralement voilé par des nuages.
+En milieu de journée, vent de Nord-Ouest soufflant assez fort, à Marseille et dans les Calanques ; puis atténuation. Rafales atteignant 55 km/h.
+Températures maximales : entre 21 et 22 degrés.
 
 • Pour lundi 12 et mardi 13 :
 À Marseille et dans les Calanques, risque de brume en seconde partie de nuit de lundi à mardi. Ailleurs, le soleil brille sans partage.
@@ -121,40 +121,40 @@ Températures minimales : en baisse sur le pays d'Aix.
 Températures maximales : en baisse autour de la Sainte Baume ainsi que de l'étang de Berre au pays d'Aix.
 
 === BULLETIN DÉPARTEMENTAL GIRONDE (DEPT33) ===
-Emis le : 08/10/2026 16:45
+Emis le : 09/10/2026 00:30
 
 Vigilance :
-Aujourd'hui et demain, le département de la Gironde est en vigilance verte.
+Aujourd'hui, le département de la Gironde est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Bordeaux : température de 18 degrés, vent de secteur Nord soufflant jusqu'à 40 km/h, pression niveau mer 1025 hPa.
-Au Cap-Ferret : température de 18 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 35 km/h.
-A Libourne : température de 16 degrés, vent de secteur Nord soufflant jusqu'à 30 km/h, cumul de précipitations en 12h : 1 mm.
+Aujourd'hui on observait à 00h :
+A Bordeaux : température de 12 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 15 km/h, pression niveau mer 1028 hPa.
+Au Cap-Ferret : température de 15 degrés, vent de secteur Nord Nord-Est soufflant jusqu'à 15 km/h.
+A Libourne : température de 11 degrés, vent de secteur Nord soufflant jusqu'à 10 km/h, cumul de précipitations en 12h : 1 mm.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
-Le ciel est souvent bien dégagé. Toutefois, sur le Bassin d'Arcachon ainsi que sur les Landes girondines, les étoiles sont progressivement cachées par des nuages de plus en plus nombreux, et le ciel est couvert en fin de nuit.
-En début de nuit, vent de Nord-Nord-Est modéré, sur le littoral ; atténuation ensuite.
-Températures minimales : voisines de 5 à 8 degrés, et 10 degrés sur le Bassin d'Arcachon.
+Nuages et éclaircies se disputent le ciel toute la nuit. Par moments ce sont les nuages les plus nombreux, par moments les étoiles sont bien visibles.
+Vent faible, variable.
+Températures minimales : entre 7 et 10 degrés, et 6 degrés sur le Libournais.
 
 • Pour demain vendredi 09 en journée et la nuit suivante :
-Le soleil domine généralement, malgré les nuages présents en cours d'après-midi. Pour la nuit : Les nuages, bien présents dès le début de soirée, s'installent partout. En milieu de nuit, les étoiles font de timides apparitions, alors que des averses sont possibles, sur le Médoc et le Blayais.
-En fin d'après-midi et la nuit suivante, vent s'établissant à l'Ouest modéré, sur le bord de mer.
-Températures maximales pour le jour : comprises entre 18 et 21 degrés.
-Températures minimales pour la nuit suivante : de 12 à 15 degrés, et 16 degrés sur le littoral.
+En matinée, les nuages sont bien présents, mais quelques éclaircies sont encore possibles. Ensuite le ciel se couvre complètement jusqu'à la fin de journée. Pour la nuit : Les nuages, bien présents dès le début de soirée, s'installent partout. En milieu de nuit, les étoiles font de timides apparitions, alors que des averses sont possibles, sur l'agglomération bordelaise ainsi que sur le nord de la Gironde.
+En fin de nuit, vent s'établissant à l'Ouest à Sud-Ouest assez fort, sur le littoral.
+Températures maximales pour le jour : comprises entre 19 et 20 degrés.
+Températures minimales pour la nuit suivante : de 13 à 16 degrés.
 
 • Pour la journée de samedi 10 et la nuit suivante :
-En matinée, éclaircies et passages nuageux porteurs d'averses se succèdent. L'après-midi, de plus larges éclaircies se développent, laissant souvent dominer le soleil. Toutefois quelques précipitations persistent, sur le Sud-Est du département. Pour la nuit : Le ciel est peu nuageux l'essentiel de la nuit, mais des nuages se développent et deviennent prédominants avant l'aube.
-Vent variable, généralement modéré, en journée et début de nuit ; puis atténuation.
-Températures maximales pour le jour : comprises entre 20 et 21 degrés.
-Températures minimales pour la nuit suivante : entre 9 et 11 degrés, et 14 degrés sur le littoral.
+Le ciel est hésitant avec des nuages entrecoupés d'éclaircies. Les nuages portent parfois de petites averses jusqu'en milieu d'après-midi. En fin de journée, les averses cessent. Pour la nuit : Le ciel est voilé en début de nuit. Ce voile disparaît rapidement. Toutefois, autour de l'estuaire de la Gironde ainsi que sur la majeure partie sud du département, la disparition peut être plus progressive. Les nuages laissent ensuite passer de belles éclaircies.
+En journée et début de nuit, vent variable généralement, modéré ; puis faiblissant.
+Températures maximales pour le jour : comprises entre 19 et 20 degrés.
+Températures minimales pour la nuit suivante : de 9 à 11 degrés, et 14 degrés sur le littoral.
 
 • Pour la journée de dimanche 11 :
-Le ciel est nuageux en matinée avec quelques éclaircies. Elles deviennent plus larges l'après-midi.
-Vent faible, variable.
-Températures maximales : entre 18 et 20 degrés.
+Les périodes ensoleillées dominent les passages nuageux. L'après-midi, des nuages un peu plus développés peuvent donner quelques averses sur le Médoc et le Blayais.
+Vent de Sud-Est temporairement modéré, sur le littoral.
+Températures maximales : comprises entre 18 et 20 degrés.
 
 • Pour lundi 12 et mardi 13 :
 Temps largement ensoleillé.
@@ -175,38 +175,38 @@ Températures minimales : en baisse sur les Landes girondines ainsi que sur le M
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL RHÔNE (DEPT69) ===
-Emis le : 08/10/2026 16:45
+Emis le : 09/10/2026 00:30
 
 Vigilance :
-Aujourd'hui et demain, le département du Rhône est en vigilance verte.
+Aujourd'hui, le département du Rhône est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Lyon : température de 13 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 40 km/h, pression niveau mer 1020 hPa, cumul de précipitations en 12h : 6 mm.
-Aux Sauvages : température de 7 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 65 km/h, cumul de précipitations en 12h : 25 mm.
-A Brindas : température de 12 degrés.
+Aujourd'hui on observait à 00h :
+A Lyon : température de 11 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 40 km/h, pression niveau mer 1024 hPa.
+Aux Sauvages : température de 4 degrés, vent de secteur Nord Nord-Ouest soufflant jusqu'à 40 km/h, cumul de précipitations en 12h : 4 mm.
+A Brindas : température de 10 degrés.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
-Nuages et belles éclaircies se partagent le ciel en soirée. Au fil des heures, les nuages disparaissent et c'est sous un ciel bien dégagé que se termine la nuit.
-Vent de Nord-Ouest, modéré.
-Températures minimales : comprises entre 6 et 8 degrés, et 4 degrés dans les monts du Lyonnais.
+En soirée, le ciel est très nuageux des monts du Lyonnais à Givors ainsi qu'en région lyonnaise. Les nuages se désagrègent ensuite pour laisser place à un temps dégagé en seconde moitié de nuit.
+Vent généralement modéré, de Nord-Ouest.
+Températures minimales : comprises entre 6 et 8 degrés, et 2 degrés dans les monts du Lyonnais.
 
 • Pour demain vendredi 09 en journée et la nuit suivante :
-La matinée est ensoleillée. L'après-midi, quelques nuages de beau temps agrémentent le ciel. Pour la nuit : Les quelques éclaircies, présentes en soirée, ne résistent pas à l'arrivée des nuages. De petites pluies débutent en Val de Saône ainsi qu'au confluent Brévenne Turdine Azergues. Elles se généralisent ensuite, tout en restant faibles.
-Jusqu'en milieu d'après-midi, vent de Nord, localement modéré. Nouveau renforcement en début de nuit, dans le Beaujolais, avec orientation à l'Ouest.
-Températures maximales pour le jour : entre 14 et 17 degrés.
-Températures minimales pour la nuit suivante : de 8 à 10 degrés.
+La matinée est ensoleillée. Les nuages se développent à la mi-journée. Le temps devient alors variable. Pour la nuit : Les nuages prédominent toute la nuit. Ils peuvent, par moments, donner quelques faibles pluies ou averses.
+Jusqu'en milieu d'après-midi, vent de Nord à Nord-Ouest généralement, modéré ; puis faiblissant.
+Températures maximales pour le jour : entre 13 et 16 degrés.
+Températures minimales pour la nuit suivante : comprises entre 8 et 9 degrés.
 
 • Pour la journée de samedi 10 et la nuit suivante :
-La journée commence sous un ciel très nuageux à couvert. Des pluies sont possibles, dans le Beaujolais, en Val de Saône ainsi qu'au confluent Brévenne Turdine Azergues. En cours de journée, des éclaircies plus larges se développent et les précipitations deviennent plus rares. En fin de journée, le temps redevient sec partout, mais les nuages sont à nouveau très présents. Pour la nuit : Les étoiles sont largement visibles. Juste avant l'aurore, elles sont toutefois masquées par des nuages, dans le Beaujolais ainsi que des monts du Lyonnais à Givors.
-Vent faible, variable.
-Températures maximales pour le jour : comprises entre 15 et 18 degrés.
-Températures minimales pour la nuit suivante : entre 6 et 8 degrés, et 3 degrés dans les monts du Lyonnais.
+Le ciel est couvert avec de petites pluies éparses sauf dans les monts du Lyonnais le matin. L'après-midi, les nuages se déchirent et laissent passer quelques rayons de soleil. De rares averses sont encore possibles, mais elles deviennent plus rares en fin de journée. Pour la nuit : Le ciel est souvent clair, ce n'est qu'avant l'aube que quelques nuages viennent prendre un peu de place.
+En milieu d'après-midi, vent s'orientant au Nord-Nord-Ouest, modéré par endroits ; puis atténuation.
+Températures maximales pour le jour : de 15 à 18 degrés.
+Températures minimales pour la nuit suivante : de 5 à 8 degrés, et 4 degrés dans les monts du Lyonnais.
 
 • Pour la journée de dimanche 11 :
-La journée est lumineuse, avec un beau soleil parfois contrarié par des passages nuageux qui restent inoffensifs.
+Un voile nuageux masque temporairement le soleil, qui devient plus franc en fin de journée.
 Vent variable, faible.
 Températures maximales : entre 15 et 18 degrés.
 
@@ -229,40 +229,40 @@ Températures minimales : similaires à la veille.
 Températures maximales : en baisse.
 
 === BULLETIN DÉPARTEMENTAL HAUTE-GARONNE (DEPT31) ===
-Emis le : 08/10/2026 16:45
+Emis le : 09/10/2026 00:30
 
 Vigilance :
-Aujourd'hui et demain, le département de la Haute-Garonne est en vigilance verte.
+Aujourd'hui, le département de la Haute-Garonne est en vigilance verte.
 
 Observations :
-Aujourd'hui on observait à 16h :
-A Toulouse-Blagnac : température de 17 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 50 km/h, pression niveau mer 1024 hPa, cumul de précipitations en 12h : 2 mm.
-A Luchon : température de 12 degrés, vent de secteur Nord soufflant jusqu'à 25 km/h, cumul de précipitations en 12h : 1 mm.
-A Saint-Félix-Lauragais : température de 15 degrés, vent de secteur Nord-Ouest soufflant jusqu'à 50 km/h, cumul de précipitations en 12h : 8 mm.
+Aujourd'hui on observait à 00h :
+A Toulouse-Blagnac : température de 12 degrés, vent de secteur Ouest soufflant jusqu'à 20 km/h, pression niveau mer 1027 hPa.
+A Luchon : température de 8 degrés, vent de secteur Est Sud-Est soufflant jusqu'à 5 km/h.
+A Saint-Félix-Lauragais : température de 11 degrés, vent de secteur Ouest Nord-Ouest soufflant jusqu'à 30 km/h.
 
 Prévisions pour les tout prochains jours :
 
 • Pour cette nuit :
-La nuit est en général belle, même si les nuages sont un peu plus nombreux en seconde partie de nuit. Toutefois, sur le Cagire et le Luchonnais, de rares averses tombent en soirée. La limite pluie-neige s'abaisse jusqu'à 1600 mètres.
+En soirée, le ciel est très nuageux sur la plaine et le piémont. Les nuages se désagrègent ensuite pour laisser place à un temps dégagé en seconde moitié de nuit.
 Vent généralement modéré, d'Ouest.
-Températures minimales : sur la plaine et le piémont comprises entre 5 et 8 degrés. 1 degré sur le Cagire et le Luchonnais. Ces températures se situent par endroits très au-dessous des valeurs normalement observées.
+Températures minimales : sur la plaine et le piémont comprises entre 5 et 8 degrés. 2 degrés sur le Cagire et le Luchonnais.
 
 • Pour demain vendredi 09 en journée et la nuit suivante :
-Le soleil domine largement du matin au soir. Pour la nuit : Le ciel est voilé en début de nuit. Ce voile disparaît rapidement. Toutefois, la disparition peut être plus progressive. Les nuages laissent ensuite passer de belles éclaircies.
-Jusqu'en milieu d'après-midi, vent de Nord-Ouest modéré, sur le Midi Toulousain ; atténuation ensuite.
-Températures maximales pour le jour : sur la plaine et le piémont entre 18 et 19 degrés. 15 degrés sur le Cagire et le Luchonnais. Ces températures sont localement bien en-dessous des valeurs normalement observées.
-Températures minimales pour la nuit suivante : sur le Midi Toulousain entre 8 et 11 degrés. De 4 à 7 degrés sur le piémont et la montagne.
+La journée se déroule sous un ciel clair. Ce n'est qu'en fin de journée que quelques nuages viennent prendre un peu de place dans le ciel. Pour la nuit : La nuit débute sous un ciel très nuageux à couvert. En cours de nuit, des nuages encore nombreux et des éclaircies se partagent le ciel.
+Jusqu'en milieu d'après-midi, vent d'Ouest à Nord-Ouest soufflant modérément, sur le Midi Toulousain ; puis atténuation.
+Températures maximales pour le jour : de 16 à 19 degrés.
+Températures minimales pour la nuit suivante : sur le Midi Toulousain de 9 à 12 degrés. Entre 5 et 8 degrés sur le piémont et la montagne.
 
 • Pour la journée de samedi 10 et la nuit suivante :
-C'est une très belle journée qui s'annonce. Le soleil domine, même si quelques nuages sont présents en début de matinée, du Lauragais aux coteaux de Cadours. Pour la nuit : Les nuages et les étoiles se partagent équitablement le ciel en début de nuit, mais au fil des heures les nuages deviennent prédominants.
-Etablissement, en seconde partie de journée, d'un vent de Nord-Ouest, généralement modéré ; atténuation ensuite.
+Les éclaircies sont assez larges en journée. Le ciel est même parfois dépourvu de nuages, dans le Muretain, sur le Cagire et le Luchonnais ainsi qu'au sud-ouest du département. Pour la nuit : Toute la nuit le ciel est contrarié par un voile nuageux. En soirée, des brumes et brouillards sont présents, sur le Cagire et le Luchonnais. Ils se dissipent plus ou moins vite.
+Etablissement, l'après-midi jusqu'en début de soirée, d'un vent d'Ouest modéré, sur la plaine et le piémont ; atténuation ensuite.
 Températures maximales pour le jour : de 20 à 21 degrés.
-Températures minimales pour la nuit suivante : sur la plaine et le piémont autour de 10 à 13 degrés. 4 degrés sur le Cagire et le Luchonnais.
+Températures minimales pour la nuit suivante : sur la plaine et le piémont autour de 10 à 13 degrés. 5 degrés sur le Cagire et le Luchonnais.
 
 • Pour la journée de dimanche 11 :
-Le ciel est voilé en matinée. Le voile disparaît et laisse rapidement place à de belles éclaircies.
+Les nuages et les éclaircies se partagent le ciel, qui se dégage en fin de journée.
 Vent variable, faible.
-Températures maximales : de 19 à 21 degrés.
+Températures maximales : entre 19 et 21 degrés.
 
 • Pour lundi 12 et mardi 13 :
 Dans le Volvestre, risque de brume en seconde partie de nuit de lundi à mardi. Ailleurs, temps largement ensoleillé.
@@ -307,267 +307,25 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Recensement des tornades en France
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
 • Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Production d'électricité renouvelable et météo
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Topic de l'humour
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
-• Indicateur Thermique National (ITN 14 jours au 08/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
+• Indicateur Thermique National (ITN 14 jours au 09/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Jeudi 8 Octobre 2026.
-Résumé général précédent : Temps sec et anticyclonique dominant sur l'ensemble de la quinzaine, avec des températures souvent au-dessus des normales. Une possible dégradation plus fraîche et humide se dessine en toute fin de deuxième semaine, mais reste incertaine..
+Résumé général précédent : Temps sec et très doux sur l'ensemble de la quinzaine, avec un possible rafraîchissement et des pluies en fin de période, mais incertain..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Rafraîchissement modéré et temporaire, averses faibles possibles, douceur qui revient dès le week-end..
+Températures attendues précédemment : Temps sec et ensoleillé, températures de 20 à 25°C, aucun phénomène dangereux..
 ============================================
 
-=== DISCUSSIONS APPLICABLES SEMAINE 1 (Du Jeudi 8 au Dimanche 11 Octobre 2026) ===
-Auteur: Leonai
-Message:
-il y a 10 minutes, Jojobarbar a dit :
-			Hello, ces remarques reviennent souvent, des fois c'est GFS qui est visé, des fois IFS, rarement les autres modèles.
-			[...]
-			Quoiqu'il en soit, STOP au run par run déterministe. Ou alors ne soyez pas étonnés de la variabilité.
-	😲
-	As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Modifié dimanche à 08:08 par Leonai
-
-=======================
-
-Auteur: Krholam
-Message:
-Je rajouterai aussi, pourquoi s’arrêter au 07 alors que la degradation s’étale du 06 au 08 ?
-	Modifié dimanche à 08:14 par Krholam
-								1
-
-=======================
-
-Auteur: Jojobarbar
-Message:
-2 hours ago, Leonai said:
-			😲
-			As-tu regardé par exemple pour Langres, Dijon, Nevers... les précipitations ORAGEUSES avec énorme MUCAPE en plus [🤣] qui avaient été prévues par GFS ces derniers jours et qui ont disparu a l'approche de l'échéance ?
-	Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
-	Ce qu'il faut avoir en tête c'est que les champs de précipitations, MUCAPE, brouillard, neige sont des paramètres qui découlent assez directement des paramètres que je pense un peu plus fondamentaux comme les centres d'actions (pression surface et géopotentiel en altitude). Évidemment, si on a 2 scénarios un stable, un instable. Que le déterministe s'entête pour une raison ou une autre dans le scénario stable. Et que finalement, c'est le scénario stable qui devient de plus en plus probable, les simulations à MUCAPE élevés ne vont pas simplement diminuer mais bien disparaître complètement. Pour ne pas être surpris, mon conseil reste le même : regarder les ensembles, déterminer les différents grandes options, et prendre en compte le fait que le déterministe peut ne pas être dans le cluster majoritaire.
-	Modifié dimanche à 10:10 par Jojobarbar
-								1
-								3
-
-=======================
-
-Auteur: Ciel d&#039;encre
-Message:
-Il y a 2 heures, Jojobarbar a dit :
-			Je veux bien les cartes (peut-être en MP pour ne pas highjacker le topic ? A toi de voir ce que tu préfères), qu'on peut retrouver sur météociel (https://www.meteociel.fr/modeles/gfse_cartes.php?ech=6&amp;code=0&amp;carte=0&amp;mode=11&amp;archive=1&amp;runpara=0) avec le bouton archive. J'ai regardé vite fait mais je n'ai pas trouvé, je n'ai probablement pas regardé à la bonne date. 
-	Highjacker : pirater
-	Cluster : groupe 
-	L'usage de l'anglais n'est pas nécessaire. Les termes existent déjà en français. 
-								11
-								1
-								1
-								1
-								1
-
-=======================
-
-Auteur: Twister83
-Message:
-À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
-								1
-								1
-								1
-
-=======================
-
-Auteur: serge26
-Message:
-il y a 25 minutes, Twister83 a dit :
-			À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
-	Si tenté qu'il arrive à geler , car avec des anomalies de +3, +4 voire +5° persistantes, comme c'est le cas depuis des mois, çà va etre compliqué.
-								1
-								1
-								4
-
-=======================
-
-Auteur: Twister83
-Message:
-il y a une heure, serge26 a dit :
-			Si tenté qu'il arrive à geler , car avec des anomalies de +3, +4 voire +5° persistantes, comme c'est le cas depuis des mois, çà va etre compliqué.
-	On n'est pas à l'abri de sensations hivernales en automne même dans une année très chaude, l'année dernière en novembre on avait tout de même eu le droit a des gelées même jusqu'au littoral par ici.
-	Par ailleurs, avec les jours qui raccourcissent très rapidement en ce moment, on va bientôt rentrer dans la période où un temps anticyclonique n'est plus forcément synonyme de douceur et de fort d'ensoleillement.
-	En espérant le moins de patates possible ces prochains semaines...
-	Modifié dimanche à 14:23 par Twister83
-								3
-								2
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-Il y a 3 heures, Ciel d'encre a dit :
-			Highjacker : pirater
-			Cluster : groupe 
-			L'usage de l'anglais n'est pas nécessaire. Les termes existent déjà en français. 
-	bah faut pas non plus se faire un sang d'encre au sujet de la langue française : 
-	la fameuse expression putaclic, utilisée récemment par un Icéen, au sujet du sensationnalisme en lien avec le super-niño, plus précisément sur les vagues de froid que certains lui associeraient, je l'aurais bien orthographiée différemment, avec la langue des Rosbifs, en put-a-click, ce qui aurait pu éviter toute allusion aux péripatéticiennes, et être plus accessible à une Icéenne, maugréant à bon droit contre la première expression tricolore : 
-	put-a-click ça oblige certes aux traits d'union mais ça fait très verbiage international branché sans blesser féminisme et... ordre moral (!) : 
-	put a click : en anglais ça fait "cliquer" , mais avec l'usage déjà ancien de l'expression qui peut faire tiquer - et non cliquer... - on fabrique un néologisme multi-avantages avec un clin d'œil à l'ancienne formule... ! même si l'on a juste perdu une petite bataille pour la défense de la langue française...
-	... et dernier avantage : put-a-click ne déclenche pas l'engueulade de mon correcteur d'haurteaugrafffe... 
-	Modifié dimanche à 14:44 par giec 2100
-								1
-
-=======================
-
-Auteur: Leonai
-Message:
-Il y a 3 heures, Twister83 a dit :
-			À ce rythme la, on va bientôt avoir les premières gelées généralisés en plaine avant d'avoir une période humide généralisé sur le pays...
-	Oui c'est bien triste.
-	Aout, septembre: anticyclonique estival sur la France intérieure;
-	Octobre (si la suite du mois continue sur sa lancée): anticyclonique automnal sur la France intérieure, instabilités à proximité des mers chaudes;
-	novembre: ?
-	Imaginez si c'est un anticyclone d'hiver qui arrive sur l'intérieur des terres, et ce pour plusieurs mois !! 😧
-	Modifié dimanche à 15:51 par Leonai
-								1
-
-=======================
-
-Auteur: ripocheguillaume_88
-Message:
-Toujours un temps inintéressant de prévu pendant que la végétation crève !!
-								4
-								3
-
-=======================
-
-Auteur: Nono34
-Message:
-Il y a 3 heures, ripocheguillaume_88 a dit :
-			Toujours un temps inintéressant de prévu pendant que la végétation crève !!
-	Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Modifié dimanche à 20:20 par Nono34
-								4
-								2
-								1
-
-=======================
-
-Auteur: mathias
-Message:
-il y a 9 minutes, Nono34 a dit :
-			Quand même... ce serait une franche amélioration de la sécheresse si ces previsions se concretisent 🤔
-	Bonsoir, 
-	Une dizaine de mm de modelisée en moyenne ne va pas changer grand chose concernant la sécheresse. 
-								4
-
-=======================
-
-Auteur: Jojobarbar
-Message:
-Je trouve que c'est pas si inintéressant, on a une belle perturbation frontale sur une large partie du pays, ce n'est pas miraculeux ok mais y'a pas mal à faire avec ! On a par la suite un régime NAO+ (OAN+ 😉) marqué, avec des dépressions bien creuses, et avec l'avancée de la saison, la zone limite descend de plus en plus vers la France, à voir si cela suffirait pour que les tempêtes ne soit pas sans cesse repoussée à l'approche des côtes européennes du sud... Pour l'instant un peu tout est sur la table : toute la France sous un anticyclone (comme d'hab, plus probable) / nord sous dépression (bien possible !) / ou toute la France concernée (j'en doute)
-								7
-								1
-
-=======================
-
-Auteur: Ciel d&#039;encre
-Message:
-On se dirige vers un sacré "yo-yo" thermique, entre la chaleur du début de semaine qui va flirter avec les 14°c à 850hpa, le brusque coup de frais de jeudi et vendredi à l'arrière du talweg qui pourrait caresser le 0°c à la même altitude...et un possible rebond à partir du week-end et au-delà. 
-	Pour la semaine suivante, on surveillera un éventuel retour de la tiédeur / "chaleur automnale" à la faveur d'une nouvelle crête subtropicale qui pourrait se reconstituer du Maghreb vers la péninsule Ibérique (cf cartes ci-dessous). 
-	À suivre...
-	Modifié dimanche à 22:16 par Ciel d&#039;encre
-								7
-								1
-
-=======================
-
-Auteur: giec 2100
-Message:
-celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
-	https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
-	quant aux précipitations attendues, comme le Messie, après le milieu de la semaine prochaine va falloir mettre dans le coup pas mal d'ethnologues pour nous apprendre les danses idoines... : 
-	Modifié dimanche à 23:35 par giec 2100
-								1
-
-=======================
-
-Auteur: Plancher
-Message:
-J'ai regardé les différents modèles ce matin. Je suis perplexe. Le changement c'est pas réellement pour maintenant. Le rafraîchissement promis n'est pas si marqué et ça repart à la hausse assez rapidement. On risque d'être encore en tee-shirt à La Toussaint. Je pense n'avoir jamais connu cela.
-	Seul la réduction du nombre d'heures de jour nous sauve.
-
-=======================
-
-Auteur: Krholam
-Message:
-Il y a 11 heures, giec 2100 a dit :
-			celle ou celui qui va se farcir la prévision de la semaine suivante risque de nous barber un max, avec la tendance NAO+ qui commence à s'estomper d'ici le 11 octobre pour du blocage...
-			https://charts.ecmwf.int/permalinks/weather-regimes-probabilities-sub-seasonal-range-forecast-66528
-	Mouais, pas trop d'accord avec le fait que nous partirions sur du blocage. En terme d'évolution temporelle du diagramme, le blocage entre le 12 et le 19 semble stable ou en regression.
-	Je ne dis pas non plus qu'on se taper de la pluie où je te rejoint totalement dessus.
-	A voir dans le topic suivant (désolé j'ai pas assez de temps aujourd'hui pour faire une belle ouverture  )
-
-=======================
-
-Auteur: nickdu77
-Message:
-il y a une heure, Plancher a dit :
-			J'ai regardé les différents modèles ce matin. Je suis perplexe. Le changement c'est pas réellement pour maintenant. Le rafraîchissement promis n'est pas si marqué et ça repart à la hausse assez rapidement. On risque d'être encore en tee-shirt à La Toussaint. Je pense n'avoir jamais connu cela.
-			Seul la réduction du nombre d'heures de jour nous sauve.
-	Bonjour,
-	Je pense que tu noircis un peu. Les températures sont bien sûr au-dessus des normes (et parfois bien au-dessus) mais une baisse s'amorce quand même, quelques PP sont prévues et le blocage semble perdre de la vigueur. En juillet- août presque rien ne passait. Là, on voit des possibilités d'incursions plus humides et/ou plus fraîches. Ca remonte c'est vrai mais moins haut que ça n'était, sauf pour le secteur méditerranéen où les températures ne baissent pas mais ils ont des vrais PP, eux. 
-	Je te mets les diagrammes (c'est du déterministe GEFS mais ça donne une idée en un coup d'oeil) à la suite, c'est moins pire que ça n'était il y a encore quelques semaines
-	Je pense que si évolution nette il y a et arrêt de cette mécanique infernale, on le verra soit au topic suivant, soit au prochain mais je comprends l'inquiétude, surtout pour les PP et je suis moi-même inquiet et j'attends avec impatience que ce cirque s'arrête et qu'on retrouve une circulation d'ouest.
-
-=======================
-
-Auteur: Plancher
-Message:
-B
-		Il y a 3 heures, nickdu77 a dit :
-			Bonjour,
-			Je pense que tu noircis un peu. Les températures sont bien sûr au-dessus des normes (et parfois bien au-dessus) mais une baisse s'amorce quand même, quelques PP sont prévues et le blocage semble perdre de la vigueur. En juillet- août presque rien ne passait. Là, on voit des possibilités d'incursions plus humides et/ou plus fraîches. Ca remonte c'est vrai mais moins haut que ça n'était, sauf pour le secteur méditerranéen où les températures ne baissent pas mais ils ont des vrais PP, eux. 
-			Je te mets les diagrammes (c'est du déterministe GEFS mais ça donne une idée en un coup d'oeil) à la suite, c'est moins pire que ça n'était il y a encore quelques semaines
-			Je pense que si évolution nette il y a et arrêt de cette mécanique infernale, on le verra soit au topic suivant, soit au prochain mais je comprends l'inquiétude, surtout pour les PP et je suis moi-même inquiet et j'attends avec impatience que ce cirque s'arrête et qu'on retrouve une circulation d'ouest.
-	Bonjour,
-	Je te remercie pour ton analyse et les diagrammes. Oui, je noircis un peu. Ça baisse mais nous restons très loin des normales. Et ça remonte en fin de topic d'où mon désappointement. Et la tendance qui se dessine pour le prochain topic ne me rassure pas trop.
-								1
-
-=======================
-
-Auteur: Nicolas L
-Message:
-Il y a 1 heure, Plancher a dit :
-			B
-			Bonjour,
-			Je te remercie pour ton analyse et les diagrammes. Oui, je noircis un peu. Ça baisse mais nous restons très loin des normales. Et ça remonte en fin de topic d'où mon désappointement. Et la tendance qui se dessine pour le prochain topic ne me rassure pas trop.
-	Au-delà de 192h, les modèles pataugent et changent de version à chaque run. En fin de topic, on serait sur des valeurs bien plus acceptables pour un mois d’Octobre sur la moitié nord en tout cas. 
-	UKMO serait un peu plus timide, mais... cela change très vite.
-	Les incursions fraîches pourraient quand même se montrer plus fréquentes ce mois-ci et heureusement.
-
-=== DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-L'ensemble CEP, appuyé par GEM  modélise un AA un peu en retrait vers l'ouest :
-	Cela permettrait au flux de revenir dans les normes après 3 jours au dessus (mardi-mercredi-jeudi) mais avec toujours peu de précipitations.
-	Beaucoup d'incertitudes à partir de jeudi surtout avec un important éclatement des differentes courbes : 
-	GEFS voit plutôt la persistance de la patate anticyclonique : avec des températures qui auraient du mal à baisser en deuxième partie de topic :
-	J'aurais tendance donc à privilégier le scénario de CEP, même s'il reste beaucoup d'incertitudes sur la latitude que va prendre l'AA et l'amplitude l'importance de son décalage à l'ouest.
-	De ces évolutions dépendra la nature du flux et les possibilité de précipitations.
-	Mais le flux d'ouest vers la France est toujours en panne, d'ailleurs le Jet est bien loin de la France dévié vers le nord  :
-	Modifié hier à 09:49 par petit âge glaciaire 11
-								2
-								1
-								3
-
-=======================
-
+=== DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
 Auteur: giec 2100
 Message:
 scénario cauchemar :
@@ -576,7 +334,7 @@ scénario cauchemar :
 	de profundis...
 	??? !!!
 	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=192&amp;mode=3&amp;carte=1&amp;map=&amp;code=36&amp;ext=0
-	Modifié hier à 19:20 par giec 2100
+	Modifié mercredi à 19:20 par giec 2100
 								2
 
 =======================
@@ -600,7 +358,7 @@ Message:
 	On voit bien qu'il y a 0 membres sans jet stream de notre côté. Aucun des membres ne ressemble à la carte moyenne ou médiane. La carte médiane pour cette variable et cette manière de calculer n'est absolument physique (mais elle peut être informative).
 	Ce qu'on en retient donc c'est que la fiabilité de la prévision est modérée sur la position du jet stream en sortie des côtes américaines. En revanche on ne sait pas comment il sera positionné au voisinage de la France : sud ? nord ? plein dans le mille ? Par contre, il sera là.
 	PS : on remarque d'ailleurs que si les cartes de l'écart-type sont calculées pour le géopotentiel, les températures, les champs continu sans 0 en général, elles ne le sont pas pour les précipitations et le jet stream, pour les même raisons que cités ci-dessus : ces cartes seraient quasiment inutilisable avec un écart-type qui exploserait si un membre propose 0mm et qu'un autre décalant l'orage propose 70mm... Pour les température, les décalages sont de quelques degrés maximum...
-	Modifié hier à 20:30 par Jojobarbar
+	Modifié mercredi à 20:30 par Jojobarbar
 								4
 								5
 
@@ -624,9 +382,9 @@ Message:
 	où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
 	ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
 	bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
-	Modifié hier à 21:36 par giec 2100
+	Modifié mercredi à 21:36 par giec 2100
 plusieurs rectifs après recherches... fructueuses
-								1
+								2
 								2
 								1
 
@@ -661,7 +419,7 @@ il y a une heure, Jojobarbar a dit :
 	... et si l'on revient à nos diagrammes, en se situant au 45éme parallèle - c'est presque neutre !  c'est la latitude Bordeaux... - on observe une forte dispersion des scénarios, tant sur CEP qu'avec l'Américain, dès la date du 14 octobre... :
 	https://images.meteociel.fr/im/7/27847/graphe_ens3_04nqh5.php.png
 	https://images.meteociel.fr/im/94/23669/graphe_ens4mbx5.php.png
-	Modifié il y a 23 heures par giec 2100
+	Modifié mercredi à 22:32 par giec 2100
 								2
 
 =======================
@@ -709,7 +467,7 @@ Message:
 	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
 	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
 	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
-	Modifié il y a 12 heures par Jojobarbar
+	Modifié il y a 14 heures par Jojobarbar
 								1
 
 =======================
@@ -740,7 +498,7 @@ le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques
 	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
 	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
 	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
-	Modifié il y a 7 heures par giec 2100
+	Modifié il y a 9 heures par giec 2100
 
 =======================
 
@@ -786,7 +544,7 @@ Message:
 Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
 	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
 	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
-	Modifié il y a 2 heures par Nicolas L
+	Modifié il y a 4 heures par Nicolas L
 								1
 								5
 
@@ -816,7 +574,8 @@ Message:
 @Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
 	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
 	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
-	Modifié il y a 36 minutes par giec 2100
+	Modifié il y a 2 heures par giec 2100
+								1
 
 =======================
 
@@ -825,3 +584,301 @@ Message:
 Il y a 2 heures, Plancher a dit :
 			Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement
 	Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
+
+=======================
+
+Auteur: Run999H
+Message:
+Il y a 2 heures, Krholam a dit :
+			Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
+	Je suis OK avec ça. Le pire est derrière nous, avancée dans la saison oblige. 
+	Néanmoins, remis dans son contexte à savoir qu’on entre dans le dur de la saison automnale et qu’on voit ce genre de carte :
+	Je suis navré mais j’ai du mal à percevoir de vraies « nuances » 
+	Cette carte des moyennes des précipitations qui couvre la semaine complète analysée ici indique beaucoup de choses :
+	- L’Europe du sud-ouest reste engluée dans les HG/HP avec la péninsule ibérique qui revient rapidement au sec (je dis « revient », tout en sachant que certaines régions espagnoles n’ont rien vu d’autre que de la chaleur anormale sur cette première décade d’octobre).
+	- Le rail dépressionnaire pluvieux reste très nordique pour la saison avec une inclinaison encore forte vers la Scandinavie. 
+	- L’orientation du rail perturbé montre un flux général encore fortement orienté Sud-ouest / Nord-est (logique vu le placement des centres d’action et c’est donc plus signe de douceur que de fraîcheur. 
+	Les 23° à 25° (voire plus encore en milieu de semaine) sont largement envisagés dans le sud-ouest la semaine prochaine. C’est 5 à 8° au-dessus des normales et nous sommes déjà sur un excédent de plus de 5° en Tm actuellement sur le secteur. Le coup de frais actuel va probablement ramener l’anomalie à 4 voire 5° en fin de première quinzaine. Ni plus ni moins équivalent aux anomalies constatées cet été au global. 
+	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
+	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
+	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
+	Modifié il y a 14 minutes par Run999H
+
+=== DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
+Auteur: giec 2100
+Message:
+scénario cauchemar :
+	jetstream en voie de disparation en fin d'échéance pour l'hémisphère N côté atlantique... 
+	il a donné procuration à son cousin du pacifique dans ses dernières volontés... 
+	de profundis...
+	??? !!!
+	https://www.meteociel.fr/modeles/gefs_cartes.php?ech=192&amp;mode=3&amp;carte=1&amp;map=&amp;code=36&amp;ext=0
+	Modifié mercredi à 19:20 par giec 2100
+								2
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+1 hour ago, giec 2100 said:
+			scénario cauchemar :
+			jetstream en voie de disparation en fin d'échéance pour l'hémisphère N côté atlantique... 
+			il a donné procuration à son cousin du pacifique dans ses dernières volontés... 
+			de profundis...
+			??? !!!
+			https://www.meteociel.fr/modeles/gefs_cartes.php?ech=192&amp;mode=3&amp;carte=1&amp;map=&amp;code=36&amp;ext=0
+	Désolé tu vas croire que je m'acharne 🤣, bien évidemment, c'est juste pour info, et merci beaucoup pour ta participation !
+	Attention, pour le jetstream, la moyenne et les quantile sont extrêmement piégeux, un peu pour la même raison que les précipitations :
+	Si on regarde les membres isolés les cartes consistent en un des bandes de jet stream localisées et de nombreux 0 partout ailleurs (blanc). La médiane ici est calculée en chaque point : pour chaque échéance, on superpose toues les membres, et on prend les pixels médian (et pas le scénario médian [qu'il faudrait définir, car je ne vois pas de définition immédiate]). Ainsi ce qu'on regarde n'est pas vraiment physique : il s'agit de pixels de carte potentiellement différentes. 
+	Les cartes que tu as postées donnent bien une information néanmoins, on voit que dans le Pacifique, la médiane est non nulle : il y a de nombreux scénarios (plus de la moitié) dans lesquels ces pixels ont une valeurs de jetstream non nulle : la prévision est stable de ce côté de l'hémisphère, le jet stream se trouve toujours à peu près au même endroit. Pour notre côté, cette carte nous indique :
+	- Soit qu'il n'y a pas de jet stream (mais c'est très peu cohérent avec ce que l'on connaît de ce processus) ;
+	- Soit que sa position varie entre les membres : la moitié au moins des pixels présentent une valeurs &gt; à la valeur de la médiane. Si le jet stream est nul sur + de la moitié des scénarios sur ce pixel, alors la valeur de la médiane sera 0.
+	Un coup d'oeil au panel (équivalent du tableaux des précipitations en quelques sortes) :
+	On voit bien qu'il y a 0 membres sans jet stream de notre côté. Aucun des membres ne ressemble à la carte moyenne ou médiane. La carte médiane pour cette variable et cette manière de calculer n'est absolument physique (mais elle peut être informative).
+	Ce qu'on en retient donc c'est que la fiabilité de la prévision est modérée sur la position du jet stream en sortie des côtes américaines. En revanche on ne sait pas comment il sera positionné au voisinage de la France : sud ? nord ? plein dans le mille ? Par contre, il sera là.
+	PS : on remarque d'ailleurs que si les cartes de l'écart-type sont calculées pour le géopotentiel, les températures, les champs continu sans 0 en général, elles ne le sont pas pour les précipitations et le jet stream, pour les même raisons que cités ci-dessus : ces cartes seraient quasiment inutilisable avec un écart-type qui exploserait si un membre propose 0mm et qu'un autre décalant l'orage propose 70mm... Pour les température, les décalages sont de quelques degrés maximum...
+	Modifié mercredi à 20:30 par Jojobarbar
+								4
+								5
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
+								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Jojobarbar
+	il faut que je m'arrache de ces moyennes et médianes :
+	mais où diable trouver ce panel, as-tu le lien... ?
+	houlà ça y est :en bas à gauche sur l'onglet "ensembles" puis le dernier "Panel des différents ensembles :
+	Panel Cartes des Ensembles GEFS"
+	idem pour le commentaire https://forums.infoclimat.fr/f/topic/61446-du-12-octobre-au-18-octobre-2026-prévisions-météo-semaine-42/#comment-4145613
+	où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
+	ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
+	bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
+	Modifié mercredi à 21:36 par giec 2100
+plusieurs rectifs après recherches... fructueuses
+								2
+								2
+								1
+
+=======================
+
+Auteur: Lorrd&#039;ici
+Message:
+Journée démarrant sous le soleil et la fraîcheur puis les nuages se sont installés en cours d’après-midi. Très doux et lourd.  Quelques gouttes en soirée.
+	Tn : 6.9°C / Tx : 24.8°C / Ta : 17.2°C.
+								1
+								1
+								2
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+il y a une heure, Jojobarbar a dit :
+			Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
+	oui, en effet, je comprends mieux maintenant : 
+	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=192_240&amp;parameter=500
+	commentaire :
+	un quart des scénarios - le cluster majoritaire - nous offre un flux de NW, sensible plutôt sur la moitié E du pays, par contournement de l'anticyclone, décalé,  prévu en face de la Bretagne sur l'Atlantique, entre 20° et 10°W ; le cadre bleu nous classe le type de temps en NAO+ ;
+	le second cluster - un cinquième des scénarios - voit l'anticyclone plus proche du pays et en mesure d'atténuer ce flux et de l'orienter en WNW...
+	le cadre violet nous caractérise la situation en "dorsale atlantique"...
+	chez GEFS 12h on retrouve la tendance du premier cluster précédent pour un peu moins d'un quart des scénarios : 
+	perturbations 5/11/16/20/25/29 et contrôle : 
+	https://images.meteociel.fr/im/74/2621/gens_panelfmr0.php.png
+	alors bien sûr l'échéance est assez lointaine, un peu moins d'une dizaine de jours :
+	même si un anticyclone n'a peut-être pas la bougeotte d'une goutte froide il faut s'attendre à du revirement...
+	... et si l'on revient à nos diagrammes, en se situant au 45éme parallèle - c'est presque neutre !  c'est la latitude Bordeaux... - on observe une forte dispersion des scénarios, tant sur CEP qu'avec l'Américain, dès la date du 14 octobre... :
+	https://images.meteociel.fr/im/7/27847/graphe_ens3_04nqh5.php.png
+	https://images.meteociel.fr/im/94/23669/graphe_ens4mbx5.php.png
+	Modifié mercredi à 22:32 par giec 2100
+								2
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a 40 minutes, Lorrd&amp;#x27;ici a dit :
+			Journée démarrant sous le soleil et la fraîcheur puis les nuages se sont installés en cours d’après-midi. Très doux et lourd.  Quelques gouttes en soirée.
+			Tn : 6.9°C / Tx : 24.8°C / Ta : 17.2°C.
+	Petit probleme de sujet 😁
+								3
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Il y a 9 heures, Jojobarbar a dit :
+			Si la première partie de semaine est quasiment assurée d'être anticyclonique, l'ensemble IFS de ce soir ouvre une petite porte pour la deuxième partie semaine avec la possibilité d'une coulée froide et humide glissant le long d'un anticyclone puissant mais un peu trop à l'ouest de la France pour y déployer pleinement son influence. C'est à confirmer dans les runs suivant et surtout face aux autres modèles.
+	On voit toujours ces signaux et ils sont  aussi tres visibles ce matin sur GFS. 
+	Les déterministes sont encore a longue échéance et on va donc attendre que ces signaux se consolident ou pas.
+	CEP :
+	GFS :
+	Effectivement c'est projections montrent une belle goutte froide à même de bien déstabiliser notre climat sensible. 
+								4
+
+=======================
+
+Auteur: Krholam
+Message:
+On sent bien cette probabilité de retrait de l’anticyclone sur le det de CEP à la faveur du creusement de 2 depression du coté du labrador et des pays nordiques
+	Cela reste du det à 200h. Mais c’est sans doute plus lisible pour certains que les cartes de clusters
+	A voir comment cela se précise
+	Ps : @giec 2100 je vois mal me courant jet disparaitre vu les synoptiques proposées. Mais ton analyse a eu le grand mérite de soulever un belle questions et de tous nous enrichir par la réponse de @Jojobarbar
+								7
+
+=======================
+
+Auteur: Jojobarbar
+Message:
+12 hours ago, giec 2100 said:
+			où trouver sur CEP ce cluster scénario à 51 membres? chaque cluster est-elle une moyenne?
+			ah j'ai trouvé pour la seconde question : https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610071200&amp;cluster=72_96&amp;parameter=500
+			bon je n'efface pas mon commentaire : ça peut servir à d'autres ; par pédagogie je mets toujours le lien de mes cartes et diagrammes ; bon ce soir j'en sais un peu plus ;  et merci encore !...
+	Désolé en effet ce serait bien que je mette les liens dans ces cas.
+	Au sujet des clusters, il s'agit d'une approche commune en science des données avec de nombreux algorithmes et différentes manières de faire. https://fr.wikipedia.org/wiki/Partitionnement_de_données
+	L'idée est d'exhiber à partir des données des groupes. Cela est non supervisé au sens : ce n'est pas le météorologue qui défini les groupes (clusters) mais l'algorithme. Ensuite, dans la figure, ce qui est montré c'est le membre le plus représentatif de l'ensemble (grossièrement, celui qui est le plus "au milieu" du groupe). Ce sont donc des cartes réelles, physique. Par exemple on voit la phrase en haut "control in cluster 3" qui signifie que le contrôle (déterministe) fait partie du groupe 3. Mais il n'est pas au centre du groupe : peut-être est-il un peu plus timorée ?
+	Les explications précises sont à trouver dans la documentation de ce produit : https://confluence.ecmwf.int/spaces/FUG/pages/673551066/Section+8.1.3.1+Clustering+-+Medium+range ⚠️ en anglais, peut-être qu'un post sur ce produit serait intéressant !
+	Modifié il y a 14 heures par Jojobarbar
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+En parlant d'outil sur ECMWF,
+	Le coup de chaud comment à prendre un coup de froid https://charts.ecmwf.int/products/extended-anomaly-spread-2t?base_time=202610070000&amp;projection=opencharts_europe&amp;valid_time=202610260000
+	Pour rappel
+	Lundi nous étions ici (je met exprès la carte de la prochaine échéance pour voir l'évolution
+	Aujourd'hui nous somme là
+	Oui cela reste du rose au dessus des normes, mais à la vue des cartes sa surface diminue. 
+	A ce stade, je pencherais donc plus sur une semaine douce mais sans les excès (#25°C à Paris en octobre ....) et peut être , PEUT ETRE une porte encore plus fraiche à venir sur l'échéance d'après.
+	(Avec le retrait vers l'atlantique de l'anticyclone bien visible sur https://charts.ecmwf.int/products/extended-anomaly-z500?base_time=202610070000&amp;projection=opencharts_europe&amp;valid_time=202610260000
+								4
+
+=======================
+
+Auteur: giec 2100
+Message:
+le diagramme de Hovmoller du géopotentiel à 500 hPa d'hier nous donne quelques précisions pour les prévisions de cette semaine 42 :
+	lundi et mardi on connaît un dernier passage perturbé, résultant d'une descente un peu plus franche d'un des minimums du vortex polaire (lobe bleu  entre 10°O et 10°E) ;
+	mercredi le talweg associé s'évacue vers l'E avant le retour en force des hautes pressions par l'W pour le reste de la semaine ;
+	jours suivants : puissante dorsale juste à l'ouest, entre 30°O et 0°;
+	petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
+	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610070000&amp;parameter=geopotential 500 hPa
+	enfin la carte des régimes de temps d'hier nous signifie une transition brutale du NAO+ vers du blocage en fin de période : 
+	pour les températures prévues sur la fin de la période - samedi 17 octobre 00h - la ligne de 10°C à 850hPa passe au S du pays, donc relative douceur ; quant à l'incertitude elle est forte pour la moitié E, liée au col anticyclonique évoqué précédemment, ou à une échéance assez lointaine (?)...
+	carte utilisée : AIFS ENS Ensemble moyenne et spread : température 850hPa jeudi 8 octobre 6h
+	https://charts.ecmwf.int/products/aifs_ens_medium-t850-mean-spread?base_time=202610080600&amp;projection=opencharts_europe&amp;valid_time=202610170000
+	Modifié il y a 9 heures par giec 2100
+
+=======================
+
+Auteur: Nico 14
+Message:
+Il y a 2 heures, giec 2100 a dit :
+			petit minimum relatif vers 10–25°E, suggérant un col entre la grosse dorsale atlantique et une autre dorsale sur la Russie... mais le grisé de la carte indique une forte dispersion des scénarios, donc beaucoup d'incertitudes...
+	En carte ici avec l'ensembliste du Met Office(UKMO):
+								1
+								3
+
+=======================
+
+Auteur: Plancher
+Message:
+Le run 12 Z de GFS nous montre que les températures restent très élevées pour la saison surtout dans le Sud et à l'Ouest. Ca tourne autour de 20 degrés pour Nantes par exemple. Chaud pour une mi-octobre.
+	Et comme d'habitude, il faut attendre le prochain topic pour voir une véritable baisse. Mais, on commence à connaître la musique. Quand reviendra le flux d'Ouest ? Certains sites spécialisés commencent à dire que finalement, ça ne serait pas pour début novembre.
+								1
+								5
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a une heure, Plancher a dit :
+			Le run 12 Z de GFS nous montre que les températures restent très élevées pour la saison surtout dans le Sud et à l'Ouest. Ca tourne autour de 20 degrés pour Nantes par exemple. Chaud pour une mi-octobre.
+			Et comme d'habitude, il faut attendre le prochain topic pour voir une véritable baisse. Mais, on commence à connaître la musique. Quand reviendra le flux d'Ouest ? Certains sites spécialisés commencent à dire que finalement, ça ne serait pas pour début novembre.
+	Vraiment ?
+	Parce que ça fait plusieurs messages qu’on parle d’une possible baisse des temperatures grace un retrait de l’AA sur l’atlantique qui interviendrait dans notre échéance
+	Et même GFS 12z entrevoit cette possibilitée, bien visible sur la moyenne des anomalies de Z500
+	Sur le diagramme Gefs 12z  on voit bien cette inflexion de la moyenne vers le 15/10 et une grande dispersion qui s’en suit.
+	Gefs qui en ce moment enchaine les scenario chaud et sec pour au finam se raviser sur CEP qui est je trouve en bonne forme.
+	Le positionnement d’une Dorsale atlantique peut encore fortement varier et avoir une incidence considérable à cette période de l’année.
+	On a donc une incertitude bien visible comme dit plus haut, sous entendre qu’une semaine entiere à 20⁰C est possible est un peu hatif.
+	On attend toujours une circulation zonale par contre oui. Nous sommes plutot sur des échanges méridiens
+								2
+								1
+
+=======================
+
+Auteur: Nicolas L
+Message:
+Autre problème que je trouve récurrent. Outre le fait que la ceinture subtropicale atteigne des latitudes trop élevées, on a cet affaissement de la zone barocline qui cache en réalité, non pas des anomalies en phase de creusement comme on a l´habitude d´observer, mais bien des creusements avortés. Ceux-ci finissent par puiser de l´énergie dans les hauts geopotentiels véhiculés par l´Anticyclone des Açores omniprésent depuis plus de 5 mois et se transforment en véritable patate anticyclonique avec évidemment l´Europe de l´Ouest en ligne de mire. Ce roulement permet de nous maintenir sous les hautes pressions sur de longues périodes. 
+	C´est ce que propose CEP, ce soir, avec une situation bloquée du 12 au 19 octobre avec à peine le passage d´une perturbation le 16 sur l´extrême nord du pays. Difficile de savoir quand cette récurrence prendra fin. On a souvent un déblocage qui s´opère dans les grandes échéances mais qui est constamment remis en question à mesure que l´on s´en approche. 
+	Enfin, la moyenne de son ensemble qui n´annonce pas non plus de réelle amélioration avec toujours des hauts geopotentiels scotchés à proximité de notre pays. 
+	Modifié il y a 4 heures par Nicolas L
+								1
+								5
+
+=======================
+
+Auteur: Plancher
+Message:
+il y a 20 minutes, Krholam a dit :
+			Vraiment ?
+			Parce que ça fait plusieurs messages qu’on parle d’une possible baisse des temperatures grace un retrait de l’AA sur l’atlantique qui interviendrait dans notre échéance
+			Et même GFS 12z entrevoit cette possibilitée, bien visible sur la moyenne des anomalies de Z500
+			Sur le diagramme Gefs 12z  on voit bien cette inflexion de la moyenne vers le 15/10 et une grande dispersion qui s’en suit.
+			Gefs qui en ce moment enchaine les scenario chaud et sec pour au finam se raviser sur CEP qui est je trouve en bonne forme.
+			Le positionnement d’une Dorsale atlantique peut encore fortement varier et avoir une incidence considérable à cette période de l’année.
+			On a donc une incertitude bien visible comme dit plus haut, sous entendre qu’une semaine entiere à 20⁰C est possible est un peu hatif.
+			On attend toujours une circulation zonale par contre oui. Nous sommes plutot sur des échanges méridiens
+	Oui. Tu as raison. On note une inflexion à partir du 15 mais ça remonte dès le 17.
+	Je voulais simplement souligner le fait que nous avions des températures hors norme et que les prévisions, bien qu'incertaines, continuaient à nous proposer des températures élevées. Rien que le fait de l'envisager est déconcertant.
+	Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement.
+								1
+								2
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Nicolas L j'ai collé ci-dessous les cartes d'anomalie de géopotentiel à 500 hPa sur la période 16-25 septembre 2026, sourcées CEP à 12h chaque jour ; 
+	deux dorsales, sur l'Europe de l'Ouest et le nord‑ouest de la Russie, encadrent un minimum faible sur l'Europe centrale (−10 dam du 21 au 25) ; dans cette configuration, les dépressions atlantiques sont toujours freinées et s'affaiblissent sur place :
+	n'est-ce pas la dynamique ordinaire d'un blocage, plutôt qu'un « creusement avorté » d'un type nouveau...?
+	Modifié il y a 2 heures par giec 2100
+								1
+
+=======================
+
+Auteur: Krholam
+Message:
+Il y a 2 heures, Plancher a dit :
+			Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement
+	Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
+
+=======================
+
+Auteur: Run999H
+Message:
+Il y a 2 heures, Krholam a dit :
+			Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
+	Je suis OK avec ça. Le pire est derrière nous, avancée dans la saison oblige. 
+	Néanmoins, remis dans son contexte à savoir qu’on entre dans le dur de la saison automnale et qu’on voit ce genre de carte :
+	Je suis navré mais j’ai du mal à percevoir de vraies « nuances » 
+	Cette carte des moyennes des précipitations qui couvre la semaine complète analysée ici indique beaucoup de choses :
+	- L’Europe du sud-ouest reste engluée dans les HG/HP avec la péninsule ibérique qui revient rapidement au sec (je dis « revient », tout en sachant que certaines régions espagnoles n’ont rien vu d’autre que de la chaleur anormale sur cette première décade d’octobre).
+	- Le rail dépressionnaire pluvieux reste très nordique pour la saison avec une inclinaison encore forte vers la Scandinavie. 
+	- L’orientation du rail perturbé montre un flux général encore fortement orienté Sud-ouest / Nord-est (logique vu le placement des centres d’action et c’est donc plus signe de douceur que de fraîcheur. 
+	Les 23° à 25° (voire plus encore en milieu de semaine) sont largement envisagés dans le sud-ouest la semaine prochaine. C’est 5 à 8° au-dessus des normales et nous sommes déjà sur un excédent de plus de 5° en Tm actuellement sur le secteur. Le coup de frais actuel va probablement ramener l’anomalie à 4 voire 5° en fin de première quinzaine. Ni plus ni moins équivalent aux anomalies constatées cet été au global. 
+	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
+	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
+	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
+	Modifié il y a 14 minutes par Run999H
