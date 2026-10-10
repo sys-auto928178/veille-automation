@@ -318,10 +318,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Vendredi 9 Octobre 2026.
-Résumé général précédent : Sur 15 jours, la France reste sous un blocage anticyclonique persistant, avec un temps sec et très doux. Le retrait de l'AA vers l'Atlantique est possible en seconde semaine, mais non confirmé; pas de retour d'un flux d'Ouest franc avant début novembre..
+Dernier bulletin généré le Samedi 10 Octobre 2026.
+Résumé général précédent : Sur 15 jours, la France reste sous un blocage anticyclonique persistant, avec un temps sec et très doux. Le retrait de l’AA vers l’Atlantique est possible en seconde semaine, mais non confirmé; pas de retour d’un flux d’ouest franc avant début novembre..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Pas de précipitations notables; quelques débordements possibles sur le nord en marge de la circulation océanique..
+Températures attendues précédemment : Temps sec et très doux, léger passage pluvieux possible sur l’extrême nord vers le 16..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -423,7 +423,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 17 heures par Krholam
+	Modifié il y a 19 heures par Krholam
 								1
 
 =======================
@@ -498,7 +498,7 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 								2
 								1
 								1
@@ -520,7 +520,7 @@ un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la
 	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
 	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
 	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 
 =======================
@@ -672,7 +672,7 @@ Il y a 7 heures, Run999H a dit :
 	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
 	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
 	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié il y a 17 heures par Krholam
+	Modifié il y a 19 heures par Krholam
 								1
 
 =======================
@@ -747,7 +747,7 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 								2
 								1
 								1
@@ -769,7 +769,7 @@ un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la
 	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
 	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
 	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
 								1
 
 =======================
