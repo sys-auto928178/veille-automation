@@ -310,7 +310,7 @@ Températures minimales : en baisse.
 Températures maximales : en baisse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 100440 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le samedi 10 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 318 pour LANGUEDOC-ROUSSILLON, PROVENCE 2 - Situation générale samedi 10 octobre 2026 à 00H00 UTC, et évolution Gradient de pression 1014 à 1019 hPa d'est en ouest. Dépression se creusant 1008 hPa en Mer Ligure la nuit. Peu d'évolution d'évolution dimanche. 3 - Prévisions pour la journée du samedi 10 octobre VENT : - de Port Camargue à Sicié : Nord-Ouest 5 à 6, localement 6 à 7 de Fos à Cap Croisette le matin, puis de Cap Couronne à Sicié l'après-midi. Rafales. - de Sicié à Saint-Raphaël : Nord à Nord-Ouest 2 à 4, revenant Sud-Ouest l'après-midi, et fraîchissant Nord-Ouest 5 à 6 parfois 7 de Sicié à Porquerolles l'après-midi. Rafales. MER : peu agitée à agitée, belle près de la côte à l'est de Hyères, devenant localement forte au large de Sicié l'après-midi. HOULE : Ouest 0.5 à 1.5 m. TEMPS : ciel voilé, puis ensoleillé l'après-midi. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 10 octobre au dimanche 11 octobre VENT : - de Port Camargue à Fos : Nord-Ouest 5 à 6, mollissant 4 à 5 en fin de nuit. - de Fos au Levant : Nord-Ouest 5 à 6, localement 6 à 7 de Cap Couronne à Porquerolles, puis de La Ciotat au Levant en fin de nuit. - du Levant à Saint-Raphaël : Ouest à Nord-Ouest 4 ou 5, parfois 6 vers le large. MER : peu agitée à agitée, localement forte au large entre Sicié et le Levant. HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m, s'amortissant à l'ouest de Sicié en seconde partie de nuit. TEMPS : ciel clair, puis voilé l'après-midi. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 11 octobre VENT : Nord-Ouest 4 à 5, localement 6 à 7 de Fos au Levant, mollissant 3 à 5 à l'ouest de Fos et 2 à 4 vers Saint-Raphaël, l'après-midi. Rafales. MER : peu agitée à agitée, localement forte au large entre Sicié et le Levant au début, devenant belle à peu agitée à l'ouest du Cap Croisette l'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m à l'est de Sicié. Non significative ailleurs. TEMPS : ciel voilé, puis nuageux l'après-midi. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 11 au 12 et la journée du lundi 12 octobre VENT : De Port Camargue à Marseille Nord à Nord-Ouest 5 à 6, mollissant 3 à 4 en milieu d'après-midi. À l'ouest de Porquerolles Nord-Ouest 6, virant Nord à Nord-Est 3 à 4 en début de matinée. De Porquerolles à St Raphaël Ouest 4 à 6, virant Est à Nord-Est 2 à 4 en début de matinée. MER : agitée, devenant peu agitée en début de matinée. HOULE : De Port Camargue à Camarat houle d'Ouest à Sud-Ouest inférieure à 1,5 m, s'atténuant ensuite. De Camarat à St Raphaël houle d'Ouest à Sud-Ouest inférieure à 1,5 m, s'orientant en début de matinée au Nord-Est. 7 - Tendance pour les jours suivants Mardi 13 octobre Secteur Nord modéré au début devenant Variable sur le golfe du Lion. Secteur Nord-Est modéré autour de la Corse. Indice de confiance : 4 sur 5 Mercredi 14 octobre Secteur Nord faible à modéré sur le golfe du Lion. Secteur Nord-Est modéré autour de la Corse. Indice de confiance : 4 sur 5 Jeudi 15 octobre Secteur Nord faible à modéré au début devenant Variable sur le golfe du Lion. Secteur Nord-Est faible à modéré autour de la Corse. Indice de confiance : 3 sur 5 Vendredi 16 octobre Secteur Nord-Ouest modéré sur le golfe du Lion. Variable devenant secteur Sud-Ouest autour de la Corse. Indice de confiance : 3 sur 5 8 - Observations le samedi 10 octobre 2026 à 03H00 UTC Cap Camarat : vent Nord-Nord-Ouest 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Nord 2 noeuds, clair ou peu nuageux, visibilité 10 milles. Le Levant : vent Ouest-Nord-Ouest 6 noeuds, 1014 hPa en baisse. Porquerolles : vent Nord-Nord-Ouest 12 noeuds. Cap Couronne : vent Nord-Ouest 14 noeuds, mer peu agitée, visibilité 10 milles. Prochain bulletin le samedi 10 octobre 2026, vers 13H00 légales
+FQCT40 LFML 100930 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le samedi 10 octobre 2026 à 13H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Avis de Grand Frais Nr 319 pour PROVENCE. 2 - Situation générale samedi 10 octobre 2026 à 06H00 UTC, et évolution Gradient de pression 1014 à 1019 hPa d'est en ouest. Dépression se creusant 1008 hPa en Mer Ligure la nuit. Peu d'évolution d'évolution dimanche. 3 - Prévisions pour l'après-midi du samedi 10 octobre VENT : - de Port Camargue au Levant : Ouest à Nord-Ouest5 à 6, localement 7 de Cap Couronne à Sicié et localement Ouest 3 à 5 à l'est de Sicié au début. Fortes rafales. - du Levant à Saint Raphaël : Sud-Ouest 3 à 4, devenant Variable en fin de journée. MER : peu agitée à agitée, belle près de la côte à l'est de Hyères, devenant localement forte au large de Sicié l'après-midi. HOULE : Ouest 0.5 à 1.5 m. TEMPS :ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du samedi 10 octobre au dimanche 11 octobre VENT : - de Port Camargue au Levant : Nord-Ouest 5 à 6, localement 6 à 7 de Cap Croisette au Levant. Fortes rafales. - du Levant à Saint-Raphaël : Nord-Ouest 3 à 5. MER : peu agitée à agitée, localement forte au large entre Sicié et le Levant. HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m, s'amortissant à l'ouest de Sicié en seconde partie de nuit. TEMPS : ciel clair, puis voilé. VISIBILITE : bonne. 5 - Prévisions pour la journée du dimanche 11 octobre VENT : - de Port Camargue au Levant : Nord-Ouest 5 à 6, localement 6 à 7 de Sicié au Levant, mollissant 4 à 5 à l'ouest de Cap Croisette l'après-midi. Fortes rafales. - du Levant à Saint-Raphaël : Nord-Ouest 3 à 4, parfois 5 au début. . MER : peu agitée à agitée, localement forte au large entre Sicié et le Levant au début, devenant belle à peu agitée à l'ouest du Cap Croisette l'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m à l'est de Sicié. Non significative ailleurs. TEMPS : ciel voilé, puis nuageux l'après-midi. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 11 au 12 et la journée du lundi 12 octobre VENT : Nord-Ouest 5 à 6, parfois 7 au début à l'est de Sicié, et Variable 2 à 4 à l'est du Levant, s'établissant secteur Nord 3 à 5 en matinée, localement 6 à l'ouest de Cap Croisette, puis mollissant progressivement 2 à 4 l'après-midi. Rafales. MER : peu agitée à agitée, devenant belle à peu agitée l'après-midi. HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m à l'est de Sicié, puis houle Nord-Est 0.5 à 1 m l'après-midi. Non significative ailleurs. TEMPS : peu nuageux. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 12 au 13 et la journée du mardi 13 octobre VENT : Nord-Est 2 à 4, revenant Ouest à Sud-Ouest en milieu d'après-midi. MER : belle à peu agitée. HOULE dominante d'Est à Nord-Est 0,5 à 1 m. 8 - Tendance pour les jours suivants Mercredi 14 octobre Secteur Est faible à modéré. Indice de confiance : 4 sur 5 Jeudi 15 octobre Secteur Est faible à modéré. Indice de confiance : 4 sur 5 Vendredi 16 octobre Secteur Ouest modéré de la frontière espagnole à Saint-Raphaël et en Corse. Secteur variable faible à modéré de Saint-Raphaël à Menton. Indice de confiance : 3 sur 5 Samedi 17 octobre Secteur Nord modéré. Indice de confiance : 3 sur 5 9 - Observations le samedi 10 octobre 2026 à 09H00 UTC Cap Camarat : vent Nord 8 noeuds, nuageux avec éclaircies, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 2 noeuds. Le Levant : vent Ouest 2 noeuds, 1014 hPa en hausse. Porquerolles : vent Nord 10 noeuds. Cap Couronne : vent Nord-Ouest 17 noeuds, rafales 27 noeuds, mer peu agitée, visibilité 10 milles. Prochain bulletin le samedi 10 octobre 2026, vers 18H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -332,11 +332,11 @@ De J+4 à J+7 ﻿Pas de phénomène météorologique dangereux prévu.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Rencontre Sud-Ouest - Automne 2026
+• Infoclimat Direct : Saison cyclonique 2026 - Pacifique Nord-est
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Recensement des tornades en France
 • Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
@@ -345,75 +345,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 10 Octobre 2026.
-Résumé général précédent : Sur l'ensemble des 15 jours, une puissante anomalie anticyclonique domine. Le temps reste sec et très doux, avec un possible fléchissement en seconde semaine, encore très incertain..
+Résumé général précédent : Sur l'ensemble des 15 jours, temps très sec et anormalement doux à chaud, avec une possible dégradation atlantique en fin de seconde semaine, encore incertaine. L'anticyclone reste un acteur majeur..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec ; petites pluies possibles au nord en fin de semaine ; douceur importante..
+Températures attendues précédemment : Temps sec et très doux, possiblement chaud; aucun signal pluvieux marqué. Rafraîchissement possible le 17-18..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: Krholam
-Message:
-Il y a 2 heures, Plancher a dit :
-			Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement
-	Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
-
-=======================
-
-Auteur: Run999H
-Message:
-Il y a 2 heures, Krholam a dit :
-			Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
-	Je suis OK avec ça. Le pire est derrière nous, avancée dans la saison oblige. 
-	Néanmoins, remis dans son contexte à savoir qu’on entre dans le dur de la saison automnale et qu’on voit ce genre de carte :
-	Je suis navré mais j’ai du mal à percevoir de vraies « nuances » 
-	Cette carte des moyennes des précipitations qui couvre la semaine complète analysée ici indique beaucoup de choses :
-	- L’Europe du sud-ouest reste engluée dans les HG/HP avec la péninsule ibérique qui revient rapidement au sec (je dis « revient », tout en sachant que certaines régions espagnoles n’ont rien vu d’autre que de la chaleur anormale sur cette première décade d’octobre).
-	- Le rail dépressionnaire pluvieux reste très nordique pour la saison avec une inclinaison encore forte vers la Scandinavie. 
-	- L’orientation du rail perturbé montre un flux général encore fortement orienté Sud-ouest / Nord-est (logique vu le placement des centres d’action et c’est donc plus signe de douceur que de fraîcheur. 
-	Les 23° à 25° (voire plus encore en milieu de semaine) sont largement envisagés dans le sud-ouest la semaine prochaine. C’est 5 à 8° au-dessus des normales et nous sommes déjà sur un excédent de plus de 5° en Tm actuellement sur le secteur. Le coup de frais actuel va probablement ramener l’anomalie à 4 voire 5° en fin de première quinzaine. Ni plus ni moins équivalent aux anomalies constatées cet été au global. 
-	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
-	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
-	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié jeudi à 23:46 par Run999H
-								11
-								1
-								1
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Il y a 7 heures, Run999H a dit :
-			Je suis navré mais j’ai du mal à percevoir de vraies « nuances » 
-	Ma remarque tenait plus aux temperatures qu’aux PP !
-	Après j’ai aussi un biais probable qui est que cela fait seulement depuis la canicule de juin que je suis pleinement investi sur les previsions. 
-	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
-	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
-	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié hier à 06:43 par Krholam
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Je me permets donc exceptionnellement de faire un 2ème post à la suite pour voir un peu ce que nous proposent les modèles ce matin !
-	On va commencer par les outils de ECMWF,
-	Ce matin, l'option très douce reprend du galon avec la quasi de la totalité de l'hexagone et une très bonne partie de l'Europe Occidentale et du nord sous rose foncé (L'anomalie est dantesque en russie centrale)
-	La faute à qui ? A une barocline potentiellement très haute (centrée sur l'Ecosse) avec notre thalweg actuel s'étant transformée en une GF stationnant sur la Grèce (et qui donc fait envoi l'air chaud sur la Russie.
-	Autant vous dire qu'en PP c'es famélique
-	Que nous dit GFS ?
-	Il confirme la barocline très au nord.
-	Et l'Anticyclone qui peine à se retirer sur l'atlantique
-	L'avancé vers l'hiver et la mise en place d'inversion limiterai la casse niveau température pour le nord, mais ça reste trop doux comme dit plus haut.
-	CEP lui est carrément moins généreux sur le retrait de l'AA qui serait encore très haut.
-	Pas très engageant cette fin ce semaine aujourd'hui alors qu'on avait quelques espoirs
-								1
-								1
-
-=======================
-
 Auteur: petit âge glaciaire 11
 Message:
 Il faut se rendre à l'évidence,  les modélisations avec comme scénario un AA qui se decale vers l'ouest sont pour le moment repoussées au fil des réactualisations des modèles. 
@@ -467,7 +404,7 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 21 heures par petit âge glaciaire 11
+	Modifié il y a 23 heures par petit âge glaciaire 11
 								2
 								1
 								1
@@ -489,7 +426,7 @@ un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la
 	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
 	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
 	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								2
 								1
 
@@ -560,7 +497,7 @@ cette synoptique qui bégaye, avec les incessants blocages anticycloniques sur l
 	en attendant à nos diagrammes, à nos cartes, à nos clusters pour débusquer l'inévitable changement de synoptique, le déverrouillage, le vrai, peut-être dès la semaine prochaine... !
 	(1) Neimry, E., Goosse, H. et Jonard, M. : Sécheresses en Europe centrale occidentale et schémas de circulation atmosphérique associés depuis 1844, Weather Clim. Dynam., 7, 1759–1778 , 2026.
 	https://wcd.copernicus.org/articles/7/1759/2026/
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 
 =======================
@@ -583,7 +520,8 @@ il y a une heure, petit âge glaciaire 11 a dit :
 	le vortex polaire lâche un pseudopode jusque sur l'arc méd, coincé entre deux anticyclones, l'atlantique et celui sur l'Europe centrale... 
 	le scénario habituel, avec le col anticyclonique sur la France, ne concerne plus qu'une moitié à peine des membres : grande nouveauté... avant la prochaine versatilité ?.
 	situation prévue en surface - 1000 hPa - basée sur le regroupement des membres à 500 hPa : https://charts.ecmwf.int/permalinks/cluster-scenario-12667
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
+								1
 
 =======================
 
@@ -594,82 +532,66 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 	Le pic de douceur / chaleur pourrait avoir lieu jeudi et on se rapproche dangereusement de la barre des 30° dans quelques coins du sud-ouest et plus généralement autour des 25° à 27° sur cette région. Les 25° pourraient atteindre la Loire sur cette même journée. 
 	Restons au conditionnel vu l’échéance mais, une nouvelle fois, les températures seraient largement excédentaires sur la semaine et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
 	A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
-	Modifié il y a 1 heure par Run999H
-								1
-								3
+	Modifié il y a 3 heures par Run999H
+								2
+								4
 
 =======================
 
 Auteur: Nico 14
 Message:
 Cela dépendra beaucoup de la fin de semaine et du comportement des HG pour l'anomalie hebdo des T2m. "Largement excédentaire" me parait excessif et plutôt réservé pour la péninsule ibérique. L'excédent du début pourrait être compensé par une baisse des températures et un passage sous les normes en fin de semaine si les HG s'élèvent plus à l'ouest comme certains modèles commencent à l'envisager. Des précipitations ne sont pas à exclure non plus y compris et je dirais même surtout au sud avec l'évolution d'un talweg pour le week-end.
-	Modifié il y a 58 minutes par Nico 14
+	Modifié il y a 2 heures par Nico 14
+								3
+
+=======================
+
+Auteur: Nico 14
+Message:
+Voici les diagrammes IFS et EPS 00z qui montrent toujours cette dispersion pour la fin de semaine prochaine, bien que le tube majoritaire soit maintenant dans le bas de l'ensemble. Avec Hysplit, la provenance d'une parcelle d'air à 1 500 m, qui trace l'origine de la masse d'air, pour jeudi et dimanche prochains selon GFS00z. Le week-end prochain signera-t-il le rallumage du chauffage pour certaines zones du pays ? Possible..
+	Modifié il y a 28 minutes par Nico 14
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Il y a 2 heures, Run999H a dit :
+			Restons au conditionnel vu l’échéles températures seraient largement excédentaires sur la semaine ance mais, une nouvelle fois, et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
+			A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
+	Quand on regarde les températures nocturnes de surface sur la méditerannée, l'atlantique et même la mer du nord tout autour de la France on voit facilement que les eaux sont toujours en surchauffe et que la France se retrouve encerclée par ces ilots de douceur anormale et que dans ce contexte une baisse durable des températures sur notre petit bout de France à l'extreme ouest de l'Europe est laborieuse .
+	Et comme tu le dis le sud-ouest , l'ouest et même le sud de la France sont impactés déjà par ce phénomène anormal qui s'ajoute à un flux de sud-ouest majoritaire sur ces régions.
+	Flux doux plus douceur des eaux de surface sur un pays entouré d'eau égale douceur qui n 'en finit pas, c'est l'équation actuelle.
+	Température la nuit :
+	Flux :
+	Il faudra attendre la fin de semaine pour espérer voir les températures baisser, en espérant que cette fois-ci on arrivera à conserver des températures
+	de saison de manière durable ( je n'y crois pas trop pour l'instant ) et qu'il y aura des précipitations suffisantes car la nature à grand besoin de cela.
+	Masse d'air samedi à 20 heures :
+	Edit : Au vu des températures de surface actuelles, il est tout à fait possible de se baigner en méditerrannée et même dans l'atlantique voire en mer du nord ce qui est quand même extraordinaire un 10 octobre :
+	Modifié il y a 1 heure par petit âge glaciaire 11
+Modifié
 								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Jeudi qui devait être la journée de transition s'avérerait (je mets du conditionnel) la journée la plus chaude. Les températures devraient ensuite baisser.
+	Pour la suite, soit pour le prochain topic, GFS et CEP proposent des scénarios vraiment différents. GFS me donne un peu plus d'espoir avec une dépression qui tenterait une incursion sur le Nord de la France. Quant à CEP, je vois un anticyclone et des gouttes froides de part et d'autre de la France. C'est évidemment très loin.
+	Petit âge glaciaire, je te rejoints sur le réchauffement de la mer. Ça saute aux yeux quand on regarde les cartes.
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a 46 minutes, Plancher a dit :
+			Pour la suite, soit pour le prochain topic, GFS et CEP proposent des scénarios vraiment différents. GFS me donne un peu plus d'espoir avec une dépression qui tenterait une incursion sur le Nord de la France. Quant à CEP, je vois un anticyclone et des gouttes froides de part et d'autre de la France. C'est évidemment très loin.
+	Attention aux deterministes sur ces échéances (même si tu nous parles de très loin !) qui a autant de valeur que chacune des variation
+	La moyenne est plutôt claire sur CEP avec le retrait de l'AA
+	La situation que tu vois à 2 GF c'est autours de 240h
+	L'ensemble des variations à cette échéance est vraiment très dispersé. On a effectivement des GF mais qui pour le coup ont des placements très variés allant de la pompe à chaleur comme on le déteste à des positionnements plus avantageux en terme de PP ou de températures !
+	Modifié il y a 20 minutes par Krholam
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
-Auteur: Krholam
-Message:
-Il y a 2 heures, Plancher a dit :
-			Je te remercie pour ton analyse détaillée en espérant ne pas avoir trop suscité d'énervement
-	Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
-
-=======================
-
-Auteur: Run999H
-Message:
-Il y a 2 heures, Krholam a dit :
-			Oups, non pas d’enervement ! C’est juste qu’on a tous tellement dégusté cet été que l’on voit plus facilement le pire en oubliant les nuances possible
-	Je suis OK avec ça. Le pire est derrière nous, avancée dans la saison oblige. 
-	Néanmoins, remis dans son contexte à savoir qu’on entre dans le dur de la saison automnale et qu’on voit ce genre de carte :
-	Je suis navré mais j’ai du mal à percevoir de vraies « nuances » 
-	Cette carte des moyennes des précipitations qui couvre la semaine complète analysée ici indique beaucoup de choses :
-	- L’Europe du sud-ouest reste engluée dans les HG/HP avec la péninsule ibérique qui revient rapidement au sec (je dis « revient », tout en sachant que certaines régions espagnoles n’ont rien vu d’autre que de la chaleur anormale sur cette première décade d’octobre).
-	- Le rail dépressionnaire pluvieux reste très nordique pour la saison avec une inclinaison encore forte vers la Scandinavie. 
-	- L’orientation du rail perturbé montre un flux général encore fortement orienté Sud-ouest / Nord-est (logique vu le placement des centres d’action et c’est donc plus signe de douceur que de fraîcheur. 
-	Les 23° à 25° (voire plus encore en milieu de semaine) sont largement envisagés dans le sud-ouest la semaine prochaine. C’est 5 à 8° au-dessus des normales et nous sommes déjà sur un excédent de plus de 5° en Tm actuellement sur le secteur. Le coup de frais actuel va probablement ramener l’anomalie à 4 voire 5° en fin de première quinzaine. Ni plus ni moins équivalent aux anomalies constatées cet été au global. 
-	Alors cette première quinzaine d’octobre est moins pire que septembre qui était lui-même moins pire qu’août et qui était lui-même moins pire que juillet mais proportionnellement, c’est la
-	continuité du catastrophique. Seule la saison créée des nuances mais ça reste anormalement sec et doux voire presque chaud. 
-	Maintenant, j’ai lu qu’on observait un léger retrait de l’AA en Atlantique et j’ai tendance à suivre l’observation. Un retrait bien trop timide et lent mais ça pourrait aller dans le bon sens pour la seconde partie d’octobre si la mécanique perdure. Pour le moment, ce retrait est synonyme de courts rafraîchissements qui se calent entre des périodes très sèches et chaudes. La nuance dont tu parles est sans doute celle-ci mais encore une fois… c’est relatif à mon sens. 
-	Modifié jeudi à 23:46 par Run999H
-								11
-								1
-								1
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Il y a 7 heures, Run999H a dit :
-			Je suis navré mais j’ai du mal à percevoir de vraies « nuances » 
-	Ma remarque tenait plus aux temperatures qu’aux PP !
-	Après j’ai aussi un biais probable qui est que cela fait seulement depuis la canicule de juin que je suis pleinement investi sur les previsions. 
-	Je pense qu’on est tous d’accord en ce qui concerne l’absence de veritable sésuences pluvieuses durables et non pas seulement 2j pluvieux entrecoupés de séquences seche plus longues.
-	La faute à qui ? Les séquences zonales qui sont trop hautes et cette tendance actuelle à avoir de la pluie via des échanges méridien.
-	(J’emmene mes enfants à l’ecole et je fais un tour deq modeles ensuite !)
-	Modifié hier à 06:43 par Krholam
-								1
-
-=======================
-
-Auteur: Krholam
-Message:
-Je me permets donc exceptionnellement de faire un 2ème post à la suite pour voir un peu ce que nous proposent les modèles ce matin !
-	On va commencer par les outils de ECMWF,
-	Ce matin, l'option très douce reprend du galon avec la quasi de la totalité de l'hexagone et une très bonne partie de l'Europe Occidentale et du nord sous rose foncé (L'anomalie est dantesque en russie centrale)
-	La faute à qui ? A une barocline potentiellement très haute (centrée sur l'Ecosse) avec notre thalweg actuel s'étant transformée en une GF stationnant sur la Grèce (et qui donc fait envoi l'air chaud sur la Russie.
-	Autant vous dire qu'en PP c'es famélique
-	Que nous dit GFS ?
-	Il confirme la barocline très au nord.
-	Et l'Anticyclone qui peine à se retirer sur l'atlantique
-	L'avancé vers l'hiver et la mise en place d'inversion limiterai la casse niveau température pour le nord, mais ça reste trop doux comme dit plus haut.
-	CEP lui est carrément moins généreux sur le retrait de l'AA qui serait encore très haut.
-	Pas très engageant cette fin ce semaine aujourd'hui alors qu'on avait quelques espoirs
-								1
-								1
-
-=======================
-
 Auteur: petit âge glaciaire 11
 Message:
 Il faut se rendre à l'évidence,  les modélisations avec comme scénario un AA qui se decale vers l'ouest sont pour le moment repoussées au fil des réactualisations des modèles. 
@@ -723,7 +645,7 @@ Toujours ces signaux de déplacement des hauts grades à l'ouest. Selon les jour
 	La c'est le dernier GFS qui modélise un AA plus à l'ouest et même une dorsale :
 	C'est très changeant donc et même si cela se réalisait impossible de savoir si ce sera une simplement ondulation, quelle sera son amplitude et combien de temps elle pourrait durer.
 	Tant qu'on ne visualisera pas cette configuration sur les ensembles cela ne sera que des hypothèses. 
-	Modifié il y a 21 heures par petit âge glaciaire 11
+	Modifié il y a 23 heures par petit âge glaciaire 11
 								2
 								1
 								1
@@ -745,7 +667,7 @@ un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la
 	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
 	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
 	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 								2
 								1
 
@@ -816,7 +738,7 @@ cette synoptique qui bégaye, avec les incessants blocages anticycloniques sur l
 	en attendant à nos diagrammes, à nos cartes, à nos clusters pour débusquer l'inévitable changement de synoptique, le déverrouillage, le vrai, peut-être dès la semaine prochaine... !
 	(1) Neimry, E., Goosse, H. et Jonard, M. : Sécheresses en Europe centrale occidentale et schémas de circulation atmosphérique associés depuis 1844, Weather Clim. Dynam., 7, 1759–1778 , 2026.
 	https://wcd.copernicus.org/articles/7/1759/2026/
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
 								1
 
 =======================
@@ -839,7 +761,8 @@ il y a une heure, petit âge glaciaire 11 a dit :
 	le vortex polaire lâche un pseudopode jusque sur l'arc méd, coincé entre deux anticyclones, l'atlantique et celui sur l'Europe centrale... 
 	le scénario habituel, avec le col anticyclonique sur la France, ne concerne plus qu'une moitié à peine des membres : grande nouveauté... avant la prochaine versatilité ?.
 	situation prévue en surface - 1000 hPa - basée sur le regroupement des membres à 500 hPa : https://charts.ecmwf.int/permalinks/cluster-scenario-12667
-	Modifié il y a 8 heures par giec 2100
+	Modifié il y a 10 heures par giec 2100
+								1
 
 =======================
 
@@ -850,14 +773,61 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 	Le pic de douceur / chaleur pourrait avoir lieu jeudi et on se rapproche dangereusement de la barre des 30° dans quelques coins du sud-ouest et plus généralement autour des 25° à 27° sur cette région. Les 25° pourraient atteindre la Loire sur cette même journée. 
 	Restons au conditionnel vu l’échéance mais, une nouvelle fois, les températures seraient largement excédentaires sur la semaine et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
 	A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
-	Modifié il y a 1 heure par Run999H
-								1
-								3
+	Modifié il y a 3 heures par Run999H
+								2
+								4
 
 =======================
 
 Auteur: Nico 14
 Message:
 Cela dépendra beaucoup de la fin de semaine et du comportement des HG pour l'anomalie hebdo des T2m. "Largement excédentaire" me parait excessif et plutôt réservé pour la péninsule ibérique. L'excédent du début pourrait être compensé par une baisse des températures et un passage sous les normes en fin de semaine si les HG s'élèvent plus à l'ouest comme certains modèles commencent à l'envisager. Des précipitations ne sont pas à exclure non plus y compris et je dirais même surtout au sud avec l'évolution d'un talweg pour le week-end.
-	Modifié il y a 59 minutes par Nico 14
+	Modifié il y a 2 heures par Nico 14
+								3
+
+=======================
+
+Auteur: Nico 14
+Message:
+Voici les diagrammes IFS et EPS 00z qui montrent toujours cette dispersion pour la fin de semaine prochaine, bien que le tube majoritaire soit maintenant dans le bas de l'ensemble. Avec Hysplit, la provenance d'une parcelle d'air à 1 500 m, qui trace l'origine de la masse d'air, pour jeudi et dimanche prochains selon GFS00z. Le week-end prochain signera-t-il le rallumage du chauffage pour certaines zones du pays ? Possible..
+	Modifié il y a 28 minutes par Nico 14
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Il y a 2 heures, Run999H a dit :
+			Restons au conditionnel vu l’échéles températures seraient largement excédentaires sur la semaine ance mais, une nouvelle fois, et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
+			A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
+	Quand on regarde les températures nocturnes de surface sur la méditerannée, l'atlantique et même la mer du nord tout autour de la France on voit facilement que les eaux sont toujours en surchauffe et que la France se retrouve encerclée par ces ilots de douceur anormale et que dans ce contexte une baisse durable des températures sur notre petit bout de France à l'extreme ouest de l'Europe est laborieuse .
+	Et comme tu le dis le sud-ouest , l'ouest et même le sud de la France sont impactés déjà par ce phénomène anormal qui s'ajoute à un flux de sud-ouest majoritaire sur ces régions.
+	Flux doux plus douceur des eaux de surface sur un pays entouré d'eau égale douceur qui n 'en finit pas, c'est l'équation actuelle.
+	Température la nuit :
+	Flux :
+	Il faudra attendre la fin de semaine pour espérer voir les températures baisser, en espérant que cette fois-ci on arrivera à conserver des températures
+	de saison de manière durable ( je n'y crois pas trop pour l'instant ) et qu'il y aura des précipitations suffisantes car la nature à grand besoin de cela.
+	Masse d'air samedi à 20 heures :
+	Edit : Au vu des températures de surface actuelles, il est tout à fait possible de se baigner en méditerrannée et même dans l'atlantique voire en mer du nord ce qui est quand même extraordinaire un 10 octobre :
+	Modifié il y a 1 heure par petit âge glaciaire 11
+Modifié
 								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Jeudi qui devait être la journée de transition s'avérerait (je mets du conditionnel) la journée la plus chaude. Les températures devraient ensuite baisser.
+	Pour la suite, soit pour le prochain topic, GFS et CEP proposent des scénarios vraiment différents. GFS me donne un peu plus d'espoir avec une dépression qui tenterait une incursion sur le Nord de la France. Quant à CEP, je vois un anticyclone et des gouttes froides de part et d'autre de la France. C'est évidemment très loin.
+	Petit âge glaciaire, je te rejoints sur le réchauffement de la mer. Ça saute aux yeux quand on regarde les cartes.
+
+=======================
+
+Auteur: Krholam
+Message:
+il y a 46 minutes, Plancher a dit :
+			Pour la suite, soit pour le prochain topic, GFS et CEP proposent des scénarios vraiment différents. GFS me donne un peu plus d'espoir avec une dépression qui tenterait une incursion sur le Nord de la France. Quant à CEP, je vois un anticyclone et des gouttes froides de part et d'autre de la France. C'est évidemment très loin.
+	Attention aux deterministes sur ces échéances (même si tu nous parles de très loin !) qui a autant de valeur que chacune des variation
+	La moyenne est plutôt claire sur CEP avec le retrait de l'AA
+	La situation que tu vois à 2 GF c'est autours de 240h
+	L'ensemble des variations à cette échéance est vraiment très dispersé. On a effectivement des GF mais qui pour le coup ont des placements très variés allant de la pompe à chaleur comme on le déteste à des positionnements plus avantageux en terme de PP ou de températures !
+	Modifié il y a 20 minutes par Krholam
