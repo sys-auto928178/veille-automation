@@ -308,12 +308,12 @@ De J+4 à J+7 ﻿Pas de risque de vigilance orange sur la période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
 • Infoclimat Direct : Suivi de l'activité solaire et aurorale
-• Infoclimat Direct : Le jeu de l'été saison 2026 !
+• Infoclimat Direct : Suivi de l'activité solaire et aurorale
+• Infoclimat Direct : Automne-Hiver 2026-2027 dans les Alpes
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 10/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -321,33 +321,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Samedi 10 Octobre 2026.
-Résumé général précédent : Temps sec et anticyclonique en première semaine avec pic de chaleur jeudi 15, puis rafraîchissement progressif et incertitude croissante en seconde semaine, sans signal pluvieux majeur..
+Résumé général précédent : Temps sec et anticyclonique dominant sur les 15 prochains jours, avec un pic de chaleur jeudi 15 puis une incertitude croissante sur un possible rafraîchissement en fin de période..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et doux jusqu'à jeudi, possible coulée fraîche arctique en toute fin de période..
+Températures attendues précédemment : Temps sec et doux, pic jeudi (25-27°C SO), rafraîchissement incertain en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la semaine prochaine : 
-	un coup d'œil sur le diagramme temps-longitude, réactualisé par rapport à celui d'hier - déjà analysé - où est évaluée l'évolution temporelle de l'anomalie moyenne d'ensemble de la hauteur géopotentielle à 500 hPa, apporte quelques détails sur quelques menus changements pour la semaine prochaine : 
-	- le minimum du début de semaine (lignes bleues), responsable de la dégradation de ce weekend, tend à se déplacer un peu plus à l'E du méridien de Greenwich ; donc atténuation du temps perturbé par rapport à la l'analyse de la veille ; 
-	- suit dès mardi l'arrivée des hauts géopotentiels,  finalement confirmée tant en timing que pour l'emplacement du centre d'action en altitude (lignes rouges) ;
-	- pour la fin de période le minimum à l'E (ligne verte), signalé dans l'analyse d'hier, tend à s'éloigner un chouia : s'il devait engendrer un flux de N ou NE le phénomène est attendu comme atténué ; 
-	les zones ombrées, représentant la dispersion de l'ensemble des scénarios, restent telles quelles avec la réactualisation, traduisant une forte incertitude pour la prévision...
-	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610080000&amp;parameter=geopotential 500 hPa
-	le panel "scénario de cluster" évoqué ce matin pour la synoptique de fin de période, datant d'hier, et qualifié de "bande des trois", avec ses trois clusters quasi équivalents, regroupant chacun autour d'un cinquième des scénarios, réactualisé à la date de ce jour, est toujours aussi "éclectique", avec 6 catégories retenues de synoptique, à partir d'un scénario-type ; il faudrait juste modifier le nom en parlant désormais de "bande des quatre"... comme à l'époque lointaine de Mao Zedong...  
-	les 4 premières catégories trustent  80% des scénarios ; on notera la disparition de la descente froide du second rang de la "pôle position" du panel de ce matin, qu'on peut retrouver cependant pour le dernier jour du troisième et quatrième rang, et marginalement dans le dernier rang : donc à ne pas exclure un phénomène repris par une petite moitié des scénarios (45%) au moins un jour de la fin de période...
-	en synthèse situation quand même sous influence anticyclonique forte avec un peu tous les régimes, d'où l'appellation "éclectique" pour le panel... 
-	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
-	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
-	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
-	Modifié il y a 22 heures par giec 2100
-								2
-								1
-
-=======================
-
 Auteur: Plancher
 Message:
 Est-il possible de savoir pourquoi certains messages ne sont pas validés ? J'avais proposé un message à propos des températures. A priori, il a été refusé. Merci d'avance. Ça me permettait de ne pas reproduire les mêmes erreurs.
@@ -413,7 +392,7 @@ cette synoptique qui bégaye, avec les incessants blocages anticycloniques sur l
 	en attendant à nos diagrammes, à nos cartes, à nos clusters pour débusquer l'inévitable changement de synoptique, le déverrouillage, le vrai, peut-être dès la semaine prochaine... !
 	(1) Neimry, E., Goosse, H. et Jonard, M. : Sécheresses en Europe centrale occidentale et schémas de circulation atmosphérique associés depuis 1844, Weather Clim. Dynam., 7, 1759–1778 , 2026.
 	https://wcd.copernicus.org/articles/7/1759/2026/
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								1
 								1
 
@@ -424,7 +403,7 @@ Message:
 Je pense que quand on regarde l'ensemble CEP :
 	On voit parfaitement que dès vendredi les courbes divergent beaucoup avec déjà 15 degrés d'écart entre la courbe la plus fraiche et la plus chaude ce qui démontre que les hypothèses qui sont modélisées sont très différentes avec un AA qui est positionné, selon chaque scénario, plus ou moins à l'ouest de la France et une dorsale vue aussi plus ou moins vigoureuse, il suffit de regarder le panel de l'ensemble pour le constater.
 	Il faut  tout simplement attendre pour en savoir plus, la fin du ce topic est très indécise. 
-								1
+								2
 
 =======================
 
@@ -437,7 +416,7 @@ il y a une heure, petit âge glaciaire 11 a dit :
 	le vortex polaire lâche un pseudopode jusque sur l'arc méd, coincé entre deux anticyclones, l'atlantique et celui sur l'Europe centrale... 
 	le scénario habituel, avec le col anticyclonique sur la France, ne concerne plus qu'une moitié à peine des membres : grande nouveauté... avant la prochaine versatilité ?.
 	situation prévue en surface - 1000 hPa - basée sur le regroupement des membres à 500 hPa : https://charts.ecmwf.int/permalinks/cluster-scenario-12667
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								2
 
 =======================
@@ -449,7 +428,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 	Le pic de douceur / chaleur pourrait avoir lieu jeudi et on se rapproche dangereusement de la barre des 30° dans quelques coins du sud-ouest et plus généralement autour des 25° à 27° sur cette région. Les 25° pourraient atteindre la Loire sur cette même journée. 
 	Restons au conditionnel vu l’échéance mais, une nouvelle fois, les températures seraient largement excédentaires sur la semaine et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
 	A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
-	Modifié il y a 11 heures par Run999H
+	Modifié il y a 13 heures par Run999H
 								2
 								4
 
@@ -458,7 +437,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 Auteur: Nico 14
 Message:
 Cela dépendra beaucoup de la fin de semaine et du comportement des HG pour l'anomalie hebdo des T2m. "Largement excédentaire" me parait excessif et plutôt réservé pour la péninsule ibérique. L'excédent du début pourrait être compensé par une baisse des températures et un passage sous les normes en fin de semaine si les HG s'élèvent plus à l'ouest comme certains modèles commencent à l'envisager. Des précipitations ne sont pas à exclure non plus y compris et je dirais même surtout au sud avec l'évolution d'un talweg pour le week-end.
-	Modifié il y a 10 heures par Nico 14
+	Modifié il y a 12 heures par Nico 14
 								6
 
 =======================
@@ -468,7 +447,7 @@ Message:
 Voici les diagrammes IFS et EPS 00z qui montrent toujours cette dispersion pour la fin de semaine prochaine, bien que le tube majoritaire soit maintenant dans le bas de l'ensemble. Avec Hysplit, la provenance d'une parcelle d'air à 1 500 m, qui trace l'origine de la masse d'air, pour jeudi et dimanche prochains selon GFS00z. Le week-end prochain signera-t-il le rallumage du chauffage pour certaines zones du pays ? Possible..
 	@giec 2100:
 	https://www.ready.noaa.gov/hypub-bin/trajtype.pl
-	Modifié il y a 7 heures par Nico 14
+	Modifié il y a 9 heures par Nico 14
 								1
 								1
 
@@ -488,7 +467,7 @@ Il y a 2 heures, Run999H a dit :
 	de saison de manière durable ( je n'y crois pas trop pour l'instant ) et qu'il y aura des précipitations suffisantes car la nature à grand besoin de cela.
 	Masse d'air samedi à 20 heures :
 	Edit : Au vu des températures de surface actuelles, il est tout à fait possible de se baigner en méditerrannée et même dans l'atlantique voire en mer du nord ce qui est quand même extraordinaire un 10 octobre :
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 Modifié
 								1
 
@@ -511,7 +490,7 @@ il y a 46 minutes, Plancher a dit :
 	La moyenne est plutôt claire sur CEP avec le retrait de l'AA
 	La situation que tu vois à 2 GF c'est autours de 240h
 	L'ensemble des variations à cette échéance est vraiment très dispersé. On a effectivement des GF mais qui pour le coup ont des placements très variés allant de la pompe à chaleur comme on le déteste à des positionnements plus avantageux en terme de PP ou de températures !
-	Modifié il y a 8 heures par Krholam
+	Modifié il y a 10 heures par Krholam
 								1
 								1
 
@@ -523,7 +502,7 @@ L'ensemble CEP  de ce matin confirme la grande dispersion des courbes dés same
 	Paris et Toulouse :
 	 Incertitudes dans le nord et dans le sud  de la France pour l'européen.
 	Ce modèle n'arrive pas a caler la position de l' AA et a gérer l'évolution des gouttes froides 
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 
 =======================
 
@@ -539,7 +518,7 @@ Message:
 	et pour revenir à ce qui continue de nous obséder, le manque cumulé de précipitations, depuis si longtemps, la carte de probabilité de recueillir des "précipitations efficaces", que je caractérise ici par un cumul quotidien de 5mm, avec ce jaune qui enveloppe une bonne partie de l'Europe, à l'exception des côtes occidentales de la Fennoscandie, donc chances assez minces...
 	https://charts.ecmwf.int/products/pb_tpr?area=Europe&amp;base_time=202610091200&amp;days=7-10&amp;threshold=&gt;5
 	@Nico 14 où trouver ces NOAA Hysplit, peut-on avoir le lien... ? merci d'avance !
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 analyse supplémentaire, rafraîchie
 								1
 
@@ -572,31 +551,24 @@ Les situations d'échange méridiens ne sont pas non plus rare à cette période
 	Le grand maitre dans tout ça reste le jet stream. Ce n'est pas spécialement les chaleurs océaniques ou les racines subtropicales des anticyclone qui dictent la création des GF, (même si par contre ils n'aident pas forcément à leur évacuation rapide)
 	On est à un période de l'année aussi ou les GF sont beaucoup plus mobiles notament grâce à cette vigueur du jet stream. Les blocages sur 15j comme cet été sont plutôt rare
 	(Qu’on me reprenne s’il y a des choses à ajouter ou si j’ai dit des anneries)
-	Modifié il y a 2 heures par Krholam
-								4
+	Modifié il y a 4 heures par Krholam
+								5
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Bon on avance,une synoptique pour samedi matin semble assez probable ce soir.
+	Des HP qui s'installeraient sur l'ouest de la GB avec des petites difference entre le couple GFS/CEP qui modélise un anticyclone un peu plus méridien et des géopotentils en baisse sur la France et GEM moins méridien et avec des géopotentiels plus élevés sur notre pays, des détails en somme :
+	Ce qui se passera après, pour les derniers jours du topic,  reste toujours très indécis ce soir selon les modèles. Je ne pense pas qu'il soit raisonnable de regarder les déterministes pour la suite mais plutôt les moyennes des ensembles, j ai mis AIFS car l'ensemble CEP n'est pas encore sorti au moment ou j'écris ce post :
+	Et que voit-on ? De nouveau un AA à l'ouest de la France et donc qui n'est plus placé à l'ouest de la GB, des géopotentiels plus ou moins en baisse sur notre pays selon les modèles et des HP sur la Scandinavie pour l'IA de l'Européen et surtout pour l'Américain, pas pour le Canadien.
+	En matière de masse d'air à 850 Hpa cela donnerait ceci :
+	AIFS et GEFS frais surtout dans le nord-est et GEM plus doux car pas d'anticyclone sur la Scandinavie pour drainer de l'air frais pas l'est
+	 vers la France.
+	Modifié à l’instant par petit âge glaciaire 11
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
-Auteur: giec 2100
-Message:
-un bilan intermédiaire et réactualisé sur le jeu des centres d'action pour la semaine prochaine : 
-	un coup d'œil sur le diagramme temps-longitude, réactualisé par rapport à celui d'hier - déjà analysé - où est évaluée l'évolution temporelle de l'anomalie moyenne d'ensemble de la hauteur géopotentielle à 500 hPa, apporte quelques détails sur quelques menus changements pour la semaine prochaine : 
-	- le minimum du début de semaine (lignes bleues), responsable de la dégradation de ce weekend, tend à se déplacer un peu plus à l'E du méridien de Greenwich ; donc atténuation du temps perturbé par rapport à la l'analyse de la veille ; 
-	- suit dès mardi l'arrivée des hauts géopotentiels,  finalement confirmée tant en timing que pour l'emplacement du centre d'action en altitude (lignes rouges) ;
-	- pour la fin de période le minimum à l'E (ligne verte), signalé dans l'analyse d'hier, tend à s'éloigner un chouia : s'il devait engendrer un flux de N ou NE le phénomène est attendu comme atténué ; 
-	les zones ombrées, représentant la dispersion de l'ensemble des scénarios, restent telles quelles avec la réactualisation, traduisant une forte incertitude pour la prévision...
-	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610080000&amp;parameter=geopotential 500 hPa
-	le panel "scénario de cluster" évoqué ce matin pour la synoptique de fin de période, datant d'hier, et qualifié de "bande des trois", avec ses trois clusters quasi équivalents, regroupant chacun autour d'un cinquième des scénarios, réactualisé à la date de ce jour, est toujours aussi "éclectique", avec 6 catégories retenues de synoptique, à partir d'un scénario-type ; il faudrait juste modifier le nom en parlant désormais de "bande des quatre"... comme à l'époque lointaine de Mao Zedong...  
-	les 4 premières catégories trustent  80% des scénarios ; on notera la disparition de la descente froide du second rang de la "pôle position" du panel de ce matin, qu'on peut retrouver cependant pour le dernier jour du troisième et quatrième rang, et marginalement dans le dernier rang : donc à ne pas exclure un phénomène repris par une petite moitié des scénarios (45%) au moins un jour de la fin de période...
-	en synthèse situation quand même sous influence anticyclonique forte avec un peu tous les régimes, d'où l'appellation "éclectique" pour le panel... 
-	https://charts.ecmwf.int/products/cluster_plot_legA?base_time=202610090000&amp;cluster=192_240&amp;parameter=500
-	concrétisation possible à partir de l'animation de l'ensemble GFS de 12h :
-	vortex polaire encore à respectueuse distance de l'hexagone, mais suffisamment proche pour former ce col anticyclonique, vu par certains scénarios, très minoritaires, comme première descente froide...
-	Modifié il y a 22 heures par giec 2100
-								2
-								1
-
-=======================
-
 Auteur: Plancher
 Message:
 Est-il possible de savoir pourquoi certains messages ne sont pas validés ? J'avais proposé un message à propos des températures. A priori, il a été refusé. Merci d'avance. Ça me permettait de ne pas reproduire les mêmes erreurs.
@@ -662,7 +634,7 @@ cette synoptique qui bégaye, avec les incessants blocages anticycloniques sur l
 	en attendant à nos diagrammes, à nos cartes, à nos clusters pour débusquer l'inévitable changement de synoptique, le déverrouillage, le vrai, peut-être dès la semaine prochaine... !
 	(1) Neimry, E., Goosse, H. et Jonard, M. : Sécheresses en Europe centrale occidentale et schémas de circulation atmosphérique associés depuis 1844, Weather Clim. Dynam., 7, 1759–1778 , 2026.
 	https://wcd.copernicus.org/articles/7/1759/2026/
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								1
 								1
 
@@ -673,7 +645,7 @@ Message:
 Je pense que quand on regarde l'ensemble CEP :
 	On voit parfaitement que dès vendredi les courbes divergent beaucoup avec déjà 15 degrés d'écart entre la courbe la plus fraiche et la plus chaude ce qui démontre que les hypothèses qui sont modélisées sont très différentes avec un AA qui est positionné, selon chaque scénario, plus ou moins à l'ouest de la France et une dorsale vue aussi plus ou moins vigoureuse, il suffit de regarder le panel de l'ensemble pour le constater.
 	Il faut  tout simplement attendre pour en savoir plus, la fin du ce topic est très indécise. 
-								1
+								2
 
 =======================
 
@@ -686,7 +658,7 @@ il y a une heure, petit âge glaciaire 11 a dit :
 	le vortex polaire lâche un pseudopode jusque sur l'arc méd, coincé entre deux anticyclones, l'atlantique et celui sur l'Europe centrale... 
 	le scénario habituel, avec le col anticyclonique sur la France, ne concerne plus qu'une moitié à peine des membres : grande nouveauté... avant la prochaine versatilité ?.
 	situation prévue en surface - 1000 hPa - basée sur le regroupement des membres à 500 hPa : https://charts.ecmwf.int/permalinks/cluster-scenario-12667
-	Modifié il y a 18 heures par giec 2100
+	Modifié il y a 20 heures par giec 2100
 								2
 
 =======================
@@ -698,7 +670,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 	Le pic de douceur / chaleur pourrait avoir lieu jeudi et on se rapproche dangereusement de la barre des 30° dans quelques coins du sud-ouest et plus généralement autour des 25° à 27° sur cette région. Les 25° pourraient atteindre la Loire sur cette même journée. 
 	Restons au conditionnel vu l’échéance mais, une nouvelle fois, les températures seraient largement excédentaires sur la semaine et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
 	A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
-	Modifié il y a 11 heures par Run999H
+	Modifié il y a 13 heures par Run999H
 								2
 								4
 
@@ -707,7 +679,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 Auteur: Nico 14
 Message:
 Cela dépendra beaucoup de la fin de semaine et du comportement des HG pour l'anomalie hebdo des T2m. "Largement excédentaire" me parait excessif et plutôt réservé pour la péninsule ibérique. L'excédent du début pourrait être compensé par une baisse des températures et un passage sous les normes en fin de semaine si les HG s'élèvent plus à l'ouest comme certains modèles commencent à l'envisager. Des précipitations ne sont pas à exclure non plus y compris et je dirais même surtout au sud avec l'évolution d'un talweg pour le week-end.
-	Modifié il y a 10 heures par Nico 14
+	Modifié il y a 12 heures par Nico 14
 								6
 
 =======================
@@ -717,7 +689,7 @@ Message:
 Voici les diagrammes IFS et EPS 00z qui montrent toujours cette dispersion pour la fin de semaine prochaine, bien que le tube majoritaire soit maintenant dans le bas de l'ensemble. Avec Hysplit, la provenance d'une parcelle d'air à 1 500 m, qui trace l'origine de la masse d'air, pour jeudi et dimanche prochains selon GFS00z. Le week-end prochain signera-t-il le rallumage du chauffage pour certaines zones du pays ? Possible..
 	@giec 2100:
 	https://www.ready.noaa.gov/hypub-bin/trajtype.pl
-	Modifié il y a 7 heures par Nico 14
+	Modifié il y a 9 heures par Nico 14
 								1
 								1
 
@@ -737,7 +709,7 @@ Il y a 2 heures, Run999H a dit :
 	de saison de manière durable ( je n'y crois pas trop pour l'instant ) et qu'il y aura des précipitations suffisantes car la nature à grand besoin de cela.
 	Masse d'air samedi à 20 heures :
 	Edit : Au vu des températures de surface actuelles, il est tout à fait possible de se baigner en méditerrannée et même dans l'atlantique voire en mer du nord ce qui est quand même extraordinaire un 10 octobre :
-	Modifié il y a 9 heures par petit âge glaciaire 11
+	Modifié il y a 11 heures par petit âge glaciaire 11
 Modifié
 								1
 
@@ -760,7 +732,7 @@ il y a 46 minutes, Plancher a dit :
 	La moyenne est plutôt claire sur CEP avec le retrait de l'AA
 	La situation que tu vois à 2 GF c'est autours de 240h
 	L'ensemble des variations à cette échéance est vraiment très dispersé. On a effectivement des GF mais qui pour le coup ont des placements très variés allant de la pompe à chaleur comme on le déteste à des positionnements plus avantageux en terme de PP ou de températures !
-	Modifié il y a 8 heures par Krholam
+	Modifié il y a 10 heures par Krholam
 								1
 								1
 
@@ -772,7 +744,7 @@ L'ensemble CEP  de ce matin confirme la grande dispersion des courbes dés same
 	Paris et Toulouse :
 	 Incertitudes dans le nord et dans le sud  de la France pour l'européen.
 	Ce modèle n'arrive pas a caler la position de l' AA et a gérer l'évolution des gouttes froides 
-	Modifié il y a 7 heures par petit âge glaciaire 11
+	Modifié il y a 9 heures par petit âge glaciaire 11
 
 =======================
 
@@ -788,7 +760,7 @@ Message:
 	et pour revenir à ce qui continue de nous obséder, le manque cumulé de précipitations, depuis si longtemps, la carte de probabilité de recueillir des "précipitations efficaces", que je caractérise ici par un cumul quotidien de 5mm, avec ce jaune qui enveloppe une bonne partie de l'Europe, à l'exception des côtes occidentales de la Fennoscandie, donc chances assez minces...
 	https://charts.ecmwf.int/products/pb_tpr?area=Europe&amp;base_time=202610091200&amp;days=7-10&amp;threshold=&gt;5
 	@Nico 14 où trouver ces NOAA Hysplit, peut-on avoir le lien... ? merci d'avance !
-	Modifié il y a 6 heures par giec 2100
+	Modifié il y a 8 heures par giec 2100
 analyse supplémentaire, rafraîchie
 								1
 
@@ -821,5 +793,19 @@ Les situations d'échange méridiens ne sont pas non plus rare à cette période
 	Le grand maitre dans tout ça reste le jet stream. Ce n'est pas spécialement les chaleurs océaniques ou les racines subtropicales des anticyclone qui dictent la création des GF, (même si par contre ils n'aident pas forcément à leur évacuation rapide)
 	On est à un période de l'année aussi ou les GF sont beaucoup plus mobiles notament grâce à cette vigueur du jet stream. Les blocages sur 15j comme cet été sont plutôt rare
 	(Qu’on me reprenne s’il y a des choses à ajouter ou si j’ai dit des anneries)
-	Modifié il y a 2 heures par Krholam
-								4
+	Modifié il y a 4 heures par Krholam
+								5
+								1
+
+=======================
+
+Auteur: petit âge glaciaire 11
+Message:
+Bon on avance,une synoptique pour samedi matin semble assez probable ce soir.
+	Des HP qui s'installeraient sur l'ouest de la GB avec des petites difference entre le couple GFS/CEP qui modélise un anticyclone un peu plus méridien et des géopotentils en baisse sur la France et GEM moins méridien et avec des géopotentiels plus élevés sur notre pays, des détails en somme :
+	Ce qui se passera après, pour les derniers jours du topic,  reste toujours très indécis ce soir selon les modèles. Je ne pense pas qu'il soit raisonnable de regarder les déterministes pour la suite mais plutôt les moyennes des ensembles, j ai mis AIFS car l'ensemble CEP n'est pas encore sorti au moment ou j'écris ce post :
+	Et que voit-on ? De nouveau un AA à l'ouest de la France et donc qui n'est plus placé à l'ouest de la GB, des géopotentiels plus ou moins en baisse sur notre pays selon les modèles et des HP sur la Scandinavie pour l'IA de l'Européen et surtout pour l'Américain, pas pour le Canadien.
+	En matière de masse d'air à 850 Hpa cela donnerait ceci :
+	AIFS et GEFS frais surtout dans le nord-est et GEM plus doux car pas d'anticyclone sur la Scandinavie pour drainer de l'air frais pas l'est
+	 vers la France.
+	Modifié à l’instant par petit âge glaciaire 11
