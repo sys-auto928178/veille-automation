@@ -255,8 +255,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <h1 class="hero-title">Prévisions France</h1>
   </div>
   <div class="hero-dates-bar">
-    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du Lundi 12 au Dimanche 18 Octobre 2026</div>
-    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du Lundi 19 au Dimanche 25 Octobre 2026</div>
+    <div class="date-chip active-chip">📅 <strong>Semaine 1 :</strong> Du lundi 12 au dimanche 18 octobre 2026</div>
+    <div class="date-chip">📅 <strong>Semaine 2 :</strong> Du lundi 19 au dimanche 25 octobre 2026</div>
     <div class="date-chip gen-chip">⚡ <strong>Génération :</strong> Dimanche 11 Octobre 2026</div>
   </div>
 </header>
@@ -267,8 +267,8 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <span class="kpi-icon">🔥</span>
     <div>
       <div class="kpi-pill-label">Situation dominante</div>
-      <div class="kpi-pill-val">Blocage anticyclonique puis rafraîchissement incertain</div>
-      <div class="kpi-pill-note">Semaine 1 sèche et douce, dégradation possible en fin de période ; semaine 2 très indécise.</div>
+      <div class="kpi-pill-val">Dorsale, puis fraîcheur ?</div>
+      <div class="kpi-pill-note">Le scénario le plus probable reste un temps sec et doux, mais le verrouillage anticyclonique pourrait céder.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -276,7 +276,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div>
       <div class="kpi-pill-label">Tendance</div>
       <div class="kpi-pill-val">Modéré</div>
-      <div class="kpi-pill-note">Accord des modèles jusqu'à jeudi, fortes divergences ensuite.</div>
+      <div class="kpi-pill-note">Bon accord jusqu'à jeudi 15; dégradation de fin de semaine et semaine 2 très partagées.</div>
     </div>
   </div>
   <div class="kpi-pill">
@@ -292,7 +292,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div>
       <div class="kpi-pill-label">Niveau de Confiance</div>
       <div class="kpi-pill-val">Forte en semaine 2</div>
-      <div class="kpi-pill-note">Échéances > 8 jours, pas de sujet forum dédié, divergences CEP/GFS.</div>
+      <div class="kpi-pill-note">La position de l'AA et les gouttes froides font diverger CEP et GFS au-delà de vendredi.</div>
     </div>
   </div>
 </section>
@@ -313,14 +313,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Lundi 12 et mardi 13 octobre</strong>
-            <div class="day-short">Temps sec et doux, ciel voilé puis nuageux, quelques pluies faibles en soirée sur le littoral.</div>
+            <strong class="day-name">Lundi 12 octobre</strong>
+            <div class="day-short">Ciel voilé puis couvert; petites pluies possibles en soirée sur le littoral.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Temps sec et doux, ciel voilé puis nuageux, quelques pluies faibles en soirée sur le littoral.</p>
+        <p>Ciel voilé puis couvert; petites pluies possibles en soirée sur le littoral.</p>
       </div>
     </details>
 
@@ -329,14 +329,30 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
+            <strong class="day-name">Mardi 13 octobre</strong>
+            <div class="day-short">Alternance nuages/éclaircies, averses isolées, rafales jusqu'à 55 km/h près des côtes.</div>
+          </div>
+        </div>
+        <span class="day-chevron">▼</span>
+      </summary>
+      <div class="day-accordion-body">
+        <p>Alternance nuages/éclaircies, averses isolées, rafales jusqu'à 55 km/h près des côtes.</p>
+      </div>
+    </details>
+
+    <details class="day-accordion">
+      <summary class="day-summary">
+        <div class="day-summary-left">
+          <span class="day-picto">🗓️</span>
+          <div>
             <strong class="day-name">Mercredi 14 et jeudi 15 octobre</strong>
-            <div class="day-short">Plein soleil, brumes localisées le matin, pic de douceur avec 20 à 23 °C.</div>
+            <div class="day-short">Pic de douceur avec 20-23°C; temps ensoleillé après dissipation des brumes.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Plein soleil, brumes localisées le matin, pic de douceur avec 20 à 23 °C.</p>
+        <p>Pic de douceur avec 20-23°C; temps ensoleillé après dissipation des brumes.</p>
       </div>
     </details>
 
@@ -345,30 +361,14 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <div class="day-summary-left">
           <span class="day-picto">🗓️</span>
           <div>
-            <strong class="day-name">Vendredi 16 et samedi 17 octobre</strong>
-            <div class="day-short">Risque d'averses localisées, surtout littoral, nord et est, températures en baisse.</div>
+            <strong class="day-name">Vendredi 16 au dimanche 18 octobre</strong>
+            <div class="day-short">Rafraîchissement, averses localisées possibles, vent de nord-est, retour du soleil.</div>
           </div>
         </div>
         <span class="day-chevron">▼</span>
       </summary>
       <div class="day-accordion-body">
-        <p>Risque d'averses localisées, surtout littoral, nord et est, températures en baisse.</p>
-      </div>
-    </details>
-
-    <details class="day-accordion">
-      <summary class="day-summary">
-        <div class="day-summary-left">
-          <span class="day-picto">🗓️</span>
-          <div>
-            <strong class="day-name">Dimanche 18 octobre</strong>
-            <div class="day-short">Soleil généreux, vent de Nord-Est modéré, maximales en baisse.</div>
-          </div>
-        </div>
-        <span class="day-chevron">▼</span>
-      </summary>
-      <div class="day-accordion-body">
-        <p>Soleil généreux, vent de Nord-Est modéré, maximales en baisse.</p>
+        <p>Rafraîchissement, averses localisées possibles, vent de nord-est, retour du soleil.</p>
       </div>
     </details>
   </div>
@@ -384,7 +384,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
     </div>
   </div>
   <div class="grid grid-2">
-    <div class="key"><i>💡</i><div><strong>Douceur record</strong>Pic de douceur jeudi avec 20 à 23 °C, très au-dessus des normales saisonnières.</div></div><div class="key"><i>🌡️</i><div><strong>Temps sec</strong>Aucune pluie significative en vue, seulement de faibles averses littorales.</div></div><div class="key"><i>🌡️</i><div><strong>Blocage tenace</strong>L'anticyclone atlantique verrouille le temps, mais pourrait lâcher en fin de semaine.</div></div><div class="key"><i>💨</i><div><strong>Vent sensible</strong>Rafales jusqu'à 55 km/h possibles mardi en Flandre maritime et sur le littoral.</div></div><div class="key"><i>💨</i><div><strong>Fin de semaine</strong>Rafraîchissement possible samedi-dimanche avec un vent de Nord-Est modéré.</div></div>
+    <div class="key"><i>💡</i><div><strong>Pic de douceur</strong>Jeudi 15, les maximales atteindront 20 à 23°C sur la région.</div></div><div class="key"><i>🌡️</i><div><strong>Temps sec dominant</strong>Jusqu'à jeudi, l'anticyclone impose un temps calme et sec, avec quelques averses littorales.</div></div><div class="key"><i>🌦️</i><div><strong>Averses localisées</strong>Mardi 13, averses possibles en Flandre maritime, Avesnois, Ternois et Picardie verte.</div></div><div class="key"><i>🌡️</i><div><strong>Rafraîchissement en vue</strong>Dès vendredi, le flux bascule au nord-est et les températures baissent.</div></div><div class="key"><i>💡</i><div><strong>Brumes fréquentes</strong>Brumes et brouillards matinaux à dissiper, surtout mercredi et jeudi.</div></div>
   </div>
 </section>
 
@@ -412,7 +412,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🦁</span>
             <h3>Nord (59)</h3>
           </div>
-          <div class="zone-short-desc">Alternance de nuages et d'éclaircies ; pluies faibles possibles en Flandre maritime et sur l'Avesnois ; temps plus sec et doux en milieu de semaine.</div>
+          <div class="zone-short-desc">Temps souvent sec et doux, alternance de nuages et d'éclaircies; averses faibles possibles sur la Flandre maritime et l'Avesnois en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -421,11 +421,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Alternance de nuages et d'éclaircies ; pluies faibles possibles en Flandre maritime et sur l'Avesnois ; temps plus sec et doux en milieu de semaine.</li><li><b>Températures :</b> Min 6 à 14 °C, max 14 à 22 °C selon les jours ; pic jeudi 20-22 °C.</li><li><b>Pluie / Orages :</b> Pluies éparses lundi soir en Flandre maritime, rares averses mardi ; risque de pluies ou averses vendredi-samedi de la Flandre maritime au Valenciennois.</li><li><b>Vent :</b> Vent de Sud/SO modéré, rafales 55 km/h possibles mardi en Flandre maritime ; Nord-Est modéré dimanche.</li><li><b>Période sensible :</b> Jeudi 15 : pic de douceur (20-22 °C) ; vendredi-samedi : période la plus instable.</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Lille, Dunkerque, Valenciennes • 5 mentions</li>
+          <li><b>Temps dominant :</b> Temps souvent sec et doux, alternance de nuages et d'éclaircies; averses faibles possibles sur la Flandre maritime et l'Avesnois en fin de semaine.</li><li><b>Températures :</b> Min 9-12°C, max 17-22°C (pic jeudi 15)</li><li><b>Pluie / Orages :</b> Averses faibles et localisées mardi 13, puis vendredi-samedi; aucun orage significatif.</li><li><b>Vent :</b> Vent de Sud à Sud-Ouest modéré, rafales 55 km/h possibles en Flandre maritime mardi; Nord-Est en fin de semaine.</li><li><b>Période sensible :</b> Jeudi 15 (pic de chaleur 20-22°C) et mardi 13 (rafales littorales)</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Lille, Dunkerque, Valenciennes • 5 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Averses localisées difficiles à positionner ; incertitude sur la fin de semaine.</span>
+          <span class="chip-uncert">Incertitude : Risque d'averses localisées difficile à caler; évolution de vendredi-samedi incertaine.</span>
         </div>
       </div>
     </details>
@@ -438,7 +438,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🌊</span>
             <h3>Pas-de-Calais (62)</h3>
           </div>
-          <div class="zone-short-desc">Temps généralement sec et ensoleillé, passages nuageux ; averses possibles mardi sur le Ternois, le Haut-Artois et le littoral.</div>
+          <div class="zone-short-desc">Temps sec et doux, nuages puis éclaircies, averses littorales possibles mardi et vendredi.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -447,11 +447,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Temps généralement sec et ensoleillé, passages nuageux ; averses possibles mardi sur le Ternois, le Haut-Artois et le littoral.</li><li><b>Températures :</b> Min 6 à 14 °C, max 14 à 21 °C ; pic jeudi autour de 20 °C.</li><li><b>Pluie / Orages :</b> Faibles pluies lundi en fin de journée du Ternois au littoral ; averses possibles mardi ; risque temporaire vendredi-samedi sur les trois quarts ouest du département.</li><li><b>Vent :</b> Vent de Sud/SO modéré, rafales 55 km/h mardi près de la Mer du Nord ; Nord-Est modéré dimanche.</li><li><b>Période sensible :</b> Jeudi 15 : douceur (20 °C) ; vendredi-samedi : risque d'averses sur l'ouest.</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Arras, Calais, Boulogne, Lens • 5 mentions</li>
+          <li><b>Temps dominant :</b> Temps sec et doux, nuages puis éclaircies, averses littorales possibles mardi et vendredi.</li><li><b>Températures :</b> Min 8-12°C, max 17-21°C (pic jeudi 15)</li><li><b>Pluie / Orages :</b> Faibles pluies lundi 12 sur Ternois/Haut-Artois/littoral; averses mardi; risque pluie vendredi-samedi sur l'ouest.</li><li><b>Vent :</b> Vent de Sud à Sud-Ouest modéré, rafales 55 km/h près de la mer du Nord mardi; Nord-Est dimanche.</li><li><b>Période sensible :</b> Jeudi 15 (pic de douceur 19-21°C) et mardi 13 (averses/rafales)</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Arras, Calais, Boulogne-sur-Mer, Lens • 5 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Brumes et brouillards possibles sur la plaine d'Arras ; localisation des averses ouest incertaine.</span>
+          <span class="chip-uncert">Incertitude : Localisation exacte des averses de mardi et vendredi-samedi incertaine; intensité du rafraîchissement à confirmer.</span>
         </div>
       </div>
     </details>
@@ -464,7 +464,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🦆</span>
             <h3>Somme (80)</h3>
           </div>
-          <div class="zone-short-desc">Temps sec et ensoleillé, quelques brumes matinales ; averses possibles mardi sur Ponthieu et Vimeu, puis vendredi-samedi sur le Santerre, le Vermandois et au nord-ouest d'Amiens.</div>
+          <div class="zone-short-desc">Alternance nuages et éclaircies, doux, avec brumes matinales puis soleil; averses localisées vendredi-samedi.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -473,11 +473,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Temps sec et ensoleillé, quelques brumes matinales ; averses possibles mardi sur Ponthieu et Vimeu, puis vendredi-samedi sur le Santerre, le Vermandois et au nord-ouest d'Amiens.</li><li><b>Températures :</b> Min 5 à 14 °C, max 13 à 21 °C ; pic jeudi autour de 20 °C.</li><li><b>Pluie / Orages :</b> Pluies faibles lundi en fin de journée ; rares averses mardi ; risque de pluies ou averses vendredi après-midi à samedi sur l'est et le nord-ouest.</li><li><b>Vent :</b> Vent de Sud/SO modéré, assez fort mardi après-midi sur le littoral picard ; Nord-Est modéré dimanche.</li><li><b>Période sensible :</b> Jeudi 15 : douceur (20 °C) ; vendredi-samedi : période la plus instable sur l'est.</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Amiens, Abbeville, Péronne • 5 mentions</li>
+          <li><b>Temps dominant :</b> Alternance nuages et éclaircies, doux, avec brumes matinales puis soleil; averses localisées vendredi-samedi.</li><li><b>Températures :</b> Min 8-12°C, max 16-21°C (pic jeudi 15)</li><li><b>Pluie / Orages :</b> Petites pluies lundi 12, averses localisées mardi et vendredi-samedi; pas d'orage.</li><li><b>Vent :</b> Vent OSO modéré, assez fort sur le littoral mardi; Nord-Est en fin de semaine.</li><li><b>Période sensible :</b> Jeudi 15 (pic de douceur 20°C) et mardi 13 (vent littoral)</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Amiens, Abbeville, Péronne • 5 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Brouillards possibles sur le Vermandois ; incertitude sur l'extension des averses samedi.</span>
+          <span class="chip-uncert">Incertitude : Risque de pluie vendredi-samedi limité au Santerre/Vermandois ou plus large; brumes matinales.</span>
         </div>
       </div>
     </details>
@@ -490,7 +490,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🏰</span>
             <h3>Oise (60)</h3>
           </div>
-          <div class="zone-short-desc">Temps généralement ensoleillé, brumes matinales sur le pays de Bray et la Picardie verte ; averses possibles mardi du Vexin français au Beauvaisis.</div>
+          <div class="zone-short-desc">Temps sec et doux, averses localisées mardi; beau temps ensoleillé après jeudi.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -499,11 +499,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Temps généralement ensoleillé, brumes matinales sur le pays de Bray et la Picardie verte ; averses possibles mardi du Vexin français au Beauvaisis.</li><li><b>Températures :</b> Min 4 à 13 °C, max 13 à 22 °C ; pic jeudi 20-22 °C.</li><li><b>Pluie / Orages :</b> Quelques averses éparses possibles vendredi de la Picardie verte au Plateau Picard ; ailleurs temps sec.</li><li><b>Vent :</b> Vent de Sud/SO modéré, Ouest à Nord-Ouest vendredi, Nord à Nord-Est samedi et dimanche.</li><li><b>Période sensible :</b> Jeudi 15 : pic de douceur (20-22 °C) ; vendredi : risque d'averses sur le nord-ouest.</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Beauvais, Compiègne, Senlis • 5 mentions</li>
+          <li><b>Temps dominant :</b> Temps sec et doux, averses localisées mardi; beau temps ensoleillé après jeudi.</li><li><b>Températures :</b> Min 8-13°C, max 16-22°C (pic jeudi 15)</li><li><b>Pluie / Orages :</b> Averses isolées mardi (Vexin/Beauvaisis), risque pluie vendredi sur Picardie verte; pas d'orage.</li><li><b>Vent :</b> Vent Sud puis OSO mardi, Nord-Est dimanche; modéré.</li><li><b>Période sensible :</b> Jeudi 15 (pic de chaleur 20-22°C) et mardi 13 (averses)</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Beauvais, Compiègne, Senlis • 5 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Brumes et brouillards localisés ; incertitude sur la chronologie du rafraîchissement.</span>
+          <span class="chip-uncert">Incertitude : Averses de mardi localisées (Vexin/Beauvaisis) difficiles à cerner; évolution du week-end incertaine.</span>
         </div>
       </div>
     </details>
@@ -516,7 +516,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
             <span class="zone-icon">🍇</span>
             <h3>Aisne (02)</h3>
           </div>
-          <div class="zone-short-desc">Temps sec et bien ensoleillé, brumes localisées ; quelques averses possibles mardi matin sur les trois quarts sud et la Thiérache, puis amélioration.</div>
+          <div class="zone-short-desc">Temps sec et ensoleillé, très doux jeudi; rafraîchissement net en fin de semaine.</div>
         </div>
         <div style="display:flex; align-items:center; gap:6px;">
           <span class="chip-conf" style="font-size:10px;">Élevée</span>
@@ -525,11 +525,11 @@ function switchZoneTab(containerId, tabId, btnEl) {
       </summary>
       <div class="zone-body">
         <ul class="zone-details">
-          <li><b>Temps dominant :</b> Temps sec et bien ensoleillé, brumes localisées ; quelques averses possibles mardi matin sur les trois quarts sud et la Thiérache, puis amélioration.</li><li><b>Températures :</b> Min 4 à 12 °C, max 12 à 23 °C ; pic jeudi 20-23 °C.</li><li><b>Pluie / Orages :</b> Quelques gouttes possibles lundi nuit sur le sud ; averses matinales mardi ; vendredi-samedi très faible risque d'averses.</li><li><b>Vent :</b> Vent de Sud/SO modéré, variable faible mercredi et jeudi, Ouest à Nord-Ouest virant Nord-Nord-Est vendredi-samedi, Nord-Est modéré dimanche.</li><li><b>Période sensible :</b> Jeudi 15 : pic de douceur (20-23 °C).</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Laon, Saint-Quentin, Soissons • 5 mentions</li>
+          <li><b>Temps dominant :</b> Temps sec et ensoleillé, très doux jeudi; rafraîchissement net en fin de semaine.</li><li><b>Températures :</b> Min 8-12°C, max 17-23°C (pic jeudi 15)</li><li><b>Pluie / Orages :</b> Averses matinales mardi (sud/Thiérache); pas de pluie significative ensuite.</li><li><b>Vent :</b> Vent Sud à Sud-Ouest modéré mardi, puis Nord-Est modéré en fin de semaine.</li><li><b>Période sensible :</b> Jeudi 15 (pic de chaleur 20-23°C)</li><li style="margin-top:6px; font-size:11.5px; color:var(--muted); border-top:1px dashed var(--line); padding-top:4px;"><b>Sources :</b> Modèles : Météo-France XML, ECMWF, GFS, Guillaume Séchet • Secteurs : Laon, Saint-Quentin, Soissons • 5 mentions</li>
         </ul>
         <div class="zone-foot">
           <span class="chip-conf">Confiance : Élevée</span>
-          <span class="chip-uncert">Incertitude : Brumes sur le Vermandois et le Laonnois ; incertitude sur les averses de mardi matin.</span>
+          <span class="chip-uncert">Incertitude : Pic de chaleur jeudi plus ou moins marqué; rafraîchissement de dimanche à confirmer.</span>
         </div>
       </div>
     </details>
@@ -544,7 +544,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
   <div class="section-head">
     <div>
       <span class="badge badge-gray">Perspective J+8 à J+14</span>
-      <h2>🔮 Tendance Semaine 2 — Du Lundi 19 au Dimanche 25 Octobre 2026</h2>
+      <h2>🔮 Tendance Semaine 2 — Du lundi 19 au dimanche 25 octobre 2026</h2>
     </div>
   </div>
   
@@ -553,7 +553,7 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </div>
         
   <div class="grid grid-2" style="margin-top:12px;">
-    <div class="key"><i>💡</i><div><strong>Sujet non ouvert</strong>Transparence absolue : le forum Semaine 43 n'est pas encore actif ; seules les projections long terme sont utilisées.</div></div><div class="key"><i>☀️</i><div><strong>Début calme</strong>Lundi 19 encore ensoleillé et sec, avec des maximales en baisse sur les Hauts-de-France.</div></div><div class="key"><i>☀️</i><div><strong>Modèles divisés</strong>GFS voit une dépression possible sur le Nord, CEP maintient un anticyclone bordé de gouttes froides.</div></div><div class="key"><i>💡</i><div><strong>Air plus frais</strong>Une coulée fraîche est en pôle position dans un cluster CEP pour la fin d'échéance.</div></div><div class="key"><i>🌦️</i><div><strong>Pluies incertaines</strong>Cumuls faibles et localisation très aléatoire, aucun retour franc des perturbations.</div></div>
+    <div class="key"><i>🌡️</i><div><strong>Anticyclone encore présent</strong>Début de semaine 2, le temps sec et calme serait la règle sur les HDF.</div></div><div class="key"><i>🌡️</i><div><strong>Coulée fraîche possible</strong>Vendredi 23 au dimanche 25, une baisse des températures n'est pas exclue.</div></div><div class="key"><i>🌦️</i><div><strong>Pluies faibles seulement</strong>Aucun scénario ne propose de fortes précipitations sur la région.</div></div><div class="key"><i>☀️</i><div><strong>Scénarios très divergents</strong>CEP et GFS s'opposent sur la position de l'anticyclone et des gouttes froides.</div></div><div class="key"><i>💡</i><div><strong>Sujet forum non ouvert</strong>Analyse basée sur les seules projections long terme du sujet Semaine 42.</div></div>
   </div>
 </section>
 
@@ -580,28 +580,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">Modèle européen CEP / ensemble EPS</div>
-              <span class="status-badge status-main">Cohérent jusqu'à jeudi, divergent ensuite.</span>
+              <div class="model-name">ECMWF CEP/EPS</div>
+              <span class="status-badge status-main">Confirmé par les membres comme référence, avec dispersion marquée après vendredi.</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">9</span>
+              <span class="chip">8</span>
               <span class="chip">Runs cités : 00Z, 12Z</span>
-              <span class="chip">Jusqu'à jeudi 15/10 : temps sec et doux ; à partir de vendredi 16/10 : incertitude croissante.</span>
+              <span class="chip">Échéance 12-18 octobre, incertitude à partir du 16 octobre</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Temps anticyclonique et doux jusqu'à jeudi, puis incertitude forte ; bascule possible vers une coulée fraîche en fin de semaine.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pic de douceur jeudi (20-23 °C), averses faibles littoral/nord, rafraîchissement possible samedi/dimanche.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Hauts-de-France dans leur ensemble ; littoral plus exposé aux averses.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Maintien d'un temps anticyclonique et doux jusqu'à jeudi, puis hésitation entre coulée fraîche et blocage en fin de semaine.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Pic de douceur jeudi, pluies faibles possibles en fin de semaine, rafraîchissement.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Toute la France; pour HDF, nord et littoral plus exposés aux averses et au rafraîchissement.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60% à 70%)</strong></div>
+              <div class="score-label">Extraction : <strong>Modérée (60-70%) : modèle clairement suivi, mais focus national, pas uniquement HDF.</strong></div>
               <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Soutien : clusters CEP 00Z — blocage atlantique (≈, bascule possible vers une dorsale avec coulée fraîche), blocage avec minimum ibérique (≈1/3), NAO+ (≈1/4).</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Les clusters CEP 00Z montrent trois scénarios; le scénario de coulée fraîche gagne du terrain.</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Les diagrammes IFS et EPS 00Z montrent une dispersion très marquée dès vendredi, avec près de 15 °C d'écart entre les scénarios extrêmes. Le tube majoritaire se place désormais dans le bas de l'ensemble, ce qui accrédite un rafraîchissement, sans garantie.
+                L'ensemble CEP montre un net resserrement en 3 clusters. Le scénario de coulée fraîche progresse, mais le blocage anticyclonique reste majoritaire. Pour les HDF, le risque principal est une baisse thermique vendredi-samedi avec un flux de nord-est.
               </div>
             </details>
           </td>
@@ -611,28 +611,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">Modèle américain GFS / GEFS</div>
-              <span class="status-badge status-main">Divergent par rapport à CEP pour la fin de semaine.</span>
+              <div class="model-name">GFS / GEFS</div>
+              <span class="status-badge status-main">Suivi attentivement; démarche différente de CEP sur le week-end.</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">6</span>
-              <span class="chip">Runs cités : 06Z, 00Z, 12Z</span>
-              <span class="chip">Vendredi-samedi : période charnière pour une possible dégradation.</span>
+              <span class="chip">Runs cités : 00Z, 12Z, 06Z</span>
+              <span class="chip">Fin de semaine 1 (16-18) et début semaine 2</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Maintien des hautes pressions jusqu'à vendredi, puis amorce de dégradation ; dépression possible sur le Nord, fraîcheur en fin de semaine.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Très doux jeudi, retour des températures de saison en fin de semaine, averses possibles sur le nord.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord du pays, notamment Hauts-de-France et proches régions.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Jusqu'à vendredi, temps chaud et sec; en fin d'échéance, possible goutte froide proche de la France avec chute des températures.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Douceur jeudi, puis rafraîchissement, averses possibles par le nord.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord de la France plus exposé à la goutte froide en fin de semaine.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60% à 70%)</strong></div>
+              <div class="score-label">Extraction : <strong>Modérée (60-70%) : GFS commenté pour le scénario de sortie de blocage, sans zoom HDF.</strong></div>
               <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Soutien : membre GEFS 06Z n°27 montrant une descente de poche froide arctique jusqu'aux latitudes tempérées. Run GFS 00Z : trajectoire Hysplit plus fraîche dimanche ; GFS 12Z : possible isolement d'une goutte froide sur la France.</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Le GFS 12Z propose une goutte froide isolée sur la France; le GEFS 06Z comporte un membre avec descente froide arctique.</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                GFS propose une dépression qui tenterait une incursion sur le Nord de la France en tout début de semaine 2, mais l'échéance est très lointaine (> 240 h) et les ensembles restent très dispersés. À confirmer absolument.
+                Le déterministe GFS insiste sur la sortie de l'anticyclone atlantique et une possible incursion dépressionnaire par le nord de la France. Les membres GEFS sont très dispersés mais certains proposent une coulée fraîche. Impact HDF : rafraîchissement et pluies faibles possibles dimanche 18-lundi 19.
               </div>
             </details>
           </td>
@@ -642,28 +642,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">Modèle allemand ICON</div>
-              <span class="status-badge status-minor">Minoritaire, à surveiller.</span>
+              <div class="model-name">ICON</div>
+              <span class="status-badge status-main">Mentionné mais peu détaillé.</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">1</span>
               <span class="chip">Run : 00Z</span>
-              <span class="chip">Fin de semaine 1 et début de semaine 2.</span>
+              <span class="chip">Semaine 1, surtout 12-17 octobre</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Pas de sortie du blocage anticyclonique, temps chaud et sec prolongé, dégradation repoussée ou absente.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Douceur durable, très faible risque de pluie, soleil généreux sur les Hauts-de-France.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Ensemble de la France ; scénario minoritaire.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Pas de sortie du blocage anticyclonique avant samedi; pour HDF, temps sec.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec, doux, pas de dégradation notable.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France; HDF peu concernés par les pluies jusqu'à samedi.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Faible (40% à 50%)</strong></div>
+              <div class="score-label">Extraction : <strong>Faible (40-50%) : modèle cité en une phrase, pas de détail régional.</strong></div>
               <div class="bar"><div class="fill" style="width:40%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Mention unique dans les discussions : ICON maintiendrait les hautes pressions plus longtemps, ne voyant pas de dégradation avant samedi, voire pas du tout.</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Un membre du forum le cite pour un maintien des hautes pressions jusqu'à vendredi/samedi.</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Ce scénario sec et chaud est isolé ; il rappelle que la sortie du blocage n'est pas acquise.
+                ICON est utilisé comme argument pour un blocage plus tenace. Pas d'analyse HDF spécifique; prudence.
               </div>
             </details>
           </td>
@@ -673,59 +673,59 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">Modèle canadien GEM</div>
-              <span class="status-badge status-minor">Minoritaire, scénario doux.</span>
-            </div>
-            <div class="chips" style="margin-top:6px;">
-              <span class="chip">2</span>
-              <span class="chip">Run : 00Z</span>
-              <span class="chip">Échéance de samedi 17/10 et au-delà.</span>
-            </div>
-          </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Anticyclone moins méridien, géopotentiels plus élevés sur la France, douceur maintenue, pas de vrai rafraîchissement.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec et doux, averses peu probables, températures au-dessus des normales.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France, avec un signal plus anticyclonique que CEP/GFS.</td>
-          <td data-label="Confiance & Soutien">
-            <div class="score-box">
-              <div class="score-label">Extraction : <strong>Faible (40% à 50%)</strong></div>
-              <div class="bar"><div class="fill" style="width:40%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>GEM est évoqué une seule fois : contrairement à GFS/CEP, il place l'anticyclone de manière moins méridienne et conserve des géopotentiels élevés sur la France.</strong></div>
-            </div>
-            <details class="model-details" open>
-              <summary>Voir le détail d'analyse</summary>
-              <div class="details-body">
-                Pas de signal frais net pour les Hauts-de-France dans cette configuration.
-              </div>
-            </details>
-          </td>
-        </tr>
-        
-
-        <tr class="model-row">
-          <td data-label="Modèle">
-            <div class="model-name-box">
-              <div class="model-name">Modèle IA européen AIFS</div>
-              <span class="status-badge status-main">À surveiller, en phase avec l'idée d'un air plus frais.</span>
+              <div class="model-name">GEM</div>
+              <span class="status-badge status-main">Mentionné à titre comparatif.</span>
             </div>
             <div class="chips" style="margin-top:6px;">
               <span class="chip">1</span>
-              <span class="chip">Run : 00Z</span>
-              <span class="chip">Fin de semaine 1 et début de semaine 2.</span>
+              <span class="chip">Run : GEM (run non précisé, 10 octobre)</span>
+              <span class="chip">Fin semaine 1/début semaine 2</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Baisse des géopotentiels sur le nord-est de la France, air plus frais, mais anticyclone atlantique encore présent à l'ouest.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Fraîcheur relative dans le nord-est, éclaircies, quelques averses possibles.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord-est de la France, dont possiblement l'Aisne et le Nord.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Anticyclone moins méridien, géopotentiels élevés, douceur plus durable.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Douceur maintenue, pluies faibles.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France; HDF sous influence anticyclonique.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Faible (40% à 50%)</strong></div>
+              <div class="score-label">Extraction : <strong>Faible (40-50%) : mentionné une fois, pas de détail HDF.</strong></div>
               <div class="bar"><div class="fill" style="width:40%; background:var(--red);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>AIFS est cité une fois en complément de l'ensemble CEP, avec des hautes pressions scandinaves et une baisse des géopotentiels sur le nord-est.</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Comparé à GFS/CEP pour la position des HP sur la GB.</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                L'IA européenne va dans le sens d'une fraîcheur par le nord-est, mais avec une grande prudence.
+                GEM voit moins d'air frais que GFS/CEP; pour HDF, douceur plus durable.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">AIFS</div>
+              <span class="status-badge status-main">Mentionné, à surveiller.</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">1</span>
+              <span class="chip">Run : AIFS (IA) du 10 octobre 2026, échéance long terme</span>
+              <span class="chip">Semaine 2 (19-25)</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>AA à l'ouest de la France, HP sur la Scandinavie, air plus frais au nord-est.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Fraîcheur relative dans le nord-est, HDF en première ligne.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord-est de la France, donc HDF.</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Faible (40-50%) : une mention, pas d'analyse détaillée HDF.</strong></div>
+              <div class="bar"><div class="fill" style="width:40%; background:var(--red);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Utilisé en attendant l'ensemble CEP; cohérent avec GEFS pour des HP scandinaves.</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                AIFS propose un flux plus frais par l'est/nord-est en semaine 2; pour HDF, possible retour à des températures de saison.
               </div>
             </details>
           </td>
@@ -738,26 +738,26 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>🤝 Convergences & Divergences des Scénarios</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Ce qui converge</h3><p>- Convergence 1 : Temps anticyclonique, sec et très doux jusqu'à jeudi 15 sur l'ensemble des Hauts-de-France, avec un pic de douceur entre 20 et 23 °C.
-- Convergence 2 : Précipitations faibles et très localisées, essentiellement littoral et nord-est, notamment mardi puis vendredi-samedi.
-- Convergence 3 : Rafraîchissement probable en fin de semaine, avec un vent de Nord-Est modéré et des maximales en baisse dimanche.</p></div>
-        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>- Divergence 1 : Position exacte de l'anticyclone atlantique en fin de semaine : GFS évoque une possible incursion dépressionnaire sur le Nord, CEP maintient plutôt un anticyclone.
-- Divergence 2 : Chronologie du rafraîchissement : jeudi pour certains scénarios, vendredi/samedi pour d'autres, voire pas de sortie selon ICON.
-- Divergence 3 : Localisation des averses de vendredi-samedi : limitées à la Flandre maritime et l'Avesnois, ou plus étendues sur l'ouest des Hauts-de-France.</p></div>
+        <div class="card card-solid"><h3>Ce qui converge</h3><p>1. Pic de douceur jeudi 15 avec 20-23°C sur la plupart des HDF.
+2. Temps sec et anticyclonique au moins jusqu'à jeudi, avec averses faibles et localisées.
+3. Rafraîchissement en fin de semaine 1, avec un flux de nord-est sur les HDF.</p></div>
+        <div class="card card-fragile"><h3>Ce qui diverge</h3><p>1. Maintien ou non de l'anticyclone atlantique vendredi-samedi (blocage vs coulée fraîche).
+2. Localisation des averses : littoral/nord uniquement ou aussi intérieur (Valenciennois, Santerre, Beauvaisis).
+3. Amplitude de la baisse des températures : simple retour aux normales ou passage sous les normales.</p></div>
       </div>
     </div>
 
     <div class="tech-block">
       <h4>🛡️ Fiabilité & Éléments à surveiller</h4>
       <div class="compare">
-        <div class="card card-solid"><h3>Points solides</h3><p>- Jusqu'à jeudi 15 : temps sec, ensoleillé et très doux sur les Hauts-de-France, avec des maximales de 20 à 23 °C.
-- Vent de Sud/SO modéré, avec des rafales de 55 km/h possibles mardi sur le littoral.
-- Brumes matinales mercredi et jeudi, notamment sur l'Avesnois, le Vermandois, le pays de Bray et la Picardie verte.</p></div>
-        <div class="card card-fragile"><h3>Points fragiles</h3><p>- Chronologie exacte de la dégradation de vendredi-samedi : encore très incertaine.
-- Cumuls de pluie attendus très faibles et localisation très délicate.
-- Évolution au-delà de dimanche 18 : toujours pas de scénario fiable, transition vers la semaine 2 très indécise.</p></div>
+        <div class="card card-solid"><h3>Points solides</h3><p>1. Jusqu'à jeudi, temps sec et doux; pic de chaleur jeudi 15.
+2. Rafales possibles mardi sur le littoral (55 km/h).
+3. Rafraîchissement et vent de nord-est en fin de semaine.</p></div>
+        <div class="card card-fragile"><h3>Points fragiles</h3><p>1. Le timing et l'ampleur de la dégradation de vendredi-samedi.
+2. Le risque de pluie/averses dans l'intérieur (Valenciennois, Santerre, Beauvaisis).
+3. La semaine suivante (19-25) reste très incertaine.</p></div>
       </div>
-      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : Surveiller les runs CEP/EPS et GFS/GEFS 00Z et 12Z du dimanche 11 octobre, les clusters CEP à J+7/J+10, la position de l'anticyclone atlantique et la trajectoire des éventuelles gouttes froides.</div>
+      <div class="alert" style="margin-top:12px">À surveiller dans les prochains runs : CEP 12Z/00Z, GFS 12Z, GEFS/EPS, AIFS; surveiller la position de l'AA à 500 hPa et l'arrivée possible d'une goutte froide.</div>
     </div>
 
     <div class="tech-block">
@@ -793,28 +793,28 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">Projection long terme ECMWF / CEP</div>
-              <span class="status-badge status-main">Divergent, très incertain.</span>
+              <div class="model-name">ECMWF CEP/EPS (projection long terme)</div>
+              <span class="status-badge status-main">Projection long terme, à confirmer.</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">5</span>
-              <span class="chip">Run : 00Z</span>
-              <span class="chip">À partir du lundi 19, surtout en seconde partie de semaine.</span>
+              <span class="chip">8</span>
+              <span class="chip">Runs cités : 00Z, 12Z</span>
+              <span class="chip">Semaine 2, surtout 19-20; ensuite très incertain.</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Anticyclone atlantique encore présent, mais possible bascule vers une coulée fraîche avec gouttes froides de part et d'autre de la France.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps plus frais en fin de semaine 2, averses localisées possibles, douceur résiduelle en début de semaine.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Hauts-de-France, avec une incertitude majeure sur la localisation exacte.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>Clusters CEP : blocage (40%), blocage + minimum ibérique (33%), NAO+ (25%). HDF : sec, possible coulée fraîche en fin de semaine.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Temps sec, douceur, puis possible baisse des températures par le nord-est.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>France; HDF potentiellement exposés à une fraîcheur relative si HP scandinaves.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60% à 70%)</strong></div>
+              <div class="score-label">Extraction : <strong>Modérée (60-70%) : projections issues du topic Semaine 42, pas de sujet dédié.</strong></div>
               <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Soutien : cluster CEP avec coulée fraîche en pôle position (>  des membres). Run CEP : anticyclone et gouttes froides de part et d'autre de la France, pas d'incursion dépressionnaire nette sur le Nord.</strong></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Les clusters CEP 00Z du 10 octobre montrent trois scénarios; la coulée fraîche progresse.</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                La dispersion des membres est très forte à cette échéance. Aucun scénario ne fait consensus pour les Hauts-de-France. Le sujet dédié n'étant pas ouvert, cette analyse doit être considérée comme une simple tendance.
+                Le CEP hésite entre le maintien de l'AA et une coulée fraîche en provenance du nord-ouest. Pour les HDF, le scénario le plus frais donnerait un flux de nord-est avec un léger rafraîchissement; le scénario le plus chaud maintiendrait la douceur. Aucun scénario ne propose de fortes pluies.
               </div>
             </details>
           </td>
@@ -824,28 +824,59 @@ function switchZoneTab(containerId, tabId, btnEl) {
         <tr class="model-row">
           <td data-label="Modèle">
             <div class="model-name-box">
-              <div class="model-name">Projection long terme GFS / GEFS</div>
-              <span class="status-badge status-main">Divergent, à confirmer.</span>
+              <div class="model-name">GFS / GEFS (projection long terme)</div>
+              <span class="status-badge status-main">Divergent de CEP, à surveiller.</span>
             </div>
             <div class="chips" style="margin-top:6px;">
-              <span class="chip">4</span>
-              <span class="chip">Runs cités : 06Z, 00Z, 12Z</span>
-              <span class="chip">Milieu et fin de semaine 2.</span>
+              <span class="chip">5</span>
+              <span class="chip">Runs cités : 12Z, 06Z</span>
+              <span class="chip">Fin de semaine 2 (23-25 octobre).</span>
             </div>
           </td>
-          <td data-label="Scénario"><span class="m-label">Scénario :</span>Possible incursion d'une dépression sur le Nord de la France, avec un air plus frais qui pourrait gagner les Hauts-de-France.</td>
-          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Ciel variable, averses possibles, températures plus proches des normales.</td>
-          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord de la France, dont les Hauts-de-France.</td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>GFS déterministe voit une dépression/goutte froide sur le nord; GEFS dispersé avec descentes froides possibles.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Fin de semaine 2 plus fraîche, pluies faibles possibles, vent changeant.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord de la France, donc HDF, pour la tentative de dégradation.</td>
           <td data-label="Confiance & Soutien">
             <div class="score-box">
-              <div class="score-label">Extraction : <strong>Modérée (60% à 70%)</strong></div>
-              <div class="bar"><div class="fill" style="width:60%; background:var(--amber);"></div></div>
-              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Soutien : membre GEFS 06Z n°27 avec descente de poche froide. Run GFS 12Z : goutte froide pouvant s'isoler sur la France.</strong></div>
+              <div class="score-label">Extraction : <strong>Faible (40-50%) : échéance très lointaine.</strong></div>
+              <div class="bar"><div class="fill" style="width:40%; background:var(--red);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Le topic Semaine 42 mentionne une possible goutte froide GFS sur le nord de la France.</strong></div>
             </div>
             <details class="model-details" open>
               <summary>Voir le détail d'analyse</summary>
               <div class="details-body">
-                Les déterminismes à ces échéances ont une valeur très limitée. La moyenne d'ensemble est plus fiable, mais elle reste très dispersée.
+                GFS ouvre la porte à une dégradation plus nette par le nord. Dans ce scénario, les HDF verraient un retour des pluies faibles et des températures proches des normales. Le GEFS est très dispersé : tout reste possible.
+              </div>
+            </details>
+          </td>
+        </tr>
+        
+
+        <tr class="model-row">
+          <td data-label="Modèle">
+            <div class="model-name-box">
+              <div class="model-name">AIFS, ICON, GEM (projections secondaires)</div>
+              <span class="status-badge status-main">Mentionnés à titre comparatif, fiabilité réduite.</span>
+            </div>
+            <div class="chips" style="margin-top:6px;">
+              <span class="chip">3</span>
+              <span class="chip">Run : AIFS, GEM, ICON (10 octobre, échéances longues)</span>
+              <span class="chip">À partir du 19-20 octobre.</span>
+            </div>
+          </td>
+          <td data-label="Scénario"><span class="m-label">Scénario :</span>AIFS voit des HP scandinaves et de l'air frais; GEM reste plus doux; ICON maintient le blocage.</td>
+          <td data-label="Temps sensible"><span class="m-label">Temps sensible :</span>Fraîcheur relative possible par le nord-est; pluies faibles.</td>
+          <td data-label="Zones"><span class="m-label">Zones concernées :</span>Nord-est de la France, HDF concernés par l'air frais selon AIFS.</td>
+          <td data-label="Confiance & Soutien">
+            <div class="score-box">
+              <div class="score-label">Extraction : <strong>Faible (45 %)</strong></div>
+              <div class="bar"><div class="fill" style="width:45%; background:var(--red);"></div></div>
+              <div class="score-label" style="margin-top:6px;">Soutien : <strong>Le topic Semaine 42 compare AIFS, GEFS et GEM pour la période après le 18 octobre.</strong></div>
+            </div>
+            <details class="model-details" open>
+              <summary>Voir le détail d'analyse</summary>
+              <div class="details-body">
+                AIFS et GEFS penchent pour un flux de nord-est plus frais; GEM conserve une douceur plus marquée. ICON n'est pas détaillé mais suggère un blocage. Pour les HDF, le scénario AIFS serait synonyme de températures de saison, sans excès.
               </div>
             </details>
           </td>
@@ -854,12 +885,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
         </tbody>
       </table>
       <div class="compare" style="margin-top:12px;">
-        <div class="card"><h3>Convergences S2</h3><p>- Convergence 1 : L'anticyclone atlantique a de fortes chances de se rétracter ou de se décaler, mais sans retour franc des perturbations.
-- Convergence 2 : Une coulée fraîche ou une goutte froide est possible sur la France, avec un air plus frais pour les Hauts-de-France.
-- Convergence 3 : Les précipitations devraient rester faibles, sans épisode pluvieux majeur.</p></div>
-        <div class="card"><h3>Divergences S2</h3><p>- Divergence 1 : Position de l'anticyclone : à l'ouest de la France ou sur les îles Britanniques, avec des conséquences thermiques opposées.
-- Divergence 2 : Existence d'une dépression sur le Nord (GFS) ou non (CEP).
-- Divergence 3 : Températures : retour aux normales ou maintien de la douceur.</p></div>
+        <div class="card"><h3>Convergences S2</h3><p>1. Un flux de nord-est est probable en début de semaine 2.
+2. L'anticyclone atlantique reste proche.
+3. Aucun signal de fortes pluies.</p></div>
+        <div class="card"><h3>Divergences S2</h3><p>1. Scénario CEP (blocage) vs GFS (dépression/goutte froide).
+2. Températures proches des normales vs douceur persistante.
+3. Précipitations faibles vs nulles.</p></div>
       </div>
       <div class="cards3" style="margin-top:12px;">
         
@@ -886,12 +917,12 @@ function switchZoneTab(containerId, tabId, btnEl) {
     <div class="tech-block">
       <h4>📊 Transparence Méthodologique & Tableau des Doutes</h4>
       <div class="grid grid-2">
-        <div class="card"><h3>Calendrier</h3><p>Doutes sur la chronologie de la dégradation en fin de semaine 1 : vendredi, samedi, voire dimanche selon les modèles.</p></div>
-        <div class="card"><h3>Localisation</h3><p>Localisation très incertaine des averses : littoral/nord/est en semaine 1, mais pour la semaine 2, aucune zone fiable ne se dégage.</p></div>
-        <div class="card"><h3>Intensité</h3><p>Intensité du rafraîchissement et cumuls de pluie très incertains ; aucun signal fort de précipitations importantes.</p></div>
-        <div class="card"><h3>Données manquantes</h3><p>Pas de sujet dédié Semaine 43 sur le forum Infoclimat ; pas de discussion détaillée des membres spécifiquement axée sur les Hauts-de-France ; manque d'analyses ensemblistes pour les 5 départements en semaine 2.</p></div>
-        <div class="card"><h3>Modèles peu documentés</h3><p>ICON, GEM et AIFS très peu commentés ; ARPEGE et AROME non abordés dans les discussions ; Météo-France XML utilisé comme source officielle départementale.</p></div>
-        <div class="card"><h3>Images incertaines</h3><p>Cartes des clusters CEP à J+8-J+10 très dispersées ; diagrammes EPS montrant jusqu'à 15 °C d'écart dès vendredi ; cartes Hysplit ponctuelles et non exhaustives.</p></div>
+        <div class="card"><h3>Calendrier</h3><p>Le moment exact du basculement vers un air plus frais (vendredi 16, samedi 17 ou début semaine 2) reste incertain.</p></div>
+        <div class="card"><h3>Localisation</h3><p>Les averses pourraient se limiter au littoral et au nord, ou gagner l'intérieur (Avesnois, Santerre, Beauvaisis) selon la position de l'AA.</p></div>
+        <div class="card"><h3>Intensité</h3><p>Amplitude thermique en fin de semaine : simple retour aux normales ou baisse plus marquée ? Les écarts entre membres CEP atteignent 15°C à Paris/Toulouse à 175h.</p></div>
+        <div class="card"><h3>Données manquantes</h3><p>Sujet Semaine 43 non ouvert ; pas de discussions Infoclimat dédiées pour 19-25 octobre. Les bulletins Météo-France XML couvrent jusqu'à lundi 19 inclus ; pas de détail officiel au-delà.</p></div>
+        <div class="card"><h3>Modèles peu documentés</h3><p>ICON, GEM, AIFS : une seule mention chacun dans le topic Semaine 42, sans analyse détaillée pour les HDF.</p></div>
+        <div class="card"><h3>Images incertaines</h3><p>Cartes de clusters CEP à 192-240h et trajectoires Hysplit à 1500m : lourdes d'incertitude à cette échéance ; à interpréter avec précaution.</p></div>
       </div>
     </div>
   </div>
@@ -906,31 +937,31 @@ function switchZoneTab(containerId, tabId, btnEl) {
       <h3>📈 Évolution de la confiance</h3>
       <div class="sparkline"><div class="sparkline-row"><span>10/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>10/10 :</span> <span>███████░░░ Modérée</span></div>
-<div class="sparkline-row"><span>10/10 :</span> <span>███████░░░ Modérée</span></div>
+<div class="sparkline-row"><span>11/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>11/10 :</span> <span>███████░░░ Modérée</span></div>
 <div class="sparkline-row"><span>11/10 :</span> <span>███████░░░ Modérée</span></div></div>
     </div>
     <div class="card">
       <h3>🌡️ Évolution des températures</h3>
       <div class="sparkline">
-            <div class="sparkline-row"><span>Précédent run :</span> <span>Temps sec et doux, pic jeudi 20-23°C, rafraîchissement possible vendredi-samedi, averses faibles sur littoral/est.</span></div>
-            <div class="sparkline-row"><span>Run actuel :</span> <span>Pic de douceur jeudi (20-23 °C), averses faibles littoral/nord, rafraîchissement possible samedi/dimanche.</span></div>
+            <div class="sparkline-row"><span>Précédent run :</span> <span>Pic de douceur jeudi (20-23 °C), averses faibles littoral/nord, rafraîchissement possible samedi/dimanche.</span></div>
+            <div class="sparkline-row"><span>Run actuel :</span> <span>Pic de douceur jeudi, pluies faibles possibles en fin de semaine, rafraîchissement.</span></div>
             <div class="sparkline-row"><span>Évolution :</span> <span><span class="trend-pill trend-up">➡️ Évolution</span></span></div>
             </div>
     </div>
   </div>
 
   <div class="grid grid-2" style="margin-top:14px;">
-    <div class="card"><h3>Évolution générale</h3><p>Sur les 15 jours, temps souvent sec et doux, avec un pic de chaleur jeudi 15, puis rafraîchissement progressif. Semaine 2 très incertaine : possible retour aux normales ou goutte froide.</p></div>
-    <div class="card"><h3>Semaine la plus fiable</h3><p>Semaine 1 (12-18 octobre) : prévisions plus fiables, appuyées sur les bulletins départementaux Météo-France.</p></div>
-    <div class="card"><h3>Phénomènes récurrents</h3><p>Blocage anticyclonique persistant sur l'Atlantique et l'Europe de l'Ouest ; brumes et brouillards matinaux ; averses littorales.</p></div>
-    <div class="card"><h3>Incertitude majeure</h3><p>Évolution après vendredi 16 : position de l'anticyclone, possibilité de goutte froide, intensité du rafraîchissement.</p></div>
+    <div class="card"><h3>Évolution générale</h3><p>Temps souvent sec et très doux jusqu'à jeudi 15 (20-23°C), puis rafraîchissement progressif. Semaine 2 : hésitation entre maintien anticyclonique et tentative de dégradation par le nord-ouest; forte incertitude.</p></div>
+    <div class="card"><h3>Semaine la plus fiable</h3><p>Semaine 1 (12-18 octobre), en particulier jusqu'à jeudi 15.</p></div>
+    <div class="card"><h3>Phénomènes récurrents</h3><p>Brumes et brouillards matinaux, averses faibles littorales, blocage anticyclonique atlantique, douceur océanique persistante.</p></div>
+    <div class="card"><h3>Incertitude majeure</h3><p>Position de l'anticyclone atlantique vendredi-samedi; évolution des gouttes froides en semaine 2; retour des précipitations.</p></div>
   </div>
 
   <div style="margin-top:16px;">
     <h3>📱 Post LinkedIn</h3>
     <div class="linkedin-box">
-      <div id="linkedin" class="linkedin">🌤️ Hauts-de-France : une semaine 1 douce et sèche, mais un vrai doute pour la semaine 2 ! Jusqu'à jeudi, le soleil domine avec 20 à 23 °C, bien au-dessus des normales. Ensuite, le blocage anticyclonique pourrait céder : rafraîchissement possible, averses localisées. Pour la semaine du 19 au 25 octobre, les modèles sont très divisés : GFS entrevoit une dépression sur le Nord, CEP résiste avec un anticyclone. Restons prudents ! #Météo #HautsDeFrance #Prévisions #Infoclimat</div>
+      <div id="linkedin" class="linkedin">🌤️ Bulletin 15 jours Hauts-de-France : douceur remarquable jeudi 15 (20 à 23°C), puis rafraîchissement progressif. La semaine 2 reste très incertaine : blocage anticyclonique ou tentative de dégradation ? Les modèles CEP et GFS divergent nettement. Prudence et patience avant d'y voir plus clair ! #Météo #HautsDeFrance #Prévisions</div>
     </div>
   </div>
 </section>
