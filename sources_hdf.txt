@@ -279,7 +279,7 @@ Températures minimales : sans changement significatif.
 Températures maximales : similaires à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 110955 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 11 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 11 octobre 2026 à 06H00 UTC, et évolution Dépression 999 hPa sur le Danemark, se décalant vers l'est. Dorsale atlantique sur le sud du Golfe de Gascogne, faiblissant progressivement. Dépression complexe 960 hPa à l'ouest de l'Islande, générant un flux perturbé de Sud-Ouest. 3 - Prévisions pour l'après-midi du dimanche 11 octobre VENT : Ouest à Nord-Ouest 2 à 4, revenant Ouest à Sud-Ouest l'après-midi. MER : peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord, s'amortissant localement dans le détroit l'après-midi. TEMPS : peu nuageux à nuageux. VISIBILITE : bonne. 4 - Prévisions pour la nuit du dimanche 11 octobre au lundi 12 octobre VENT : Ouest à Sud-Ouest 2 à 4, revenant Sud en milieu de nuit, puis fraîchissant 4 à 5 à la fin. MER : peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord, s'amortissant le soir. TEMPS : nuageux, averses éparses. VISIBILITE : bonne, parfois moyenne sous averses. 5 - Prévisions pour la journée du lundi 12 octobre VENT : Sud à Sud-Est 4 à 5, fraîchissant localement 5 à 6 en Manche à la mi-journée. MER : devenant peu agitée à agitée. HOULE : s'établissant progressivement Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : couvert, parfois pluie ou averses l'après-midi. VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie ou averses l'après-midi. 6 - Prévisions pour la nuit du 12 au 13 et la journée du mardi 13 octobre VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest l'après-midi. Rafales. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en journée. TEMPS : pluie ou averses. VISIBILITE : moyenne à mauvaise sous pluie ou averses. 7 - Prévisions pour la nuit du 13 au 14 et la journée du mercredi 14 octobre VENT : Ouest 4 à 5 revenant Sud 4 en cours de matinée. MER : peu agitée, localement agitée en Manche. HOULE d'Ouest inférieure à 1,5 m, s'atténuant ensuite. 8 - Tendance pour les jours suivants Jeudi 15 octobre Secteur Sud à Sud-Ouest modéré. Indice de confiance : 4 sur 5 Vendredi 16 octobre Secteur Nord à Nord-Ouest modéré. Indice de confiance : 3 sur 5 Samedi 17 octobre Secteur Nord à Nord-Est modéré à assez fort. Indice de confiance : 3 sur 5 Dimanche 18 octobre Secteur Nord-Est assez fort. Indice de confiance : 2 sur 5 9 - Observations le dimanche 11 octobre 2026 à 09H00 UTC Dunkerque : vent Ouest-Nord-Ouest 12 noeuds, mer peu agitée, 1013 hPa en hausse, nuageux avec éclaircies, visibilité 6 milles. Cap Gris Nez : vent Nord-Ouest 14 noeuds. Boulogne : vent Nord-Ouest 8 noeuds, 1014 hPa en hausse, nuageux avec éclaircies, visibilité 17 milles. Prochain bulletin le dimanche 11 octobre 2026, vers 18H00 légales
+FQCT40 LFQQ 111620 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le dimanche 11 octobre 2026 à 18H00 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale dimanche 11 octobre 2026 à 12H00 UTC, et évolution Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin. 3 - Prévisions pour la nuit du dimanche 11 octobre au lundi 12 octobre VENT : Sud-Ouest 2 à 4, revenant Sud 3 à 4 en milieu de nuit, parfois 5 en Manche. MER : peu agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord le soir. TEMPS : nuageux. VISIBILITE : bonne. 4 - Prévisions pour la journée du lundi 12 octobre VENT : secteur Sud 4 à 5, fraîchissant localement 5 à 6 en Manche à la mi-journée. MER : devenant peu agitée à agitée. HOULE : s'établissant progressivement Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : couvert, parfois pluie l'après-midi. VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie l'après-midi. 5 - Tendance pour la nuit du 12 au 13, et la journée du mardi 13 octobre VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest l'après-midi. Rafales. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m l'après-midi. TEMPS : pluie ou averses, s'éclaircissant à la fin. VISIBILITE : moyenne à mauvaise sous pluie ou averses. 6 - Prévisions pour la nuit du 13 au 14 et la journée du mercredi 14 octobre VENT : Ouest 4 à 5 revenant Sud 4 en cours de matinée. MER : peu agitée, localement agitée en Manche. HOULE d'Ouest inférieure à 1,5 m, s'atténuant ensuite. 7 - Tendance pour les jours suivants Jeudi 15 octobre Secteur Sud à Sud-Ouest modéré. Indice de confiance : 4 sur 5 Vendredi 16 octobre Secteur Nord à Nord-Ouest modéré. Indice de confiance : 3 sur 5 Samedi 17 octobre Secteur Nord à Nord-Est modéré à assez fort. Indice de confiance : 3 sur 5 Dimanche 18 octobre Secteur Nord-Est assez fort. Indice de confiance : 2 sur 5 8 - Observations le dimanche 11 octobre 2026 à 15H00 UTC Dunkerque : vent Ouest 6 noeuds, mer peu agitée, 1014 hPa stationnaire, nuageux avec éclaircies, visibilité 5 milles. Cap Gris Nez : vent Sud-Ouest 8 noeuds. Boulogne : vent Ouest 4 noeuds, 1014 hPa en baisse. Bouée Sandettie : vent Nord-Ouest 4 noeuds, creux 0,6 mètre, 1014 hPa en baisse, visibilité 10 milles. Prochain bulletin le lundi 12 octobre 2026, vers 06H30 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -301,12 +301,12 @@ De J+4 à J+7 ﻿Pas de risque de vigilance orange sur la période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
-• Infoclimat Direct : Bugs sur Infoclimat #2
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Tendance hiver 2026-2027
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : 20°C consécutives]]>
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 11/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -314,35 +314,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Dimanche 11 Octobre 2026.
-Résumé général HDF précédent : Doux et sec en début de période, pic jeudi 15, bascule vendredi, rafraîchissement le week-end ; semaine 2 hésitante entre blocage sec et dorsale, avec températures proches ou légèrement sous normales..
+Résumé général HDF précédent : Doux et sec jusqu’à jeudi, bascule vendredi, week-end plus frais ; semaine 2 sous régime de hautes pressions incertain, tendance sèche et températures proches ou légèrement sous les normales..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pic de douceur jeudi, averses possibles vendredi, rafraîchissement le week-end dans un flux de nord..
+Températures attendues précédemment : Brumes matinales, averses mardi et vendredi, éclaircies, rafales littorales mardi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-Je pense que quand on regarde l'ensemble CEP :
-	On voit parfaitement que dès vendredi les courbes divergent beaucoup avec déjà 15 degrés d'écart entre la courbe la plus fraiche et la plus chaude ce qui démontre que les hypothèses qui sont modélisées sont très différentes avec un AA qui est positionné, selon chaque scénario, plus ou moins à l'ouest de la France et une dorsale vue aussi plus ou moins vigoureuse, il suffit de regarder le panel de l'ensemble pour le constater.
-	Il faut  tout simplement attendre pour en savoir plus, la fin du ce topic est très indécise. 
-								2
-
-=======================
-
-Auteur: giec 2100
-Message:
-il y a une heure, petit âge glaciaire 11 a dit :
-			Il faut  tout simplement attendre pour en savoir plus, la fin du ce topic est très indécise. 
-	oui ! 
-	ainsi sur le scénario de cluster de midi de CEP la coulée fraîche est désormais en pôle position, avec plus d'un quart des membres... !
-	le vortex polaire lâche un pseudopode jusque sur l'arc méd, coincé entre deux anticyclones, l'atlantique et celui sur l'Europe centrale... 
-	le scénario habituel, avec le col anticyclonique sur la France, ne concerne plus qu'une moitié à peine des membres : grande nouveauté... avant la prochaine versatilité ?.
-	situation prévue en surface - 1000 hPa - basée sur le regroupement des membres à 500 hPa : https://charts.ecmwf.int/permalinks/cluster-scenario-12667
-	Modifié vendredi à 23:06 par giec 2100
-								2
-
-=======================
-
 Auteur: Run999H
 Message:
 On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte de sortie était potentiellement ouverte jeudi (parfois mercredi sur les scénarios les plus optimistes), c’est désormais pour vendredi voire samedi pour le sud de la France voire pas de sortie du tout à la lecture d’ICON ce matin. 
@@ -509,7 +486,7 @@ Bon on avance,une synoptique pour samedi matin semble assez probable ce soir.
 	En matière de masse d'air à 850 Hpa cela donnerait ceci :
 	AIFS et GEFS frais surtout dans le nord-est et GEM plus doux car pas d'anticyclone sur la Scandinavie pour drainer de l'air frais pas l'est
 	 vers la France.
-	Modifié il y a 20 heures par petit âge glaciaire 11
+	Modifié il y a 22 heures par petit âge glaciaire 11
 								1
 								1
 
@@ -543,8 +520,8 @@ A noter tout même que l’on parle d’une synoptique de blocage mais que ça n
 	Tout comme la GF (fin à ce niveau la tempete) sur la bretagne qui prend des trajectoires differentes.
 	Je n’ai pas le temps ce matin de sortir des cartes mais je voulais souligner le caractere Volubile de la fin d’echeance grace à un cyclogenese certe trop au nord mais très active entre le groenland et l’Islande.
 	Le cadre general est là mais la position des centres d’action peut encore faire beaucoup bouger les ressentis et le déroulé de la prochaine échéance !
-	Modifié il y a 8 heures par Krholam
-								1
+	Modifié il y a 10 heures par Krholam
+								2
 
 =======================
 
@@ -563,9 +540,9 @@ CEP modélise une belle goutte froide sur la France qui arriverait par le nord-e
 	Une telle GF pourrait déstabiliser momentanément l'atmosphère, provoquer un rafraîchissement et peut-être générer des averses.
 	Édit : le dernier run de GFS s'aligne assez bien sur celui de CEP pour la GF, ci après les 2 modèles :
 	On peut dire que ce scénario prend du galon même si le timing est un peu différent pour les 2 modèles, à suivre..
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 Modifié
-								2
+								3
 
 =======================
 
@@ -574,9 +551,26 @@ Message:
 Il y a 1 heure, Krholam a dit :
 			Je n’ai pas le temps ce matin de sortir des cartes mais je voulais souligner le caractere Volubile de la fin d’echeance 
 	Je vous trouve justement trés volubile par rapport au caractère volatile de la fin d'échéance...
-								3
+								4
 								1
+								6
+
+=======================
+
+Auteur: Hassan
+Message:
+Après un milieu de semaine bien doux, le week end prochain est vu beaucoup plus frais avec un flux d'est Nord-est qui s'installe :
+	Modifié il y a 53 minutes par Hassan
 								5
+								2
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Oui. GFS semble opter pour un flux de NE en fin de topic. Les températures vont baisser. Baisse durable ou pas, à voir.
+	J'aurais préféré un bon flux d'Ouest.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
 Auteur: Nico 14
@@ -589,8 +583,8 @@ Message:
 	On retrouve ces propositions à la comparaison de GEFS ce matin et de sa version IA. Cette dernière est la plus favorable à un repli au NO des HG ; on devine une propagation rétrograde du blocage avec une évolution vers un régime AR, c'est aussi la version du déterministe américain ce matin. Son ensemble est plus favorable au maintien d'un imposant blocage avec une circulation d'anomalie basse dessous.
 	Les Européens sont encore partagés sur ces propositions :
 	Dans le détail de ces ensembles, comme dit précédemment, il conviendra de nous situer par rapport à ces mouvements et interactions pour préciser nos conditions. Évolution à suivre donc dans la semaine, la dispersion est marquée. Pour donner un avis au niveau synoptique, j'opterai pour une propagation rétrograde du blocage à terme avec un régime de dorsale. Potentiellement favorable à de l'humidité? 
-	Modifié il y a 7 heures par Nico 14
-								11
+	Modifié il y a 9 heures par Nico 14
+								12
 								1
 								6
 								1

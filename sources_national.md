@@ -308,12 +308,12 @@ De J+4 à J+7 ﻿Pas de risque de vigilance orange sur la période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi de la secheresse
-• Infoclimat Direct : Suivi du temps en &#xCE;le de France - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
-• Infoclimat Direct : Bugs sur Infoclimat #2
+• Infoclimat Direct : Tendance hiver 2026-2027
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
+• Infoclimat Direct : 20°C consécutives]]>
+• Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
+• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 11/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -321,35 +321,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Dimanche 11 Octobre 2026.
-Résumé général précédent : Tendance sèche et douce en première semaine avec un pic de chaleur jeudi, puis rafraîchissement incertain en fin de semaine 1. Semaine 2 plus fraîche et sèche, avec des températures proches des normales et une évolution synoptique encore mal cernée..
+Résumé général précédent : Du 12 au 25 octobre : temps sec et doux à chaud jusqu'au 16, rafraîchissement possible ensuite, puis semaine 2 proche des normales sous blocage/dorsale/NAO+..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Chaleur tardive puis chute thermique possible et instabilité en fin de période..
+Températures attendues précédemment : Temps sec et doux jusqu'à vendredi, rafraîchissement possible et averses localisées le week-end..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: petit âge glaciaire 11
-Message:
-Je pense que quand on regarde l'ensemble CEP :
-	On voit parfaitement que dès vendredi les courbes divergent beaucoup avec déjà 15 degrés d'écart entre la courbe la plus fraiche et la plus chaude ce qui démontre que les hypothèses qui sont modélisées sont très différentes avec un AA qui est positionné, selon chaque scénario, plus ou moins à l'ouest de la France et une dorsale vue aussi plus ou moins vigoureuse, il suffit de regarder le panel de l'ensemble pour le constater.
-	Il faut  tout simplement attendre pour en savoir plus, la fin du ce topic est très indécise. 
-								2
-
-=======================
-
-Auteur: giec 2100
-Message:
-il y a une heure, petit âge glaciaire 11 a dit :
-			Il faut  tout simplement attendre pour en savoir plus, la fin du ce topic est très indécise. 
-	oui ! 
-	ainsi sur le scénario de cluster de midi de CEP la coulée fraîche est désormais en pôle position, avec plus d'un quart des membres... !
-	le vortex polaire lâche un pseudopode jusque sur l'arc méd, coincé entre deux anticyclones, l'atlantique et celui sur l'Europe centrale... 
-	le scénario habituel, avec le col anticyclonique sur la France, ne concerne plus qu'une moitié à peine des membres : grande nouveauté... avant la prochaine versatilité ?.
-	situation prévue en surface - 1000 hPa - basée sur le regroupement des membres à 500 hPa : https://charts.ecmwf.int/permalinks/cluster-scenario-12667
-	Modifié vendredi à 23:06 par giec 2100
-								2
-
-=======================
-
 Auteur: Run999H
 Message:
 On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte de sortie était potentiellement ouverte jeudi (parfois mercredi sur les scénarios les plus optimistes), c’est désormais pour vendredi voire samedi pour le sud de la France voire pas de sortie du tout à la lecture d’ICON ce matin. 
@@ -516,7 +493,7 @@ Bon on avance,une synoptique pour samedi matin semble assez probable ce soir.
 	En matière de masse d'air à 850 Hpa cela donnerait ceci :
 	AIFS et GEFS frais surtout dans le nord-est et GEM plus doux car pas d'anticyclone sur la Scandinavie pour drainer de l'air frais pas l'est
 	 vers la France.
-	Modifié il y a 20 heures par petit âge glaciaire 11
+	Modifié il y a 22 heures par petit âge glaciaire 11
 								1
 								1
 
@@ -550,8 +527,8 @@ A noter tout même que l’on parle d’une synoptique de blocage mais que ça n
 	Tout comme la GF (fin à ce niveau la tempete) sur la bretagne qui prend des trajectoires differentes.
 	Je n’ai pas le temps ce matin de sortir des cartes mais je voulais souligner le caractere Volubile de la fin d’echeance grace à un cyclogenese certe trop au nord mais très active entre le groenland et l’Islande.
 	Le cadre general est là mais la position des centres d’action peut encore faire beaucoup bouger les ressentis et le déroulé de la prochaine échéance !
-	Modifié il y a 8 heures par Krholam
-								1
+	Modifié il y a 10 heures par Krholam
+								2
 
 =======================
 
@@ -570,9 +547,9 @@ CEP modélise une belle goutte froide sur la France qui arriverait par le nord-e
 	Une telle GF pourrait déstabiliser momentanément l'atmosphère, provoquer un rafraîchissement et peut-être générer des averses.
 	Édit : le dernier run de GFS s'aligne assez bien sur celui de CEP pour la GF, ci après les 2 modèles :
 	On peut dire que ce scénario prend du galon même si le timing est un peu différent pour les 2 modèles, à suivre..
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 Modifié
-								2
+								3
 
 =======================
 
@@ -581,9 +558,26 @@ Message:
 Il y a 1 heure, Krholam a dit :
 			Je n’ai pas le temps ce matin de sortir des cartes mais je voulais souligner le caractere Volubile de la fin d’echeance 
 	Je vous trouve justement trés volubile par rapport au caractère volatile de la fin d'échéance...
-								3
+								4
 								1
+								6
+
+=======================
+
+Auteur: Hassan
+Message:
+Après un milieu de semaine bien doux, le week end prochain est vu beaucoup plus frais avec un flux d'est Nord-est qui s'installe :
+	Modifié il y a 53 minutes par Hassan
 								5
+								2
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Oui. GFS semble opter pour un flux de NE en fin de topic. Les températures vont baisser. Baisse durable ou pas, à voir.
+	J'aurais préféré un bon flux d'Ouest.
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
 Auteur: Nico 14
@@ -596,8 +590,8 @@ Message:
 	On retrouve ces propositions à la comparaison de GEFS ce matin et de sa version IA. Cette dernière est la plus favorable à un repli au NO des HG ; on devine une propagation rétrograde du blocage avec une évolution vers un régime AR, c'est aussi la version du déterministe américain ce matin. Son ensemble est plus favorable au maintien d'un imposant blocage avec une circulation d'anomalie basse dessous.
 	Les Européens sont encore partagés sur ces propositions :
 	Dans le détail de ces ensembles, comme dit précédemment, il conviendra de nous situer par rapport à ces mouvements et interactions pour préciser nos conditions. Évolution à suivre donc dans la semaine, la dispersion est marquée. Pour donner un avis au niveau synoptique, j'opterai pour une propagation rétrograde du blocage à terme avec un régime de dorsale. Potentiellement favorable à de l'humidité? 
-	Modifié il y a 7 heures par Nico 14
-								11
+	Modifié il y a 9 heures par Nico 14
+								12
 								1
 								6
 								1
