@@ -308,22 +308,22 @@ De J+4 à J+7 ﻿Pas de risque de vigilance orange sur la période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
+• Infoclimat Direct : Bugs sur Infoclimat #2
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi de l'activité solaire et aurorale
 • Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Sud-Ouest - Octobre 2026
 • Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Automne/hiver 2026-2027 dans les Pyrénées
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 11/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Samedi 10 Octobre 2026.
-Résumé général précédent : Sur 15 jours, temps sec et anticyclonique dominant avec un pic de douceur jeudi 15, puis incertitude croissante et possible rafraîchissement sans certitude pour la semaine 43..
+Dernier bulletin généré le Dimanche 11 Octobre 2026.
+Résumé général précédent : Temps sec et anticyclonique dominant, avec un pic de douceur jeudi 15 puis rafraîchissement incertain en semaine 43..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et doux, rafraîchissement possible en fin de semaine, pluies faibles au nord..
+Températures attendues précédemment : Temps sec et doux, pic de chaleur jeudi, rafraîchissement possible en fin de semaine..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -413,7 +413,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 	Le pic de douceur / chaleur pourrait avoir lieu jeudi et on se rapproche dangereusement de la barre des 30° dans quelques coins du sud-ouest et plus généralement autour des 25° à 27° sur cette région. Les 25° pourraient atteindre la Loire sur cette même journée. 
 	Restons au conditionnel vu l’échéance mais, une nouvelle fois, les températures seraient largement excédentaires sur la semaine et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
 	A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
-	Modifié il y a 17 heures par Run999H
+	Modifié il y a 19 heures par Run999H
 								2
 								4
 
@@ -422,7 +422,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 Auteur: Nico 14
 Message:
 Cela dépendra beaucoup de la fin de semaine et du comportement des HG pour l'anomalie hebdo des T2m. "Largement excédentaire" me parait excessif et plutôt réservé pour la péninsule ibérique. L'excédent du début pourrait être compensé par une baisse des températures et un passage sous les normes en fin de semaine si les HG s'élèvent plus à l'ouest comme certains modèles commencent à l'envisager. Des précipitations ne sont pas à exclure non plus y compris et je dirais même surtout au sud avec l'évolution d'un talweg pour le week-end.
-	Modifié il y a 16 heures par Nico 14
+	Modifié il y a 18 heures par Nico 14
 								6
 
 =======================
@@ -432,7 +432,7 @@ Message:
 Voici les diagrammes IFS et EPS 00z qui montrent toujours cette dispersion pour la fin de semaine prochaine, bien que le tube majoritaire soit maintenant dans le bas de l'ensemble. Avec Hysplit, la provenance d'une parcelle d'air à 1 500 m, qui trace l'origine de la masse d'air, pour jeudi et dimanche prochains selon GFS00z. Le week-end prochain signera-t-il le rallumage du chauffage pour certaines zones du pays ? Possible..
 	@giec 2100:
 	https://www.ready.noaa.gov/hypub-bin/trajtype.pl
-	Modifié il y a 13 heures par Nico 14
+	Modifié il y a 15 heures par Nico 14
 								1
 								1
 
@@ -452,7 +452,7 @@ Il y a 2 heures, Run999H a dit :
 	de saison de manière durable ( je n'y crois pas trop pour l'instant ) et qu'il y aura des précipitations suffisantes car la nature à grand besoin de cela.
 	Masse d'air samedi à 20 heures :
 	Edit : Au vu des températures de surface actuelles, il est tout à fait possible de se baigner en méditerrannée et même dans l'atlantique voire en mer du nord ce qui est quand même extraordinaire un 10 octobre :
-	Modifié il y a 15 heures par petit âge glaciaire 11
+	Modifié il y a 17 heures par petit âge glaciaire 11
 Modifié
 								1
 
@@ -475,7 +475,7 @@ il y a 46 minutes, Plancher a dit :
 	La moyenne est plutôt claire sur CEP avec le retrait de l'AA
 	La situation que tu vois à 2 GF c'est autours de 240h
 	L'ensemble des variations à cette échéance est vraiment très dispersé. On a effectivement des GF mais qui pour le coup ont des placements très variés allant de la pompe à chaleur comme on le déteste à des positionnements plus avantageux en terme de PP ou de températures !
-	Modifié il y a 14 heures par Krholam
+	Modifié il y a 16 heures par Krholam
 								1
 								1
 
@@ -487,7 +487,7 @@ L'ensemble CEP  de ce matin confirme la grande dispersion des courbes dés same
 	Paris et Toulouse :
 	 Incertitudes dans le nord et dans le sud  de la France pour l'européen.
 	Ce modèle n'arrive pas a caler la position de l' AA et a gérer l'évolution des gouttes froides 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 
 =======================
 
@@ -503,7 +503,7 @@ Message:
 	et pour revenir à ce qui continue de nous obséder, le manque cumulé de précipitations, depuis si longtemps, la carte de probabilité de recueillir des "précipitations efficaces", que je caractérise ici par un cumul quotidien de 5mm, avec ce jaune qui enveloppe une bonne partie de l'Europe, à l'exception des côtes occidentales de la Fennoscandie, donc chances assez minces...
 	https://charts.ecmwf.int/products/pb_tpr?area=Europe&amp;base_time=202610091200&amp;days=7-10&amp;threshold=&gt;5
 	@Nico 14 où trouver ces NOAA Hysplit, peut-on avoir le lien... ? merci d'avance !
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 analyse supplémentaire, rafraîchie
 								1
 
@@ -536,7 +536,7 @@ Les situations d'échange méridiens ne sont pas non plus rare à cette période
 	Le grand maitre dans tout ça reste le jet stream. Ce n'est pas spécialement les chaleurs océaniques ou les racines subtropicales des anticyclone qui dictent la création des GF, (même si par contre ils n'aident pas forcément à leur évacuation rapide)
 	On est à un période de l'année aussi ou les GF sont beaucoup plus mobiles notament grâce à cette vigueur du jet stream. Les blocages sur 15j comme cet été sont plutôt rare
 	(Qu’on me reprenne s’il y a des choses à ajouter ou si j’ai dit des anneries)
-	Modifié il y a 8 heures par Krholam
+	Modifié il y a 10 heures par Krholam
 								5
 								1
 
@@ -550,7 +550,7 @@ oui, il y a des scénarios qui répondent au second groupe évoqué plus haut, a
 	 :
 	situation type à probabilité non nulle puisque figurant sur le second cluster de CEP00Z évoqué plus haut :
 	faites vos jeux rien ne va plus... ou tout va bien,  et attendons la mise à jour de midi...
-	Modifié il y a 9 heures par giec 2100
+	Modifié il y a 11 heures par giec 2100
 
 =======================
 
@@ -570,7 +570,7 @@ Bon on avance,une synoptique pour samedi matin semble assez probable ce soir.
 	En matière de masse d'air à 850 Hpa cela donnerait ceci :
 	AIFS et GEFS frais surtout dans le nord-est et GEM plus doux car pas d'anticyclone sur la Scandinavie pour drainer de l'air frais pas l'est
 	 vers la France.
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 								1
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
@@ -660,7 +660,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 	Le pic de douceur / chaleur pourrait avoir lieu jeudi et on se rapproche dangereusement de la barre des 30° dans quelques coins du sud-ouest et plus généralement autour des 25° à 27° sur cette région. Les 25° pourraient atteindre la Loire sur cette même journée. 
 	Restons au conditionnel vu l’échéance mais, une nouvelle fois, les températures seraient largement excédentaires sur la semaine et, une nouvelle fois, l’ouest et le sud-ouest en ligne de mire. Ça ne remet toutefois pas en question le possible rafraîchissement par le nord-ouest qui reste d’actualité pour la toute fin de semaine ou WE mais ça pourrait être un peu plus tardif. Acharnement quand tu nous tiens ! 
 	A ce rythme là, on va finir par inverser nos consommations électriques : on consommera plus l’été que l’hiver 🥴
-	Modifié il y a 17 heures par Run999H
+	Modifié il y a 19 heures par Run999H
 								2
 								4
 
@@ -669,7 +669,7 @@ On a gagné (ou perdu) une journée de temps anticyclonique et chaud. La porte d
 Auteur: Nico 14
 Message:
 Cela dépendra beaucoup de la fin de semaine et du comportement des HG pour l'anomalie hebdo des T2m. "Largement excédentaire" me parait excessif et plutôt réservé pour la péninsule ibérique. L'excédent du début pourrait être compensé par une baisse des températures et un passage sous les normes en fin de semaine si les HG s'élèvent plus à l'ouest comme certains modèles commencent à l'envisager. Des précipitations ne sont pas à exclure non plus y compris et je dirais même surtout au sud avec l'évolution d'un talweg pour le week-end.
-	Modifié il y a 16 heures par Nico 14
+	Modifié il y a 18 heures par Nico 14
 								6
 
 =======================
@@ -679,7 +679,7 @@ Message:
 Voici les diagrammes IFS et EPS 00z qui montrent toujours cette dispersion pour la fin de semaine prochaine, bien que le tube majoritaire soit maintenant dans le bas de l'ensemble. Avec Hysplit, la provenance d'une parcelle d'air à 1 500 m, qui trace l'origine de la masse d'air, pour jeudi et dimanche prochains selon GFS00z. Le week-end prochain signera-t-il le rallumage du chauffage pour certaines zones du pays ? Possible..
 	@giec 2100:
 	https://www.ready.noaa.gov/hypub-bin/trajtype.pl
-	Modifié il y a 13 heures par Nico 14
+	Modifié il y a 15 heures par Nico 14
 								1
 								1
 
@@ -699,7 +699,7 @@ Il y a 2 heures, Run999H a dit :
 	de saison de manière durable ( je n'y crois pas trop pour l'instant ) et qu'il y aura des précipitations suffisantes car la nature à grand besoin de cela.
 	Masse d'air samedi à 20 heures :
 	Edit : Au vu des températures de surface actuelles, il est tout à fait possible de se baigner en méditerrannée et même dans l'atlantique voire en mer du nord ce qui est quand même extraordinaire un 10 octobre :
-	Modifié il y a 15 heures par petit âge glaciaire 11
+	Modifié il y a 17 heures par petit âge glaciaire 11
 Modifié
 								1
 
@@ -722,7 +722,7 @@ il y a 46 minutes, Plancher a dit :
 	La moyenne est plutôt claire sur CEP avec le retrait de l'AA
 	La situation que tu vois à 2 GF c'est autours de 240h
 	L'ensemble des variations à cette échéance est vraiment très dispersé. On a effectivement des GF mais qui pour le coup ont des placements très variés allant de la pompe à chaleur comme on le déteste à des positionnements plus avantageux en terme de PP ou de températures !
-	Modifié il y a 14 heures par Krholam
+	Modifié il y a 16 heures par Krholam
 								1
 								1
 
@@ -734,7 +734,7 @@ L'ensemble CEP  de ce matin confirme la grande dispersion des courbes dés same
 	Paris et Toulouse :
 	 Incertitudes dans le nord et dans le sud  de la France pour l'européen.
 	Ce modèle n'arrive pas a caler la position de l' AA et a gérer l'évolution des gouttes froides 
-	Modifié il y a 13 heures par petit âge glaciaire 11
+	Modifié il y a 15 heures par petit âge glaciaire 11
 
 =======================
 
@@ -750,7 +750,7 @@ Message:
 	et pour revenir à ce qui continue de nous obséder, le manque cumulé de précipitations, depuis si longtemps, la carte de probabilité de recueillir des "précipitations efficaces", que je caractérise ici par un cumul quotidien de 5mm, avec ce jaune qui enveloppe une bonne partie de l'Europe, à l'exception des côtes occidentales de la Fennoscandie, donc chances assez minces...
 	https://charts.ecmwf.int/products/pb_tpr?area=Europe&amp;base_time=202610091200&amp;days=7-10&amp;threshold=&gt;5
 	@Nico 14 où trouver ces NOAA Hysplit, peut-on avoir le lien... ? merci d'avance !
-	Modifié il y a 12 heures par giec 2100
+	Modifié il y a 14 heures par giec 2100
 analyse supplémentaire, rafraîchie
 								1
 
@@ -783,7 +783,7 @@ Les situations d'échange méridiens ne sont pas non plus rare à cette période
 	Le grand maitre dans tout ça reste le jet stream. Ce n'est pas spécialement les chaleurs océaniques ou les racines subtropicales des anticyclone qui dictent la création des GF, (même si par contre ils n'aident pas forcément à leur évacuation rapide)
 	On est à un période de l'année aussi ou les GF sont beaucoup plus mobiles notament grâce à cette vigueur du jet stream. Les blocages sur 15j comme cet été sont plutôt rare
 	(Qu’on me reprenne s’il y a des choses à ajouter ou si j’ai dit des anneries)
-	Modifié il y a 8 heures par Krholam
+	Modifié il y a 10 heures par Krholam
 								5
 								1
 
@@ -797,7 +797,7 @@ oui, il y a des scénarios qui répondent au second groupe évoqué plus haut, a
 	 :
 	situation type à probabilité non nulle puisque figurant sur le second cluster de CEP00Z évoqué plus haut :
 	faites vos jeux rien ne va plus... ou tout va bien,  et attendons la mise à jour de midi...
-	Modifié il y a 9 heures par giec 2100
+	Modifié il y a 11 heures par giec 2100
 
 =======================
 
@@ -817,5 +817,5 @@ Bon on avance,une synoptique pour samedi matin semble assez probable ce soir.
 	En matière de masse d'air à 850 Hpa cela donnerait ceci :
 	AIFS et GEFS frais surtout dans le nord-est et GEM plus doux car pas d'anticyclone sur la Scandinavie pour drainer de l'air frais pas l'est
 	 vers la France.
-	Modifié il y a 4 heures par petit âge glaciaire 11
+	Modifié il y a 6 heures par petit âge glaciaire 11
 								1
