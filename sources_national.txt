@@ -335,12 +335,12 @@ de passage en vigilance orange est faible pour le moment.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Centre-Est - Octobre 2026
-• Infoclimat Direct : Automne 2026 et hiver 2026-2027 dans les Massifs de l'Est
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Suivi du temps dans le Nord-Est - Octobre 2026
+• Infoclimat Direct : Le topic du Jardinage
 • Infoclimat Direct : Tendance hiver 2026-2027
+• Infoclimat Direct : Tendance hiver 2026-2027
+• Infoclimat Direct : Prévisions Centre-Est Octobre 2026
+• Infoclimat Direct : Suivi du temps dans les régions méditerranéennes - Octobre 2026
+• Infoclimat Direct : Suivi du temps dans le Centre-Ouest - Octobre 2026
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 12/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -348,9 +348,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Lundi 12 Octobre 2026.
-Résumé général précédent : Semaine 1 douce et sèche, puis net rafraîchissement le week-end ; semaine 2 sous blocage, avec un risque méditerranéen à surveiller et une sécheresse qui s'accentue..
+Résumé général précédent : Blocage anticyclonique atlantique dominant, temps sec et très doux en début de période, puis net rafraîchissement ; risque d'épisode méditerranéen à surveiller en seconde semaine..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Rafraîchissement samedi-dimanche sous flux de nord-est ; averses possibles selon la trajectoire de la goutte froide..
+Températures attendues précédemment : Rafraîchissement samedi-dimanche, averses possibles selon la position de la goutte froide..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -518,7 +518,7 @@ Il y a 1 heure, Krholam a dit :
 Auteur: Hassan
 Message:
 Après un milieu de semaine bien doux, le week end prochain est vu beaucoup plus frais avec un flux d'est Nord-est qui s'installe :
-	Modifié il y a 18 heures par Hassan
+	Modifié il y a 20 heures par Hassan
 								5
 								4
 								1
@@ -559,7 +559,7 @@ Il y a 4 heures, Jojobarbar a dit :
 	pour le reste, oui, le champ de patate est à perte de vue et la sécheresse itou... 7mm de médiane pour le cumul de rr à Bordeaux à la même date...
 	sinon sur le diagramme c'est la dispersion extrême pour la prévision de température dès vendredi prochain... : 
 	https://www.meteociel.fr/cartes_obs/ecmwfens_display.php?lat=44.853&amp;lon=-0.56767&amp;ville=Bordeaux&amp;aifs=1&amp;mode=1
-	Modifié il y a 11 heures par giec 2100
+	Modifié il y a 13 heures par giec 2100
 								1
 
 =======================
@@ -579,9 +579,9 @@ Message:
 	Ce matin AIFS single baisse un peu : il est à mi chemin. Un peu d'espoir ?
 	Maintenant qu'on a sucé jusqu'à la moelle ce diagramme ponctuel, pour Paris, que sur la température, il faut croiser avec les autres produits à disposition... 
 	Si on regarde la carte du champ géopotentiel à 500hPa et Pmer, on a donc bien un scénario entre deux, avec un anticyclone qui se décale un peu vers l'ouest, et qui est réalimenté. Je n'ai pas le temps de creuser + ! Vu les autres messages et ceux du topic prochain, on peut avoir des motifs d'espoir, mais cette persistance de l'AIFS Single m'interroge.
-	Modifié il y a 4 heures par Jojobarbar
+	Modifié il y a 6 heures par Jojobarbar
 								2
-								1
+								2
 
 =======================
 
@@ -592,7 +592,8 @@ Message:
 	pointu au point de péter ces fichues patates anticycloniques ça serait le summum... !
 	sinon une telle incertitude pour une courte-moyenne échéance rend vraiment kamikaze la suivante...
 	@+
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
+								1
 
 =======================
 
@@ -646,7 +647,7 @@ Perso, je patauge. Je vois plein de scénarios possibles sauf celui du retour de
 Auteur: Leonai
 Message:
 Au vu des prévisions pour le moment simulées par certains modèles, il serait peut-être judicieux de penser à construire des canaux qui transportent l'eau depuis les côtes méditerranéennes jusque vers les territoires ultra secs ..?  😲
-	Modifié il y a 2 heures par Leonai
+	Modifié il y a 4 heures par Leonai
 								2
 
 =======================
@@ -657,7 +658,7 @@ Il y a 3 heures, Krholam a dit :
 			 Coté PP on est sur le coté sec pour le moment et comme l’a indiqué @Nico 14 un potentiel de pluie au sud marqué par du vert pas loins des cotes et une part d’incertitude plus grande en rentrant sur les terres proche mediterranée 
 	Signal en grande partie lié au talweg de la fin de semaine précédente qui devrait évoluer sur un axe Pays-Bas-&gt;Golfe de Gascogne/péninsule ibérique puis s'isoler avec une orientation du flux propice à un épisode méditerranéen vers LR. Tout cela pourrait débuter dès la fin du topic précédent c'est à dire ce dimanche et se poursuivre dès les premières heures de celui-ci, néanmoins il faudra voir cela dans des échéances plus courtes, ça reste largement à préciser.(trajectoire de la goutte froide et vitesse de circulation).
 	Pour le reste au niveau synoptique rien de plus à ajouter qu'hier....
-	Modifié il y a 2 heures par Nico 14
+	Modifié il y a 4 heures par Nico 14
 								1
 								1
 
@@ -666,7 +667,7 @@ Il y a 3 heures, Krholam a dit :
 Auteur: Plancher
 Message:
 Je vois plus de signaux en faveur d'une persistance de la douceur que de l'arrivée du froid. Chez les déterministes et les ensemblistes. Mais, je commets peut-être une erreur dans mon analyse.
-								1
+								2
 
 =======================
 
@@ -680,4 +681,4 @@ avec le diagramme temps-longitude de moyenne d'ensemble de dimanche, pour la Fra
 	on attend la réactualisation du diagramme... la mort dans l'âme...
 	no future...
 	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610110000&amp;parameter=geopotential 500 hPa
-								1
+								2
