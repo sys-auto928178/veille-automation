@@ -304,7 +304,7 @@ Températures minimales : en hausse sur la Thiérache.
 Températures maximales : identiques à la veille.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT59-62-80] ===
-FQCT40 LFQQ 120415 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 12 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 12 octobre 2026 à 00H00 UTC, et évolution Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée. 3 - Prévisions pour la journée du lundi 12 octobre VENT : secteur Sud 4 à 5, fraîchissant 5 à 6 à la mi-journée. MER : peu agitée, devenant peu agitée à agitée en matinée. HOULE : s'établissant progressivement Ouest 0.5 à 1 m. TEMPS : couvert, parfois pluvieux l'après-midi. VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie l'après-midi. 4 - Prévisions pour la nuit du lundi 12 octobre au mardi 13 octobre VENT : Sud à Sud-Ouest 4 à 5, parfois 6. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : quelques passages pluvieux. VISIBILITE : bonne, parfois moyenne sous pluie. 5 - Prévisions pour la journée du mardi 13 octobre VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi. TEMPS : pluie ou averses, s'éclaircissant l'après-midi. VISIBILITE : moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 13 au 14 et la journée du mercredi 14 octobre VENT : Ouest à Sud-Ouest 5. MER : peu agitée, localement agitée en Manche. HOULE : Établissement temporaire d'une houle d'Ouest 1,5 à 2 m en début de nuit. 7 - Tendance pour les jours suivants Jeudi 15 octobre Secteur Sud à Sud-Ouest modéré. Indice de confiance : 4 sur 5 Vendredi 16 octobre Secteur Nord à Nord-Ouest modéré. Indice de confiance : 3 sur 5 Samedi 17 octobre Secteur Nord à Nord-Est modéré à assez fort. Indice de confiance : 3 sur 5 Dimanche 18 octobre Secteur Nord-Est assez fort. Indice de confiance : 2 sur 5 8 - Observations le lundi 12 octobre 2026 à 03H00 UTC Dunkerque : vent Sud 8 noeuds, 1016 hPa en baisse. Cap Gris Nez : vent Sud-Sud-Est 14 noeuds. Boulogne : vent Sud-Est 8 noeuds, 1016 hPa en baisse. Bouée Sandettie : vent Sud-Sud-Est 17 noeuds, creux 0,4 mètre, 1015 hPa en baisse, visibilité 10 milles. Prochain bulletin le lundi 12 octobre 2026, vers 12H30 légales
+FQCT40 LFQQ 120935 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme. Emis le lundi 12 octobre 2026 à 12H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 12 octobre 2026 à 06H00 UTC, et évolution Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée. 3 - Prévisions pour l'après-midi du lundi 12 octobre VENT : secteur Sud 5 à 6. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : couvert et parfois pluvieux. VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie. 4 - Prévisions pour la nuit du lundi 12 octobre au mardi 13 octobre VENT : Sud à Sud-Ouest 4 à 5, parfois 6. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m. TEMPS : quelques passages pluvieux. VISIBILITE : bonne, parfois moyenne sous pluie. 5 - Prévisions pour la journée du mardi 13 octobre VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales. MER : peu agitée à agitée. HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi. TEMPS : pluie ou averses, s'éclaircissant l'après-midi. VISIBILITE : bonne, mais moyenne à mauvaise sous précipitations. 6 - Prévisions pour la nuit du 13 au 14 et la journée du mercredi 14 octobre VENT : Ouest à Nord-Ouest 4 à 5, mollissant progressivement 1 à 3 en fin de nuit, puis fraîchissant Sud à Sud-Ouest 3 à 4 l'après-midi. MER : peu agitée à agitée, s'atténuant belle à peu agitée en matinée. HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi. TEMPS : peu nuageux dans la nuit, puis voilé en journée. VISIBILITE : bonne. 7 - Prévisions pour la nuit du 14 au 15 et la journée du jeudi 15 octobre VENT : Sud à Sud-Ouest 3 à 4. MER : peu agitée. HOULE d'Ouest 0,5 à 1 m. 8 - Tendance pour les jours suivants Vendredi 16 octobre Secteur Nord-Est modéré à assez fort. Indice de confiance : 4 sur 5 Samedi 17 octobre Secteur Est modéré à assez fort. Indice de confiance : 3 sur 5 Dimanche 18 octobre Secteur Est modéré. Indice de confiance : 2 sur 5 Lundi 19 octobre Secteur Est modéré. Indice de confiance : 2 sur 5 9 - Observations le lundi 12 octobre 2026 à 09H00 UTC Dunkerque : vent Sud-Sud-Est 10 noeuds, 1018 hPa en hausse. Cap Gris Nez : vent Sud-Sud-Est 14 noeuds. Boulogne : vent Sud-Sud-Est 12 noeuds, 1017 hPa en hausse, nuageux avec éclaircies, visibilité 10 milles. Prochain bulletin le lundi 12 octobre 2026, vers 18H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (Nord (59), Pas-de-Calais (62), Somme (80), Oise (60), Aisne (02)) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -326,12 +326,12 @@ De J+4 à J+7 ﻿Pas de risque de vigilance orange sur la période.
 Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === OBSERVATIONS & FLUX EN TEMPS RÉEL INFOCLIMAT ===
-• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
-• Infoclimat Direct : Pluviometre mono-auget Davis
 • Infoclimat Direct : Du 12 octobre au 18 octobre 2026 prévisions météo semaine 42
-• Infoclimat Direct : Tendance hiver 2026-2027
-• Infoclimat Direct : 20°C consécutives]]>
-• Infoclimat Direct : Tendance hiver 2026-2027
+• Infoclimat Direct : Station météo Mont Tauch (11)
+• Infoclimat Direct : Suivi du temps dans le Massif Central - Octobre 2026
+• Infoclimat Direct : Date de mise en marche du chauffage
+• Infoclimat Direct : Cartes insolites #2
+• Infoclimat Direct : Du 19 octobre au 25 octobre 2026 prévisions météo semaine 43
 
 === INDICATEUR THERMIQUE NATIONAL (ITN) & RISQUES PHYSIQUES (14 JOURS) ===
 • Indicateur Thermique National (ITN 14 jours au 12/10/2026) : Moyenne nationale des 30 stations Météo-France oscillant entre 22.8°C et 25.8°C (seuil d'alerte canicule à 25.3°C). Matrice des risques physiques J+6 à J+14 : Vague de chaleur forte (70%), Risque d'orages de masse d'air chaud (65%), Sécheresse superficielle (80%).
@@ -339,21 +339,12 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN HDF (POUR COMPARAISON) ===
 Dernier bulletin HDF généré le Lundi 12 Octobre 2026.
-Résumé général HDF précédent : Sur la quinzaine, temps souvent sec et doux en première partie de semaine 1, avec un pic de chaleur jeudi 15, puis rafraîchissement progressif ; blocage anticyclonique atlantique dominant, avec une possible goutte froide en fin de semaine 1 et un signal de fraîcheur sèche en semaine 2..
+Résumé général HDF précédent : Tendance générale : temps souvent sec, douceur en début de quinzaine avec un pic de chaleur jeudi 15, puis rafraîchissement net avec flux de nord-est. La semaine 2 démarre dans la fraîcheur sèche, mais la fin de période reste très incertaine entre blocage, dorsale et possible goutte froide..
 Confiance précédente HDF de la semaine 1 : Modérée.
-Températures attendues précédemment : Pic de chaleur jeudi (21-24°C), rafraîchissement net samedi-dimanche, averses possibles sous la GF..
+Températures attendues précédemment : Jeudi doux, puis rafraîchissement samedi-dimanche ; averses possibles sous la goutte froide..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
-Auteur: Plancher
-Message:
-Jeudi qui devait être la journée de transition s'avérerait (je mets du conditionnel) la journée la plus chaude. Les températures devraient ensuite baisser.
-	Pour la suite, soit pour le prochain topic, GFS et CEP proposent des scénarios vraiment différents. GFS me donne un peu plus d'espoir avec une dépression qui tenterait une incursion sur le Nord de la France. Quant à CEP, je vois un anticyclone et des gouttes froides de part et d'autre de la France. C'est évidemment très loin.
-	Petit âge glaciaire, je te rejoints sur le réchauffement de la mer. Ça saute aux yeux quand on regarde les cartes.
-								2
-
-=======================
-
 Auteur: Krholam
 Message:
 il y a 46 minutes, Plancher a dit :
@@ -512,7 +503,7 @@ CEP modélise une belle goutte froide sur la France qui arriverait par le nord-e
 	Une telle GF pourrait déstabiliser momentanément l'atmosphère, provoquer un rafraîchissement et peut-être générer des averses.
 	Édit : le dernier run de GFS s'aligne assez bien sur celui de CEP pour la GF, ci après les 2 modèles :
 	On peut dire que ce scénario prend du galon même si le timing est un peu différent pour les 2 modèles, à suivre..
-	Modifié il y a 20 heures par petit âge glaciaire 11
+	Modifié il y a 22 heures par petit âge glaciaire 11
 Modifié
 								3
 
@@ -532,7 +523,7 @@ Il y a 1 heure, Krholam a dit :
 Auteur: Hassan
 Message:
 Après un milieu de semaine bien doux, le week end prochain est vu beaucoup plus frais avec un flux d'est Nord-est qui s'installe :
-	Modifié il y a 14 heures par Hassan
+	Modifié il y a 16 heures par Hassan
 								5
 								3
 								1
@@ -560,7 +551,7 @@ Message:
 	Et nos 2 modèles mailles larges voient une aggravation à nouveau du déficit pluviométrique
 	Il ne reste que quelques semaines de réserves d’eau sur la Seine et la Garonne (la Loire semble moins concernée)
 	Aucune amélioration non plus de programmée pour le moment sur le topic suivant non plus, on se rapproche d’un nouveau mois en déficit 👀
-								3
+								4
 
 =======================
 
@@ -573,7 +564,7 @@ Il y a 4 heures, Jojobarbar a dit :
 	pour le reste, oui, le champ de patate est à perte de vue et la sécheresse itou... 7mm de médiane pour le cumul de rr à Bordeaux à la même date...
 	sinon sur le diagramme c'est la dispersion extrême pour la prévision de température dès vendredi prochain... : 
 	https://www.meteociel.fr/cartes_obs/ecmwfens_display.php?lat=44.853&amp;lon=-0.56767&amp;ville=Bordeaux&amp;aifs=1&amp;mode=1
-	Modifié il y a 7 heures par giec 2100
+	Modifié il y a 9 heures par giec 2100
 								1
 
 =======================
@@ -593,7 +584,19 @@ Message:
 	Ce matin AIFS single baisse un peu : il est à mi chemin. Un peu d'espoir ?
 	Maintenant qu'on a sucé jusqu'à la moelle ce diagramme ponctuel, pour Paris, que sur la température, il faut croiser avec les autres produits à disposition... 
 	Si on regarde la carte du champ géopotentiel à 500hPa et Pmer, on a donc bien un scénario entre deux, avec un anticyclone qui se décale un peu vers l'ouest, et qui est réalimenté. Je n'ai pas le temps de creuser + ! Vu les autres messages et ceux du topic prochain, on peut avoir des motifs d'espoir, mais cette persistance de l'AIFS Single m'interroge.
-	Modifié il y a 5 minutes par Jojobarbar
+	Modifié il y a 2 heures par Jojobarbar
+								1
+
+=======================
+
+Auteur: giec 2100
+Message:
+@Jojobarbar tu es très pointu dans tes explications et ça se voit que t'as la fibre des stats... ! 
+	encore merci...     
+	pointu au point de péter ces fichues patates anticycloniques ça serait le summum... !
+	sinon une telle incertitude pour une courte-moyenne échéance rend vraiment kamikaze la suivante...
+	@+
+	Modifié à l’instant par giec 2100
 
 === DISCUSSIONS ET PROJECTIONS APPLICABLES SEMAINE 2 (Du Lundi 19 au Dimanche 25 Octobre 2026) ===
 Auteur: Nico 14
@@ -606,8 +609,8 @@ Message:
 	On retrouve ces propositions à la comparaison de GEFS ce matin et de sa version IA. Cette dernière est la plus favorable à un repli au NO des HG ; on devine une propagation rétrograde du blocage avec une évolution vers un régime AR, c'est aussi la version du déterministe américain ce matin. Son ensemble est plus favorable au maintien d'un imposant blocage avec une circulation d'anomalie basse dessous.
 	Les Européens sont encore partagés sur ces propositions :
 	Dans le détail de ces ensembles, comme dit précédemment, il conviendra de nous situer par rapport à ces mouvements et interactions pour préciser nos conditions. Évolution à suivre donc dans la semaine, la dispersion est marquée. Pour donner un avis au niveau synoptique, j'opterai pour une propagation rétrograde du blocage à terme avec un régime de dorsale. Potentiellement favorable à de l'humidité? 
-	Modifié il y a 23 heures par Nico 14
-								14
+	Modifié hier à 08:10 par Nico 14
+								16
 								1
 								8
 								1
@@ -624,5 +627,30 @@ En tout cas sur les outils ECMWF apparait une nouvelle couleur sur la France.
 	https://charts.ecmwf.int/products/extended-anomaly-spread-tp?base_time=202610110000&amp;projection=opencharts_europe&amp;valid_time=202610260000
 	Donc dependera donc effectivement du positionnement des BG qui ne seront pas loind mais qui sont en tout cas vu sur le modele européen par cette grande plage de bleu. La France étant à l’interface entre les deux. 
 	https://charts.ecmwf.int/products/extended-anomaly-z500?base_time=202610110000&amp;projection=opencharts_europe&amp;valid_time=202610260000
+								1
+								1
+
+=======================
+
+Auteur: Plancher
+Message:
+Perso, je patauge. Je vois plein de scénarios possibles sauf celui du retour des dépressions.
+
+=======================
+
+Auteur: Leonai
+Message:
+Au vu des prévisions pour le moment simulées par certains modèles, il serait peut-être judicieux de penser à construire des canaux qui transportent l'eau depuis les côtes méditerranéennes jusque vers les territoires ultra secs ..?  😲
+	Modifié il y a 58 minutes par Leonai
+
+=======================
+
+Auteur: Nico 14
+Message:
+Il y a 3 heures, Krholam a dit :
+			 Coté PP on est sur le coté sec pour le moment et comme l’a indiqué @Nico 14 un potentiel de pluie au sud marqué par du vert pas loins des cotes et une part d’incertitude plus grande en rentrant sur les terres proche mediterranée 
+	Signal en grande partie lié au talweg de la fin de semaine précédente qui devrait évoluer sur un axe Pays-Bas-&gt;Golfe de Gascogne/péninsule ibérique puis s'isoler avec une orientation du flux propice à un épisode méditerranéen vers LR. Tout cela pourrait débuter dès la fin du topic précédent c'est à dire ce dimanche et se poursuivre dès les premières heures de celui-ci, néanmoins il faudra voir cela dans des échéances plus courtes, ça reste largement à préciser.(trajectoire de la goutte froide et vitesse de circulation).
+	Pour le reste au niveau synoptique rien de plus à ajouter qu'hier....
+	Modifié il y a 44 minutes par Nico 14
 								1
 								1
