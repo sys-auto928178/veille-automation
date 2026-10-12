@@ -1,130 +1,131 @@
 # BULLETIN DE PRÉVISIONS MÉTÉO INFOCLIMAT (NATIONAL)
 **Généré le :** Lundi 12 Octobre 2026
-**Période :** Semaine 1 (Du lundi 12 au dimanche 18 octobre 2026 (semaine 42)) & Semaine 2 (Du lundi 19 au dimanche 25 octobre 2026 (semaine 43))
+**Période :** Semaine 1 (Période exacte : du lundi 12 au dimanche 18 octobre 2026) & Semaine 2 (Période exacte : du lundi 19 au dimanche 25 octobre 2026)
 *Analyse nationale par grandes zones géographiques.*
 
 ========================================
 
 ## 📈 SYNTHÈSE DES INDICATEURS DE CONFIANCE
-- **Consensus des modèles :** Modéré — *Accord sur le blocage, mais désaccord sur la position des anomalies.*
-- **Fiabilité du scénario majoritaire :** Blocage puis dorsale ? — *Le scénario le plus récurrent reste un anticyclone à l’ouest, avec un possible repli vers une dorsale atlantique en semaine 2.*
-- **Stabilité des cartes/scénarios :** 6 / 127 — *6 cartes sur 127 analysées*
-- **Niveau d'incertitude global :** Forte — *La dispersion des ensembles devient majeure à partir de vendredi 16 octobre.*
+- **Consensus des modèles :** Modéré — *Semaine 1 assez bien calée, semaine 2 très dispersée.*
+- **Fiabilité du scénario majoritaire :** Blocage sec puis méditerranéen incertain — *Scénario le plus probable : temps sec, doux puis frais, avec un possible épisode pluvieux localisé au sud-est.*
+- **Stabilité des cartes/scénarios :** 6 / 128 — *6 cartes sur 128 analysées*
+- **Niveau d'incertitude global :** Élevée en semaine 2 — *La prévisibilité se dégrade nettement après le 22 octobre.*
 
-## 🗓️ SEMAINE 1 : Du lundi 12 au dimanche 18 octobre 2026 (semaine 42)
+## 🗓️ SEMAINE 1 : Période exacte : du lundi 12 au dimanche 18 octobre 2026
 ### 💡 Points clés de la semaine 1
-1. Blocage atlantique : Un anticyclone pourrait dominer à l’ouest, avec un temps souvent sec et doux en début de semaine.
-2. Goutte froide : Une anomalie d’altitude pourrait traverser la France en fin de semaine, mais sa trajectoire reste très incertaine.
-3. Douceur marquée : Des maximales de 24 à 29°C sont envisagées mercredi et jeudi sur une grande moitié sud.
-4. Brouillards : Brumes et brouillards matinaux seront fréquents mercredi et jeudi, surtout dans les vallées.
-5. Rafraîchissement possible : Un flux de nord-est pourrait s’installer à partir de dimanche, faisant baisser les températures.
+1. Doux puis frais : Après un début de semaine très doux, un net rafraîchissement est envisagé pour le week-end.
+2. Blocage incertain : La position de l'anticyclone atlantique reste le paramètre clé, avec une possible goutte froide.
+3. Sécheresse qui perdure : Les pluies restent rares et le déficit pluviométrique s'aggrave sur une large moitié nord.
+4. Soleil au sud : Le sud-est et le sud-ouest gardent un temps très ensoleillé jusqu'à vendredi.
+5. Week-end à surveiller : Une dégradation orageuse ou pluvieuse est possible samedi, surtout près de la Méditerranée.
 
 ### 🤝 Modèles et scénarios (Semaine 1)
 **Points de convergence :**
-- Convergence sur un blocage anticyclonique à l’ouest avec un temps sec et doux jusqu’à jeudi.
-- Convergence sur des brouillards matinaux mercredi et jeudi dans plusieurs régions.
-- Convergence sur un rafraîchissement probable en fin de semaine, mais avec une ampleur et une localisation incertaines.
+• Un temps sec et doux est assez bien soutenu pour la première partie de la semaine (mardi à jeudi), avec un anticyclone proche de la France.
+• Le week-end s'annonce plus frais qu'en début de semaine, avec une baisse des températures, même si son ampleur reste débattue.
+• Les pluies devraient rester déficitaires sur la majeure partie du pays, avec un risque méditerranéen possible selon la position de la goutte froide.
 **Points de divergence :**
-- Trajectoire de la goutte froide : nord-est, centre, ouest Bretagne ou péninsule ibérique.
-- Températures du week-end : CEP/GFS plus frais, AIFS single plus doux.
-- Précipitations : temps sec dominant ou averses localisées, voire un risque méditerranéen selon la position de l’anomalie.
+• Trajectoire de la goutte froide : selon les modèles, elle passerait par le nord-est (CEP), le sud-est (GFS), ou resterait au large (AIFS).
+• Timing du rafraîchissement : samedi pour certains, dimanche ou lundi pour d'autres.
+• Intensité de la douceur en fin de semaine : GEM et AIFS voient moins de fraîcheur, contrairement à CEP/GFS.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 1)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **CEP (ECMWF)** (documented) | Blocage anticyclonique à l’ouest, avec possibilité de goutte froide sur la France en fin de semaine. Trajectoire et timing très incertains. | Temps sec et doux en début, puis risque de rafraîchissement et d’averses selon la position de la goutte froide. | nord_est, centre, ouest_atlantique, mediterranee_corse | Élevée (85%) | Les clusters de 00Z et 12Z montrent une majorité de scénarios de blocage, mais la position de la goutte froide varie du large de l’Irlande à l’Europe de l’Est. Le déterministe CEP propose une traversée rapide par le nord-est en fin de semaine, sans certitude. |
-| **GFS** (documented) | Jusqu’à vendredi, temps plutôt chaud et sec. Ensuite, possible goutte froide et bascule dans un flux de nord-est plus frais. | Douceur en journée, rafraîchissement possible en fin de semaine, averses localisées selon la trajectoire de la goutte froide. | nord_est, centre, sud_ouest, mediterranee_corse | Modérée (65%) | Le run 12Z maintient une douceur jusqu’à vendredi, puis évolue vers un flux de nord-est et une goutte froide. Le dernier run s’aligne davantage sur CEP, mais avec une trajectoire possible par le sud-est. |
-| **AIFS (ECMWF IA)** (documented) | Maintien d’une dorsale anticyclonique sur la France pour le week-end, avec un temps plus doux et sec que CEP/GFS. | Temps sec, très sec même, températures moins en baisse que dans les scénarios de goutte froide. | nord, centre, ouest_atlantique | Modérée (65%) | Le déterministe IA persiste avec une dorsale anticyclonique sur la France pour le week-end, plus doux et sec. Son ensemble reste toutefois partagé, avec environ une moitié de membres frais et une moitié moins frais. |
-| **GEFS (ensemble GFS)** (documented) | Certains membres montrent une descente froide ou une goutte froide baladeuse en fin de semaine, mais une partie garde un blocage plus classique. | Fraîcheur possible au nord-est, précipitations faibles; scénario non tranché. | nord_est, centre, mediterranee_corse | Modérée (65%) | Les membres GEFS montrent une dispersion importante. Un scénario de descente d’air froid arctique existe, mais le groupe majoritaire reste sous blocage anticyclonique. |
-| **GEM (canadien)** (partial) | Anticyclone moins méridien et géopotentiels plus élevés sur la France, donc week-end moins frais que CEP/GFS. | Temps sec et moins frais, surtout au nord-est. | nord_ouest, centre, nord_est | Faible (45%) | GEM est seulement évoqué en comparaison avec CEP et GFS. Il propose une version plus douce, sans scénario de goutte froide marquée. |
+| **CEP (ECMWF)** (documented) | Scénario de blocage anticyclonique à l'ouest, avec une goutte froide susceptible de traverser la France en fin de semaine. Forte dispersion des membres après samedi. | Temps sec et doux en début de semaine, puis rafraîchissement possible avec averses, surtout dans le nord et l'est. | Nord, nord-ouest, centre-est, quart sud-est. | Élevée (85%) | L'ensemble CEP montre une grande dispersion dès samedi. Les clusters de la prévision du 18 au 20 octobre privilégient un blocage avec anticyclone à l'ouest, mais la localisation de la goutte froide varie fortement : au large de l'Irlande, sur la Bretagne, sur l'est de la France ou vers la Méditerranée. Le déterministe CEP simule une goutte froide traversant le pays en moins de 48 heures, mais cette solution reste fragile et non confirmée par l'ensemble de ses membres. |
+| **GFS (déterministe américain)** (documented) | GFS appuie l'hypothèse d'une goutte froide en fin de semaine, mais avec une trajectoire différente de celle du CEP (passage par le sud-est). Flux de nord-est ensuite. | Temps chaud jusqu'à vendredi, puis baisse des températures le week-end, avec un flux de nord-est et un risque d'averses. | Nord-est, centre-est, vallée du Rhône. | Élevée (85%) | Le run GFS 12Z stabilise le temps chaud jusqu'à vendredi, puis une goutte froide pourrait s'isoler sur la France. Le dernier run de GFS s'aligne en partie sur le CEP, mais avec un décalage dans le temps et l'espace. L'option d'un flux de nord-est est privilégiée pour le week-end, avec une baisse des températures. |
+| **GEFS (ensemble américain)** (documented) | Quelques membres de l'ensemble GEFS montrent une descente d'air froid arctique jusqu'aux latitudes tempérées, via une goutte froide baladeuse. Tendances plus fraîches au nord-est. | Rafraîchissement possible sur le nord-est et l'est, avec un temps plus sec qu'humide globalement. | Nord-est, est. | Élevée (85%) | Les membres GEFS sont dispersés. Un membre illustre une descente hardie de la poche froide arctique. L'ensemble GEFS suggère un air plus frais sur le nord-est, tandis que le scénario de blocage sec reste majoritaire. |
+| **GEM (canadien)** (partial) | GEM se distingue par un anticyclone moins méridien et des géopotentiels plus élevés sur la France, limitant le rafraîchissement. | Temps doux et sec, moins de risque de fraîcheur que chez ses homologues. | Ensemble du pays, notamment le nord-est. | Modérée (65%) | GEM est le seul modèle à ne pas voir d'anticyclone scandinave capable de drainer de l'air frais vers la France. Il maintient une douceur plus marquée, mais cette solution est isolée. |
+| **AIFS (IA ECMWF)** (documented) | L'IA européenne persiste dans une réalimentation de la montagne anticyclonique sur le pays, limitant la baisse des températures. Son ensemble est partagé à 50/50. | Temps sec, très sec, avec des températures proches des normales ou légèrement en dessous selon les membres. | Nord, nord-ouest, centre. | Élevée (85%) | AIFS single (déterministe) reste très anticyclonique, tandis que son ensemble est divisé : une moitié des membres est franchement fraîche, l'autre moitié connaît une relative baisse sans être fraîche. Les scores d'AIFS à ces échéances incitent à la prudence sur une confiance trop rapide dans le refroidissement. |
 
 ### 📍 Synthèse par zones/départements (Semaine 1)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps souvent sec et doux en début, possible dégradation en fin de semaine. | Douceur en début de semaine, baisse possible vers dimanche. | moderee | ECMWF, GFS, AIFS | Position d’une goutte froide au large ou sur le pays. |
-| **Nord** | Ciel couvert avec gouttes mardi, soleil mercredi et jeudi, net rafraîchissement dimanche. | Max 20 à 23°C jusqu’à jeudi, 16°C dimanche; min 8 à 15°C. | elevee | Météo-France, ECMWF, GFS | Évolution plus incertaine à partir de vendredi avec la goutte froide. |
-| **Nord-Est** | Soleil et douceur en début, air plus frais en fin de semaine possible. | Douces en journée, fraîches la nuit; baisse possible en fin de semaine. | moderee | ECMWF, GFS, GEFS | Trajectoire de la goutte froide entre le nord-est et le sud-est. |
-| **Ouest et Façade Atlantique** | Pluies éparses lundi nuit, soleil mercredi et jeudi, averses possibles vendredi-samedi. | Max 22 à 29°C selon les jours, puis 17 à 19°C dimanche. | elevee | Météo-France, ECMWF, GFS | Cumuls des averses de vendredi-samedi et leur extension. |
-| **Centre** | Brouillards puis soleil, douceur, possible refroidissement en fin de semaine. | Doux en journée, frais la nuit; baisse possible à partir de dimanche. | moderee | ECMWF, GFS | Passage ou non d’une goutte froide sur le centre de la France. |
-| **Sud-Ouest** | Soleil généreux mardi à jeudi, nuages et pluies possibles vendredi-samedi. | Max 24 à 28°C jusqu’à jeudi, 15 à 18°C dimanche. | elevee | Météo-France, ECMWF, GFS | Intensité et localisation des pluies; limite pluie-neige. |
-| **Sud-Est et Vallée du Rhône** | Nuits claires, soleil en journée, possible dégradation pluvieuse samedi-dimanche. | Max 19 à 24°C, min fraîches; baisse dimanche à 14-16°C. | elevee | Météo-France, ECMWF, GFS | Localisation des pluies entre plaine et reliefs. |
-| **Méditerranée et Corse** | Soleil et douceur, risque de pluie ou d’averses dimanche-lundi, vent parfois fort. | Max 23 à 27°C en début, 20 à 22°C dimanche; min 9 à 16°C. | elevee | Météo-France, ECMWF, GFS, GEFS | Risque d’épisode méditerranéen et fortes rafales à Marseille. |
+| **Nord-Ouest** | Temps souvent sec et doux, possible dégradation en fin de semaine. | Maximales 18 à 22°C en début de semaine, en baisse le week-end. | moderee | CEP, GFS | Position exacte de la goutte froide au large de la Bretagne. |
+| **Nord** | Ciel couvert mardi, puis soleil à partir de mercredi, fraîchissement le week-end. | Maximales 20 à 22°C mardi, puis 20°C vendredi, 16°C dimanche. | elevee | Météo-France, CEP, GFS | Intensité du refroidissement dimanche. |
+| **Nord-Est** | Temps sec et doux, rafraîchissement plus net en fin de semaine. | Maximales 20 à 23°C en début de semaine, puis 14 à 17°C au week-end. | moderee | CEP, GFS, GEFS | Passage ou non de la goutte froide sur l'est de la France. |
+| **Ouest et Façade Atlantique** | Très nuageux mardi, puis soleil généreux mercredi et jeudi, plus frais le week-end. | Maximales 22 à 24°C mardi, 26 à 29°C jeudi, 17 à 19°C dimanche. | elevee | Météo-France, GFS, CEP | Intensité des averses de vendredi et samedi. |
+| **Centre** | Temps sec et doux, alternance de nuages et d'éclaircies, rafraîchissement possible. | Maximales 21 à 24°C en milieu de semaine, puis 16 à 19°C le week-end. | moderee | CEP, AIFS | Trajectoire de la goutte froide. |
+| **Sud-Ouest** | Soleil radieux jusqu'à jeudi, puis ciel plus nuageux avec averses possibles. | Maximales 24 à 26°C mardi, 25 à 28°C jeudi, puis 15 à 18°C dimanche. | elevee | Météo-France, CEP, GFS | Limite pluie-neige et intensité des précipitations sur le relief. |
+| **Sud-Est et Vallée du Rhône** | Belles éclaircies en début de semaine, soleil jeudi, puis rafraîchissement avec risque d'averses. | Maximales 19 à 22°C mardi, 21 à 24°C jeudi, puis 14 à 16°C dimanche. | elevee | Météo-France, CEP, GFS | Localisation des pluies résiduelles de dimanche. |
+| **Méditerranée et Corse** | Soleil et chaleur en début de semaine, puis éclaircies et risque de pluie samedi et dimanche. | Maximales 24 à 27°C mercredi, 23 à 26°C jeudi, puis 20 à 22°C dimanche. | elevee | Météo-France, CEP, GFS, GEFS | Épisode méditerranéen potentiel : localisation et intensité des pluies. |
 
 ### ⏳ Déroulé chronologique (Semaine 1)
-- **Lundi 12 - Mardi 13 octobre** : Temps souvent couvert avec gouttes possibles, douceur, brouillards naissants.
-- **Mercredi 14 - Jeudi 15 octobre** : Brouillards puis soleil, très doux, températures au-dessus des normales.
-- **Vendredi 16 - Samedi 17 octobre** : Temps encore assez doux, brumes, possible dégradation pluvieuse localisée et vent de nord.
-- **Dimanche 18 octobre** : Soleil mais air plus frais; selon les modèles, possible passage d’une goutte froide.
+- **Lundi 12 et mardi 13 octobre** : Temps souvent nuageux au nord avec quelques gouttes, très ensoleillé au sud, douceur généralisée.
+- **Mercredi 14 et jeudi 15 octobre** : Pic de douceur avec un franc soleil sur la plupart des régions, maximales souvent supérieures à 25°C au sud.
+- **Vendredi 16 et samedi 17 octobre** : Bascule possible : développement des nuages, averses localisées, vent de nord modéré, températures en baisse.
+- **Dimanche 18 octobre** : Temps plus frais et généralement sec, éclaircies, mais risque de pluie résiduelle près de la Méditerranée.
 
 **Points solides :**
-- Blocage anticyclonique atlantique très présent jusqu’à vendredi.
-- Temps sec et doux de mardi à jeudi sur une grande partie du pays.
-- Brouillards matinaux fréquents mercredi et jeudi.
+• Début de semaine doux et sec sur une grande partie du pays, avec un anticyclone proche de l'ouest.
+• Forte douceur jeudi sur le sud-ouest et le sud-est, avec des maximales jusqu'à 27-29°C possibles.
+• Tendance générale à un rafraîchissement pour le week-end, même si son ampleur reste à confirmer.
 
 **Points fragiles :**
-- Trajectoire exacte de la goutte froide en fin de semaine.
-- Températures du week-end, partagées entre fraîcheur et douceur persistante.
-- Cumuls de pluie localisés, notamment près de la Méditerranée.
+• Trajectoire exacte de la goutte froide, encore très incertaine à 170 heures.
+• Le timing du refroidissement varie d'un run à l'autre.
+• Possibilité d'un épisode pluvieux méditerranéen, signal encore fragile.
 
 **À surveiller (prochains runs) :**
-CEP et GFS 12Z/00Z, AIFS et GEFS. Première échéance clé à partir de mercredi 14 octobre.
+À surveiller les runs de CEP et GFS de mardi et mercredi, notamment la position de la goutte froide, l'évolution du blocage et le comportement d'AIFS.
 
 
-## 🗓️ SEMAINE 2 : Du lundi 19 au dimanche 25 octobre 2026 (semaine 43)
+## 🗓️ SEMAINE 2 : Période exacte : du lundi 19 au dimanche 25 octobre 2026
 ### 💡 Points clés de la semaine 2
-1. Blocage persistant : Les hauts géopotentiels resteraient plutôt au nord-ouest de la France, avec un temps souvent sec.
-2. Régimes partagés : Blocage, dorsale atlantique et NAO+ restent possibles selon les ensembles.
-3. Tendance sèche : Le déficit de pluie pourrait s’aggraver, sauf près de la Méditerranée.
-4. Signal méditerranéen : Une anomalie d’altitude pourrait favoriser un épisode pluvieux vers le Languedoc-Roussillon.
-5. Forte incertitude : La dispersion des modèles augmente nettement à partir du 23 octobre.
+1. Blocage à confirmer : Un vaste anticyclone pourrait dominer à l'ouest, mais sa position reste flottante.
+2. Toujours sec : La tendance sèche se poursuivrait, au grand dam des sols déjà très déficitaires.
+3. Méditerranée à part : Un épisode pluvieux est possible en début de semaine sur le Languedoc-Roussillon.
+4. Nuits fraîches : Avec le ciel dégagé, des amplitudes thermiques marquées entre jour et nuit sont probables.
+5. Incertitude en hausse : Les modèles divergent fortement à partir du 22-23 octobre.
 
 ### 🤝 Modèles et scénarios (Semaine 2)
 **Points de convergence :**
-- Tendance sèche et temps souvent sec se poursuivent; pas de retour franc des dépressions océaniques.
-- Hauts géopotentiels plutôt au nord-ouest de la France, avec blocage ou dorsale atlantique.
-- Températures proches ou légèrement sous les normales; Méditerranée potentiellement plus arrosée.
+• Poursuite d'une tendance sèche et anticyclonique, avec des températures proches ou légèrement inférieures aux normales.
+• Possible épisode méditerranéen en début de semaine, en lien avec une goutte froide résiduelle.
+• Incertitude croissante à partir du 22-23 octobre, avec une probable évolution des centres d'action.
 **Points de divergence :**
-- Maintien d’un blocage imposant vs propagation rétrograde vers une dorsale.
-- Trajectoire des gouttes froides ou anomalies basses : golfe de Gascogne, Europe centrale ou Méditerranée.
-- Intensité et localisation des pluies méditerranéennes, encore très incertaines.
+• Maintien d'un blocage massif (GEFS) ou repli progressif vers l'ouest (AIFS).
+• Localisation des pluies : simples orages méditerranéens ou épisode plus conséquent en Languedoc-Roussillon.
+• Températures : douceur persistante ou rafraîchissement plus marqué selon la position de la goutte froide.
 
 ### 🤖 Scénarios détaillés des modèles (Semaine 2)
 | Modèle | Scénario | Temps sensible | Zones concernées | Confiance | Détails d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **GEFS / GFS-IA** (documented) | Blocage imposant avec circulation d’anomalies basses; la version IA privilégie un repli vers une dorsale atlantique. | Tendance sèche, températures proches des normales, possible humidité en Méditerranée. | France entière, mediterranee_corse plus exposée | Élevée (80%) | Nico 14 compare GEFS et sa version IA : l’IA privilégie un repli du blocage vers le nord-ouest, tandis que l’ensemble classique garde un blocage plus imposant. La France serait à l’interface, avec une tendance sèche et des températures proches des normales. |
-| **ECMWF (CEP/EPS)** (documented) | Anticyclone à l’ouest et minimum à l’est, blocage, mais prévisibilité réduite à partir du 23. | Air plus frais possible sur la France, pluies potentielles près des côtes méditerranéennes. | nord_est, centre, sud_ouest, mediterranee_corse | Modérée (65%) | Les cartes d’anomalies montrent de l’air plus frais sur la France à l’échéance du 26, des pluies possibles près des côtes méditerranéennes, mais une forte incertitude à partir du 23. Le Hovmöller confirme un blocage avec anticyclone à l’ouest et minimum à l’est. |
-| **GFS déterministe** (partial) | Repli des hauts géopotentiels vers le nord-ouest, évolution vers une dorsale, mais peu détaillé. | Tendance plus sèche que humide, températures sans grand excès. | France entière | Faible (45%) | Le déterministe américain est mentionné comme favorable à un repli du blocage vers le nord-ouest, sans détail de run ni de scénario sensible. Plancher évoque des signaux de douceur persistante, mais cela reste une analyse personnelle. |
+| **CEP (ECMWF)** (documented) | Position figée entre un anticyclone à l'ouest et un minimum dépressionnaire à l'est, avec une dispersion croissante après le 23. | Temps sec et souvent ensoleillé, nuits fraîches, douceur en journée, possible dégradation méditerranéenne en début de semaine. | Méditerranée, Languedoc-Roussillon, puis l'ensemble du pays en fin de semaine. | Élevée (85%) | Le diagramme temps-longitude de l'ensemble CEP montre un blocage persistant, avec des lignes de haut géopotentiel quasi verticales, signe de centres d'action peu mobiles. Le grisé s'accentue nettement à partir du 23, indiquant une prévisibilité médiocre. Un talweg pourrait toutefois évoluer sur un axe Pays-Bas - Golfe de Gascogne - péninsule ibérique et favoriser un épisode méditerranéen dès la fin de la semaine 1. |
+| **GEFS (ensemble américain)** (documented) | Maintien d'un imposant blocage anticyclonique, avec une circulation d'anomalie basse à sa périphérie. | Temps sec et calme, températures proches ou légèrement sous les normales, pluies surtout en bordure méditerranéenne. | Sud-est, Méditerranée, plus marginalement le reste du pays. | Élevée (85%) | GEFS est plus favorable au maintien d'un imposant blocage, tandis que sa version IA (AIFS) penche davantage pour un repli au nord-ouest des hauts géopotentiels. L'ensemble américain propose donc une continuité de la situation sèche, avec un risque pluvieux localisé sous le blocage. |
+| **AIFS (IA ECMWF)** (documented) | Propagation rétrograde du blocage vers l'Atlantique, avec une évolution possible vers un régime de dorsale. | Temps sec et doux, humidité potentielle en fin d'échéance selon la position des anomalies. | Ouest, nord-ouest, puis tout le pays. | Élevée (85%) | L'IA européenne est la plus favorable à un repli des hauts géopotentiels au nord-ouest et à une propagation rétrograde du blocage. Ce scénario pourrait ouvrir la porte à de l'humidité en fin de période, mais il reste minoritaire au sein des modèles classiques. |
+| **Météo-France (ARPEGE/Prévisions)** (documented) | Temps généralement sec et ensoleillé jusqu'à mercredi, avec un net rafraîchissement puis une remontée des températures. | Nuits fraîches, journées douces et lumineuses, brumes matinales possibles, vent de nord-est modéré. | Paris, Gironde, Rhône, Haute-Garonne, Bouches-du-Rhône. | Modérée (65%) | Les bulletins départementaux de Météo-France prévoient un temps sec et bien ensoleillé de dimanche 18 à mercredi 21, avec des températures maximales en hausse après un passage frais. Le vent de nord-est sera modéré. Aucun signal de pluie significatif n'est envisagé sur cette période. |
 
 ### 📍 Synthèse par zones/départements (Semaine 2)
 | Zone / Département | Temps sensible | Températures | Fiabilité | Modèles | Notes d'analyse |
 | --- | --- | --- | --- | --- | --- |
-| **Nord-Ouest** | Temps sec sous blocage, fraîcheur possible, averses peu probables. | Proches des normales, peut-être légèrement sous selon les modèles. | faible | ECMWF, GEFS | Régime de temps partagé entre blocage, dorsale et NAO+. |
-| **Nord** | Soleil et air sec en début de semaine, fraîcheur matinale, incertitude ensuite. | Max 16°C lundi-mardi, min 8°C; évolution ensuite incertaine. | moderee | Météo-France, ECMWF, GEFS | Évolution du blocage et place de la France entre anomalies. |
-| **Nord-Est** | Temps sec et assez frais, surtout sous influence d’un flux de nord-est. | Températures proches ou légèrement sous les normales. | faible | ECMWF, GEFS | Position du minimum d’altitude sur l’Europe centrale. |
-| **Ouest et Façade Atlantique** | Beau temps sec en début, soleil généreux, tendance plus incertaine ensuite. | Max en hausse temporaire, puis proches des normales. | moderee | Météo-France, ECMWF, GEFS | Évolution du blocage et possibilité de fraîcheur. |
-| **Centre** | Blocage sec, brouillards possibles, températures proches des normales. | Fraîcheurs matinales, douceur modérée l’après-midi. | faible | ECMWF, GEFS | Régime de temps et trajectoire des anomalies. |
-| **Sud-Ouest** | Soleil et sec en début, possible humidité en fin de semaine selon les anomalies. | Doux le jour, frais la nuit; baisse possible après mercredi. | moderee | Météo-France, ECMWF, GEFS | Extension d’un possible épisode méditerranéen vers l’intérieur. |
-| **Sud-Est et Vallée du Rhône** | Soleil assez présent, brouillards possibles, incertitude en fin de semaine. | Max 14 à 16°C lundi, hausse ensuite; min fraîches. | moderee | Météo-France, ECMWF, GEFS | Interaction entre blocage et anomalies basses à l’est. |
-| **Méditerranée et Corse** | Beau temps sec en début, risque d’épisode méditerranéen en fin de semaine. | Max 20 à 22°C lundi, douceur ensuite; min 10 à 16°C. | moderee | Météo-France, ECMWF, GEFS, GFS | Trajectoire de la goutte froide et déclenchement d’un épisode pluvieux. |
+| **Nord-Ouest** | Temps sec, éclaircies, brumes possibles, pas de pluie significative. | Maximales 15 à 19°C, minimales 5 à 9°C, amplitude thermique forte. | moderee | CEP | Évolution du blocage après le 22 octobre. |
+| **Nord** | Beau temps sec et ensoleillé, brumes matinales, vent de nord-est modéré. | Maximales 16°C lundi, puis en hausse, minimales voisines de 8°C. | elevee | Météo-France, CEP | Durée de l'ensoleillement et retour possible de nuages en fin de semaine. |
+| **Nord-Est** | Temps sec, gelées possibles en plaine, puis soleil généreux. | Maximales 14 à 18°C, minimales 3 à 8°C selon les secteurs. | moderee | CEP, GEFS | Présence de brouillards givrants ou non. |
+| **Ouest et Façade Atlantique** | Soleil généreux, vent de nord-est modéré, températures en hausse. | Maximales 17 à 19°C lundi, puis 19 à 22°C en milieu de semaine, minimales en hausse. | elevee | Météo-France, CEP | Influence marine sur les températures maximales. |
+| **Centre** | Temps sec et calme, brumes matinales, éclaircies l'après-midi. | Maximales 15 à 20°C, minimales 5 à 9°C. | moderee | CEP, AIFS | Évolution de la dorsale en fin de semaine. |
+| **Sud-Ouest** | Soleil généreux, temps sec, températures en hausse, vent d'autan possible. | Maximales 15 à 18°C lundi, puis 20 à 23°C en milieu de semaine, minimales en hausse. | elevee | Météo-France, CEP | Influence du relief pyrénéen sur les températures. |
+| **Sud-Est et Vallée du Rhône** | Temps ensoleillé, brumes possibles, vent de nord, températures en hausse. | Maximales 14 à 16°C lundi, puis 18 à 22°C mercredi, minimales 6 à 9°C. | elevee | Météo-France, CEP | Brumes et brouillards matinaux. |
+| **Méditerranée et Corse** | Risque de pluie ou d'averses en début de semaine, puis soleil, vent parfois fort. | Maximales 20 à 22°C lundi, puis 22 à 24°C, minimales 10 à 14°C. | moderee | CEP, GFS, GEFS | Trajectoire et intensité de l'épisode méditerranéen. |
 
 ### ⏳ Déroulé chronologique (Semaine 2)
-- **Lundi 19 - Mardi 20 octobre** : Temps sec et ensoleillé sur une grande partie du pays, fraîcheur matinale, vent de nord-est modéré.
-- **Mercredi 21 - Jeudi 22 octobre** : Blocage anticyclonique; brouillards possibles le matin, soleil l’après-midi, températures proches des normales.
-- **Vendredi 23 - Samedi 24 octobre** : Incertitude majeure; possible évolution méditerranéenne sous l’effet d’une anomalie d’altitude.
-- **Dimanche 25 octobre** : Le signal ECMWF est plus frais sur la France; pluies méditerranéennes possibles mais très incertaines.
+- **Lundi 19 et mardi 20 octobre** : Temps sec, souvent ensoleillé, frais le matin, avec un risque pluvieux résiduel près de la Méditerranée.
+- **Mercredi 21 et jeudi 22 octobre** : Anticyclone bien installé, douceur l'après-midi, brumes et brouillards matinaux.
+- **Vendredi 23 et samedi 24 octobre** : Période la plus incertaine : possible maintien du blocage ou évolution vers une dorsale, temps encore sec dans l'ensemble.
+- **Dimanche 25 octobre** : Scénarios très divergents : temps sec et calme ou timide retour de l'humidité par l'ouest.
 
 **Points solides :**
-- Régime de blocage ou de dorsale à l’ouest, pas de retour dépressionnaire franc.
-- Tendance sèche se poursuit sur une grande partie du pays.
-- Températures probablement proches des normales ou légèrement sous.
+• Temps sec et anticyclonique très probable sur la majeure partie du pays en début de semaine.
+• Épisode méditerranéen potentiel autour du 18-19 octobre, mais encore incertain.
+• Nuits fraîches et amplitudes thermiques marquées en l'absence de nuages.
 
 **Points fragiles :**
-- Scénario méditerranéen encore très incertain.
-- Repli rétrograde du blocage vs maintien d’un blocage imposant.
-- Localisation exacte des anomalies d’altitude à partir du 23 octobre.
+• Comportement du blocage : maintien, repli ou rétrogradation après le 22 octobre.
+• Localisation exacte des pluies méditerranéennes.
+• Risque de douceur plus marquée que prévu, comme le suggère AIFS.
 
 **À surveiller (prochains runs) :**
-CEP, GEFS, GFS-IA et AIFS, notamment les runs de mercredi 14 octobre pour réduire la dispersion.
+À surveiller l'évolution des ensembles CEP et GEFS, en particulier le positionnement du blocage et l'éventuelle rétrogradation vers l'Atlantique. Les sorties AIFS seront également scrutées.
 
 
 ========================================
@@ -132,27 +133,30 @@ CEP, GEFS, GFS-IA et AIFS, notamment les runs de mercredi 14 octobre pour rédui
 ## 🔮 TENDANCE GLOBALE À 15 JOURS ET DOUTES
 
 ### Tendance 15 jours
-Blocage anticyclonique à l’ouest, temps souvent sec et doux, rafraîchissement possible en fin de semaine 1, puis incertitude marquée en semaine 2 avec un signal méditerranéen à surveiller.
+Période du 12 au 25 octobre marquée par un temps souvent sec et anticyclonique. Après une première partie de semaine très douce, un rafraîchissement est attendu autour du week-end des 17-18, suivi d'un probable retour à la douceur. Les pluies resteraient rares, sauf près de la Méditerranée où un épisode est possible.
 
 ### Période la plus fiable
-Semaine 1 plus fiable jusqu’à jeudi; semaine 2 beaucoup plus incertaine, surtout après le 23 octobre.
+La semaine 1 (12-18 octobre) est la plus fiable, surtout jusqu'à jeudi. La semaine 2 présente une incertitude nettement plus forte.
 
 ### Phénomènes récurrents
-Brouillards matinaux, gouttes sous nuages bas, blocage à l’ouest, possible épisode méditerranéen en semaine 2.
+● Brouillards matinaux fréquents dès que le ciel se dégage.
+● Forte amplitude thermique entre jour et nuit.
+● Risque d'épisode méditerranéen sous blocage.
 
 ### Principales incertitudes
-Trajectoire d’une goutte froide en fin de semaine 1; passage d’un blocage à une dorsale en semaine 2; intensité et localisation des pluies méditerranéennes.
+Position du blocage anticyclonique en semaine 2, trajectoire des gouttes froides, évolution à long terme du déficit pluviométrique.
 
 ### 🚨 Analyse des doutes et lacunes
-- **Timing/Chronologie :** Doutes sur le timing de la goutte froide : week-end des 17-18 octobre ou début de la semaine 43.
-- **Localisation :** Trajectoire de la goutte froide : nord-est, centre, ouest Bretagne ou péninsule ibérique; localisation précise des pluies méditerranéennes.
-- **Intensité :** Ampleur du rafraîchissement et températures du week-end; intensité du vent à Marseille et sur le littoral méditerranéen.
-- **Informations manquantes :** Peu de détails sur le nord-est, le Massif central et l’Auvergne; évolution de la sécheresse des sols au-delà de la semaine 2.
-- **Modèles sous-documentés :** GEM, ICON, AROME/ARPEGE et les modèles à courte échéance sont peu ou pas commentés sur ces topics.
-- **Incertitudes images :** Les cartes de clusters et le Hovmöller montrent une dispersion croissante; les cartes d’anomalies à 850 hPa sont à interpréter avec prudence.
+- **Timing/Chronologie :** Le timing exact du rafraîchissement et de la possible goutte froide reste très incertain, avec des écarts de 24 à 48 heures selon les runs.
+- **Localisation :** La position de l'anticyclone et la trajectoire des anomalies conditionneront fortement les zones concernées par les pluies ou le froid.
+- **Intensité :** L'intensité du refroidissement (simple retour aux normales ou fraîcheur marquée) et l'ampleur des précipitations méditerranéennes ne sont pas fiables à cette échéance.
+- **Informations manquantes :** Les discussions ne traitent pas en détail des conditions sur le Massif central, la Corse ou le littoral de la Manche. Le vent est rarement évoqué en dehors des bulletins officiels départementaux.
+- **Modèles sous-documentés :** GEM est très peu documenté, tout comme ICON qui n'apparaît pas dans les échanges. ARPEGE n'est pas directement analysé dans les discussions, mais relayé via les bulletins Météo-France.
+- **Incertitudes images :** Les cartes de clusters et diagrammes temps-longitude sont cités mais rarement décrits en détail ; l'interprétation des cartes de probabilité de précipitations reste délicate.
 
 
 ========================================
 
 ## 📝 PROPOSITION DE POST LINKEDIN
-Nouveau bulletin météo consolidé avec les équipes Infoclimat : blocage anticyclonique sur l’Atlantique, temps souvent sec et doux, mais une goutte froide pourrait bousculer le week-end. La semaine du 19 au 25 octobre reste très incertaine, avec un possible épisode méditerranéen à surveiller. La sécheresse de surface continue de s’aggraver. #Météo #Prévisions #Infoclimat
+🇫🇷 Tendance météo du 12 au 25 octobre : l'automne 2026 reste sous haute pression. Après une douceur marquée en début de semaine, un rafraîchissement est attendu pour le week-end du 17-18. La semaine suivante s'annonce encore très anticyclonique, avec un risque d'épisode méditerranéen à surveiller. La sécheresse préoccupante se poursuit sur une large moitié nord. 🌞💧
+#Météo #Prévisions #Automne #Sécheresse #Anticyclone
