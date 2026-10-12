@@ -13,7 +13,7 @@ import concurrent.futures
 DB_PATH_LOCAL = os.path.join(os.path.dirname(__file__), "data", "meteo_data.db")
 # Removed DB_PATH_DOCS
 TIMEOUT = 15
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+USER_AGENT = "Mozilla/5.0"
 
 # Load mapping files for ID resolution
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
@@ -234,9 +234,10 @@ def clean_val(val):
     except ValueError: return None
 
 def fetch_html(path):
+    # ponytail: UA simple + cookies requis par Meteociel pour bypasser le challenge anti-bot
     req = urllib.request.Request(
         f"https://www.meteociel.fr{path}",
-        headers={"User-Agent": USER_AGENT, "Accept-Encoding": "gzip"}
+        headers={"User-Agent": USER_AGENT, "Accept-Encoding": "gzip", "Cookie": "archivebotok=1; meteociel=bot_ok"}
     )
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         if r.info().get('Content-Encoding') == 'gzip':

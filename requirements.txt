@@ -4,5 +4,6 @@ pillow
 playwright
 tweepy
 requests-oauthlib
+selectolax<1.0.0
 googlenewsdecoder
 requests
