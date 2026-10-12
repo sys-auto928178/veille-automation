@@ -320,10 +320,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Dimanche 11 Octobre 2026.
-Résumé général précédent : Sur l'ensemble de la période, les hautes pressions dominent à l'ouest, avec un temps souvent sec. Semaine 1 plutôt douce, avec un rafraîchissement possible le week-end. Semaine 2 incertaine, températures proches ou légèrement sous les normales et déficit pluviométrique persistant..
+Dernier bulletin généré le Lundi 12 Octobre 2026.
+Résumé général précédent : Tendance générale dominée par un temps sec et doux, avec un rafraîchissement en vue pour le week-end du 17-18 octobre. La semaine suivante reste très incertaine, mais la sécheresse devrait se poursuivre..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Goutte froide possible en 48h, averses localisées, baisse thermique; trajectoire incertaine..
+Températures attendues précédemment : Temps sec et doux, puis baisse des températures, averses possibles au passage de la goutte froide.
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Lundi 12 au Dimanche 18 Octobre 2026) ===
@@ -506,7 +506,7 @@ A noter tout même que l’on parle d’une synoptique de blocage mais que ça n
 	Tout comme la GF (fin à ce niveau la tempete) sur la bretagne qui prend des trajectoires differentes.
 	Je n’ai pas le temps ce matin de sortir des cartes mais je voulais souligner le caractere Volubile de la fin d’echeance grace à un cyclogenese certe trop au nord mais très active entre le groenland et l’Islande.
 	Le cadre general est là mais la position des centres d’action peut encore faire beaucoup bouger les ressentis et le déroulé de la prochaine échéance !
-	Modifié il y a 16 heures par Krholam
+	Modifié il y a 18 heures par Krholam
 								2
 
 =======================
@@ -526,7 +526,7 @@ CEP modélise une belle goutte froide sur la France qui arriverait par le nord-e
 	Une telle GF pourrait déstabiliser momentanément l'atmosphère, provoquer un rafraîchissement et peut-être générer des averses.
 	Édit : le dernier run de GFS s'aligne assez bien sur celui de CEP pour la GF, ci après les 2 modèles :
 	On peut dire que ce scénario prend du galon même si le timing est un peu différent pour les 2 modèles, à suivre..
-	Modifié il y a 12 heures par petit âge glaciaire 11
+	Modifié il y a 14 heures par petit âge glaciaire 11
 Modifié
 								3
 
@@ -546,7 +546,7 @@ Il y a 1 heure, Krholam a dit :
 Auteur: Hassan
 Message:
 Après un milieu de semaine bien doux, le week end prochain est vu beaucoup plus frais avec un flux d'est Nord-est qui s'installe :
-	Modifié il y a 6 heures par Hassan
+	Modifié il y a 8 heures par Hassan
 								5
 								3
 								1
@@ -564,6 +564,7 @@ Oui. GFS semble opter pour un flux de NE en fin de topic. Les températures vont
 Auteur: Jojobarbar
 Message:
 Le weekend pourrait ne pas être si frais, AIFS single (déterministe) qui présente des scores meilleurs a ces échéances, persiste dans une réalimentation de la montagne anticyclonique sur le pays. Son ensemble est encore partagé, 50% franchement frais, 50% de relative baisse sans être frais non plus. Dans ce dernier cas, c'est sec, très sec... Dans l'autre un peu plus humide, mais pas de beaucoup. À suivre, un bon cas pour comparer IA et non IA.
+								1
 
 =======================
 
@@ -585,7 +586,7 @@ Message:
 	On retrouve ces propositions à la comparaison de GEFS ce matin et de sa version IA. Cette dernière est la plus favorable à un repli au NO des HG ; on devine une propagation rétrograde du blocage avec une évolution vers un régime AR, c'est aussi la version du déterministe américain ce matin. Son ensemble est plus favorable au maintien d'un imposant blocage avec une circulation d'anomalie basse dessous.
 	Les Européens sont encore partagés sur ces propositions :
 	Dans le détail de ces ensembles, comme dit précédemment, il conviendra de nous situer par rapport à ces mouvements et interactions pour préciser nos conditions. Évolution à suivre donc dans la semaine, la dispersion est marquée. Pour donner un avis au niveau synoptique, j'opterai pour une propagation rétrograde du blocage à terme avec un régime de dorsale. Potentiellement favorable à de l'humidité? 
-	Modifié il y a 15 heures par Nico 14
+	Modifié il y a 17 heures par Nico 14
 								14
 								1
 								6
