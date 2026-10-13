@@ -322,10 +322,10 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
-Dernier bulletin généré le Lundi 12 Octobre 2026.
-Résumé général précédent : Période du 12 au 25 octobre marquée par un temps souvent sec et anticyclonique. Après une première partie de semaine très douce, un rafraîchissement est attendu autour du week-end des 17-18, suivi d'un probable retour à la douceur. Les pluies resteraient rares, sauf près de la Méditerranée où un épisode est possible..
+Dernier bulletin généré le Mardi 13 Octobre 2026.
+Résumé général précédent : Sur 15 jours, la France reste sous domination anticyclonique avec un temps sec, doux en journée et frais la nuit. Les pluies sont rares, sauf près de la Méditerranée où un épisode est possible autour du 18-19. Le rafraîchissement du week-end serait suivi d'un retour à la douceur sous blocage..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et doux en début de semaine, puis rafraîchissement possible avec averses, surtout dans le nord et l'est..
+Températures attendues précédemment : Temps sec et doux en début de semaine, rafraîchissement possible samedi-dimanche avec averses localisées..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 13 au Dimanche 18 Octobre 2026) ===
@@ -534,7 +534,7 @@ Il y a 4 heures, Jojobarbar a dit :
 	pour le reste, oui, le champ de patate est à perte de vue et la sécheresse itou... 7mm de médiane pour le cumul de rr à Bordeaux à la même date...
 	sinon sur le diagramme c'est la dispersion extrême pour la prévision de température dès vendredi prochain... : 
 	https://www.meteociel.fr/cartes_obs/ecmwfens_display.php?lat=44.853&amp;lon=-0.56767&amp;ville=Bordeaux&amp;aifs=1&amp;mode=1
-	Modifié il y a 23 heures par giec 2100
+	Modifié hier à 00:37 par giec 2100
 								1
 
 =======================
@@ -554,7 +554,7 @@ Message:
 	Ce matin AIFS single baisse un peu : il est à mi chemin. Un peu d'espoir ?
 	Maintenant qu'on a sucé jusqu'à la moelle ce diagramme ponctuel, pour Paris, que sur la température, il faut croiser avec les autres produits à disposition... 
 	Si on regarde la carte du champ géopotentiel à 500hPa et Pmer, on a donc bien un scénario entre deux, avec un anticyclone qui se décale un peu vers l'ouest, et qui est réalimenté. Je n'ai pas le temps de creuser + ! Vu les autres messages et ceux du topic prochain, on peut avoir des motifs d'espoir, mais cette persistance de l'AIFS Single m'interroge.
-	Modifié il y a 16 heures par Jojobarbar
+	Modifié il y a 18 heures par Jojobarbar
 								2
 								2
 
@@ -567,7 +567,7 @@ Message:
 	pointu au point de péter ces fichues patates anticycloniques ça serait le summum... !
 	sinon une telle incertitude pour une courte-moyenne échéance rend vraiment kamikaze la suivante...
 	@+
-	Modifié il y a 13 heures par giec 2100
+	Modifié il y a 15 heures par giec 2100
 								1
 
 =======================
@@ -622,7 +622,7 @@ Perso, je patauge. Je vois plein de scénarios possibles sauf celui du retour de
 Auteur: Leonai
 Message:
 Au vu des prévisions pour le moment simulées par certains modèles, il serait peut-être judicieux de penser à construire des canaux qui transportent l'eau depuis les côtes méditerranéennes jusque vers les territoires ultra secs ..?  😲
-	Modifié il y a 14 heures par Leonai
+	Modifié il y a 16 heures par Leonai
 								2
 
 =======================
@@ -633,7 +633,7 @@ Il y a 3 heures, Krholam a dit :
 			 Coté PP on est sur le coté sec pour le moment et comme l’a indiqué @Nico 14 un potentiel de pluie au sud marqué par du vert pas loins des cotes et une part d’incertitude plus grande en rentrant sur les terres proche mediterranée 
 	Signal en grande partie lié au talweg de la fin de semaine précédente qui devrait évoluer sur un axe Pays-Bas-&gt;Golfe de Gascogne/péninsule ibérique puis s'isoler avec une orientation du flux propice à un épisode méditerranéen vers LR. Tout cela pourrait débuter dès la fin du topic précédent c'est à dire ce dimanche et se poursuivre dès les premières heures de celui-ci, néanmoins il faudra voir cela dans des échéances plus courtes, ça reste largement à préciser.(trajectoire de la goutte froide et vitesse de circulation).
 	Pour le reste au niveau synoptique rien de plus à ajouter qu'hier....
-	Modifié il y a 14 heures par Nico 14
+	Modifié il y a 16 heures par Nico 14
 								1
 								1
 
@@ -693,4 +693,4 @@ le diagramme temps longitude vient d'être réactualisé : 
 	… sous réserve d’une goutte froide ibérique, que la moyenne entre 35 et 60°N ne montrerait pas ?
 	pour les températures on peut spéculer sur une amplitude thermique forte entre jour et nuit, avec des journées à température au-dessus des normales, avec les réserves habituelles des phénomènes de basse couche et de brouillard...
 	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610120000&amp;parameter=geopotential 500 hPa
-	Modifié il y a 2 heures par giec 2100
+	Modifié il y a 4 heures par giec 2100
