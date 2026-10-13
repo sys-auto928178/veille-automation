@@ -286,7 +286,7 @@ Températures minimales : en hausse sur le Lauragais ainsi que sur les plaines e
 Températures maximales : en hausse.
 
 === BULLETIN MARINE OFFICIEL MÉTÉO-FRANCE [DEPT13-83] ===
-FQCT40 LFML 121555 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le lundi 12 octobre 2026 à 18H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale lundi 12 octobre 2026 à 12H00 UTC, et évolution Dépression 1015 hPa sur la Corse se comblant. Hautes pressions se renforçant à l'ouest du bassin, prévues 1020 hPa ce soir puis 1026 hPa demain après-midi. Dépression relative 1024 hPa prévue demain soir au large des Iles d'Hyères. 3 - Prévisions pour la nuit du lundi 12 octobre au mardi 13 octobre VENT : - de Port-Camargue au Cap Croisette : secteur Nord 3 à 4. - de Cap Croisette à Porquerolles : Variable 1 à 3. - de Porquerolles à Saint-Raphaël : secteur Nord-Est 2 à 3, parfois 4. MER : belle à peu agitée. HOULE : Est à Nord-Est 0.5 à 1 m à l'est d'Hyères, non significative ailleurs. TEMPS : ciel clair, parfois voilé. VISIBILITE : bonne. 4 - Prévisions pour la journée du mardi 13 octobre VENT : Nord 3 à 4 à l'ouest de Cap Couronne, mais Variable 1 à 3 à l'est, fraîchissant partout secteur Ouest 3 à 5 en milieu d'après-midi. MER : belle à à peu agitée. HOULE : non significative, mais Est à Nord-Est autour de 0.5 m le matin à l'est d'Hyères. TEMPS : ensoleillé, parfois voilé en fin de journée. VISIBILITE : bonne. 5 - Tendance pour la nuit du 13 au 14, et la journée du mercredi 14 octobre VENT : - à l'ouest de Cap Croisette : Nord à Nord-Ouest 4 à 5, parfois 6 en début de nuit, devenant progressivement Variable 1 à 3 l'après-midi. - à l'est de Cap Croisette : secteur Ouest 2 à 4, parfois 5 entre Cap Croisette et Porquerolles au début, virant Est à Nord-Est en milieu de nuit. MER : belle à peu agitée, passagèrement agitée au large de la Camargue en milieu de nuit. HOULE : Ouest 0.5 à 1 m à l'ouest de Sicié, non significative ailleurs. TEMPS : ciel voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 14 au 15 et la journée du jeudi 15 octobre VENT : De Port Camargue à Marseille variable 1 à 3. De Marseille à St Raphaël variable 1 à 3, s'orientant Ouest à Nord-Ouest 4 à 6 en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Vendredi 16 octobre Secteur Nord modéré à assez fort dans le golfe du Lion, secteur Est modéré à assez fort ailleurs. Indice de confiance : 4 sur 5 Samedi 17 octobre Secteur Est faible à modéré, localement assez fort dans le golfe du Lion. Indice de confiance : 3 sur 5 Dimanche 18 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 2 sur 5 Lundi 19 octobre Secteur Nord-Est faible à modéré Indice de confiance : 2 sur 5 8 - Observations le lundi 12 octobre 2026 à 15H00 UTC Cap Camarat : vent Est 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Sud-Sud-Ouest 4 noeuds, clair ou peu nuageux, visibilité 13 milles. Le Levant : vent Est 6 noeuds, 1016 hPa en hausse. Porquerolles : vent Est-Sud-Est 4 noeuds. Cap Couronne : vent Nord-Ouest 10 noeuds, mer belle, visibilité 10 milles. Prochain bulletin le mardi 13 octobre 2026, vers 06H30 légales
+FQCT40 LFML 130325 Origine Météo-France . Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël. Emis le mardi 13 octobre 2026 à 06H30 légales. Vent moyen selon échelle Beaufort. Mer selon échelle Douglas. Heure légale = heure UTC+1 en hiver et heure UTC+2 en été. Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative. 1 - Pas d'avis de vent fort en cours ni prévu. 2 - Situation générale mardi 13 octobre 2026 à 00H00 UTC, et évolution Faible gradient of hautes pressions 1021/1023 hPa, se renforçant 1025/1027 hPa en journée. Dépression relative 1023 hPa sur la Provence en soirée, se décalant vers le sud demain. 3 - Prévisions pour la journée du mardi 13 octobre VENT : Nord 3 à 4 à l'ouest de Cap Couronne, mais Variable 1 à 3 à l'est, fraîchissant secteur Ouest 3 à 5 à la mi-journée, localement Sud-Ouest 3 à 4 à l'est de Sicié. MER : belle à à peu agitée. HOULE : non significative, mais Est à Nord-Est 0.5 à 1 m le matin à l'est d'Hyères. TEMPS : ensoleillé. VISIBILITE : bonne. 4 - Prévisions pour la nuit du mardi 13 octobre au mercredi 14 octobre VENT : Nord à Nord-Ouest 4 à 6 à l'ouest de Sicié, mais Variable 2 à 4 à l'est, devenant Nord 5 à 6 à l'ouest du Cap Couronne, mais Est à Nord-Est 3 à 4 à l'est, en seconde partie de nuit. MER : belle à peu agitée. HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amortissant en fin de nuit. TEMPS : ciel clair. VISIBILITE : bonne. 5 - Prévisions pour la journée du mercredi 14 octobre VENT : Secteur Nord-Est 2 à 4, localement Nord 4 à 5 à l'ouest du Cap Couronne au début, mollissant secteur Est 1 à 3 l'après-midi. MER : belle à peu agitée, devenant belle l'après-midi. HOULE : non significative. TEMPS : ciel voilé. VISIBILITE : bonne. 6 - Prévisions pour la nuit du 14 au 15 et la journée du jeudi 15 octobre VENT : De Port Camargue à Porquerolles variable 1 à 3. De Porquerolles à St Raphaël variable 1 à 3, s'orientant Sud-Ouest 3 à 5 en milieu d'après-midi. MER : belle à peu agitée. Pas de houle significative. 7 - Tendance pour les jours suivants Vendredi 16 octobre Secteur Nord modéré à assez fort dans le golfe du Lion, secteur Est modéré à assez fort ailleurs. Indice de confiance : 4 sur 5 Samedi 17 octobre Secteur Est faible à modéré, localement assez fort dans le golfe du Lion. Indice de confiance : 3 sur 5 Dimanche 18 octobre Secteur Nord-Est faible à modéré. Indice de confiance : 2 sur 5 Lundi 19 octobre Secteur Nord-Est faible à modéré Indice de confiance : 2 sur 5 8 - Observations le mardi 13 octobre 2026 à 03H00 UTC Cap Camarat : vent Nord-Nord-Ouest 8 noeuds, clair ou peu nuageux, visibilité 10 milles. Cap Cepet : vent Est-Nord-Est 8 noeuds. Le Levant : vent Nord-Est 4 noeuds, 1022 hPa en hausse. Porquerolles : vent Nord 6 noeuds. Cap Couronne : vent Est-Nord-Est 6 noeuds, mer belle, visibilité 8 milles. Prochain bulletin le mardi 13 octobre 2026, vers 13H00 légales
 
 === COMPTE-RENDU VIGILANCE & ÉVOLUTION PROCHAINS JOURS (MÉTÉO-FRANCE) ===
 Statut Vigilance Officielle (France entière) : Vigilance Verte/Jaune en cours selon les risques d'orages ou de fortes chaleurs.
@@ -323,9 +323,9 @@ Expertise Guillaume Séchet (Météo-Villes) intégrée.
 
 === PRÉCÉDENT BULLETIN (POUR COMPARAISON) ===
 Dernier bulletin généré le Mardi 13 Octobre 2026.
-Résumé général précédent : Sur 15 jours, la France reste sous domination anticyclonique avec un temps sec, doux en journée et frais la nuit. Les pluies sont rares, sauf près de la Méditerranée où un épisode est possible autour du 18-19. Le rafraîchissement du week-end serait suivi d'un retour à la douceur sous blocage..
+Résumé général précédent : Sur la quinzaine, la France resterait sous un blocage anticyclonique avec temps sec, doux le jour et frais la nuit. Les précipitations resteraient rares, sauf possible épisode méditerranéen vers le 18-20. Le déficit pluviométrique pourrait s’accentuer..
 Confiance précédente de la semaine 1 : Modérée.
-Températures attendues précédemment : Temps sec et doux en début de semaine, rafraîchissement possible samedi-dimanche avec averses localisées..
+Températures attendues précédemment : Temps sec et doux, puis rafraîchissement avec averses possibles entre samedi et lundi..
 ============================================
 
 === DISCUSSIONS APPLICABLES SEMAINE 1 (Du Mardi 13 au Dimanche 18 Octobre 2026) ===
@@ -554,7 +554,7 @@ Message:
 	Ce matin AIFS single baisse un peu : il est à mi chemin. Un peu d'espoir ?
 	Maintenant qu'on a sucé jusqu'à la moelle ce diagramme ponctuel, pour Paris, que sur la température, il faut croiser avec les autres produits à disposition... 
 	Si on regarde la carte du champ géopotentiel à 500hPa et Pmer, on a donc bien un scénario entre deux, avec un anticyclone qui se décale un peu vers l'ouest, et qui est réalimenté. Je n'ai pas le temps de creuser + ! Vu les autres messages et ceux du topic prochain, on peut avoir des motifs d'espoir, mais cette persistance de l'AIFS Single m'interroge.
-	Modifié il y a 18 heures par Jojobarbar
+	Modifié il y a 20 heures par Jojobarbar
 								2
 								2
 
@@ -567,7 +567,7 @@ Message:
 	pointu au point de péter ces fichues patates anticycloniques ça serait le summum... !
 	sinon une telle incertitude pour une courte-moyenne échéance rend vraiment kamikaze la suivante...
 	@+
-	Modifié il y a 15 heures par giec 2100
+	Modifié il y a 18 heures par giec 2100
 								1
 
 =======================
@@ -622,7 +622,7 @@ Perso, je patauge. Je vois plein de scénarios possibles sauf celui du retour de
 Auteur: Leonai
 Message:
 Au vu des prévisions pour le moment simulées par certains modèles, il serait peut-être judicieux de penser à construire des canaux qui transportent l'eau depuis les côtes méditerranéennes jusque vers les territoires ultra secs ..?  😲
-	Modifié il y a 16 heures par Leonai
+	Modifié il y a 18 heures par Leonai
 								2
 
 =======================
@@ -633,7 +633,7 @@ Il y a 3 heures, Krholam a dit :
 			 Coté PP on est sur le coté sec pour le moment et comme l’a indiqué @Nico 14 un potentiel de pluie au sud marqué par du vert pas loins des cotes et une part d’incertitude plus grande en rentrant sur les terres proche mediterranée 
 	Signal en grande partie lié au talweg de la fin de semaine précédente qui devrait évoluer sur un axe Pays-Bas-&gt;Golfe de Gascogne/péninsule ibérique puis s'isoler avec une orientation du flux propice à un épisode méditerranéen vers LR. Tout cela pourrait débuter dès la fin du topic précédent c'est à dire ce dimanche et se poursuivre dès les premières heures de celui-ci, néanmoins il faudra voir cela dans des échéances plus courtes, ça reste largement à préciser.(trajectoire de la goutte froide et vitesse de circulation).
 	Pour le reste au niveau synoptique rien de plus à ajouter qu'hier....
-	Modifié il y a 16 heures par Nico 14
+	Modifié il y a 18 heures par Nico 14
 								1
 								1
 
@@ -693,4 +693,4 @@ le diagramme temps longitude vient d'être réactualisé : 
 	… sous réserve d’une goutte froide ibérique, que la moyenne entre 35 et 60°N ne montrerait pas ?
 	pour les températures on peut spéculer sur une amplitude thermique forte entre jour et nuit, avec des journées à température au-dessus des normales, avec les réserves habituelles des phénomènes de basse couche et de brouillard...
 	https://charts.ecmwf.int/products/mofc_multi_eps_family_hovmoller?area=North Hemisphere&amp;base_time=202610120000&amp;parameter=geopotential 500 hPa
-	Modifié il y a 4 heures par giec 2100
+	Modifié il y a 6 heures par giec 2100
