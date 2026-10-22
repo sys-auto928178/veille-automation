@@ -1,9 +1,12 @@
 name: Bilan Journalier Nord-Pas-de-Calais
 
 on:
-  schedule:
-    # 18h30 heure française d'été (16h30 UTC)
-    - cron: '30 16 * * *'
+  # Delegue a cron-job.org (job 8227637 — Bilan Nord-Pas-de-Calais,
+  # 06h42 et 18h42 heure de Paris). Cron GitHub neutralise pour eviter
+  # une double execution avec l'orchestrateur externe.
+  # schedule:
+  #   # 18h30 heure française d'été (16h30 UTC)
+  #   - cron: '30 16 * * *'
   workflow_dispatch:
     inputs:
       date:
